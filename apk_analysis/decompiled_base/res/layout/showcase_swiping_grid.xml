@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/showcase_swiping_grid_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.recyclerview.AbsolutePeekCarousel android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>
