@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:background="@android:color/transparent" android:layout_width="@dimen/playerbutton" android:layout_height="@dimen/playerbutton"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fuse="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CircleView android:layout_gravity="center" android:id="@id/playbutton_circle" android:layout_width="fill_parent" android:layout_height="fill_parent" fuse:cv_background="@color/play_button_background" fuse:cv_color="@color/black_alpha_10" fuse:cv_stroke="1.0dip" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/buffering_loader" android:visibility="gone" android:layout_width="@dimen/buffer_loader" android:layout_height="@dimen/buffer_loader" style="@style/PlayButtonLoader" />
+    <com.apple.android.music.common.views.CircleProgressView android:layout_gravity="center" android:id="@id/progress_circle" android:layout_width="wrap_content" android:layout_height="wrap_content" fuse:cv_color="@color/color_primary" fuse:cv_radius="@dimen/default_circle_radius" fuse:cv_stroke="3.0dip" />
+</FrameLayout>
