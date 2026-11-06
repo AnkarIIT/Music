@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal|center" android:top="@dimen/seekbar_top_bottom_insets" android:bottom="@dimen/seekbar_top_bottom_insets">
+        <selector>
+            <item android:state_enabled="false">
+                <shape android:shape="rectangle">
+                    <corners android:radius="@dimen/seekbar_corner_radius" />
+                    <size android:height="@dimen/seekbar_height" />
+                    <solid android:color="@color/tertiary_fill_color" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="@dimen/seekbar_corner_radius" />
+                    <size android:height="@dimen/seekbar_height" />
+                    <solid android:color="@color/color_primary_crossfade_bottom" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+    <item android:gravity="fill_horizontal|center" android:id="@id/progress" android:top="@dimen/seekbar_top_bottom_insets" android:bottom="@dimen/seekbar_top_bottom_insets">
+        <selector>
+            <item android:state_enabled="false">
+                <scale android:scaleWidth="100%">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="@dimen/seekbar_corner_radius" />
+                        <size android:height="@dimen/seekbar_height" />
+                        <solid android:color="@color/tertiary_fill_color" />
+                    </shape>
+                </scale>
+            </item>
+            <item android:state_pressed="true">
+                <scale android:scaleWidth="100%">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="@dimen/seekbar_corner_radius" />
+                        <size android:height="@dimen/seekbar_height" />
+                        <solid android:color="@color/color_primary_pressed" />
+                    </shape>
+                </scale>
+            </item>
+            <item>
+                <scale android:scaleWidth="100%">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="@dimen/seekbar_corner_radius" />
+                        <size android:height="@dimen/seekbar_height" />
+                        <solid android:color="@color/color_primary" />
+                    </shape>
+                </scale>
+            </item>
+        </selector>
+    </item>
+</layer-list>
