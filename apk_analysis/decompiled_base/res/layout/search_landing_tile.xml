@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/search_landing_item_container" android:tag="layout/search_landing_tile_0" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:id="@id/search_landing_tile_image" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" app:aspectRatio="@integer/search_landing_title_item_aspect_ratio" app:resizeToAspectRatio="true" app:roundedBackground="true" app:roundedCornerRadius="@dimen/corner_radius_m" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:layout_gravity="bottom" android:id="@id/search_landing_tile_title" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/smaller_margin_10" android:layout_marginRight="@dimen/smaller_margin_10" android:layout_marginBottom="@dimen/smaller_margin_10" style="@style/Headline" />
+</FrameLayout>
