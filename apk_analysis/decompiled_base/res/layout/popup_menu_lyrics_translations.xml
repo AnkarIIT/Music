@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/translations_popup_menu" android:tag="layout/popup_menu_lyrics_translations_0" android:background="@drawable/bg_rounded_corner_translations_popup" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
