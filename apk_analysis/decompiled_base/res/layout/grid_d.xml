@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/grid_d_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:tag="binding_1" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" app:aspectRatio="@integer/grid_d_item_image_aspect_ratio" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_4" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/color_primary" android:ellipsize="end" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Caption1" />
+    <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:drawablePadding="@dimen/explicit_badge_padding" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/grid_bottom_padding" />
+</LinearLayout>
