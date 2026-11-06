@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/activity_offboarded_notifications_0" android:background="@color/background_color_layer1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <RelativeLayout android:tag="binding_1" android:paddingTop="36.0dip" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/larger_margin" android:paddingEnd="@dimen/larger_margin">
+            <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_intro_new_in_music" android:textAllCaps="true" style="@style/FootnoteEmphasizedPink" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_notifications" style="@style/Title0Emphasized" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:text="@string/social_offboarded_notifications_title1" style="@style/SubheadEmphasized" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/social_offboarded_notifications_subtitle1" style="@style/Subhead" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/social_offboarded_notifications_title2" style="@style/SubheadEmphasized" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/social_offboarded_notifications_subtitle2" style="@style/Subhead" />
+            </LinearLayout>
+            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_8" android:text="@string/amf_friends_notification_disclaimer" android:layout_above="@id/btn_turn_on" style="@style/Caption1" />
+            <include android:id="@id/btn_turn_on" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/btn_not_now" layout="@layout/button_a" />
+            <include android:id="@id/btn_not_now" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/button_a_inverse" />
+        </RelativeLayout>
+    </ScrollView>
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
