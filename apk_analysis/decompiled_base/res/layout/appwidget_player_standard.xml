@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="start|center" android:id="@id/widget_player_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/appwidget_view_background" android:layout_width="@dimen/widget_player_width_max" android:layout_height="@dimen/widget_player_height_max" android:src="@drawable/appwidget_view_default_background" android:scaleType="fitXY" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/widget_container" android:layout_width="@dimen/widget_player_width_max" android:layout_height="@dimen/widget_player_height_max">
+        <ImageView android:id="@id/appwidget_header_imageview" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/widget_frame_padding" android:layout_marginBottom="@dimen/widget_frame_padding" android:src="@drawable/appwidget_image_container_background" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@string/ax_appwidget_open_now_playing_description" android:layout_marginStart="@dimen/widget_frame_padding" android:layout_alignParentStart="true" android:elevation="@dimen/widget_recently_played_image_elevation" />
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/appwidget_header_container_info" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_frame_padding" android:layout_marginBottom="6.0dip" android:layout_above="@id/widget_player_controls" android:paddingEnd="@dimen/widget_item_padding" android:layout_marginStart="@dimen/widget_padding_8" android:layout_marginEnd="@dimen/widget_frame_padding">
+                <TextView android:textColor="@color/white" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/explicit_badge_padding" android:layout_alignParentStart="true" style="@style/AppWidgetSubheadMedium" />
+                <TextView android:textColor="@color/player_vibrant_secondary" android:ellipsize="end" android:id="@id/subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/AppWidgetSubhead" />
+            </LinearLayout>
+            <RelativeLayout android:gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/widget_shield_player">
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="@dimen/widget_player_controls_width" android:layout_height="wrap_content" android:layoutDirection="ltr">
+                    <FrameLayout android:id="@id/prev" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <ImageView android:layout_gravity="center" android:id="@id/prev_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_padding_8" android:layout_marginBottom="@dimen/widget_padding_8" android:src="@drawable/ic_nowplaying_mp_rewind_widget" android:contentDescription="@string/upnext_button_previous_track" />
+                    </FrameLayout>
+                    <FrameLayout android:id="@id/play" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <ImageView android:layout_gravity="center" android:id="@id/play_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_padding_8" android:layout_marginBottom="@dimen/widget_padding_8" android:src="@drawable/ic_nowplaying_mp_play_widget" android:contentDescription="@string/play_button" />
+                    </FrameLayout>
+                    <FrameLayout android:id="@id/next" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <ImageView android:layout_gravity="center" android:id="@id/next_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_padding_8" android:layout_marginBottom="@dimen/widget_padding_8" android:src="@drawable/ic_nowplaying_mp_fforward_widget" android:contentDescription="@string/upnext_button_next_track" />
+                    </FrameLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/appwidget_glyph" android:layout_alignTop="@id/widget_container" android:layout_alignEnd="@id/widget_container" style="@style/WidgetMusicNote" />
+</RelativeLayout>
