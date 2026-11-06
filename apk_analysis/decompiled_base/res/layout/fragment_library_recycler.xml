@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/library_container" android:tag="layout/fragment_library_recycler_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/library_refresh_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.recyclerview.ScrollInterceptingEpoxyRecyclerView android:orientation="vertical" android:id="@id/library_recycler" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <com.apple.android.music.common.views.Loader android:id="@id/init_import_progress_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:horizontal="true" />
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
