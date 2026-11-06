@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="artist_tablet_layout_enabled">true</bool>
+</resources>
