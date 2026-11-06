@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_navbar_classical" android:id="@id/open_in_classical" android:visible="false" android:title="@string/open_in_apple_classical" app:actionLayout="@layout/apple_classical_menu_item_layout" app:showAsAction="always" />
+    <item android:enabled="false" android:id="@id/menu_item_playlist_collab" android:visible="false" android:title="@string/collab_menuitem" android:contentDescription="@string/collab_menuitem" app:actionLayout="@layout/playlist_collab_menu_item_layout" app:showAsAction="always" />
+    <item android:id="@id/active_downloads_menu_item" android:visible="false" android:title="@string/downloads" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_navbar_platter_add" android:enabled="false" android:id="@id/collection_state_menu_item" android:visible="false" android:title="@string/add_to_library" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_actionsheet_share" android:id="@id/share_menu_item" android:visible="false" android:title="@string/share" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_navbar_platter_more" android:id="@id/action_more" android:visible="true" android:title="@string/more_button" app:showAsAction="always" />
+</menu>
