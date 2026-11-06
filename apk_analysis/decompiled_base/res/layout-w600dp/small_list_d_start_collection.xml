@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout-w600dp/small_list_d_start_collection_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:id="@id/list_checkbox" android:tag="binding_1" android:layout="@layout/button_checkbox" android:inflatedId="@id/list_checkbox" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/default_padding" android:layout_alignParentStart="true" />
+    <FrameLayout android:id="@id/image_view_container" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/list_checkbox">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.apple.android.music.common.CustomImageView android:id="@id/image_view" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="@dimen/small_list_image_height" />
+            <com.apple.android.music.common.views.ContentArtDancingBarView android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="@dimen/small_list_image_height" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/friends_mix_image" android:tag="binding_4" android:layout_width="@dimen/friends_mix_item_container_width" android:layout_height="@dimen/friends_mix_item_container_height">
+            <com.apple.android.music.common.CustomImageView android:layout_gravity="start|center|top" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="@dimen/friends_mix_item_image_size" android:layout_marginTop="@dimen/smaller_margin_4" />
+            <com.apple.android.music.common.views.ContentArtDancingBarView android:layout_gravity="start|center|top" android:id="@id/list_profile_icon" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="@dimen/friends_mix_item_image_size" android:layout_marginTop="@dimen/smaller_margin_4" />
+            <com.apple.android.music.social.views.SocialBadgeView android:layout_gravity="end|bottom|center" android:tag="binding_7" android:layout_width="@dimen/friends_mix_item_image_size" android:layout_height="@dimen/friends_mix_item_image_size" android:layout_marginTop="@dimen/friends_mix_item_badge_width_top_margin" android:layout_marginStart="@dimen/friends_mix_item_badge_width_left_margin" />
+        </FrameLayout>
+    </FrameLayout>
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center_horizontal" android:id="@id/chart_playlist_track_position" android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="32.0dip" android:layout_centerVertical="true" android:layout_marginStart="@dimen/smaller_margin_2" android:layout_marginEnd="@dimen/smaller_margin_2" android:layout_toEndOf="@id/image_view_container" style="@style/Body" />
+    <LinearLayout android:orientation="vertical" android:id="@id/text_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingEnd="16.0dip" android:layout_marginStart="@dimen/default_padding" android:layout_toEndOf="@id/chart_playlist_track_position">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/title" android:tag="binding_9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="@dimen/explicit_badge_padding" style="@style/SmallListATitleStyle" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/artist_name" android:tag="binding_10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SmallListASubTitleStyle" />
+    </LinearLayout>
+</RelativeLayout>
