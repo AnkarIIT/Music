@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/parent_layout" android:tag="layout/activity_social_introduction_0" android:paddingTop="36.0dip" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_above="@id/btn_amf_setupsharing">
+        <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/margin_24" android:paddingEnd="@dimen/margin_24">
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_intro_title" style="@style/Title0Emphasized" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/amf_intro_subtitle1" style="@style/BodyEmphasized" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_intro_subtext1" style="@style/Subhead" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/amf_intro_subtitle2" style="@style/BodyEmphasized" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_intro_subtext2" style="@style/Subhead" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/amf_intro_subtitle3" style="@style/BodyEmphasized" />
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_intro_subtext3" style="@style/Subhead" />
+        </LinearLayout>
+    </ScrollView>
+    <include android:id="@id/btn_amf_setupsharing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/btn_amf_setuplater" android:layout_marginStart="@dimen/margin_24" android:layout_marginEnd="@dimen/margin_24" layout="@layout/button_a" />
+    <include android:id="@id/btn_amf_setuplater" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_marginStart="@dimen/margin_24" android:layout_marginEnd="@dimen/margin_24" layout="@layout/button_a_inverse" />
+</RelativeLayout>
