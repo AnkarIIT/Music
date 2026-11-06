@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/edit_reaction_view" android:tag="layout/nowplaying_emoji_button_0" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="fill_parent" android:importantForAccessibility="no" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/widget_padding_8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:gravity="center" android:layout_gravity="center" android:id="@id/add_emoji_icon" android:tag="binding_1" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/playlist_reactions_emoji" android:tintMode="src_in" app:tint="@color/selector_emoji_icon" />
+    <include android:id="@id/stacked" android:layout_width="wrap_content" android:layout_height="fill_parent" layout="@layout/stacked_reactions" />
+</FrameLayout>
