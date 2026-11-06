@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>K</item>
+        <item>M</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Clar</item>
+        <item>Fosc</item>
+        <item>Valor per omissió del sistema</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Emmagatzematge del dispositiu</item>
+        <item>Targeta SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple recopila informació sobre l’activitat a l’Apple Music i a l’Apple Music Classical, com ara les cançons que reprodueixes i el temps de reproducció, per personalitzar els serveis quan tens una subscripció activa, enviar‑te notificacions i compensar els nostres col·laboradors.</item>
+        <item>La biblioteca al núvol envia a Apple informació de la biblioteca musical del dispositiu, inclosos els noms de les cançons i dels artistes, per identificar i desbloquejar les còpies de les teves cançons que també estiguin disponibles a l’Apple Music.</item>
+        <item>Associem la informació de la teva biblioteca al núvol amb tu durant el temps que duri la subscripció i, si la cancel·les, durant un breu període posterior. Conservem registres de les cançons que escoltes durant els períodes que especifica la legislació aplicable relacionada amb els informes financers.</item>
+        <item>Per ajudar a identificar i prevenir el frau, s’utilitzarà la informació sobre com utilitzes el dispositiu, fins i tot el nombre aproximat de trucades o missatges de correu electrònic que fas i reps, per calcular una puntuació de confiança del dispositiu quan intentes fer una compra. Els enviaments s’han dissenyat de manera que Apple no pugui obtenir els valors reals del teu dispositiu. Aquesta puntuació es conserva als nostres servidors durant un període de temps fixat.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"A Apple, la protecció de la privacitat i seguretat de la teva informació és una qüestió prioritària. Ens esforcem per recopilar només les dades que necessitem per millorar l’experiència. En aquesta línia, quan recopilem informació, creiem que és important que sàpigues quina és i per a què la necessitem, de manera que puguis prendre decisions amb coneixement. Com la resta de productes i serveis d’Apple, l’Apple Music i l’Apple Music Classical s’han dissenyat partint d’aquests principis.
+
+Per oferir‑te els serveis i les funcions de l’Apple Music, utilitzem les dades personals. Les dades inclouen el nom i la foto del compte d’Apple, en cas que n’hagis definit una, que pots consultar i canviar a la configuració de l’app Música per utilitzar‑los amb les funcions d’ús compartit de l’Apple Music, i la informació del compte, de l’estat de la subscripció d’Apple i de pagament, que pots consultar i canviar a la configuració o a la configuració del sistema.
+
+La subscripció a l’Apple Music permet gaudir tant de l’app Música com de l’app Classical sense cap mena de restricció. Apple recopila informació sobre com utilitzes tots dos serveis per adaptar‑ne les funcions als teus gustos musicals. Les funcions inclouen les recomanacions personalitzades, com ara els àlbums i les llistes que hem escollit per a tu, i la ràdio, que és on es reprodueixen les seleccions dels teus artistes i gèneres favorits. També fem servir aquesta informació per contactar amb tu a través de correus electrònics i notificacions push amb l’objectiu d’informar‑te de presentacions noves, artistes emergents o altres esdeveniments de l’Apple Music i de l’Apple Music Classical que et podrien interessar.
+
+És possible que algunes funcions de l’Apple Music, com ara determinades emissores de ràdio, no estiguin disponibles a la teva regió. Apple pot utilitzar l’adreça IP de la connexió a internet per determinar la ubicació de manera aproximada i, d’aquesta manera, la disponibilitat.
+
+Apple Music Classical
+
+La subscripció a l’Apple Music inclou el servei Apple Music Classical i l’app Classical, una app específica que s’ha dissenyat per ajudar‑te a descobrir peces i àlbums de música clàssica, i perquè puguis desar els favorits en un sol lloc. Per bé que pots explorar el catàleg de l’Apple Music Classical sense haver de subscriure‑t’hi, sí que necessites una subscripció a l’Apple Music per gaudir de totes les funcions. Si no tens una subscripció vigent a l’Apple Music, se t’oferirà l’opció de subscriure‑t’hi perquè puguis accedir a l’app Classical.
+
+Biblioteca al núvol
+
+La biblioteca al núvol que Apple posa a disposició és un servei de la subscripció a l’Apple Music que et permet accedir a les cançons i llistes de reproducció que tinguis a la biblioteca des de tots els dispositius. Aquesta funció envia a Apple informació de la biblioteca musical del dispositiu, inclosos els noms de les cançons i dels artistes, per identificar i desbloquejar les còpies de les teves cançons que també estiguin disponibles a l’Apple Music i a l’Apple Music Classical. Les cançons que no estiguin disponibles a l’Apple Music es carregaran a la biblioteca personal al núvol perquè puguis accedir a la teva col·lecció sencera des de tots els teus dispositius a través de l’Apple Music. Per deixar de sincronitzar la biblioteca al núvol en un dispositiu iOS, iPadOS o visionOS, ves a l’app Configuració > Apps > Música. En un Mac, obre l’app Música, ves al menú Configuració > General, i desactiva la sincronització de la biblioteca.
+
+Perfil de l’Apple Music
+
+Si vols connectar amb altres persones a través de l’Apple Music o compartir‑hi contingut, pots crear un perfil personal amb un nom d’usuari (per exemple, @jordimartorell), un nom de perfil i, si vols, una foto i altra informació. Apple desa aquesta informació amb el teu compte, per tal que hi puguis accedir des de tots els teus dispositius. El nom d’usuari, el nom de perfil i la foto de perfil podran aparèixer al contingut que publiquis i a l’activitat que comparteixis amb l’Apple Music. Actualment, els comptes d’Apple per a infants no estan pensats per compartir ni publicar contingut, de manera que tampoc no permeten fer‑ho.
+
+A més, altres usuaris poden trobar el teu perfil de l’Apple Music fent servir la informació que has proporcionat.
+
+Pots fer que el contingut del teu perfil, com ara el contingut que escoltes i les llistes de reproducció, només estigui disponible per a les persones a qui tu escullis. Ara bé, per omissió, tothom podrà veure la informació del perfil, com ara el nom d’usuari, el nom de perfil, la foto, qui segueixes i qui et segueix a tu. Per bloquejar algú i que no pugui accedir al teu perfil, ves al seu i toca l’opció pertinent al menú “Més”. Les persones que bloquegis no podran veure què escoltes ni trobar el teu perfil a l’Apple Music.
+
+Quan creïs un perfil a l’Apple Music, et recomanarem altres persones que hi estiguin subscrites i que potser vols afegir com a amistats. En cercar amistats per recomanar‑te, Apple no obté ni emmagatzema informació dels contactes. Només s’envien a Apple els valors hash encriptats o escurçats dels números de telèfon i les adreces electròniques dels teus contactes. Després, les persones subscrites a l’Apple Music coincidents que es recomanaran es determinen localment al dispositiu. L’Apple Music pot revisar els contactes periòdicament i recomanar‑te amistats en el futur. Pots activar o desactivar aquesta opció a l’app Música > Configuració del compte > Privacitat i accés > Contactes a l’Apple Music. Si no vols que altres persones et puguin trobar per mitjà de la informació de contacte del compte d’Apple que tinguin sobre tu a la seva agenda, desactiva l’opció “Permet la cerca pel compte d’Apple” a l’app Música > Configuració del compte > Privacitat i accés.
+
+Pots actualitzar o eliminar aquesta informació del teu perfil sempre que vulguis. Sempre que comparteixis coses per internet, convé que reflexionis sobre què estàs fent públic. Quan comparteixis alguna cosa de l’Apple Music en altres llocs web o xarxes socials, allò que hi comparteixis es regirà per les polítiques de privacitat de cadascun.
+
+SharePlay
+
+La subscripció a l’Apple Music et permet crear i allotjar sessions del SharePlay mitjançant l’Apple TV, el HomePod, el CarPlay i el Bluetooth. Amb el SharePlay, altres persones que també tinguin una subscripció podran unir‑se a la sessió del SharePlay i controlar la música que hi reproduïu a través de l’Apple Music. Així mateix, en fer servir el SharePlay, la resta de persones també podran unir‑s’hi sense haver d’estar subscrites a l’Apple Music. Apple fa servir el Bluetooth, si està activat al dispositiu, per permetre que els contactes que hi hagi a prop trobin la sessió de l’Apple Music i sol·licitin unir‑s’hi. Si no vols que els contactes puguin trobar el dispositiu i sol·licitar unir‑se a la sessió de l’Apple Music, ves a la configuració de l’app Música i desactiva la detecció per part dels contactes que hi hagi a prop. En el cas de les sessions del SharePlay al cotxe, els contactes i la resta de participants també podran escanejar el codi QR que es mostrarà a la configuració de l’app Música o a la interfície del vehicle per unir‑se a la sessió.
+
+Tothom que participi a la sessió podrà consultar el nom i la foto de perfil de la resta de persones. Les contribucions de cadascú a una sessió del SharePlay s’atribueixen individualment i s’associen al nom d’usuari i a la foto de perfil, que, si estan disponibles, es poden editar en qualsevol moment a la configuració de l’app Música. Per eliminar algú d’una sessió del SharePlay que hagis creat, toca la icona del SharePlay de l’app Música i selecciona qui vols eliminar. En tocar la icona del SharePlay de l’app Música, també trobaràs una opció per sortir de la sessió, en cas que no sigui teva. Per finalitzar una sessió del SharePlay que hagis creat, toca “Finalitza” a l’app Música. Un cop finalitzada la sessió del SharePlay, Apple no conservarà informació sobre els contactes ni la resta de participants que s’hi hagin unit.
+
+També pots crear sessions del SharePlay a l’app Missatges o durant una trucada del FaceTime per escoltar música amb altres persones. Per crear una sess"</item>
+        <item>"ió, selecciona la música que vulguis escoltar, toca el SharePlay a les opcions, introdueix els contactes amb qui vulguis escoltar música, toca l’app Missatges o el FaceTime i, després, “Comença”.
+
+Creació de llistes i col·laboració
+
+Tothom que tingui una subscripció a l’Apple Music pot crear llistes i utilitzar el Playlist Playground, en els casos en què estigui disponible, per generar‑ne mitjançant la intel·ligència artificial. Si fas servir el Playlist Playground, caldrà que descriguis què vols escoltar, dades que es processaran per entendre l’estat d’ànim, el gènere o la temàtica. La informació es combinarà amb l’historial de reproducció i altres dades d’ús per crear una llista personalitzada. Abans de desar la llista generada, pots revisar‑la; també pots eliminar‑la o modificar‑la en qualsevol moment.
+
+L’Apple Music permet crear llistes col·laboratives amb altres persones que també hi estiguin subscrites. Si n’has creat una, pots permetre que tothom que tingui l’enllaç s’hi uneixi automàticament, o bé revisar cada cas. Tothom que hi participi podrà afegir cançons a la llista i eliminar‑ne’n, i afegir‑hi reaccions amb emojis. Les contribucions de cadascú s’atribueixen individualment i s’associen al nom d’usuari i a la foto de perfil, que, si estan disponibles, es poden editar en qualsevol moment a la configuració de l’app Música. Totes les persones que participin en la llista de reproducció o que hi tinguin accés podran veure el nom i la foto de la resta. Així mateix, tothom que participi en la llista també podrà veure’n totes les cançons i les reaccions. Per finalitzar la col·laboració, ves a la configuració de la llista i elimina‑te’n o, si tu ets qui l’ha creat, ves a la configuració de gestió de la col·laboració de la llista. Si qui hagi creat la llista finalitza la col·laboració, la llista passarà a ser compartida i la resta de persones podran continuar accedint‑hi des de la biblioteca de l’app Música.
+
+Concerts
+
+Si permets que l’Apple Music accedeixi a la ubicació aproximada, les dades també es podran utilitzar per desar una ciutat com a favorita i rebre informació rellevant, com ara els concerts que hi ha a prop. Si prefereixes no compartir la ubicació amb l’Apple Music, però, en podràs introduir una manualment per esbrinar quins concerts hi ha. Si has activat la sincronització entre dispositius, també se sincronitzarà la ciutat que hagis desat. Per canviar la configuració relacionada amb la ubicació en un dispositiu iOS o iPadOS, ves a l’app Configuració > Privacitat i seguretat > Localització > Música.
+
+Personalització i millora de l’Apple Music i de l’Apple Music Classical
+
+En fer servir la subscripció a l’Apple Music per reproduir contingut gratuït fora de la biblioteca, és possible que recopilem informació sobre les cançons i els vídeos que reprodueixis o afegeixis a la biblioteca o a les llistes de reproducció, i sobre els artistes i el contingut que afegeixis als favorits o comparteixis. Hi ha determinada informació que es recopila i s’envia a Apple, com ara el compte, l’adreça IP i el dispositiu, l’app o la interfície del cotxe que utilitzis per reproduir música, la ubicació on et trobaves dins de l’Apple Music o l’Apple Music Classical en reproduir‑la, o l’hora i l’estona de reproducció. La informació s’utilitza per personalitzar l’experiència amb l’Apple Music i l’Apple Music Classical, per enviar‑te correus electrònics i notificacions, i per ajudar‑nos a entendre l’ús que en fas perquè puguem fer‑hi millores. Per exemple, aquesta informació ens pot ajudar a escollir les cançons, els vídeos i els continguts d’artistes que et mostrem a l’Apple Music i a l’Apple Music Classical. A més, ens permet fer‑te altres recomanacions que reflecteixin els teus gustos, crear llistes per ciutats amb les cançons més populars i personalitzar els resultats de les cerques que facis a l’Apple Music mitjançant una combinació d’informació com ara l’historial de reproducció i els gèneres que més t’agraden. També utilitzem la informació per pagar els drets d’autor i evitar o combatre activitats que puguin representar infraccions dels termes i les condicions dels serveis multimèdia d’Apple o de la legislació aplicable.
+
+Si utilitzes el SharePlay per escoltar contingut en grup a l’Apple Music, l’app Música recopilarà informació sobre allò que hagis escoltat durant la sessió del SharePlay i el nombre aproximat de participants, però no conservarà cap informació que pugui identificar les persones que hagin participat a la sessió del SharePlay.
+
+També utilitzem les dades de la cerca de l’Apple Music per millorar els models que hi ha rere la tecnologia de l’Apple Music. Per exemple, per perfeccionar el model de cerca de l’Apple Music, s’utilitzen les cerques agregades que s’hi fan.
+
+Comunicació amb tu
+
+Apple pot utilitzar la informació sobre el compte, com ara els productes d’Apple que tens, les apps d’Apple que descarregues i els serveis d’Apple a què t’has subscrit, per enviar‑te comunicacions sobre l’Apple Music i altres productes, serveis i ofertes d’Apple que et puguin interessar, inclosos l’Apple Music Classical i l’Apple One. El número de sèrie del dispositiu i altres identificadors del maquinari, així com els detalls sobre les subscripcions pertinents de l’App Store, es poden utilitzar per comprovar si compleixes els requisits per rebre ofertes de serveis d’Apple. Si formes part d’un grup familiar, Apple pot enviar‑te informació sobre productes, serveis i ofertes disponibles a través de la família. Si compres una subscripció a l’Apple One, és possible que t’enviem correus electrònics i notificacions push sobre les funcions de cadascun dels serveis a què t’hagis subscrit. Apple també podrà utilitzar informació sobre l’activitat a l’Apple Music i l’Apple Music Classical i sobre com interacciones amb els serveis per verificar que compleixes els requisits per accedir a les modalitats de subscripció amb descompte (com ara l’Apple Music per a estudiants) i per enviar‑te correus electrònics i notificacions push sobre funcions noves, esdeveniments, continguts i ofertes disponibles a l’Apple Music i a l’Apple Music Classical. En el cas d’algunes comunicacions, s’utilitza un identificador de maquinari per filtrar les notificacions que reps. Per canviar les preferències dels correus i deixar de rebre’n, ves a account.apple.com. Per actualitzar les preferències de les notificacions en un dispositiu iOS, iPadOS o visionOS, ves a l’app Configuració > Notificacions > Música. En un Mac, obre l’app Música i ves al menú Configuració > General > Notificacions. Apple utilitza la informació sobre com interacciones amb les comunicacions, incloses les notificacions, per millorar els serveis.
+
+Prevenció del frau i d’altres activitats malicioses
+
+Cada vegada que proves de fer una compra, calculem la puntuació de confiança del dispositiu mitjançant la informació sobre com l’utilitzes, cosa que inclou la quantitat aproximada de trucades telefòniques o correus electrònics que envies i reps. La informació s’envia de manera que Apple no pugui conèixer els valors reals del dispositiu. La puntuació es conserva durant un període de temps determinat als nostres servidors. Apple també pot utilitzar la informació sobre la relació comercial que hi tens per processar les renovacions de les subscripcions de l’Apple Music i per determinar si se’t permet accedir a la subscripció abans que la part responsable del pagament ho autoritzi.
+
+Divulgació a tercers
+
+Emissores de ràdio
+Quan fas servir l‘Apple Music per escoltar la ràdio, el dispositiu es connecta directament a l‘emissora per proporcionar‑te el contingut que has sol·licitat. En connectar‑s’hi, l’emissora de ràdio podrà consultar l’adreça IP del dispositiu. La gestió de l’adreça IP per part de l’emissora de ràdio es regeix per les seves polítiques de privacitat o per les del seu proveïdor.
+
+Discogràfiques, artistes i recopiladors de llistes musicals
+Tenim l’obligació de facilitar determinades dades no personals sobre l’ús de l’Apple Music i l’Apple Music Classical, així com dades demogràfiques agregades com ara la franja d’edat i el gènere (que es pot determinar a partir de certa informació, per exemple, el nom i la salutaci"</item>
+        <item>"ó del compte d’Apple), a discogràfiques, equips d’edició i artistes perquè puguin mesurar el rendiment de les seves obres creatives i complir els requisits de regalies i comptabilitat. A més, compartim el contingut que escoltes de forma agregada amb recopiladors de llistes musicals d’arreu del món, discogràfiques i artistes per mesurar‑ne el nivell de vinculació, també en temps real, i amb plataformes de màrqueting musical que ajuden les discogràfiques i els artistes a arribar a l’audiència. Per determinar si pots optar a una subscripció quan et subscrius a l’Apple Music a través de tercers, com ara un proveïdor de xarxa mòbil, o per completar la compra, compartim informació limitada que t’identifica personalment amb el soci en qüestió.
+
+Connexió de l’Apple Music amb altres apps
+
+Pot ser que les apps, tant les de l’iOS, les de l’iPadOS i les del visionOS com les d’altres plataformes alienes a Apple, demanin accés a l’Apple Music i a la biblioteca al núvol. Si els permets accedir‑hi, les apps podran consultar, per exemple, la informació sobre la biblioteca al núvol del dispositiu, saber si tens una subscripció a l’Apple Music i conèixer l’activitat relacionada amb la reproducció de música i de vídeos, i les recomanacions de l’Apple Music. Les apps que tinguin permís també podran modificar les dades associades al compte, per exemple, les cançons que tinguis a la biblioteca i les llistes de reproducció. Si permets que l’app Fotos accedeixi a l’Apple Music, podrà afegir cançons del catàleg als vídeos de record. En crear un vídeo de record personalitzat a l’app Fotos, és possible que se n’enviï la descripció a l’Apple Music per escollir la música que s’hi afegirà. Les apps d’Apple amb contingut compatible, com ara l’app Comandament, es connectaran automàticament quan comencis a utilitzar l’Apple Music i el contingut compatible. Als dispositius iOS, iPadOS i visionOS, pots revocar l’accés de les apps a l’app Configuració > Privacitat i seguretat > Multimèdia i Apple Music. En un Mac, ves a l’app Configuració del Sistema > Privacitat i seguretat > Privacitat > Multimèdia i Apple Music. Si has eliminat l’app o li has donat permís amb una versió de l’iOS anterior a l’iOS 11 o l’iPadOS, pots desactivar‑ne l’accés a la configuració del compte de l’Apple Music.
+
+Subscripció a l’Apple Music a través d’entitats col·laboradores d’Apple
+
+Si el proveïdor de xarxa mòbil ofereix subscripcions a l’Apple Music i proves gratuïtes, Apple podrà comprovar el número de telèfon per determinar si et pots acollir a l’oferta. Si et subscrius a l’Apple Music a través de l’operador de telefonia o de qualsevol altre col·laborador d’Apple, amb independència de si es tracta d’una prova gratuïta o d’una subscripció de pagament, Apple utilitzarà el número de telèfon o un identificador únic del compte facilitat pel col·laborador amb l’objectiu d’identificar el compte i perquè l’operador o el col·laborador sàpiga que has activat la subscripció. Només s’utilitzaran el número de telèfon o l’identificador únic associat a la subscripció per verificar el compte quan hi iniciïs sessió i per vincular l’activitat de l’Apple Music al compte. També utilitzem el número de telèfon per demanar al proveïdor de xarxa mòbil que cancel·li la subscripció quan ho sol·licitis.
+
+Conservació
+
+Conservem les dades personals associades a l’ús de l’Apple Music i l’Apple Music Classical, incloses les de les interaccions, durant diferents períodes de temps en funció de les necessitats empresarials, les obligacions contractuals i els requisits legals.
+
+La informació sobre l’activitat de reproducció, el contingut de la biblioteca, les llistes i les cerques es conserva durant el temps que mantinguis activa la subscripció i durant un màxim de 2 anys després de cancel·lar‑la perquè, si vols, puguis reactivar‑la més endavant i per enviar‑te comunicacions sobre música que et pot interessar i ofertes a què pots accedir. També és possible que conservem aquesta informació quan sigui necessari per satisfer les obligacions en matèria de declaració de comptes durant els períodes de temps estipulats a la legislació vigent, que solen ser de com a mínim 10 anys, però que poden arribar als 30 anys en certes jurisdiccions, com ara a la Xina.
+
+Si la subscripció a l’Apple Music finalitza o caduca, es conservaran tant la música com les llistes que hagis afegit o creat a partir del catàleg de l’Apple Music durant un període de gràcia perquè puguis reactivar‑la sense perdre el contingut. Un cop transcorregut aquest període, és possible que no puguis tornar a accedir a aquest contingut del catàleg de l’Apple Music.
+
+Si elimines el compte d’Apple, és possible que es conservin certes dades, d’acord amb la legislació aplicable, per prevenir el frau, garantir la seguretat dels serveis de contingut multimèdia d’Apple, i aplicar‑ne els termes i les condicions.
+
+Base jurídica aplicable al processament de dades personals
+
+Processem les dades personals de l’Apple Music de manera general per aplicar el contracte amb Apple (com calgui per oferir el servei) i per complir les obligacions legals pertinents. A les ubicacions en què la base jurídica sigui el consentiment, el demanem d’acord amb la legislació local aplicable.
+
+En els casos en què així s’estipuli a la legislació local aplicable, processem les dades personals com sigui necessari per satisfer els nostres interessos legítims o els d’un tercer per:
+
+• facilitar l’accés al contingut de l’Apple Music i de l’Apple Music Classical que vulguis escoltar, descarregar o afegir a la biblioteca;
+• personalitzar l’experiència de l’Apple Music i l’Apple Music Classical;
+• identificar les cançons que ja tens i que també estan disponibles a l’Apple Music, i desbloquejar‑ne còpies;
+• determinar la disponibilitat del contingut a la regió on et trobes i el compliment dels requisits per optar a ofertes i subscripcions;
+• ajudar a millorar i optimitzar l’Apple Music i l’Apple Music Classical, i enviar‑te comunicacions al respecte i sobre altres productes, serveis i ofertes d’Apple que et puguin interessar;
+• crear i mantenir el perfil i les llistes de reproducció de l’Apple Music;
+• pagar drets d’autor i enviar informes a equips d’edició, discogràfiques, artistes i recopiladors de llistes musicals;
+• prevenir el frau i altres activitats malicioses.
+
+Les dades utilitzades inclouen el següent:
+
+• ús de les apps Música i Classical, cosa que inclou les interaccions amb les funcions, les notificacions i els missatges de les apps, i el contingut que escoltes, cerques, consultes, descarregues i afegeixes a la biblioteca dels serveis Apple Music i Apple Music Classical;
+• detalls sobre el dispositiu i el compte;
+• adreça IP;
+• perfil i llistes de reproducció de l’Apple Music;
+• puntuació de confiança del dispositiu.
+
+Dades no personals
+
+Apple pot recopilar, utilitzar, transferir i revelar dades de caràcter no personal amb qualsevol finalitat. Per exemple, podem agregar les teves dades, que mai no seran dades personals, amb les d’altres usuaris de l’Apple Music per millorar el servei. És possible que recopilem mesuraments de rendiment del dispositiu quan utilitzis l’Apple Music, cosa que inclou la intensitat de la freqüència de ràdio, el codi del país, el codi de la xarxa i la tecnologia d’accés a la xarxa mòbil.
+
+Més informació sobre l’Apple Music
+
+Per obtenir informació més detallada, incloses les funcions i els preus, ves a www.apple.com/es/apple-music.
+
+Per obtenir més informació sobre el reproductor web de l’Apple Music i la privacitat, ves a www.apple.com/legal/privacy/data/es/apple-music-web.
+
+La informació rebuda per Apple es tractarà en tot moment d’acord amb la política de privacitat d’Apple, que està disponible a www.apple.com/es/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Música</item>
+        <item>Alguna cosa</item>
+        <item>Música</item>
+        <item>La meva emissora</item>
+        <item>La meva emissora de ràdio</item>
+        <item>Algun tema</item>
+        <item>Cançons</item>
+        <item>La música que m’agrada</item>
+        <item>Cançons del moment</item>
+        <item>Música que m’agrada</item>
+    </string-array>
+</resources>
