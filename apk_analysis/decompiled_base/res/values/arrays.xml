@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apns_environment_keys">
+        <item>@string/debug_apns_environment_production</item>
+        <item>@string/debug_apns_environment_sandbox</item>
+        <item>@string/debug_apns_environment_qa2</item>
+    </string-array>
+    <string-array name="apns_environment_values">
+        <item>PRODUCTION</item>
+        <item>SANDBOX</item>
+        <item>QA2</item>
+    </string-array>
+    <string-array name="asset_flavor_selection_entries">
+        <item>@string/debug_settings_asset_flavor_selection_low_high</item>
+        <item>@string/debug_settings_asset_flavor_selection_random</item>
+    </string-array>
+    <string-array name="assume_strong_biometrics_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
+    <string-array name="cast_application_id_keys">
+        <item>@string/debug_chromecast_dev_1</item>
+        <item>@string/debug_chromecast_dev_2</item>
+        <item>@string/debug_chromecast_qa_uat</item>
+        <item>@string/debug_chromecast_living_on</item>
+        <item>@string/debug_chromecast_prod</item>
+    </string-array>
+    <string-array name="cast_application_id_values">
+        <item>@string/dev_1_cast_application_id</item>
+        <item>@string/dev_2_cast_application_id</item>
+        <item>@string/qa_uat_cast_application_id</item>
+        <item>@string/living_on_cast_application_id</item>
+        <item>@string/prod_shipping_cast_application_id</item>
+    </string-array>
+    <array name="cast_expanded_controller_default_control_buttons">
+        <item>@id/cast_button_type_closed_caption</item>
+        <item>@id/cast_button_type_skip_previous</item>
+        <item>@id/cast_button_type_skip_next</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+    <array name="cast_mini_controller_default_control_buttons">
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_play_pause_toggle</item>
+    </array>
+    <string-array name="connect_post_count_rounding">
+        <item>K</item>
+        <item>M</item>
+        <item>B</item>
+    </string-array>
+    <array name="crypto_fingerprint_fallback_prefixes" />
+    <string-array name="crypto_fingerprint_fallback_vendors">
+        <item>samsung</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+    <string-array name="dark_mode_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>system</item>
+    </string-array>
+    <string-array name="delay_showing_prompt_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Device Storage</item>
+        <item>SD Card</item>
+    </string-array>
+    <string-array name="download_locations_values">
+        <item>APPSPACE</item>
+        <item>SDCARD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <integer-array name="heavy_sf_rounded_font_tracking_font_units">
+        <item>154</item>
+        <item>110</item>
+        <item>96</item>
+        <item>84</item>
+        <item>72</item>
+        <item>60</item>
+        <item>50</item>
+        <item>40</item>
+        <item>32</item>
+        <item>25</item>
+        <item>4</item>
+        <item>-4</item>
+        <item>-13</item>
+        <item>-18</item>
+        <item>-25</item>
+        <item>-36</item>
+        <item>-44</item>
+        <item>-44</item>
+        <item>-44</item>
+        <item>-44</item>
+    </integer-array>
+    <integer-array name="heavy_sf_rounded_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <string-array name="hide_fingerprint_instantly_prefixes">
+        <item>SM-A50</item>
+        <item>SM-G973</item>
+        <item>SM-G975</item>
+        <item>SM-G977</item>
+        <item>SM-G770</item>
+        <item>SM-N970</item>
+        <item>SM-N971</item>
+        <item>SM-N975</item>
+        <item>SM-N976</item>
+        <item>SM-N770</item>
+        <item>SC-03L</item>
+        <item>SC-04L</item>
+        <item>SC-05L</item>
+        <item>SC-01M</item>
+        <item>SCV41</item>
+        <item>SCV42</item>
+        <item>SCV45</item>
+    </string-array>
+    <string-array name="hosts_allowlist_sample">
+        <item>fdb00c43dbde8b51cb312aa81d3b5fa17713adb94b28f598d77f8eb89daceedf, com.google.android.projection.gearhead</item>
+        <item>70811a3eacfd2e83e18da9bfede52df16ce91f2e69a44d21f18ab66991130771, com.google.android.projection.gearhead</item>
+        <item>1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00, com.google.android.projection.gearhead</item>
+        <item>c241ffbc8e287c4e9a4ad19632ba1b1351ad361d5177b7d7b29859bd2b7fc631, com.google.android.apps.automotive.templates.host</item>
+        <item>dd66deaf312d8daec7adbe85a218ecc8c64f3b152f9b5998d5b29300c2623f61, com.google.android.apps.automotive.templates.host</item>
+        <item>50e603d333c6049a37bd751375d08f3bd0abebd33facd30bd17b64b89658b421, com.google.android.apps.automotive.templates.host</item>
+    </string-array>
+    <string-array name="idms_env_keys">
+        <item>@string/key_idms_prod</item>
+        <item>@string/key_idms_qa1</item>
+        <item>@string/key_idms_qa2</item>
+    </string-array>
+    <string-array name="idms_env_values">
+        <item>@string/value_idms_prod</item>
+        <item>@string/value_idms_qa1</item>
+        <item>@string/value_idms_qa2</item>
+    </string-array>
+    <integer-array name="loose_sf_font_tracking_font_units">
+        <item>110</item>
+        <item>66</item>
+        <item>52</item>
+        <item>40</item>
+        <item>28</item>
+        <item>16</item>
+        <item>6</item>
+        <item>-4</item>
+        <item>-12</item>
+        <item>-24</item>
+        <item>-18</item>
+        <item>4</item>
+        <item>34</item>
+        <item>56</item>
+        <item>54</item>
+        <item>49</item>
+        <item>42</item>
+        <item>35</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="loose_sf_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <string-array name="lyrics_larger_text_options">
+        <item>@string/settings_larger_lyrics_option_title</item>
+        <item>@string/settings_larger_pronunciation_option_title</item>
+    </string-array>
+    <string-array name="lyrics_larger_text_values">
+        <item>LYRICS</item>
+        <item>TRANSLITERATION</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple collects information about your Apple Music and Apple Music Classical activity, such as the songs you play and how long you play them, to personalize the services when you are subscribed, send you notifications, and compensate our partners.</item>
+        <item>Your Apple cloud library sends information from your music library on your device to Apple, such as song and artist names, to identify and unlock copies of any of your songs that are also available in Apple Music.</item>
+        <item>We associate your cloud library information with you for as long as you remain subscribed and for a short time after. We retain records of the songs you play for the periods specified by applicable laws relating to financial reporting.</item>
+        <item>To help identify and prevent fraud, information about how you use your device, including the approximate number of phone calls or emails you send and receive, will be used to compute a device trust score when you attempt a purchase. The submissions are designed so Apple cannot learn the real values on your device. The scores are stored for a fixed time on our servers.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Protecting the privacy and security of your information is a priority for everyone at Apple. We work hard to collect only the data we need to make your experience better, and when we do collect data we believe it’s important for you to know what we’re collecting and why we need it, so you can make informed choices. Apple Music and Apple Music Classical, like every Apple product and service, are designed with these principles in mind.
+
+We use your personal data to provide the services and features in Apple Music. This information includes your name and Apple Account photo if you’ve set one, which you can access and change in the Apple Music app settings for use with the sharing features in Apple Music, as well as your account, Apple subscriptions status, and payment information, which you can access and change in Settings or System Settings.
+
+When you subscribe to Apple Music, your subscription includes full access to Apple Music and Apple Music Classical. Apple collects information about how you use Apple Music and Apple Music Classical in order to tailor features to your musical tastes. These features include personalized recommendations such as albums and playlists picked for you, and Radio, which plays selections from your favorite artists and genres. We also use this information so that we can contact you by email and push notification about upcoming releases, new artists, and other happenings on Apple Music and Apple Music Classical that you may like.
+
+Some Apple Music features, such as certain broadcast radio stations, may not be available in your region. Apple may use the IP address of your Internet connection to approximate your location and determine availability.
+
+Apple Music Classical
+
+Apple Music subscribers have access to Apple Music Classical, a classical music application designed to allow you to discover classical tracks and albums, and save your favorite classical tracks in one centralized place. You can browse the Apple Music Classical catalog without a subscription, but you must have an Apple Music subscription to access all the features of Apple Music Classical. If you do not have an active Apple Music subscription, you will be given the option to subscribe to Apple Music to get full access to Apple Music Classical.
+
+Cloud Library
+
+Your Apple cloud library, which is a benefit of your Apple Music subscription, allows you to have access to the songs and playlists in your library from any of your devices. This feature sends information from your library on your device to Apple, such as song and artist names, in order to identify and unlock copies of any of your songs that are also available in Apple Music and Apple Music Classical. Any songs that can’t be found in Apple Music are uploaded to your personal cloud library, so that you can have access to your complete collection from any of your devices through Apple Music. To stop syncing your cloud library on your iOS, iPadOS, or visionOS device, go to Settings > Apps > Music and tap to turn off Sync Library. On Mac, open Apple Music and go to Settings > General, then deselect Sync Library.
+
+Apple Music Profile
+
+If you want to connect or share with other people using Apple Music, you can create a personal profile by providing a user handle (for example, @johnappleseed), display name, and, if desired, a profile photo and other information. Apple stores this information with your account so that you can access it from any of your devices. Your user handle, display name, and profile photo can appear alongside any content you post and activity that you share on Apple Music. Sharing and posting content are not currently intended for or available to Apple Accounts for children.
+
+Other people may also be able to find your Apple Music profile using the information that you’ve provided.
+
+You can make the contents of your profile, like listening activity and playlists, available only to those you choose. However, your profile information, such as handle, display name, photo, your followers, and who you are following, are visible to everyone by default. To block a user from seeing your profile, go to the user’s profile, tap More, then tap Block. People you block won’t see your music or find your profile in Apple Music.
+
+When you create a profile on Apple Music, we will recommend other Apple Music subscribers with whom you may want to connect as friends. Apple does not learn or store information from your contacts when checking for friends to recommend. Only shortened and encrypted hashes of the phone numbers and email addresses in your contacts are sent to Apple, and then matching Apple Music subscribers to be recommended are determined locally on your device. Apple Music can periodically check your contacts to recommend new friends in the future; you can control this by going to Account Settings > Privacy &amp; Access > Contacts on Apple Music. If you do not want to be found by others based on the Apple Account contact information they may have about you in their contacts, you can change this by going to Account Settings > Privacy &amp; Access > Allow Finding by Apple Account.
+
+Information that you provide in your profile may be updated or removed by you at any time. Whenever you share online, you should think carefully about what you are making public. When you share from Apple Music to other websites or social networks, anything you share is governed by the privacy policies of those other services.
+
+SharePlay
+
+When you subscribe to Apple Music, you can host SharePlay sessions when connected to an Apple TV, HomePod, CarPlay, or when using Bluetooth. With SharePlay, other Apple Music subscribers can join your SharePlay session and can control the music playing through Apple Music. SharePlay also allows users without an Apple Music subscription to join your SharePlay session. Apple uses Bluetooth, if enabled on your device, to allow your nearby contacts to discover your Apple Music session and request to join it. If you do not want contacts to be able to discover your device and request to join your Apple Music session, you can turn off discoverability by nearby contacts in the Apple Music app settings. Contacts, as well as other participants, can also join the session by scanning the QR code displayed in Apple Music app settings or the vehicle interface if participating in a SharePlay session in the car.
+
+The name and profile photo of the participants in the session will be visible to everyone in the session. Contributions to a SharePlay session are attributed to the individual who made them and are associated with that user’s name and profile photo, if provided, which are editable at any time in the Apple Music app settings. You can remove participants from a SharePlay session you are hosting by tapping the SharePlay icon in the Apple Music app, then selecting the participant to remove. To leave a SharePlay session, tap the SharePlay icon in the Apple Music app, then tap Leave. To end a SharePlay session that you are hosting, tap End in the Apple Music app. Apple does not retain information about your contacts or other participants that have joined a SharePlay session after the session ends.
+
+You can also enable SharePlay sessions in Messages or during a FaceTime call to share music in sync with others. To start a session, select the music you want to listen to, then tap SharePlay in the music options, enter the contacts to share with, then tap “Messages” or “FaceTime” and Start.
+
+Create and Collaborate on Playlists
+
+Apple Music subscribers can create their own playlists or use Playlist Playground, where available, to generate a playlist using artificial intelligence. When you use Playlist Playground, you will describe what you want to hear, which will be processed to understand the mood, genre, or theme. This information will be combined with your listening history and other usage data to curate a customized playlist. You can refine the playlist prior to saving the playlist, and you may delete or modify the generated playlist at any time.
+
+You can collaborate on playlists with other Apple Music subscribers. If you are the creator of the playlist, you can choose to approve each person who"</item>
+        <item>" joins the playlist, or you can allow anyone with the link to the playlist to join automatically. All participants can add and remove songs from the playlist and add emoji reactions. Contributions are attributed to the individual who made them and are associated with that user’s name and profile photo, if provided, which are editable at any time in the Apple Music app settings. All participants in the playlist, and anyone with access to the playlist, can see and view the name and photo of other participants. Playlist participants can view all songs and reactions added by other participants. To stop collaborating, remove yourself from the playlist in the playlist settings, or if you are the creator, stop the collaboration in the playlist manage collaboration settings. If the creator of the playlist ends the collaboration, the playlist becomes a shared playlist that collaborators will have access to in their Apple Music library.
+
+Concerts
+
+If you allow Apple Music to access your location, your approximate location may be used to save a preferred city of interest to provide you locally relevant information such as nearby concerts. If you choose not to allow Apple Music to access your location, you may manually enter a city of interest to locate concerts in that city. Your city of interest will sync across devices if syncing is enabled. You can change your location-based settings at any time on your iOS or iPadOS device by going to Settings > Privacy &amp; Security > Location Services > Music. 
+
+Personalizing and Improving Apple Music and Apple Music Classical
+
+When you use your Apple Music subscription or play free content outside of your library, we may collect information about the songs and videos (where applicable) you play or add to your music library or playlists and the artists and content you favorite or share. Information such as the account, IP address, and device, app, or car interface you used to play, where in Apple Music or Apple Music Classical you were when you played it, the time you played it, and for how long is noted and sent to Apple. We use this information to customize your experience, to send you emails and notifications, and to help us understand how Apple Music and Apple Music Classical are being used so we may improve our services. For example, this information can help us pick the music, videos, and artist content that we show you in Apple Music and Apple Music Classical. It also allows us to make other recommendations to you that reflect your tastes, create city charts to show you trending music by city, and to provide personalized Apple Music search results using a mix of information such as your listening history and your favorite genres. We also use this information to pay royalties and prevent or take action against activities that are, or may be, in breach of the Apple Media Services Terms and Conditions or applicable law.
+
+If you use SharePlay to listen to content with other users on Apple Music, the Apple Music app will collect information about the content you listened to during the SharePlay session and the approximate number of participants in the session, but does not retain any information to identify the participants of a SharePlay session.
+
+We also use Apple Music search data to improve models that power Apple Music. For example, aggregate Apple Music search queries are used to fine-tune the Apple Music search model.
+
+Communicating with You
+
+Apple may use information about your account, such as the Apple products you own, the Apple apps you download, and your subscriptions to Apple services, to send you communications about Apple Music and other Apple products, services, and offers that may be of interest to you, including Apple Music Classical and Apple One. Your device serial number and other hardware identifiers, or details about your relevant App Store subscriptions, may be used to check eligibility for Apple service offers. If you are in a Family Sharing group, Apple may send you communications about products, services, and offers available to you through Family Sharing. If you purchase an Apple One subscription, we may send you emails and push notifications about the features of each of the services for which you have subscribed. Apple may also use information about your activity within Apple Music and Apple Music Classical and your interaction with services used to verify eligibility for available discounted Apple Music subscriptions (such as Apple Music Student) to send you emails and push notifications about new features, content, events, and offers available in Apple Music and Apple Music Classical. For some communications, a hardware identifier is used to filter the notifications you will receive. You can change your email preferences and opt out of receiving these emails by going to account.apple.com. To update your notification preferences on your iOS, iPadOS, or visionOS device, go to Settings > Notifications > Music. On Mac, open Apple Music and go to Settings > General > Notifications. Apple uses information about your interactions with our communications, including notifications, to improve our services.
+
+Preventing Fraud and Other Malicious Activity
+
+We compute a device trust score on your device when you attempt a purchase using information about how you use your device, including the approximate number of phone calls or emails you send and receive. The submission is designed so Apple cannot learn the underlying values on your device. The score is stored for a fixed time on our servers. Apple may also use information about your historical business relationship with Apple to process Apple Music subscription renewals and determine whether to provide ongoing access to your subscription in advance of authorization by the payment partner.
+
+Disclosure to Third Parties
+
+Radio Stations
+When you use Apple Music to listen to broadcast radio, your device connects directly to the broadcast radio station to provide you the requested content. When it connects, your device’s IP address will be visible to the broadcast radio station. The handling of your IP address by the broadcast radio station is governed by the privacy policies of the broadcast radio station or its provider.
+
+Record Labels, Artists, and Chart Compilers
+We are obligated to provide some aggregated non-personal data about the use of Apple Music and Apple Music Classical, as well as aggregated user demographics such as age group and gender (which may be inferred from information such as your name and salutation in your Apple Account), to record labels, publishers, and artists so that they can measure the performance of their creative work and meet royalty and accounting requirements. In addition, we share aggregated listening activity with chart compilers for music charts around the world, with labels and artists to measure engagement, including in real time, and with music marketing platforms that help labels and artists reach listeners. In order to determine your subscription eligibility if you subscribe to Apple Music through a third-party partner like a mobile network provider, or to complete your purchase, we share limited personally identifiable information with that partner.
+
+Connecting Apple Music with Other Apps
+
+iOS, iPadOS, and visionOS apps and apps on non-Apple platforms may request access to Apple Music and your cloud library. If you give such permission to an app, it can access information like your cloud library on device, whether you are an Apple Music subscriber, your music and video play activity, and your recommendations in Apple Music. A permitted app can also modify data associated with your account, such as which songs are in your library and playlists. If you grant permission to the Photos app to access Apple Music, Photos will use songs from Apple Music to play with memory movies. When you create a custom memory movie in Photos, information about the prompt you enter to create the memory may be sent to Apple Music to select music to play with the movie. Apple apps with supported content, such as Remote, will also be automatically connected when you start using the Apple Music app and supported content. You c"</item>
+        <item>"an disable an app’s access on your iOS, iPadOS, or visionOS device by going to Settings > Privacy &amp; Security > Media &amp; Apple Music. On Mac, go to System Settings > Privacy &amp; Security > Privacy > Media &amp; Apple Music. If you have removed the app or granted an app access using a version of iOS earlier than iOS 11 or iPadOS, you can disable its access in your Apple Music account settings.
+
+Apple Music Subscriptions Through Apple Partners
+
+If your mobile network provider offers Apple Music subscriptions and free trials, Apple may check your phone number to determine whether you are eligible through a mobile network provider. If you sign up for an Apple Music subscription or free trial through your mobile network provider or another Apple partner, Apple will use your phone number or unique account identifier shared by the partner to identify your account and to let the mobile network provider or other partner know that you have activated your subscription. We will use the phone number or unique identifier associated with your subscription to verify your account during sign-in and to connect your Apple Music activity with your account. We also use your phone number to request cancellation of your subscription with your mobile network provider at your request.
+
+Retention
+
+We retain personal data associated with your use of and interaction with Apple Music and Apple Music Classical for different lengths of time depending on business need, contractual obligations, and legal requirements.
+
+Information about your listening activity, library content, playlists, and your searches is retained for as long as your subscription is active and for up to two years following account cancellation to support reactivation and to communicate with you about music that may be of interest to you and offers for which you may be eligible. We may also retain this information when necessary to comply with financial reporting obligations for the periods specified by applicable laws, which often require at least a 10-year retention period but can extend up to 30 years in jurisdictions such as China.
+
+If your subscription ends, Apple Music may retain the music and playlists you added or created from the Apple Music catalog for a grace period to allow reactivation without loss of content. After this period, content from the Apple Music catalog may become inaccessible.
+
+If you delete your Apple Account, certain data may be retained where required by law, or to protect against fraud, enforce the Apple Media Services Terms and Conditions, or maintain the security of Apple services.
+
+Applicable Legal Basis for Processing Personal Data
+
+We process your personal data in Apple Music generally for performance of your contract with Apple, as necessary for providing the service, and to comply with our legal obligations. Where consent is the appropriate legal basis, we seek it in accordance with applicable local law.
+
+Where applicable local law provides, we process personal data as necessary for purposes of our legitimate interests or those of a third party, in order to:
+
+• Provide you with access to the content in Apple Music and Apple Music Classical that you listen to, add to your library, or download
+• Personalize your experience in Apple Music and Apple Music Classical
+• Identify and unlock copies of your songs that are also available through Apple Music
+• Determine the availability of content in your region and your eligibility for offers and subscriptions
+• Help to improve and optimize Apple Music and Apple Music Classical for you and others, and send you communications about the Apple Music and Apple Music Classical apps, and other Apple products, services, and offers that may be of interest to you
+• Create and maintain your Apple Music Profile and playlists
+• Pay royalties to, and provide reporting for, publishers, labels, artists, and chart compilers
+• Prevent fraud and other malicious activity
+
+The data used includes:
+
+• Your use of the Apple Music and Apple Music Classical apps including your interactions with features, in-app notifications and messages, and the content you listen to, search for, view, add to your library, and download on Apple Music and Apple Music Classical
+• Details about your device and account
+• Your IP address
+• Your Apple Music Profile and playlists
+• The device trust score
+
+Non-Personal Data
+
+We may collect, use, transfer, and disclose non-personal data for any purpose. For example, we may aggregate your non-personal data with that of other Apple Music users in order to improve the service. We may also collect certain performance metrics from your device when you use Apple Music, including radio frequency strength, country code, network code, and cellular radio access technology.
+
+Learn More About Apple Music
+
+For more detailed information, including features and pricing, visit www.apple.com/apple-music.
+
+For information about Apple Music Web Player &amp; Privacy, visit www.apple.com/legal/privacy/data/en/apple-music-web.
+
+At all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy."</item>
+    </string-array>
+    <string-array name="presto_app_package_name_keys">
+        <item>@string/presto_prod</item>
+        <item>@string/presto_qa</item>
+    </string-array>
+    <string-array name="presto_app_package_name_values">
+        <item>@string/presto_prod_package_name</item>
+        <item>@string/presto_qa_package_name</item>
+    </string-array>
+    <string-array name="search_results_categories">
+        <item>@string/subsection_topresult</item>
+        <item>@string/subsection_artist</item>
+        <item>@string/subsection_album</item>
+        <item>@string/subsection_song</item>
+        <item>@string/subsection_playlist</item>
+        <item>@string/radio_shows</item>
+        <item>@string/radio_episodes</item>
+        <item>@string/subsection_stations</item>
+        <item>@string/subsection_musicvideos</item>
+        <item>@string/video_extras_album</item>
+        <item>@string/subsection_categories</item>
+        <item>@string/subsection_brand</item>
+        <item>@string/settings_profiles</item>
+    </string-array>
+    <string-array name="select_image_dialog_items">
+        <item>@string/select_image_dialog_camera</item>
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="select_image_dialog_items_no_camera">
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="select_image_dialog_items_with_remove">
+        <item>@string/select_image_dialog_camera</item>
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_remove</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="select_image_dialog_items_with_remove_no_camera">
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_remove</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="select_image_light_identity">
+        <item>@string/select_image_dialog_name</item>
+        <item>@string/select_image_dialog_camera</item>
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_remove</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="select_image_light_identity_no_camera">
+        <item>@string/select_image_dialog_name</item>
+        <item>@string/select_image_dialog_file</item>
+        <item>@string/select_image_dialog_remove</item>
+        <item>@string/select_image_dialog_cancel</item>
+    </string-array>
+    <string-array name="settings_anim_entries">
+        <item>Standard</item>
+        <item>Surprise Me!</item>
+    </string-array>
+    <string-array name="settings_anim_values">
+        <item>@string/setting_anim_standard</item>
+        <item>@string/setting_anim_surprise</item>
+    </string-array>
+    <integer-array name="sf_font_tracking_font_units">
+        <item>82</item>
+        <item>38</item>
+        <item>24</item>
+        <item>12</item>
+        <item>0</item>
+        <item>-12</item>
+        <item>-22</item>
+        <item>-32</item>
+        <item>-40</item>
+        <item>-52</item>
+        <item>-46</item>
+        <item>-24</item>
+        <item>6</item>
+        <item>28</item>
+        <item>26</item>
+        <item>21</item>
+        <item>14</item>
+        <item>7</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="sf_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <integer-array name="sf_rounded_font_tracking_font_units">
+        <item>174</item>
+        <item>130</item>
+        <item>116</item>
+        <item>104</item>
+        <item>92</item>
+        <item>80</item>
+        <item>70</item>
+        <item>60</item>
+        <item>52</item>
+        <item>45</item>
+        <item>37</item>
+        <item>32</item>
+        <item>26</item>
+        <item>24</item>
+        <item>22</item>
+        <item>14</item>
+        <item>6</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="sf_rounded_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <string-array name="shareplay_sessionroute_type_labels">
+        <item>@string/shareplay_sessionroute_type_unknown</item>
+        <item>@string/shareplay_sessionroute_type_car</item>
+        <item>@string/shareplay_sessionroute_type_car</item>
+        <item>@string/shareplay_sessionroute_type_speaker</item>
+        <item>@string/shareplay_sessionroute_type_homepod</item>
+        <item>@string/shareplay_sessionroute_type_appletv</item>
+    </string-array>
+    <integer-array name="shareplay_sessionroute_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="store_services_translation_keys">
+        <item>EMPTY_ACCOUNT_BUTTON_CANCEL</item>
+        <item>EMPTY_ACCOUNT_TITLE</item>
+        <item>EMPTY_ACCOUNT_BUTTON_CREATE_ACCOUNT</item>
+        <item>EMPTY_ACCOUNT_BUTTON_USE_EXISTING</item>
+        <item>AUTHENTICATE_RETRY_BUTTON_RETRY</item>
+        <item>AUTHENTICATE_RETRY_BUTTON_CANCEL</item>
+    </string-array>
+    <string-array name="store_services_translation_strings">
+        <item>@string/cancel</item>
+        <item>@string/sign_in</item>
+        <item>@string/store_services_dialog_create_id</item>
+        <item>@string/store_services_dialog_use_existing_id</item>
+        <item>@string/store_services_dialog_button_retry</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="streaming_cache_size_values">
+        <item>0</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+    </string-array>
+    <integer-array name="tight_sf_font_tracking_font_units">
+        <item>54</item>
+        <item>10</item>
+        <item>-4</item>
+        <item>-16</item>
+        <item>-28</item>
+        <item>-40</item>
+        <item>-50</item>
+        <item>-60</item>
+        <item>-68</item>
+        <item>-80</item>
+        <item>-76</item>
+        <item>-58</item>
+        <item>-34</item>
+        <item>0</item>
+        <item>-2</item>
+        <item>-7</item>
+        <item>-14</item>
+        <item>-21</item>
+        <item>-28</item>
+        <item>-28</item>
+        <item>-28</item>
+    </integer-array>
+    <integer-array name="tight_sf_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <integer-array name="tight_sf_rounded_font_tracking_font_units">
+        <item>146</item>
+        <item>102</item>
+        <item>88</item>
+        <item>76</item>
+        <item>64</item>
+        <item>52</item>
+        <item>42</item>
+        <item>32</item>
+        <item>24</item>
+        <item>17</item>
+        <item>9</item>
+        <item>4</item>
+        <item>-2</item>
+        <item>-4</item>
+        <item>-6</item>
+        <item>-14</item>
+        <item>-22</item>
+        <item>-28</item>
+        <item>-28</item>
+        <item>-28</item>
+    </integer-array>
+    <integer-array name="tight_sf_rounded_font_tracking_text_size">
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>20</item>
+        <item>22</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>50</item>
+        <item>64</item>
+        <item>80</item>
+        <item>100</item>
+        <item>138</item>
+    </integer-array>
+    <string-array name="user_social_states">
+        <item>@string/social_profile_state_following</item>
+        <item>@string/social_profile_state_not_following</item>
+        <item>@string/social_profile_state_follow_requested</item>
+        <item>@string/social_profile_state_invite</item>
+        <item>@string/social_profile_state_blocked</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Some music</item>
+        <item>Something</item>
+        <item>Music</item>
+        <item>My Station</item>
+        <item>My radio station</item>
+        <item>Some tunes</item>
+        <item>Some songs</item>
+        <item>Some music I love</item>
+        <item>Some cool songs</item>
+        <item>Music I like</item>
+    </string-array>
+    <array name="whats_new_feature_artist_pages">
+        <item>@drawable/welcome_mic</item>
+        <item>@string/whats_new_1_title_new</item>
+        <item>@string/whats_new_1_message_new</item>
+    </array>
+    <array name="whats_new_feature_fresher_look">
+        <item>@drawable/welcome_music</item>
+        <item>@string/whats_new_2_title_new</item>
+        <item>@string/whats_new_2_message_new</item>
+    </array>
+    <array name="whats_new_feature_playlist_control">
+        <item>@drawable/welcome_music_square_stack_fill</item>
+        <item>@string/whats_new_3_title_new</item>
+        <item>@string/whats_new_3_message_new</item>
+    </array>
+    <array name="whats_new_features">
+        <item>@array/whats_new_feature_artist_pages</item>
+        <item>@array/whats_new_feature_fresher_look</item>
+        <item>@array/whats_new_feature_playlist_control</item>
+    </array>
+</resources>
