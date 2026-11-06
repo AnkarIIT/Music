@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@color/player_vibrant_primary" android:gravity="center" android:id="@id/more_songs_indicator" android:tag="layout/number_of_song_indicator_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/default_padding" android:drawableStart="@drawable/nowplaying_queue_squaregrid" android:textDirection="anyRtl" android:paddingStart="@dimen/queue_line_padding_horiz" android:paddingEnd="@dimen/queue_line_padding_horiz" android:drawableTint="@color/white" android:drawableTintMode="src_in" style="@style/BodyShort"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
