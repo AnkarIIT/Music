@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/paragraph_b_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:tag="binding_1" style="@style/Divider" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_b_title" android:tag="binding_2" android:paddingTop="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/ParagraphTitleStyle" />
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:ellipsize="end" android:id="@id/paragraph_b_body" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" app:maxCollapseLines="6" app:moreColor="@color/color_primary" style="@style/Subhead" />
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:ellipsize="end" android:id="@id/paragraph_b_body_compact" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" app:maxCollapseLines="4" app:moreColor="@color/color_primary" style="@style/Caption1" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_b_link" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/connect_item_view_padding" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/BodyShortPink" />
+    </LinearLayout>
+</LinearLayout>
