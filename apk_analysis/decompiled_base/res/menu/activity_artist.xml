@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_navbar_classical" android:id="@id/open_in_classical" android:visible="false" android:title="@string/open_in_apple_classical" app:actionLayout="@layout/apple_classical_menu_item_layout" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_actionsheet_share" android:id="@id/share_artist_item" android:title="@string/share" app:showAsAction="always" />
+    <item android:id="@id/active_downloads_menu_item" android:visible="false" android:title="@string/downloads" app:showAsAction="always" />
+    <item android:id="@id/app_bar_profile" android:title="@string/profile_menu_item" app:actionLayout="@layout/user_profile_badge" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_navbar_platter_more" android:id="@id/action_overflow" android:title="@string/more_button" app:showAsAction="always" />
+</menu>
