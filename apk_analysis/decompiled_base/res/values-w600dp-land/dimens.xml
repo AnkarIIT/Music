@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clock_face_margin_start">64.0dip</dimen>
+    <dimen name="listen_now_friends_image_translation_width">62.0dip</dimen>
+    <dimen name="search_upsell_side_margins">50.0dip</dimen>
+    <dimen name="super_hero_live_badge_position_horiz">16.0dip</dimen>
+    <dimen name="super_hero_live_badge_position_vert">16.0dip</dimen>
+    <dimen name="unsubscribed_upsell_margin">32.0dip</dimen>
+</resources>
