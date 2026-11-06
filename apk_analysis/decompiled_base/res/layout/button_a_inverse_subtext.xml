@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/button_a_inverse_subtext_0" android:paddingTop="@dimen/smaller_margin_8" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="center" android:orientation="vertical" android:id="@id/btn_buttona" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="50.0dip" style="@style/ButtonAInverseStyle" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:gravity="center" android:layout_gravity="center" android:id="@id/footnote" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_8" android:textDirection="anyRtl" style="@style/Footnote" />
+</LinearLayout>
