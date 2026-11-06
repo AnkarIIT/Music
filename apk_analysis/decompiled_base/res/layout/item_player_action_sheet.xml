@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="layout/item_player_action_sheet_0" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="72.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="72.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" android:layout_marginEnd="@dimen/default_padding">
+        <com.apple.android.music.common.CustomImageView android:layout_gravity="center" android:tag="binding_1" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+        <com.apple.android.music.common.views.Monogram android:tag="binding_2" android:layout_width="40.0dip" android:layout_height="40.0dip" app:initialsSize="25.0dip" app:text_tint_color="@color/white" style="@style/MonogramStyle" />
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/label_color" android:ellipsize="end" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" android:paddingEnd="@dimen/default_padding" style="@style/Callout" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:ellipsize="end" android:tag="binding_4" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" android:paddingEnd="@dimen/default_padding" style="@style/Footnote" />
+    </LinearLayout>
+</LinearLayout>
