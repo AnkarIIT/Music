@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_horizontal" android:id="@id/edit_playlist_fragment_container" android:tag="layout/fragment_edit_playlist_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.recyclerview.ExclusiveViewPoolEpoxyRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/fuse_progress_indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/view_loader_include" />
+</FrameLayout>
