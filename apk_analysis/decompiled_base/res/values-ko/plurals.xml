@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d초</item>
+        <item quantity="one">%d초</item>
+        <item quantity="two">%d초</item>
+        <item quantity="few">%d초</item>
+        <item quantity="many">%d초</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d개의 앱이 연결됨</item>
+        <item quantity="one">%d개의 앱이 연결됨</item>
+        <item quantity="two">%d개의 앱이 연결됨</item>
+        <item quantity="few">%d개의 앱이 연결됨</item>
+        <item quantity="many">%d개의 앱이 연결됨</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d장의 앨범</item>
+        <item quantity="one">%d장의 앨범</item>
+        <item quantity="two">%d장의 앨범</item>
+        <item quantity="few">%d장의 앨범</item>
+        <item quantity="many">%d장의 앨범</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+        <item quantity="two">%d일 전</item>
+        <item quantity="few">%d일 전</item>
+        <item quantity="many">%d일 전</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">%d시간 전</item>
+        <item quantity="two">%d시간 전</item>
+        <item quantity="few">%d시간 전</item>
+        <item quantity="many">%d시간 전</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d주 전</item>
+        <item quantity="one">%d주 전</item>
+        <item quantity="two">%d주 전</item>
+        <item quantity="few">%d주 전</item>
+        <item quantity="many">%d주 전</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="zero">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="zero">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d초</item>
+        <item quantity="zero">%d초</item>
+        <item quantity="one">%d초</item>
+        <item quantity="two">%d초</item>
+        <item quantity="few">%d초</item>
+        <item quantity="many">%d초</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">%d개의 항목 취소</item>
+        <item quantity="one">%d개의 항목 취소</item>
+        <item quantity="two">%d개의 항목 취소</item>
+        <item quantity="few">%d개의 항목 취소</item>
+        <item quantity="many">%d개의 항목 취소</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">링크가 %1$d일 후에 만료됩니다.</item>
+        <item quantity="zero">링크가 만료되었습니다.</item>
+        <item quantity="one">링크가 오늘 만료됩니다.</item>
+        <item quantity="two">링크가 %1$d일 후에 만료됩니다.</item>
+        <item quantity="few">링크가 %1$d일 후에 만료됩니다.</item>
+        <item quantity="many">링크가 %1$d일 후에 만료됩니다.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d개의 콘서트</item>
+        <item quantity="one">%d개의 콘서트</item>
+        <item quantity="two">%d개의 콘서트</item>
+        <item quantity="few">%d개의 콘서트</item>
+        <item quantity="many">%d개의 콘서트</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+        <item quantity="two">%d일</item>
+        <item quantity="few">%d일</item>
+        <item quantity="many">%d일</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d초</item>
+        <item quantity="zero">%d초</item>
+        <item quantity="one">%d초</item>
+        <item quantity="two">%d초</item>
+        <item quantity="few">%d초</item>
+        <item quantity="many">%d초</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d개의 항목</item>
+        <item quantity="one">%d개의 항목</item>
+        <item quantity="two">%d개의 항목</item>
+        <item quantity="few">%d개의 항목</item>
+        <item quantity="many">%d개의 항목</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d분</item>
+        <item quantity="one">%,d분</item>
+        <item quantity="two">%,d분</item>
+        <item quantity="few">%,d분</item>
+        <item quantity="many">%,d분</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d초 빨리 감기</item>
+        <item quantity="one">%d초 빨리 감기</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d초 되감기</item>
+        <item quantity="one">%d초 되감기</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">시간</item>
+        <item quantity="one">시간</item>
+        <item quantity="two">시간</item>
+        <item quantity="few">시간</item>
+        <item quantity="many">시간</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">새로운 노래 %d곡</item>
+        <item quantity="one">새로운 노래 %d곡</item>
+        <item quantity="two">새로운 노래 %d곡</item>
+        <item quantity="few">새로운 노래 %d곡</item>
+        <item quantity="many">새로운 노래 %d곡</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">분</item>
+        <item quantity="one">분</item>
+        <item quantity="two">분</item>
+        <item quantity="few">분</item>
+        <item quantity="many">분</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d개의 뮤직비디오</item>
+        <item quantity="one">%d개의 뮤직비디오</item>
+        <item quantity="two">%d개의 뮤직비디오</item>
+        <item quantity="few">%d개의 뮤직비디오</item>
+        <item quantity="many">%d개의 뮤직비디오</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">기타 %d곡</item>
+        <item quantity="zero">기타 %d곡</item>
+        <item quantity="one">기타 %d곡</item>
+        <item quantity="two">기타 %d곡</item>
+        <item quantity="few">기타 %d곡</item>
+        <item quantity="many">기타 %d곡</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d번 재생</item>
+        <item quantity="one">%d번 재생</item>
+        <item quantity="two">%d번 재생</item>
+        <item quantity="few">%d번 재생</item>
+        <item quantity="many">%d번 재생</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="one">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="two">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="few">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="many">"%1$d곡이 '%2$s'에 추가됨"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d곡이 새로운 플레이리스트에 추가됨</item>
+        <item quantity="one">%1$d곡이 새로운 플레이리스트에 추가됨</item>
+        <item quantity="two">%1$d곡이 새로운 플레이리스트에 추가됨</item>
+        <item quantity="few">%1$d곡이 새로운 플레이리스트에 추가됨</item>
+        <item quantity="many">%1$d곡이 새로운 플레이리스트에 추가됨</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s 외 %2$d명</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s 외 %2$d명</item>
+        <item quantity="two">%1$s 외 %2$d명</item>
+        <item quantity="few">%1$s 외 %2$d명</item>
+        <item quantity="many">%1$s 외 %2$d명</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d곡이 선택됨</item>
+        <item quantity="one">%1$d곡이 선택됨</item>
+        <item quantity="two">%1$d곡이 선택됨</item>
+        <item quantity="few">%1$d곡이 선택됨</item>
+        <item quantity="many">%1$d곡이 선택됨</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">레코드 레이블</item>
+        <item quantity="one">레코드 레이블</item>
+        <item quantity="many">레코드 레이블</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">%1$d곡을 제거하겠습니까?</item>
+        <item quantity="one">%1$d곡을 제거하겠습니까?</item>
+        <item quantity="two">%1$d곡을 제거하겠습니까?</item>
+        <item quantity="few">%1$d곡을 제거하겠습니까?</item>
+        <item quantity="many">%1$d곡을 제거하겠습니까?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d개의 앱</item>
+        <item quantity="one">%d개의 앱</item>
+        <item quantity="two">%d개의 앱</item>
+        <item quantity="few">%d개의 앱</item>
+        <item quantity="many">%d개의 앱</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d초</item>
+        <item quantity="zero">%d초</item>
+        <item quantity="one">%d초</item>
+        <item quantity="two">%d초</item>
+        <item quantity="few">%d초</item>
+        <item quantity="many">%d초</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">초</item>
+        <item quantity="zero">초</item>
+        <item quantity="one">초</item>
+        <item quantity="two">초</item>
+        <item quantity="few">초</item>
+        <item quantity="many">초</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">가족 구성원을 최대 %s명 더 추가할 수 있습니다.</item>
+        <item quantity="one">가족 구성원을 한 명 더 추가할 수 있습니다.</item>
+        <item quantity="two">가족 구성원을 최대 %s명 더 추가할 수 있습니다.</item>
+        <item quantity="few">가족 구성원을 최대 %s명 더 추가할 수 있습니다.</item>
+        <item quantity="many">가족 구성원을 최대 %s명 더 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d줄이 선택됨</item>
+        <item quantity="zero">선택한 줄 없음</item>
+        <item quantity="one">%d줄이 선택됨</item>
+        <item quantity="two">%d줄이 선택됨</item>
+        <item quantity="few">%d줄이 선택됨</item>
+        <item quantity="many">%d줄이 선택됨</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d명 참여 중</item>
+        <item quantity="one">%d명 참여 중</item>
+        <item quantity="two">%d명 참여 중</item>
+        <item quantity="few">%d명 참여 중</item>
+        <item quantity="many">%d명 참여 중</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">에피소드 %d개</item>
+        <item quantity="one">에피소드 %d개</item>
+        <item quantity="two">에피소드 %d개</item>
+        <item quantity="few">에피소드 %d개</item>
+        <item quantity="many">에피소드 %d개</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d곡 남음</item>
+        <item quantity="one">%1$d곡 남음</item>
+        <item quantity="two">%1$d곡 남음</item>
+        <item quantity="few">%1$d곡 남음</item>
+        <item quantity="many">%1$d곡 남음</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="one">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="two">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="few">"%1$d곡이 '%2$s'에 추가됨"</item>
+        <item quantity="many">"%1$d곡이 '%2$s'에 추가됨"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d개의 항목 삭제됨</item>
+        <item quantity="one">%d개의 항목 삭제됨</item>
+        <item quantity="two">%d개의 항목 삭제됨</item>
+        <item quantity="few">%d개의 항목 삭제됨</item>
+        <item quantity="many">%d개의 항목 삭제됨</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d곡</item>
+        <item quantity="one">%d곡</item>
+        <item quantity="two">%d곡</item>
+        <item quantity="few">%d곡</item>
+        <item quantity="many">%d곡</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d곡 사용 가능</item>
+        <item quantity="one">%d곡 사용 가능</item>
+        <item quantity="two">%d곡 사용 가능</item>
+        <item quantity="few">%d곡 사용 가능</item>
+        <item quantity="many">%d곡 사용 가능</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d곡</item>
+        <item quantity="one">%d곡</item>
+        <item quantity="two">%d곡</item>
+        <item quantity="few">%d곡</item>
+        <item quantity="many">%d곡</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d일 내에 학생 여부를 확인합니다.</item>
+        <item quantity="one">%1$d일 내에 학생 여부를 확인합니다.</item>
+        <item quantity="two">%1$d일 내에 학생 여부를 확인합니다.</item>
+        <item quantity="few">%1$d일 내에 학생 여부를 확인합니다.</item>
+        <item quantity="many">%1$d일 내에 학생 여부를 확인합니다.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d명의 공동 작업자</item>
+        <item quantity="zero">%1$d명의 공동 작업자</item>
+        <item quantity="one">%1$d명의 공동 작업자</item>
+        <item quantity="two">%1$d명의 공동 작업자</item>
+        <item quantity="few">%1$d명의 공동 작업자</item>
+        <item quantity="many">%1$d명의 공동 작업자</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+        <item quantity="two">%d일</item>
+        <item quantity="few">%d일</item>
+        <item quantity="many">%d일</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d개월</item>
+        <item quantity="one">%d개월</item>
+        <item quantity="two">%d개월</item>
+        <item quantity="few">%d개월</item>
+        <item quantity="many">%d개월</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d초</item>
+        <item quantity="one">%d초</item>
+        <item quantity="two">%d초</item>
+        <item quantity="few">%d초</item>
+        <item quantity="many">%d초</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d주</item>
+        <item quantity="one">%d주</item>
+        <item quantity="two">%d주</item>
+        <item quantity="few">%d주</item>
+        <item quantity="many">%d주</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d년</item>
+        <item quantity="one">%d년</item>
+        <item quantity="two">%d년</item>
+        <item quantity="few">%d년</item>
+        <item quantity="many">%d년</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+        <item quantity="two">%d일 전</item>
+        <item quantity="few">%d일 전</item>
+        <item quantity="many">%d일 전</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">%d시간 전</item>
+        <item quantity="two">%d시간 전</item>
+        <item quantity="few">%d시간 전</item>
+        <item quantity="many">%d시간 전</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">%d분 전</item>
+        <item quantity="two">%d분 전</item>
+        <item quantity="few">%d분 전</item>
+        <item quantity="many">%d분 전</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">이 곡의 재생이 끝나면 재생 대기 목록에 추가되어 있는 %d곡을 계속해서 재생하겠습니까, 아니면 지우겠습니까?</item>
+        <item quantity="one">이 곡의 재생이 끝나면 재생 대기 목록에 추가되어 있는 %d곡을 계속해서 재생하겠습니까, 아니면 지우겠습니까?</item>
+        <item quantity="two">이 곡의 재생이 끝나면 재생 대기 목록에 추가되어 있는 %d곡을 계속해서 재생하겠습니까, 아니면 지우겠습니까?</item>
+        <item quantity="few">이 곡의 재생이 끝나면 재생 대기 목록에 추가되어 있는 %d곡을 계속해서 재생하겠습니까, 아니면 지우겠습니까?</item>
+        <item quantity="many">이 곡의 재생이 끝나면 재생 대기 목록에 추가되어 있는 %d곡을 계속해서 재생하겠습니까, 아니면 지우겠습니까?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">%d일 전 업데이트됨</item>
+        <item quantity="zero">%d일 전 업데이트됨</item>
+        <item quantity="one">%d일 전 업데이트됨</item>
+        <item quantity="two">%d일 전 업데이트됨</item>
+        <item quantity="few">%d일 전 업데이트됨</item>
+        <item quantity="many">%d일 전 업데이트됨</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">%d시간 전 업데이트됨</item>
+        <item quantity="one">%d시간 전 업데이트됨</item>
+        <item quantity="two">%d시간 전 업데이트됨</item>
+        <item quantity="few">%d시간 전 업데이트됨</item>
+        <item quantity="many">%d시간 전 업데이트됨</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">%d분 전 업데이트됨</item>
+        <item quantity="one">%d분 전 업데이트됨</item>
+        <item quantity="two">%d분 전 업데이트됨</item>
+        <item quantity="few">%d분 전 업데이트됨</item>
+        <item quantity="many">%d분 전 업데이트됨</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">%d주 전 업데이트됨</item>
+        <item quantity="one">%d주 전 업데이트됨</item>
+        <item quantity="two">%d주 전 업데이트됨</item>
+        <item quantity="few">%d주 전 업데이트됨</item>
+        <item quantity="many">%d주 전 업데이트됨</item>
+    </plurals>
+</resources>
