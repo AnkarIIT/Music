@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/connect_list_a_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:background="@drawable/divider_line" android:layout_width="fill_parent" android:layout_height="@dimen/line_divider_stroke" />
+    <com.google.android.flexbox.FlexboxLayout android:paddingTop="@dimen/connect_item_text_spacing_large" android:paddingBottom="@dimen/connect_item_text_spacing_large" android:layout_width="fill_parent" android:layout_height="wrap_content" app:flexDirection="row" app:flexWrap="wrap">
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/like_count" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLines="1" app:layout_alignSelf="flex_start" app:layout_flexShrink="1.0" style="@style/Subhead" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/comment_count" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="comment" android:maxLines="1" android:layout_marginStart="@dimen/default_padding" app:layout_flexShrink="1.0" style="@style/Subhead" />
+        <Space android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_flexGrow="1.0" />
+        <ImageView android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/universal_chevron_right_white" android:tint="@color/system_gray" android:layout_marginStart="@dimen/connect_item_view_padding" />
+    </com.google.android.flexbox.FlexboxLayout>
+</LinearLayout>
