@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/main_container" android:tag="layout/activity_child_terms_conditions_0" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/root_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.views.CustomTextButton android:id="@id/btn_send_by_email" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/t_and_c_send_email" style="@style/SubscriptionTextButton" />
+        <ScrollView android:padding="@dimen/default_padding" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/terms_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/DefaultFont" />
+        </ScrollView>
+        <com.apple.android.music.common.views.ButtonsBottomBar android:id="@id/buttons_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
