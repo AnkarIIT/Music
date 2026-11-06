@@ -1,0 +1,24 @@
+<resources>
+    <!-- Dark Theme Colors (Primary) -->
+    <color name="dark_background">#FF0F0F0F</color>
+    <color name="surface_color">#FF1E1E1E</color>
+    <color name="primary_red">#FFFF4B4B</color>
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_white_strong">#33FFFFFF</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB3B3B3</color>
+    <color name="gradient_start">#FF2C1010</color>
+    <color name="gradient_end">#FF0F0F0F</color>
+
+    <!-- Light Theme Colors -->
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="light_surface">#FFF5F5F5</color>
+    <color name="light_primary">#FFE53E3E</color>
+    <color name="light_on_background">#FF1A1A1A</color>
+    <color name="light_on_surface">#FF1A1A1A</color>
+
+    <!-- System -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
