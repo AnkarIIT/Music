@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center|top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="12.0dip" android:paddingVertical="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/item_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:tint="@color/label_color" android:minWidth="50.0dip" android:layout_marginEnd="@dimen/default_padding" android:tintMode="src_in" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/whatsnew_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/BodyBold" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/whatsnew_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+    </LinearLayout>
+</LinearLayout>
