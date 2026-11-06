@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@color/color_primary" android:gravity="center" android:id="@id/lyrics_report_concern" android:tag="layout/lyrics_report_concern_0" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="@dimen/report_concern_item_height" android:text="@string/post_detail_footer" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" style="@style/BodyEmphasized"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
