@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="expanded_swoosh_columns_two">3</integer>
+    <integer name="grid_a_column_count">2</integer>
+    <integer name="grid_b_column_count">3</integer>
+    <integer name="grid_b_span_count">2</integer>
+    <integer name="grid_c_column_count">4</integer>
+</resources>
