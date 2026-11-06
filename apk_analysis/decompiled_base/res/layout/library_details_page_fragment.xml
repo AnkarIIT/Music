@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/details_page_container" android:tag="layout/library_details_page_fragment_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.compose.ui.platform.ComposeView android:id="@id/floating_app_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <eightbitlab.com.blurview.BlurTarget android:id="@id/blur_target" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.views.NestedCoordinatorLayout android:orientation="vertical" android:id="@id/coordinator" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.android.material.appbar.AppBarLayout android:id="@id/app_bar" android:background="@null" android:paddingTop="8.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip" app:expanded="true" app:layout_behavior=".collection.mediaapi.fragment.ScrollConfigurableAppBarLayoutBehavior">
+                <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@id/toolbar_layout" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" app:contentScrim="@android:color/transparent" app:elevation="0.0dip" app:toolbarId="@id/toolbar">
+                    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_horizontal" android:orientation="vertical" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <include android:id="@id/artist_library_details_search_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_collapseMode="none" layout="@layout/library_details_search_bar" />
+                        <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/library_artist_detail_page_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" app:layout_collapseMode="parallax">
+                            <com.apple.android.music.common.CustomImageView android:layout_gravity="center_horizontal" android:id="@id/artist_image_view" android:tag="binding_4" android:visibility="visible" android:layout_width="@dimen/social_profile_page_header_image" android:layout_height="@dimen/social_profile_page_header_image" android:layout_marginTop="@dimen/library_artist_detail_image_top_padding" android:importantForAccessibility="no" app:circularImage="true" />
+                            <com.apple.android.music.common.views.CustomTextView android:id="@id/toolbar_title" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/playlist" android:maxLines="2" android:minLines="1" android:layout_marginStart="@dimen/endMargin" android:layout_marginEnd="@dimen/endMargin" app:as_minTextSize="32.0sp" app:layout_collapseMode="none" style="@style/Title1Emphasized" />
+                        </androidx.appcompat.widget.LinearLayoutCompat>
+                        <include android:id="@id/library_details_search_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_14" layout="@layout/library_details_search_bar" />
+                    </androidx.appcompat.widget.LinearLayoutCompat>
+                </com.google.android.material.appbar.CollapsingToolbarLayout>
+            </com.google.android.material.appbar.AppBarLayout>
+            <include android:id="@id/details_page_main_container_views" layout="@layout/content_layout_library_section" />
+            <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="top" android:id="@id/bubble_tip_parent" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include android:id="@id/sort_menu_tooltip_view" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="1.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0" app:layout_constraintWidth_default="percent" app:layout_constraintWidth_percent="@dimen/tooltip_width_percent" layout="@layout/bubble_tip_standard" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </com.apple.android.music.common.views.NestedCoordinatorLayout>
+    </eightbitlab.com.blurview.BlurTarget>
+</LinearLayout>
