@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/library_tablet_parent_frame" android:tag="layout-w600dp/library_main_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_library_base_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.recyclerview.SafeRecyclerView android:id="@id/library_main_recyclerview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.google.android.material.tabs.TabLayout android:id="@id/sliding_tabs" android:tag="binding_1" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:shadowColor="@color/system_ultra_light_gray" android:elevation="4.0dip" app:tabGravity="fill" app:tabIndicatorColor="@color/color_primary" app:tabIndicatorFullWidth="true" app:tabIndicatorHeight="2.0dip" app:tabMode="scrollable" app:tabSelectedTextColor="@color/color_primary" app:tabTextAppearance="@style/SlidingTabTitle" app:tabTextColor="@color/secondary_label_color" />
+        <com.apple.android.music.common.views.NonSwipeableViewPager android:id="@id/library_main_viewpager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/fragment_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.apple.android.music.common.views.Loader android:layout_gravity="center" android:id="@id/progress_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:backgroundColor="@color/background_color" app:horizontal="true" />
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/library_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>
