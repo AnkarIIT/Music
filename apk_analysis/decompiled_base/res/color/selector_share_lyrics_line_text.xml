@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="@color/white_alpha_94" />
+    <item android:color="@color/share_lyrics_line_text_inactive" android:state_activated="false" />
+    <item android:color="@color/label_color_alpha_70" />
+</selector>
