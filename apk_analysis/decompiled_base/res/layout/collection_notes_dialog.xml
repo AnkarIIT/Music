@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/collection_notes_dialog_0" android:background="@color/background_color" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:id="@id/notes_collection_title" android:paddingTop="@dimen/padding_20" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Title2Medium" />
+    <ScrollView android:id="@id/scroll_view" android:paddingTop="@dimen/default_padding" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" android:scrollbarFadeDuration="10">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/notes_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:textDirection="anyRtl" android:paddingEnd="@dimen/default_padding" style="@style/Body" />
+    </ScrollView>
+</LinearLayout>
