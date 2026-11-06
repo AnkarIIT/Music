@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:topLeftRadius="@dimen/player_sheet_corner_radius" android:topRightRadius="@dimen/player_sheet_corner_radius" android:bottomLeftRadius="0.100000024dip" android:bottomRightRadius="0.100000024dip" />
+    <solid android:color="@color/background_color_layer1" />
+</shape>
