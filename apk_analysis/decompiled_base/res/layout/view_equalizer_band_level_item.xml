@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/view_equalizer_band_level_item_0" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/band_level_seek_bar_top_padding" />
+    <com.apple.android.music.equalizer.BandLevelBar android:layout_gravity="center_horizontal" android:tag="binding_1" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="@dimen/band_level_seek_bar_height" app:barDrawable="@drawable/video_seekbar_progress" app:thumbColor="@color/color_primary" />
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center_horizontal" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Subhead" />
+</LinearLayout>
