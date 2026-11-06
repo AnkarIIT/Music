@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/grid_d2_container" android:tag="layout/grid_d2_0" android:padding="@dimen/endMargin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:layout_gravity="center_vertical" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="@dimen/grid_d_2_image_size" />
+    <Space android:layout_width="@dimen/default_padding" android:layout_height="fill_parent" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/grid_d2_secondary_subtitle" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/EyeBrow" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/title_grid_d2" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:ellipsize="end" android:id="@id/subtitle_d2" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Footnote" />
+        <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_8" />
+        <com.apple.android.music.common.PageHeaderActionButton android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>
