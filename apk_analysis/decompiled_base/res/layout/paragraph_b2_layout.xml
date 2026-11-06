@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/paragraph_b2_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_b_title" android:tag="binding_1" android:paddingTop="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/ParagraphTitleStyle" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_b_body" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+</LinearLayout>
