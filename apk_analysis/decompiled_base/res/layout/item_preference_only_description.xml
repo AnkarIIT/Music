@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/description_only_layout" android:focusable="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:textSize="14.0sp" android:textColor="@color/secondary_label_color" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" android:paddingEnd="@dimen/default_padding" android:layout_alignParentStart="true" style="@style/DefaultFont" />
+    <View style="@style/Divider" />
+</LinearLayout>
