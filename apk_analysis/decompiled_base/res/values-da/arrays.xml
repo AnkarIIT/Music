@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item> tusind</item>
+        <item> mio</item>
+        <item> mia</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Lys</item>
+        <item>Mørk</item>
+        <item>Systemstandard</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Lagringsplads på enhed</item>
+        <item>SD‑kort</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple indsamler oplysninger om, hvordan du bruger Apple Music og Apple Music Classical, f.eks. de sange, du afspiller, og hvor længe du afspiller dem, for at kunne personliggøre tjenesterne, når du abonnerer, sende dig notifikationer og kompensere vores partnere.</item>
+        <item>Dit Apple-bibliotek i netskyen sender oplysninger fra dit musikbibliotek på din enhed til Apple, f.eks. navne på sange eller kunstnere, for at identificere og give adgang til kopier af de af dine sange, som også er tilgængelige i Apple Music.</item>
+        <item>Vi knytter oplysningerne om dit bibliotek i netskyen til dig, så længe du bliver ved med at abonnere, og i kort tid derefter. Vi gemmer optegnelser over de sange, du afspiller, i det tidsrum, der er anført i gældende love mht. økonomisk rapportering.</item>
+        <item>For at finde og forhindre svindel bruges oplysninger om, hvordan du bruger enheden – herunder det omtrentlige antal telefonopkald eller e-mails, som du sender og modtager – til at beregne en enhedstillidsscore, når du forsøger at foretage et køb. Indsendelserne er udviklet således, at Apple ikke får kendskab til de faktiske værdier på din enhed. Scorerne opbevares i en afgrænset periode på vores servere.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Det er meget vigtigt for alle hos Apple at beskytte sikkerheden og anonymiteten af dine oplysninger. Vi arbejder hårdt for kun at indsamle de data, vi skal bruge for at gøre din oplevelse bedre, og når vi indsamler data, mener vi, at det er vigtigt for dig at vide, hvad vi indsamler, og hvorfor vi har brug for dem, så du kan vælge på et oplyst grundlag. Apple Music og Apple Music Classical er ligesom alle andre Apple-produkter og -tjenester udviklet i henhold til disse principper.
+
+Vi bruger dine personlige data til at levere tjenesterne og funktionerne i Apple Music. Disse oplysninger inkluderer dit navn og fotoet i din Apple‑konto, hvis du har indstillet et, som du kan få adgang til og ændre i indstillingerne til appen Apple Music og bruge til funktionerne til deling i Apple Music, samt din konto, status for Apple-abonnementer og betalingsoplysninger, som du kan få adgang til og ændre i Indstillinger eller Systemindstillinger.
+
+Når du abonnerer på Apple Music, inkluderer dit abonnement fuld adgang til Apple Music og Apple Music Classical. Apple indsamler oplysninger om, hvordan du bruger Apple Music og Apple Music Classical for at kunne skræddersy funktioner til din musiksmag. Disse funktioner inkluderer tilpassede anbefalinger, f.eks. album og playlister udvalgt til dig, og Radio, der spiller udvalgte sange fra dine foretrukne kunstnere og genrer. Vi bruger også disse oplysninger til at kontakte dig via e-mail og push-notifikationer om kommende udgivelser, nye kunstnere og andre begivenheder på Apple Music og Apple Music Classical, som du måske vil synes om.
+
+Nogle funktioner i Apple Music, f.eks. visse radiostationer, er muligvis ikke tilgængelige i dit område. Apple bruger muligvis IP-adressen til din internetforbindelse for at få din omtrentlige lokalitet og bestemme tilgængelighed.
+
+Apple Music Classical
+
+Apple Music-abonnenter har adgang til Apple Music Classical, som er en app med klassisk musik designet på en måde, så du kan opdage klassiske musikstykker og album og gemme alle dine yndlingsmusikstykker på et sted. Du kan gennemse Apple Music Classical-kataloget uden et abonnement, men du skal have et abonnement på Apple Music for at få adgang til alle funktionerne i Apple Music Classical. Hvis du ikke har et aktivt abonnement på Apple Music, får du mulighed for at abonnere på Apple Music, så du får fuld adgang til Apple Music Classical.
+
+Bibliotek i netskyen
+
+Dit Apple-bibliotek i netskyen, som er en af fordelene ved Apple Music-abonnementet, giver dig adgang til sangene og playlisterne i dit bibliotek fra alle dine enheder. Med denne funktion sendes oplysninger fra dit musikbibliotek på din enhed til Apple, f.eks. navne på sange eller kunstnere, for at identificere og give adgang til kopier af de af dine sange, som også er tilgængelige i Apple Music og Apple Music Classical. Sange, der ikke findes i Apple Music, overføres til dit personlige bibliotek i netskyen, så du har adgang til hele din musiksamling fra alle dine enheder via Apple Music. Gå til Indstillinger > Apps > Musik på din iOS-, iPadOS- eller visionOS-enhed, og tryk for at slå Synkroniser bibliotek fra for at stoppe synkronisering af dit bibliotek i netskyen. På Mac skal du åbne Musik. Gå derefter til Indstillinger > Generelt, og fravælg Synkroniser bibliotek.
+
+Apple Music-profil
+
+Hvis du gerne vil i kontakt med andre brugere af Apple Music eller dele noget med dem, kan du oprette en personlig profil ved at vælge et brugernavn (f.eks. @clarafriis), et skærmnavn og eventuelt et profilfoto og andre oplysninger. Apple opbevarer disse oplysninger sammen med din konto, så du har adgang til dem fra alle dine enheder. Dit brugernavn, skærmnavn og profilfoto kan blive vist sammen med evt. indhold, du sender, og aktiviteter, du deler på Apple Music. Deling og publicering af indhold er i øjeblikket ikke beregnet til eller tilgængeligt for Apple‑konti til børn.
+
+Andre kan muligvis finde din Apple Music-profil ved hjælp af de oplysninger, du har givet.
+
+Du kan nøjes med at gøre indholdet af din profil, f.eks. lytteaktivitet og playlister, tilgængeligt for dem, du vælger. Men profiloplysninger som navn, skærmnavn, foto, dine følgere og dem, du følger, er som standard synlige for alle. Du blokerer en bruger fra at se din profil ved at gå til brugerens profil, trykke på Mere og derefter trykke på Bloker. Personer, du blokerer, kan ikke se din musik eller finde din profil i Apple Music.
+
+Når du opretter en profil på Apple Music, vil vi anbefale andre Apple Music-abonnenter, som du muligvis vil oprette venskab til. Apple hverken får eller lagrer oplysninger fra dine kontakter, når der søges efter venner, der kan anbefales. Det er kun forkortede og krypterede hashes af telefonnumrene og e-mailadresserne for dine kontakter, der bliver sendt til Apple. Og derefter bliver matchende Apple Music-abonnenter, der kan anbefales, bestemt lokalt på din enhed. Apple Music kan regelmæssigt tjekke dine kontakter for at anbefale nye venner i fremtiden. Du kan styre dette ved at gå til Kontoindstillinger > Anonymitet &amp; sikkerhed > Kontakter i Apple Music. Hvis du ikke ønsker at blive fundet af andre på basis af de kontaktoplysninger, der er forbundet med din Apple-konto, som de kan have om dig i deres kontakter, kan du slå funktionen fra ved at gå til Kontoindstillinger > Anonymitet &amp; sikkerhed > Bliv fundet via Apple‑konto.
+
+Du kan altid opdatere eller fjerne oplysninger, som du lægger ind på din profil. Du skal altid overveje nøje, hvad du offentliggør, når du deler noget på nettet. Når du deler fra Apple Music på andre websteder eller sociale netværk, er alt det, du deler, underlagt de andre tjenesters anonymitetspolitikker.
+
+SharePlay
+
+Når du abonnerer på Apple Music, kan du være vært for SharePlay-sessioner, når der er oprettet forbindelse til et Apple TV, en HomePod, CarPlay, eller når Bluetooth anvendes. Med SharePlay kan andre abonnenter på Apple Music deltage i din SharePlay-session og styre musikken, der afspilles via Apple Music. Med SharePlay kan brugere, som ikke har et abonnement på Apple Music, også deltage i din SharePlay-session. Apple bruger Bluetooth, hvis det er slået til på din enhed, til at gøre det muligt for dine kontakter i nærheden at finde din Apple Music-session og anmode om at deltage. Hvis du ikke vil have, at kontakter kan finde din enhed og anmode om at deltage i din Apple Music-session, kan du slå synlighed for kontakter i nærheden fra i indstillingerne til appen Musik. Kontakter, og andre deltagere, kan også deltage i sessionen ved at scanne QR-koden, der vises i indstillingerne til appen Musik eller i køretøjets grænseflade, hvis de deltager i en SharePlay-session i bilen.
+
+Navnet og profilfotoet for deltagerne i sessionen kan ses af alle i sessionen. Bidrag til en SharePlay-session krediteres den person, der står bag tilføjelsen, og tilknyttes brugerens navn og profilfoto, hvis disse er blevet angivet. Disse oplysninger kan altid redigeres i indstillingerne i appen Musik. Du kan fjerne deltagere fra en SharePlay-session, som du er vært for, ved at trykke på symbolet for SharePlay i appen Musik og derefter vælge den deltager, du vil fjerne. Du forlader en SharePlay-session ved at trykke på symbolet for SharePlay i appen Musik og derefter trykke på Forlad. Tryk på Slut i appen Musik for at afslutte en SharePlay-session, du er vært for. Apple opbevarer ikke oplysninger om dine kontakter eller andre personer, der deltager i en SharePlay-session, når sessionen slutter.
+
+Du kan også slå SharePlay-sessioner til i Beskeder eller under et FaceTime-opkald for at dele musik synkront med andre personer. Hvis du vil starte en session, skal du vælge musikken, du vil lytte til, og derefter trykke på SharePlay i musikindstillingerne, skrive kontakterne, der skal deles med, og derefter trykke på “Beskeder” eller “FaceTime”.
+
+Opret og samarbejd om playlister
+
+Apple Music-abonnenter kan oprette deres egne playlister eller bruge Playlist Playground (hvis tilgængelig) til at generere en playliste vha. kunstig intelligens. Når du bruger Playlist Playground, kan du beskrive, hvad du gerne vil høre, og beskrivelsen behandles for at forstå stemningen, genren eller temaet. Oplysningerne"</item>
+        <item>" kombineres med din lyttehistorik og andre brugsdata til at skabe en tilpasset playliste. Afspilningslisten kan justeres, inden den gemmes, og den genererede playliste kan slettes eller ændres når som helst.
+
+Du kan samarbejde om playlister med andre Apple Music-abonnenter. Hvis du er opretteren af playlisten, kan du vælge at godkende hver enkelt person, der tilmelder sig playlisten, eller du kan tillade, at alle med linket til playlisten kan deltage automatisk. Alle deltagere kan tilføje og fjerne sange fra playlisten og reagere med emojis. Bidrag krediteres den person, der står bag tilføjelsen, og tilknyttes brugerens navn og profilfoto, hvis disse er blevet angivet. Disse oplysninger kan altid redigeres i indstillingerne i appen Musik. Alle deltagerne i playlisten, og alle med adgang til den, kan se navn og foto på de andre deltagere. Deltagere i playlisten kan se alle sange og reaktioner, som er tilføjet af andre deltagere. Du kan afslutte samarbejdet ved at fjerne dig selv fra playlisten i dens indstillinger, eller hvis du er opretteren, kan du afslutte samarbejdet fra playlistens indstillinger til administration af samarbejde. Hvis opretteren af playlisten afslutter samarbejdet, omdannes playlisten til en delt playliste, som deltagerne kan få adgang til fra deres Apple Music-bibliotek.
+
+Koncerter
+
+Hvis du giver Apple Music adgang til din lokalitet, bruges din omtrentlige lokalitet muligvis til at gemme en foretrukken by, så du kan få relevante oplysninger, f.eks. koncerter i nærheden. Hvis du vælger ikke at give Apple Music adgang til din lokalitet, kan du manuelt indtaste en by, som du er interesseret i, for at finde koncerter i nærheden. Den fortrukne by synkroniseres på tværs af enheder, hvis synkronisering er slået til. Du kan altid ændre dine lokalitetsbaserede indstillinger på din iOS- eller iPadOS-enhed ved at gå til Indstillinger > Anonymitet &amp; sikkerhed > Lokalitetstjenester > Musik.
+
+Forbedring og personliggørelse af Apple Music og Apple Music Classical
+
+Når du bruger dit Apple Music-abonnement eller afspiller gratis indhold uden for biblioteket, indsamler vi muligvis oplysninger om de sange og videoer (hvor de er tilgængelige), du afspiller eller føjer til dit musikbibliotek eller dine playlister, og de kunstnere og det indhold, du vælger som favoritter eller deler. Oplysninger som den konto, IP-adresse og enhedens, appens eller bilens grænseflade, som du brugte til at afspille, hvor i Apple Music eller Apple Music Classical du var, da du afspillede musikken, hvilket tidspunkt du afspillede den og hvor længe, registreres og sendes til Apple. Vi bruger disse oplysninger til at tilpasse din oplevelse, til at sende dig e-mails og notifikationer og til at forstå, hvordan Apple Music og Apple Music Classical bruges, så vi kan forbedre vores tjenester. Disse oplysninger kan f.eks. hjælpe os med at vælge den musik, de videoer og det indhold fra kunstnere, vi viser dig i Apple Music og Apple Music Classical. Det giver os også mulighed for at give dig andre anbefalinger, som afspejler din smag, oprette hitlister fra alverdens byer, så du kan se populære musiknumre for forskellige byer, og levere personlige Apple Music-søgeresultater ved hjælp af oplysninger som f.eks. lyttehistorik og yndlingsgenrer. Vi bruger også disse oplysninger til at betale royalties og forhindre eller gribe ind over for handlinger, som er eller kan være i strid med vilkår og betingelser for Apples medietjenester eller den gældende lovgivning.
+
+Hvis du bruger SharePlay til at lytte til lydindhold med andre brugere i Apple Music, indsamler appen Musik oplysninger om indholdet, du lyttede til under SharePlay-sessionen, og det omtrentlige antal deltagere, der deltog i sessionen, men der opbevares ikke nogen oplysninger, der kan identificere deltagerne i en SharePlay-session.
+
+Vi bruger også data fra søgninger i Apple Music til at forbedre modeller, der bruges til Apple Music. Samlede søgninger i Apple Music bruges f.eks. til at finjustere Apple Music-søgemodellen.
+
+Kommunikation med dig
+
+Apple bruger muligvis oplysninger om din konto, f.eks. hvilke Apple-produkter du ejer, de Apple-apps, du henter, og dine abonnementer på Apple-tjenester, til at sende dig information om Apple Music, andre Apple-produkter, -tjenester og -tilbud, der måske interesserer dig, inkl. Apple Music Classical og Apple One. Enhedens serienummer og andre hardware-id’er eller oplysninger om dine relevante abonnementer i App Store kan blive brugt til at kontrollere, om du er berettiget til servicetilbud fra Apple. Hvis du er en del af en familiedelingsgruppe, kan Apple sende dig oplysninger om produkter, tjenester og tilbud, der er tilgængelige for dig via Familiedeling. Hvis du køber et abonnement på Apple One, sender vi dig muligvis e-mails og push-notifikationer om funktionerne i de tjenester, du har valgt at abonnere på. Apple bruger muligvis også oplysninger om din aktivitet i Apple Music og Apple Music Classical og dine interaktioner med tjenester, der bruges til at bekræfte berettigelse til tilgængelige abonnementstilbud til Apple Music (f.eks. Apple Music-studieabonnementer), til at sende dig e-mails og push-notifikationer om nye funktioner, nyt indhold, nye begivenheder og tilbud i Apple Music og Apple Music Classical. Nogle meddelelser bruger et hardware-id til at filtrere notifikationerne, du modtager. Du kan ændre dine e-mailindstillinger og fravælge at modtage disse e-mails på account.apple.com. Gå til Indstillinger > Notifikationer > Musik for at opdatere dine indstillinger til notifikationer på din iOS-, iPadOS- eller visionOS-enhed. På Mac skal du åbne Musik. Gå derefter til Indstillinger > Generelt > Notifikationer. Apple bruger oplysninger om dine interaktioner med information fra os, herunder notifikationer, til at forbedre vores tjenester.
+
+Forhindring af svindel og andre ondsindede aktiviteter
+
+Vi beregner en enhedstillidsscore på din enhed, når du forsøger at foretage et køb, ved hjælp af oplysninger om, hvordan du bruger din enhed, herunder det omtrentlige antal telefonopkald eller e-mails, du sender og modtager. Indsendelsen er udviklet på en sådan måde, at Apple ikke kan finde frem til de bagvedliggende værdier på din enhed. Scoren opbevares i en afgrænset periode på vores servere. Apple bruger muligvis også oplysninger om dine tidligere forretningsforhold med Apple til at behandle fornyelser af dit abonnement på Apple Music og bestemme, om løbende adgang til dit abonnement kan leveres forud for godkendelse fra betalingspartneren.
+
+Videregivelse af oplysninger til tredjeparter
+
+Radiostationer
+Når du bruger Apple Music til at lytte til radioudsendelser, opretter enheden direkte forbindelse til radiostationen for at levere det ønskede indhold til dig. Når der oprettes forbindelse, bliver din enheds IP-adresse synlig for radiostationen. Radiostationens håndtering af din IP-adresse er underlagt anonymitetspolitikkerne hos radiostationen eller dens udbyder.
+
+Pladeselskaber, kunstnere og udbydere af hitlister
+Vi er forpligtet til at videregive samlede data, der indeholder visse ikke-personlige data om brugen af Apple Music og Apple Music Classical, samt samlede data om brugerdemografi, f.eks. aldersgruppe og køn (hvilket muligvis kan udledes fra oplysninger som navn og velkomstbesked i din Apple‑konto), til pladeselskaber, udgivere og kunstnere, så de kan måle resultaterne af det, de har skabt, og opfylde krav i forbindelse med royalties og bogføring. Derudover deler vi samlede data over lytteaktivitet med skabere af musikhitlister over hele verden, med pladeselskaber og kunstnere for at måle engagement, herunder i realtid, og med markedsføringsplatforme i musikindustrien, der hjælper pladeselskaber og kunstnere med at finde lyttere. Hvis du abonnerer på Apple Music via en tredjepartspartner, som f.eks. en mobilnetværksudbyder, deles begrænsede oplysninger, der kan identificere dig personligt, med partneren for at afgøre, om du er berettiget til et abonnement, eller for at gennemføre køb.
+
+Forbindelse mellem Apple Music og andre apps
+
+iOS-, iPadOS og visionOS-apps og apps på andre platforme end Apples kan anmode om adgang til Apple Music og dit bibliotek i netskyen. Hvis"</item>
+        <item>" du giver en app tilladelse, kan den få adgang til oplysninger om dit bibliotek i netskyen på enheden, om, hvorvidt du abonnerer på Apple Music, om dine aktiviteter mht. afspilning af musik og videoer og om dine anbefalinger i Apple Music. En tilladt app kan også ændre data forbundet med din konto, f.eks. hvilke sange der er i dit bibliotek og på dine playlister. Hvis du giver appen Fotos adgang til Apple Music, kan Fotos bruge sange fra Apple Music til film med minder. Når du opretter en speciel film med minder i Fotos, bliver oplysninger om din indtastede anmodning muligvis sendt til Apple Music med henblik på at vælge musik, der skal afspilles med filmen. Apple-apps med understøttet indhold, f.eks. Fjernbetjening, opretter også automatisk forbindelse, når du starter med at bruge appen Musik og understøttet indhold. Du kan slå en apps adgang fra på din iOS-, iPadOS- eller visionOS-enhed ved at gå til Indstillinger > Anonymitet &amp; sikkerhed > Medier &amp; Apple Music. På Mac skal du gå til Systemindstillinger > Anonymitet &amp; sikkerhed > Anonymitet > Medier &amp; Apple Music. Hvis du har fjernet appen eller givet en app adgang via en tidligere version af iOS end iOS 11 eller iPadOS, kan du slå adgangen fra i dine kontoindstillinger i Apple Music.
+
+Apple Music-abonnementer via Apple-partnere
+
+Hvis udbyderen af dit mobilnetværk tilbyder Apple Music-abonnementer og gratis prøveperioder, kontrollerer Apple muligvis dit telefonnummer for at afgøre, om dette er tilgængeligt for dig via en udbyder af mobilnetværk. Hvis du tilmelder dig et Apple Music-abonnement eller en gratis prøveperiode via udbyderen af dit mobilnetværk eller en af Apples partnere, bruger Apple dit telefonnummer eller et unikt konto-id, der deles af partneren, til at identificere din konto og til at give udbyderen eller en anden partner besked om, at du har aktiveret dit abonnement. Vi bruger det telefonnummer eller det unikke id, der er knyttet til dit abonnement, til at kontrollere din konto, når du logger ind, og til at forbinde din aktivitet på Apple Music med din konto. Vi bruger også dit telefonnummer til at anmode om annullering af dit abonnement hos din udbyder af mobilnetværk på dine vegne, hvis du anmoder om dette.
+
+Opbevaring
+
+Vi opbevarer personlige data, der er knyttet til din brug af og interaktion med Apple Music og Apple Music Classical, i forskellige tidsrum afhængigt af forretningsmæssige årsager, kontraktmæssige forpligtelser og lovkrav.
+
+Oplysninger om din lytteaktivitet, indhold i biblioteket, playlister og dine søgninger opbevares, så længe dit abonnement er aktivt, og i op til to år efter annulleringen af kontoen for at kunne understøtte reaktivering og kommunikere med dig om musik, der måske interesserer dig, og tilbud, du kan være berettiget til. Vi kan også opbevare disse oplysninger, når det er nødvendigt for at overholde krav til økonomisk rapportering i de tidsrum, der er anført i gældende love, som ofte kræver en opbevaringsperiode på mindst 10 år, men som kan forlænges til op til 30 år i områder som f.eks. Kina.
+
+Hvis dit abonnement slutter, opbevarer Apple Music muligvis den musik og de playlister, du tilføjede eller oprettede fra Apple Music-kataloget i en periode, så abonnementet kan genaktiveres, uden at indhold går tabt. Efter denne periode bliver indhold i Apple Music-kataloget muligvis utilgængeligt.
+
+Hvis du sletter din Apple‑konto, opbevares visse data muligvis, hvor det kræves af loven, eller for at beskytte mod svindel, håndhæve Vilkår og betingelser til Apple-medietjenester eller opretholde sikkerheden for Apples tjenester.
+
+Gældende juridisk grundlag for behandling af personlige data
+
+Vi behandler dine personlige data i Apple Music generelt for at opfylde din kontrakt med Apple og som nødvendigt for at levere tjenesten og opfylde vores juridiske forpligtelser. Vi søger samtykke i overensstemmelse med de gældende lokale love, hvor det betragtes som det gældende juridiske grundlag.
+
+Hvor de gældende lokale love gør det muligt, behandler vi personlige data som nødvendigt af hensyn til vores eller en tredjeparts legitime interesser med henblik på:
+
+• At give dig adgang til det indhold i Apple Music og Apple Music Classical, som du lytter til, føjer til dit bibliotek eller henter
+• At tilpasse din oplevelse i Apple Music og Apple Music Classical
+• At identificere og låse kopier af dine sange op, som også er tilgængelige via Apple Music
+• At afgøre tilgængeligheden af indhold i dit område og din berettigelse til tilbud og abonnementer
+• At forbedre og optimere Apple Music og Apple Music Classical for dig og andre, sende dig materiale om appsene Apple Music og Apple Music Classical og andre Apple-produkter, -tjenester og -tilbud, du kan være interesseret i
+• At oprette og vedligeholde din Apple Music-profil og dine playlister
+• At betale royalties til og rapportere til udgivere, pladeselskaber, kunstnere og udbydere af hitlister
+• Forhindring af svindel og andre ondsindede aktiviteter
+
+De anvendte data indeholder:
+
+• Din brug af Apple Music og Apple Music Classical, herunder din interaktion med funktioner, notifikationer og beskeder i appsene samt det indhold, du lytter til, søger efter, ser, føjer til dit bibliotek og henter i Apple Music og Apple Music Classical
+• Oplysninger om din enhed og konto
+• Din IP-adresse
+• Din Apple Music-profil og dine playlister
+• Enhedstillidsscore
+
+Ikke-personlige data
+
+Vi kan indsamle, bruge, overføre og videregive ikke-personlige data til alle formål. Vi kan f.eks. samle dine ikke-personlige data med data fra andre brugere af Apple Music for at forbedre tjenesten. Når du bruger Apple Music, kan vi også indsamle visse målinger relateret til ydeevnen fra din enhed, herunder styrken af radiofrekvenser, landekoden, netværkskoden og den anvendte mobilnetværksteknologi.
+
+Læs mere om Apple Music
+
+Du kan finde flere oplysninger, bl.a. om funktioner og priser, på www.apple.com/dk/apple-music.
+
+Du kan finde oplysninger om Apple Music-webafspilleren og anonymitet på www.apple.com/dk/legal/privacy/data/da/apple-music-web.
+
+Oplysninger indsamlet af Apple vil altid blive behandlet i overensstemmelse med Apples anonymitetspolitik, som kan læses på www.apple.com/dk/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Noget musik</item>
+        <item>Noget</item>
+        <item>Musik</item>
+        <item>Min station</item>
+        <item>Min radiostation</item>
+        <item>Noget musik</item>
+        <item>Nogle sange</item>
+        <item>Noget musik, jeg er vild med</item>
+        <item>Nogle cool sange</item>
+        <item>Musik, jeg kan lide</item>
+    </string-array>
+</resources>
