@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d ứng dụng được kết nối</item>
+        <item quantity="one">%d ứng dụng được kết nối</item>
+        <item quantity="two">%d ứng dụng được kết nối</item>
+        <item quantity="few">%d ứng dụng được kết nối</item>
+        <item quantity="many">%d ứng dụng được kết nối</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d Album</item>
+        <item quantity="two">%d album</item>
+        <item quantity="few">%d album</item>
+        <item quantity="many">%d album</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+        <item quantity="two">%d ngày trước</item>
+        <item quantity="few">%d ngày trước</item>
+        <item quantity="many">%d ngày trước</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
+        <item quantity="two">%d giờ trước</item>
+        <item quantity="few">%d giờ trước</item>
+        <item quantity="many">%d giờ trước</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d tuần trước</item>
+        <item quantity="one">%d tuần trước</item>
+        <item quantity="two">%d tuần trước</item>
+        <item quantity="few">%d tuần trước</item>
+        <item quantity="many">%d tuần trước</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="zero">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="zero">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="zero">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Hủy %d mục</item>
+        <item quantity="one">Hủy %d mục</item>
+        <item quantity="two">Hủy %d mục</item>
+        <item quantity="few">Hủy %d mục</item>
+        <item quantity="many">Hủy %d mục</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Liên kết sẽ hết hạn sau %1$d ngày nữa.</item>
+        <item quantity="zero">Liên kết đã hết hạn.</item>
+        <item quantity="one">Liên kết sẽ hết hạn vào hôm nay.</item>
+        <item quantity="two">Liên kết sẽ hết hạn sau %1$d ngày nữa.</item>
+        <item quantity="few">Liên kết sẽ hết hạn sau %1$d ngày nữa.</item>
+        <item quantity="many">Liên kết sẽ hết hạn sau %1$d ngày nữa.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d buổi hòa nhạc</item>
+        <item quantity="one">%d buổi hòa nhạc</item>
+        <item quantity="two">%d buổi hòa nhạc</item>
+        <item quantity="few">%d buổi hòa nhạc</item>
+        <item quantity="many">%d buổi hòa nhạc</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+        <item quantity="two">%d ngày</item>
+        <item quantity="few">%d ngày</item>
+        <item quantity="many">%d ngày</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="zero">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+        <item quantity="two">%d mục</item>
+        <item quantity="few">%d mục</item>
+        <item quantity="many">%d mục</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d phút</item>
+        <item quantity="one">%,d phút</item>
+        <item quantity="two">%,d phút</item>
+        <item quantity="few">%,d phút</item>
+        <item quantity="many">%,d phút</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">Giờ</item>
+        <item quantity="one">Giờ</item>
+        <item quantity="two">Giờ</item>
+        <item quantity="few">Giờ</item>
+        <item quantity="many">Giờ</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d bài hát mới</item>
+        <item quantity="one">%d bài hát mới</item>
+        <item quantity="two">%d bài hát mới</item>
+        <item quantity="few">%d bài hát mới</item>
+        <item quantity="many">%d bài hát mới</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">Phút</item>
+        <item quantity="one">Phút</item>
+        <item quantity="two">Phút</item>
+        <item quantity="few">Phút</item>
+        <item quantity="many">Phút</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d video nhạc</item>
+        <item quantity="one">%d video nhạc</item>
+        <item quantity="two">%d video nhạc</item>
+        <item quantity="few">%d video nhạc</item>
+        <item quantity="many">%d video nhạc</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d bài hát khác</item>
+        <item quantity="zero">%d bài hát khác</item>
+        <item quantity="one">%d bài hát khác</item>
+        <item quantity="two">%d bài hát khác</item>
+        <item quantity="few">%d bài hát khác</item>
+        <item quantity="many">%d bài hát khác</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d lần phát</item>
+        <item quantity="one">%d lần phát</item>
+        <item quantity="two">%d lần phát</item>
+        <item quantity="few">%d lần phát</item>
+        <item quantity="many">%d lần phát</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="one">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="two">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="few">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="many">%1$d bài hát được thêm vào \"%2$s\"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">Đã thêm %1$d bài hát vào playlist mới</item>
+        <item quantity="one">Đã thêm %1$d bài hát vào playlist mới</item>
+        <item quantity="two">Đã thêm %1$d bài hát vào playlist mới</item>
+        <item quantity="few">Đã thêm %1$d bài hát vào playlist mới</item>
+        <item quantity="many">Đã thêm %1$d bài hát vào playlist mới</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s &amp; %2$d người khác</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s &amp; %2$d người khác</item>
+        <item quantity="two">%1$s &amp; %2$d người khác</item>
+        <item quantity="few">%1$s &amp; %2$d người khác</item>
+        <item quantity="many">%1$s &amp; %2$d người khác</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d bài hát được chọn</item>
+        <item quantity="one">%1$d bài hát được chọn</item>
+        <item quantity="two">%1$d bài hát được chọn</item>
+        <item quantity="few">%1$d bài hát được chọn</item>
+        <item quantity="many">%1$d bài hát được chọn</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">HÃNG THU ÂM</item>
+        <item quantity="one">HÃNG THU ÂM</item>
+        <item quantity="many">HÃNG THU ÂM</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Xóa %1$d bài hát?</item>
+        <item quantity="one">Xóa %1$d bài hát?</item>
+        <item quantity="two">Xóa %1$d bài hát?</item>
+        <item quantity="few">Xóa %1$d bài hát?</item>
+        <item quantity="many">Xóa %1$d bài hát?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d ứng dụng</item>
+        <item quantity="one">%d ứng dụng</item>
+        <item quantity="two">%d ứng dụng</item>
+        <item quantity="few">%d ứng dụng</item>
+        <item quantity="many">%d ứng dụng</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d giây</item>
+        <item quantity="zero">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">Giây</item>
+        <item quantity="zero">Giây</item>
+        <item quantity="one">Giây</item>
+        <item quantity="two">Giây</item>
+        <item quantity="few">Giây</item>
+        <item quantity="many">Giây</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Bạn có thể thêm tối đa %s người nữa vào gia đình của mình.</item>
+        <item quantity="one">Bạn có thể thêm một người nữa vào gia đình của mình.</item>
+        <item quantity="two">Bạn có thể thêm tối đa %s người nữa vào gia đình của mình.</item>
+        <item quantity="few">Bạn có thể thêm tối đa %s người nữa vào gia đình của mình.</item>
+        <item quantity="many">Bạn có thể thêm tối đa %s người nữa vào gia đình của mình.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">Đã chọn %d dòng</item>
+        <item quantity="zero">Chưa chọn dòng nào</item>
+        <item quantity="one">Đã chọn %d dòng</item>
+        <item quantity="two">Đã chọn %d dòng</item>
+        <item quantity="few">Đã chọn %d dòng</item>
+        <item quantity="many">Đã chọn %d dòng</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d người đang hoạt động</item>
+        <item quantity="one">%d người đang hoạt động</item>
+        <item quantity="two">%d người đang hoạt động</item>
+        <item quantity="few">%d người đang hoạt động</item>
+        <item quantity="many">%d người đang hoạt động</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d tập</item>
+        <item quantity="one">%d tập</item>
+        <item quantity="two">%d tập</item>
+        <item quantity="few">%d tập</item>
+        <item quantity="many">%d tập</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">Còn %1$d bài hát</item>
+        <item quantity="one">Còn %1$d bài hát</item>
+        <item quantity="two">Còn %1$d bài hát</item>
+        <item quantity="few">Còn %1$d bài hát</item>
+        <item quantity="many">Còn %1$d bài hát</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="one">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="two">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="few">%1$d bài hát được thêm vào \"%2$s\"</item>
+        <item quantity="many">%1$d bài hát được thêm vào \"%2$s\"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">Đã xóa %d mục</item>
+        <item quantity="one">Đã xóa %d mục</item>
+        <item quantity="two">Đã xóa %d mục</item>
+        <item quantity="few">Đã xóa %d mục</item>
+        <item quantity="many">Đã xóa %d mục</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+        <item quantity="two">%d bài hát</item>
+        <item quantity="few">%d bài hát</item>
+        <item quantity="many">%d bài hát</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d bài hát khả dụng</item>
+        <item quantity="one">%d bài hát khả dụng</item>
+        <item quantity="two">%d bài hát khả dụng</item>
+        <item quantity="few">%d bài hát khả dụng</item>
+        <item quantity="many">%d bài hát khả dụng</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d BÀI HÁT</item>
+        <item quantity="one">%d BÀI HÁT</item>
+        <item quantity="two">%d BÀI HÁT</item>
+        <item quantity="few">%d BÀI HÁT</item>
+        <item quantity="many">%d BÀI HÁT</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d ngày để xác minh trạng thái sinh viên của bạn.</item>
+        <item quantity="one">%1$d ngày để xác minh trạng thái sinh viên của bạn.</item>
+        <item quantity="two">%1$d ngày để xác minh trạng thái sinh viên của bạn.</item>
+        <item quantity="few">%1$d ngày để xác minh trạng thái sinh viên của bạn.</item>
+        <item quantity="many">%1$d ngày để xác minh trạng thái sinh viên của bạn.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d người cộng tác</item>
+        <item quantity="zero">%1$d người cộng tác</item>
+        <item quantity="one">%1$d người cộng tác</item>
+        <item quantity="two">%1$d người cộng tác</item>
+        <item quantity="few">%1$d người cộng tác</item>
+        <item quantity="many">%1$d người cộng tác</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+        <item quantity="two">%d ngày</item>
+        <item quantity="few">%d ngày</item>
+        <item quantity="many">%d ngày</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d tháng</item>
+        <item quantity="one">%d tháng</item>
+        <item quantity="two">%d tháng</item>
+        <item quantity="few">%d tháng</item>
+        <item quantity="many">%d tháng</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d tuần</item>
+        <item quantity="one">%d tuần</item>
+        <item quantity="two">%d tuần</item>
+        <item quantity="few">%d tuần</item>
+        <item quantity="many">%d tuần</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d năm</item>
+        <item quantity="one">%d năm</item>
+        <item quantity="two">%d năm</item>
+        <item quantity="few">%d năm</item>
+        <item quantity="many">%d năm</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+        <item quantity="two">%d ngày trước</item>
+        <item quantity="few">%d ngày trước</item>
+        <item quantity="many">%d ngày trước</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
+        <item quantity="two">%d giờ trước</item>
+        <item quantity="few">%d giờ trước</item>
+        <item quantity="many">%d giờ trước</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+        <item quantity="two">%d phút trước</item>
+        <item quantity="few">%d phút trước</item>
+        <item quantity="many">%d phút trước</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Sau khi phát bài này, bạn có muốn tiếp tục phát hoặc xóa %d bài hát mà bạn đã thêm vào hàng đợi trước đây không?</item>
+        <item quantity="one">Sau khi phát bài này, bạn có muốn tiếp tục phát hoặc xóa %d bài hát mà bạn đã thêm vào hàng đợi trước đây không?</item>
+        <item quantity="two">Sau khi phát bài này, bạn có muốn tiếp tục phát hoặc xóa %d bài hát mà bạn đã thêm vào hàng đợi trước đây không?</item>
+        <item quantity="few">Sau khi phát bài này, bạn có muốn tiếp tục phát hoặc xóa %d bài hát mà bạn đã thêm vào hàng đợi trước đây không?</item>
+        <item quantity="many">Sau khi phát bài này, bạn có muốn tiếp tục phát hoặc xóa %d bài hát mà bạn đã thêm vào hàng đợi trước đây không?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Cập nhật: %d ngày trước</item>
+        <item quantity="zero">Cập nhật: %d ngày trước</item>
+        <item quantity="one">Cập nhật: %d ngày trước</item>
+        <item quantity="two">Cập nhật: %d ngày trước</item>
+        <item quantity="few">Cập nhật: %d ngày trước</item>
+        <item quantity="many">Cập nhật: %d ngày trước</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Cập nhật: %d giờ trước</item>
+        <item quantity="one">Cập nhật: %d giờ trước</item>
+        <item quantity="two">Cập nhật: %d giờ trước</item>
+        <item quantity="few">Cập nhật: %d giờ trước</item>
+        <item quantity="many">Cập nhật: %d giờ trước</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Cập nhật: %d phút trước</item>
+        <item quantity="one">Cập nhật: %d phút trước</item>
+        <item quantity="two">Cập nhật: %d phút trước</item>
+        <item quantity="few">Cập nhật: %d phút trước</item>
+        <item quantity="many">Cập nhật: %d phút trước</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Cập nhật: %d tuần trước</item>
+        <item quantity="one">Cập nhật: %d tuần trước</item>
+        <item quantity="two">Cập nhật: %d tuần trước</item>
+        <item quantity="few">Cập nhật: %d tuần trước</item>
+        <item quantity="many">Cập nhật: %d tuần trước</item>
+    </plurals>
+</resources>
