@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/grid_b_0" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.SquareFrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.CustomImageView android:tag="binding_1" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" />
+        </com.apple.android.music.common.SquareFrameLayout>
+        <com.apple.android.music.common.views.Monogram android:layout_gravity="center" android:tag="binding_2" android:background="@drawable/nav_head_monogram_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" app:initialsSize="45.0sp" app:text_tint_color="@color/white" />
+        <ImageView android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@null" android:scaleType="center" />
+        <ImageView android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SocialBadge" />
+    </FrameLayout>
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_4" />
+    <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:ellipsize="end" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_7" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" style="@style/Subhead" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/grid_bottom_padding" />
+</LinearLayout>
