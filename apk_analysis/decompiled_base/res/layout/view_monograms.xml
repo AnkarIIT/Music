@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fuse="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CircleView android:id="@id/header_user_no_photo_back" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/account_photo" fuse:cv_color="@color/white" fuse:cv_radius="30.0dip" />
+    <com.apple.android.music.common.views.AutosizeTextView android:id="@id/header_user_no_photo_text" android:focusable="false" android:focusableInTouchMode="false" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="4.0dip" style="@style/NavigationHeaderStyle" />
+</FrameLayout>
