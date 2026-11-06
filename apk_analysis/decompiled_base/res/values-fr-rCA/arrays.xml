@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item> k</item>
+        <item> mn</item>
+        <item> md</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Clair</item>
+        <item>Sombre</item>
+        <item>Réglages par défaut du système</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Stockage de l’appareil</item>
+        <item>Carte SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple recueille des informations sur l’utilisation que vous faites d’Apple Music et d’Apple Music Classical, telles que les chansons que vous écoutez et les durées d’écoute, afin de personnaliser les services lorsque vous avez souscrit un abonnement, de vous envoyer des notifications et de rémunérer ses partenaires.</item>
+        <item>Votre bibliothèque infonuagique Apple envoie à Apple des informations qui proviennent de la bibliothèque musicale de votre appareil (chansons, noms d’artiste, etc.) afin de rechercher et de vous offrir des copies de vos titres (si celles-ci sont proposées dans le catalogue Apple Music).</item>
+        <item>Les informations de votre bibliothèque infonuagique vous sont associées tant que vous souscrivez un abonnement, puis pendant une courte durée au terme de votre abonnement. Nous conservons un registre des chansons que vous écoutez pendant la période spécifiée par les lois applicables en matière d’informations financières.</item>
+        <item>Pour mieux cerner et prévenir la fraude, les informations sur l’utilisation que vous faites de votre appareil, notamment le nombre approximatif d’appels ou de courriels que vous envoyez et recevez, sont utilisées pour calculer l’indice de confiance de votre appareil lorsque vous tentez d’effectuer un achat. Les envois sont conçus de manière à ce qu’Apple ne puisse pas mémoriser les valeurs réelles sur votre appareil. L’indice est stocké sur nos serveurs pour une durée déterminée.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"La sécurité et la confidentialité de vos informations personnelles sont primordiales pour Apple. Nous veillons à recueillir uniquement les données qui nous sont nécessaires pour vous fournir des services de qualité. De plus, il nous semble essentiel de vous informer de la nature des informations recueillies et de l’objectif d’une telle collecte, de sorte que vous puissiez faire des choix éclairés. Comme tout autre produit ou service Apple, Apple Music et Apple Music Classical ont été conçus dans le respect de ces principes.
+
+Apple utilise vos données personnelles pour fournir les services et fonctionnalités dans Apple Music. Ces informations comprennent votre nom et la photo associée à votre compte Apple, le cas échéant, qui sont accessibles et modifiables dans les réglages de l’app Musique en lien avec les fonctionnalités de partage dans Apple Music. Elles comprennent des informations relatives à votre compte, à l’état des abonnements Apple et aux paiements, qui sont accessibles et modifiables dans l’app Réglages ou Réglages système.
+
+Lorsque vous vous abonnez à Apple Music, votre abonnement vous permet de bénéficier pleinement d’Apple Music et d’Apple Music Classical. Apple recueille des informations sur la façon dont vous utilisez Apple Music et Apple Music Classical dans le but de personnaliser les fonctionnalités selon vos goûts musicaux. Ces fonctionnalités comprennent des recommandations personnalisées telles que les albums et les listes de lecture choisis pour vous, et Radio, qui diffuse les sélections de vos artistes et de vos genres favoris. Nous utilisons également ces informations pour vous contacter par courriel et envoyer des notifications Push concernant les sorties à venir, les nouveaux artistes et les autres événements sur Apple Music et Apple Music Classical qui pourraient vous intéresser.
+
+Certaines fonctionnalités d’Apple Music, telles que certaines stations de radio, pourraient ne pas être offertes dans votre région. Apple est susceptible d’utiliser l’adresse IP de votre connexion Internet pour connaître approximativement votre position et ainsi déterminer la disponibilité desdites fonctionnalités.
+
+Apple Music Classical
+
+Les abonnés d’Apple Music ont accès à l’app Classique, une application de musique classique conçue pour vous faire découvrir des pistes ainsi que des albums de ce genre. Vous pouvez également conserver vos pistes classiques préférées en un seul endroit centralisé. Vous pouvez parcourir le catalogue Apple Music Classical sans abonnement, mais vous devez souscrire un abonnement à Apple Music pour accéder à toutes les fonctionnalités d’Apple Music Classical. Si vous n’avez pas d’abonnement actif à Apple Music, vous aurez la possibilité de vous y abonner pour obtenir un accès complet à Apple Music Classical.
+
+Bibliothèque infonuagique
+
+Votre bibliothèque infonuagique Apple, comprise dans votre abonnement à Apple Music, vous permet d’accéder aux chansons et listes de lectures de votre bibliothèque à partir de tous vos appareils. Cette fonctionnalité permet d’envoyer à Apple des informations liées à la bibliothèque de votre appareil (chansons, noms d’artiste, etc.) afin de rechercher et de vous offrir des copies de vos titres (si celles-ci sont proposées dans les catalogues Apple Music et Apple Music Classical). Les chansons qui n’ont pas pu être retrouvées dans le catalogue sont téléversées dans votre bibliothèque infonuagique personnelle, afin qu’elles soient elles aussi disponibles sur tous vos appareils par le biais d’Apple Music. Pour interrompre la synchronisation de votre bibliothèque infonuagique sur votre appareil iOS, iPadOS ou visionOS, accédez à Réglages > Apps > Musique, puis désactivez Synchroniser la bibliothèque. Sur Mac, ouvrez Musique et accédez à Réglages > Général, puis désélectionnez Synchroniser la bibliothèque.
+
+Profil Apple Music
+
+Si vous souhaitez prendre contact avec d’autres utilisateurs par l’entremise d’Apple Music, vous pouvez créer un profil personnel en fournissant un pseudonyme (du type @f_thibault), un nom et, éventuellement, une photo de profil et d’autres informations. Ces informations sont stockées sur votre compte de sorte que vous puissiez y accéder à partir de n’importe quel appareil. Vos pseudonyme, nom et photo de profil peuvent apparaître aux côtés des contenus que vous publiez et des activités que vous partagez sur Apple Music. Le partage et la publication de contenus ne sont actuellement pas offerts aux détenteurs de comptes Apple pour enfants, lesquels n’ont pas été conçus à cette fin.
+
+D’autres utilisateurs d’Apple Music peuvent également trouver votre profil à partir des données que vous avez fournies.
+
+Vous pouvez choisir les personnes pour lesquelles le contenu de votre profil, comme votre activité d’écoute et vos listes de lecture, est visible. En contrepartie, tout le monde peut voir par défaut les informations de votre profil comme vos pseudonyme, nom et photo de profil, les personnes qui vous suivent et celles que vous suivez. Pour empêcher un utilisateur de voir votre profil, accédez à son profil, touchez Plus, puis touchez Bloquer. Les personnes que vous bloquez ne pourront ni voir votre musique ni trouver votre profil dans Apple Music.
+
+Au moment de la création d’un profil sur Apple Music, nous vous recommanderons d’autres abonnés d’Apple Music avec lesquels vous pourriez souhaiter vous connecter en tant qu’amis. Apple ne mémorise pas ni ne stocke les informations de vos contacts lors de la recherche des amis à recommander. Seuls les numéros de téléphone et les adresses courriel raccourcis et condensés de vos contacts sont envoyés à Apple; les abonnés d’Apple Music correspondants à recommander sont ensuite déterminés localement sur votre appareil. Apple Music peut vérifier vos contacts périodiquement pour recommander ultérieurement de nouveaux amis. Vous pouvez contrôler cette option en accédant à Réglages du compte > Confidentialité et accès > Contacts sur Apple Music. Si vous ne souhaitez pas que d’autres personnes vous retrouvent grâce aux informations de contact associées à votre compte Apple qui peuvent être présentes dans leurs carnets d’adresses, accédez à Réglages du compte > Confidentialité et accès > Autoriser la recherche par compte Apple.
+
+Vous avez, à tout moment, la possibilité de modifier ou de supprimer les informations associées à votre profil. Prenez garde lorsque vous choisissez de partager des informations en ligne; certaines pourraient être rendues publiques. Les données partagées à partir d’Apple Music vers d’autres sites Web ou réseaux sociaux sont régies par les politiques de confidentialité de ces services.
+
+SharePlay
+
+Lorsque vous vous abonnez à Apple Music, vous pouvez héberger des séances SharePlay lorsque votre appareil est connecté à une Apple TV, à un HomePod, à CarPlay ou à un appareil Bluetooth. Avec SharePlay, d’autres personnes abonnées à Apple Music peuvent se joindre à votre séance SharePlay et contrôler la musique à l’écoute par l’entremise d’Apple Music. SharePlay permet aux utilisateurs non abonnés à Apple Music de se joindre à votre séance SharePlay. Si la connectivité Bluetooth est activée sur votre appareil, Apple l’utilise pour permettre à vos contacts à proximité de découvrir votre séance Apple Music et de demander à s’y joindre. Si vous ne voulez pas que vos contacts puissent découvrir votre appareil et demander de se joindre à votre séance Apple Music, vous pouvez modifier les réglages de l’app Musique pour empêcher les contacts à proximité de découvrir votre appareil. Les contacts ainsi que d’autres participants peuvent également se joindre à la séance en balayant le code QR affiché dans les réglages de l’app Musique ou sur l’interface du véhicule lors d’une séance SharePlay en voiture.
+
+Le nom et la photo de profil des participants à la séance seront visibles par toutes les personnes qui y sont connectées. Les contributions à une séance SharePlay sont attribuées à la personne qui en est à l’origine et sont associées à son nom et à sa photo de profil, qu’elle peut modifier à tout moment dans les réglages de l’app Musique. Vous pouvez retirer les participants d’une séance SharePlay que vous hébergez en"</item>
+        <item>" touchant l’icône SharePlay dans l’app Musique, puis en sélectionnant le participant que vous voulez retirer. Pour quitter une séance SharePlay, touchez l’icône SharePlay dans l’app Musique, puis touchez Quitter. Pour terminer une séance SharePlay dont vous êtes à l’origine, touchez Terminer dans l’app Musique. Apple ne conserve pas les informations concernant vos contacts ou les autres participants s’étant joints à la séance SharePlay une fois celle-ci terminée.
+
+Vous pouvez également lancer des séances SharePlay dans Messages ou au cours d’un appel FaceTime pour partager de la musique avec d’autres. Pour commencer une séance, sélectionnez la musique que vous voulez écouter, touchez SharePlay dans les options, entrez les contacts avec qui vous voulez partager l’écoute, touchez Messages ou FaceTime, puis touchez Commencer.
+
+Création des listes de lecture et collaboration
+
+Les personnes abonnées à Apple Music peuvent créer leurs propres listes de lecture ou utiliser Playlist Playground, lorsque cette fonctionnalité est disponible, pour générer une liste de lecture à l’aide de l’intelligence artificielle. Lorsque vous utilisez Playlist Playground, décrivez ce que vous aimeriez écouter. Ces données sont ensuite traitées pour identifier l’ambiance, le genre ou le thème. Ces informations seront combinées à votre historique d’écoute et à d’autres données d’utilisation pour créer une liste de lecture personnalisée. Vous pouvez affiner la liste de lecture avant de l’enregistrer, et vous pouvez supprimer ou modifier la liste de lecture générée à tout moment.
+
+Vous pouvez collaborer à des listes de lecture avec d’autres personnes abonnées à Apple Music. Si vous avez créé la liste de lecture, vous pouvez choisir d’approuver les personnes qui s’y joignent ou d’autoriser toute personne disposant du lien à s’y joindre automatiquement. Tous les participants peuvent ajouter des chansons à la liste de lecture ou en supprimer, et ajouter des réactions sous la forme d’émojis. Les contributions sont attribuées à la personne qui en est à l’origine et sont associées à son nom et à sa photo de profil, qu’elle peut modifier à tout moment dans les réglages de l’app Musique. Tous les participants à la liste de lecture, et quiconque y a accès, peuvent voir le nom et la photo des autres. Les participants à la liste de lecture peuvent voir toutes les chansons et réactions ajoutées par les autres participants. Pour cesser la collaboration, retirez-vous de la liste de lecture à partir de ses réglages ou, si vous l’avez créée, mettez fin à la collaboration dans les réglages de gestion. Si la personne qui l’a créée met fin à la collaboration, la liste de lecture devient une liste partagée à laquelle les collaborateurs auront accès à partir de leur bibliothèque Apple Music.
+
+Concerts
+
+Si vous autorisez Apple Music à accéder à votre position, une approximation de celle-ci pourrait être utilisée pour enregistrer une ville d’intérêt préférée afin de vous fournir des informations pertinentes, comme des concerts à proximité. Si vous choisissez de ne pas autoriser Apple Music à accéder à votre position, vous pouvez entrer manuellement une ville d’intérêt pour y trouver des concerts. Votre ville d’intérêt sera synchronisée avec vos appareils si la synchronisation est activée. Vous pouvez modifier les réglages basés sur votre position à tout moment sur votre appareil iOS ou iPadOS en accédant à l’app Réglages > Confidentialité et sécurité > Service de localisation > Musique.
+
+Personnaliser et améliorer Apple Music et Apple Music Classical
+
+Lorsque vous utilisez votre abonnement à Apple Music ou que vous écoutez du contenu gratuit en dehors de votre bibliothèque, nous pouvons recueillir des informations relatives aux chansons et aux vidéos (le cas échéant) que vous faites jouer ou que vous ajoutez à votre bibliothèque musicale ou à vos listes de lecture, et aux artistes que vous ajoutez aux favoris ou partagez. Les informations relatives au compte, à l’adresse IP et à l’appareil, à l’app ou à l’interface pour véhicule utilisés lors de la lecture, la section Apple Music ou Apple Music Classical à partir de laquelle vous avez lancé la lecture, ainsi que l’heure et la durée de la lecture, sont recueillies et envoyées à Apple. Ces données nous permettent de personnaliser votre expérience, de vous envoyer des courriels et des notifications, et de comprendre comment Apple Music et Apple Music Classical sont utilisés afin d’améliorer nos services. Par exemple, ces informations peuvent nous aider à sélectionner la musique, les vidéos et le contenu d’artiste que nous vous présentons dans Apple Music et Apple Music Classical. Cela nous permet également d’émettre d’autres recommandations en fonction de vos goûts, de créer des palmarès vous indiquant la musique populaire par ville et de personnaliser les résultats de vos recherches dans Apple Music au moyen d’un ensemble d’informations telles que votre historique d’écoute et vos genres préférés. Nous utilisons également ces informations pour verser les droits d’auteur dus et prendre les mesures nécessaires en cas de violation des modalités des Services multimédias Apple ou des lois en vigueur.
+
+Si vous utilisez SharePlay pour écouter du contenu Apple Music avec d’autres utilisateurs, l’app Musique recueillera des informations sur le contenu écouté pendant la séance SharePlay et le nombre approximatif de participants, mais elle ne conservera aucune information permettant d’identifier ces participants.
+
+Nous utilisons les données de recherche d’Apple Music pour améliorer les modèles qui alimentent Apple Music. Par exemple, les demandes de recherches consolidées d’Apple Music servent à affiner le modèle de recherche d’Apple Music.
+
+Communiquer avec vous
+
+Apple pourrait utiliser des informations relatives à votre compte, telles que les produits Apple que vous possédez, les apps Apple que vous téléchargez et vos abonnements aux services Apple, pour vous envoyer des communications au sujet d’Apple Music et d’autres produits, services et offres d’Apple susceptibles de vous intéresser, y compris Apple Music Classical et Apple One. Le numéro de série de votre appareil et d’autres identifiants matériels ou des détails concernant les abonnements pertinents que vous avez souscrits dans l’App Store pourraient être utilisés pour vérifier l’admissibilité aux offres de service. Si vous faites partie d’un groupe de partage familial, Apple pourrait vous envoyer des communications à propos de produits, de services et d’offres rendus disponibles par cette fonctionnalité. Si vous souscrivez un abonnement à Apple One, nous pourrions vous envoyer des courriels et des notifications Push relatifs aux fonctionnalités de chacun des services auxquels vous avez choisi de vous abonner. Apple pourrait également utiliser des informations sur votre activité dans Apple Music et Apple Music Classical ainsi que votre interaction avec les services utilisés pour vérifier l’admissibilité aux abonnements Apple Music à prix réduit (comme Apple Music pour étudiants) pour vous envoyer des courriels et des notifications Push sur de nouvelles fonctionnalités, des contenus, des événements et des offres proposés dans Apple Music et Apple Music Classical. Pour certaines communications, un identifiant matériel est utilisé pour filtrer les notifications que vous recevez. Vous pouvez modifier vos préférences de courriel et choisir de ne plus recevoir ces courriels en vous rendant sur account.apple.com. Pour mettre à jour vos préférences en matière de notifications sur votre appareil iOS, iPadOS ou visionOS, accédez à Réglages > Notifications > Musique. Sur Mac, ouvrez Musique et accédez à Réglages > Général > Notifications. Apple utilise les informations relatives à vos interactions avec ses communications, y compris les notifications, pour améliorer ses services.
+
+Prévenir la fraude et d’autres activités malveillantes
+
+Nous calculons l’indice de confiance de votre appareil lorsque vous tentez d’effectuer un achat, en utilisant des informations sur votre façon d’utiliser votre appareil, notamment le nombre approximatif d’appels ou de courriels que vous envoyez et recevez. L’envoi est conçu "</item>
+        <item>"de manière à ce qu’Apple ne puisse pas mémoriser les valeurs réelles sur votre appareil. L’indice est stocké sur nos serveurs pour une durée déterminée. Nous pouvons également utiliser des informations sur l’historique de vos relations commerciales avec Apple pour traiter les renouvellements d’abonnement à Apple Music et choisir d’accorder ou non l’accès continu à votre abonnement avant d’avoir reçu l’autorisation du partenaire de paiement.
+
+Divulgation à des tiers
+
+Stations radio
+Lorsque vous utilisez Apple Music pour écouter une diffusion radio, votre appareil se connecte directement à la station de radio pour vous transmettre le contenu demandé. Une fois la connexion établie, la station de radio peut connaître l’adresse IP de votre appareil. Le traitement de votre adresse IP par la station de radio est soumis aux politiques de confidentialité de cette dernière ou de son fournisseur.
+
+Maisons de disques, artistes et compilateurs de palmarès
+Nous sommes dans l’obligation de communiquer certaines données consolidées et non personnelles relatives à l’utilisation d’Apple Music et d’Apple Music Classical, ainsi que des données démographiques consolidées relatives aux utilisateurs, comme la tranche d’âge et le sexe (qui pourrait être déduit en fonction de votre nom et de la formule d’appel réglée pour votre compte Apple), aux maisons de disque, aux éditeurs et aux artistes de sorte qu’ils puissent mesurer les performances de leur travail créatif et calculer leurs droits d’auteur. Par ailleurs, nous partageons l’activité d’écoute consolidée avec les compilateurs de palmarès pour établir les palmarès musicaux partout dans le monde, avec les maisons de disques et les artistes pour mesurer l’engagement, y compris en temps réel, ainsi qu’avec les plateformes de marketing musical qui aident les maisons de disque et les artistes à atteindre les utilisateurs. Pour déterminer l’admissibilité de votre abonnement à Apple Music si vous l’avez souscrit par l’intermédiaire d’un partenaire tiers tel qu’un opérateur cellulaire, ou pour conclure votre achat, nous partageons certaines informations qui sont susceptibles de vous identifier personnellement avec ledit partenaire.
+
+Connexion d’Apple Music à d’autres apps
+
+Les apps iOS, iPadOS et visionOS ainsi que celles sur des plateformes non conçues par Apple peuvent demander l’accès à Apple Music et à votre bibliothèque infonuagique. Si vous autorisez une app, celle-ci pourra accéder à des informations comme la bibliothèque infonuagique sur votre appareil, le fait que vous ayez souscrit un abonnement à Apple Music ou non, votre activité d’écoute de musique et de vidéos et vos recommandations dans Apple Music. Une app autorisée peut aussi modifier les données associées à votre compte, comme la liste des chansons présentes dans votre bibliothèque et vos listes de lecture. Si vous autorisez l’app Photos à accéder à Apple Music, Photos utilisera les chansons d’Apple Music dans les films souvenirs. Lorsque vous créez un film souvenir dans Photos, les informations relatives à la requête que vous entrez pour créer le souvenir peuvent être envoyées à Apple Music pour sélectionner la musique à faire jouer avec le film. Les apps Apple au contenu pris en charge, telles que Télécommande, seront automatiquement associées lorsque vous commencerez à utiliser l’app Musique et le contenu pris en charge. Vous pouvez désactiver l’accès d’une app sur votre appareil iOS, iPadOS ou visionOS en accédant à Réglages > Confidentialité et sécurité > Média et Apple Music. Sur Mac, accédez à Réglages système > Confidentialité et sécurité > Média et Apple Music. Si vous avez supprimé l’app ou que vous avez autorisé une app à l’aide d’une version d’iOS antérieure à iOS 11 ou iPadOS, vous pouvez désactiver son accès dans les réglages de votre compte Apple Music.
+
+Abonnements à Apple Music par l’intermédiaire de partenaires Apple
+
+Certains opérateurs de téléphonie cellulaire proposent des abonnements à Apple Music et des essais gratuits. Il se peut qu’Apple prenne connaissance de votre numéro de téléphone afin de savoir si vous y êtes admissible par l’entremise d’un réseau cellulaire. Si vous souscrivez un abonnement à Apple Music ou effectuez un essai gratuit par l’intermédiaire de votre opérateur de téléphonie cellulaire ou d’un autre partenaire Apple, Apple utilisera votre numéro de téléphone ou un identifiant unique de compte partagé avec le partenaire pour identifier votre compte et informer le réseau cellulaire ou tout autre partenaire de l’activation de votre abonnement. Ils seront employés dans le but de vérifier votre compte lorsque vous vous connecterez au service et pour associer à ce même compte les informations relatives à votre activité sur Apple Music. Nous utilisons également votre numéro de téléphone pour solliciter sur votre demande l’annulation de votre abonnement auprès de votre réseau cellulaire.
+
+Conservation
+
+Nous conservons des données personnelles associées à votre utilisation d’Apple Music et d’Apple Music Classical et à vos interactions avec ces services pendant des durées variables en fonction des besoins d’exploitation, des obligations contractuelles et des exigences légales.
+
+Les informations relatives à votre activité d’écoute, au contenu de votre bibliothèque, à vos listes de lecture et à vos recherches sont conservées pendant toute la durée de votre abonnement et jusqu’à deux ans après la résiliation de votre compte pour permettre la réactivation de celui-ci et pour communiquer avec vous au sujet de la musique qui pourrait vous plaire et d’offres auxquelles vous pourriez être admissible. Nous pouvons aussi conserver ces informations si nécessaire pour nous conformer aux obligations d’élaboration de rapports financiers pour les périodes prévues par les lois applicables, qui exigent souvent une période de conservation d’au moins 10 ans, mais qui peut aller jusqu’à 30 ans dans certains pays comme la Chine.
+
+Si votre abonnement prend fin, Apple Music peut conserver la musique et les listes de lecture que vous avez ajoutées ou créées à partir du catalogue Apple Music pendant une période de grâce afin de vous permettre de réactiver votre abonnement sans perdre votre contenu. Après cette période, le contenu du catalogue Apple Music pourrait ne plus être accessible.
+
+Si vous supprimez votre compte Apple, certaines données peuvent être conservées lorsque la loi l’exige, ou pour vous protéger contre la fraude, faire respecter les modalités des services multimédias Apple ou maintenir la sécurité des services Apple.
+
+Fondement juridique applicable au traitement des données personnelles
+
+De façon générale, nous traitons vos données personnelles dans Apple Music aux fins de l’exécution de votre contrat avec Apple, dans la mesure où cela est nécessaire pour fournir le service, et pour nous conformer à nos obligations légales. Lorsque le consentement est le fondement juridique adéquat, nous le sollicitons conformément aux lois nationales applicables.
+
+Lorsque les lois nationales applicables le prévoient, nous traitons les données à caractère personnel, si nécessaire, aux fins de notre intérêt légitime ou de celui d’un tiers pour :
+
+• donner l’accès au contenu d’Apple Music et d’Apple Music Classical que vous écoutez, ajoutez à votre bibliothèque ou téléchargez;
+• personnaliser votre expérience avec Apple Music et Apple Music Classical;
+• identifier et mettre à disposition des copies de vos chansons qui sont également disponibles dans Apple Music;
+• déterminer la disponibilité du contenu dans votre région et votre admissibilité aux offres et aux abonnements;
+• contribuer à améliorer et à optimiser l’utilisation d’Apple Music et d’Apple Music Classical par tous les utilisateurs, et vous envoyer des communications concernant les apps Musique et Classique ainsi que d’autres produits, services et offres d’Apple susceptibles de vous intéresser;
+• créer et mettre à jour votre profil et vos listes de lecture Apple Music;
+• verser les droits d’auteur dus et produire des rapports pour les éditeurs, les maisons de disque, les artistes et les compilateurs de palmarès;
+• prévenir la fraude et d’autres activités malveillantes.
+
+Les donnée"</item>
+        <item>"s utilisées comprennent :
+
+• votre utilisation des apps Musique et Classique, y compris vos interactions avec les fonctionnalités, les notifications et messages dans les apps, ainsi que le contenu que vous écoutez, recherchez, consultez, ajoutez à votre bibliothèque et téléchargez sur Apple Music et Apple Music Classical;
+• des informations sur votre appareil et votre compte;
+• votre adresse IP;
+• votre profil et vos listes de lecture Apple Music;
+• l’indice de confiance de votre appareil.
+
+Données non personnelles
+
+Nous pouvons recueillir, utiliser, transférer et divulguer des données non personnelles à des fins diverses. Par exemple, nous sommes susceptibles d’agréger vos données non personnelles et celles d’autres utilisateurs dans le but d’améliorer le service. Nous pourrions également recueillir certaines mesures de performance de votre appareil lorsque vous utilisez Apple Music, notamment la force du signal de radiofréquence, l’indicatif du pays, le code réseau et la technologie d’accès à la radio cellulaire.
+
+En apprendre davantage sur Apple Music
+
+Pour obtenir des informations plus détaillées, y compris une description des fonctionnalités ainsi que les tarifs, rendez-vous sur www.apple.com/ca/fr/apple-music.
+
+Pour en savoir plus sur le lecteur Web Apple Music et la confidentialité, rendez-vous sur www.apple.com/legal/privacy/data/fr/apple-music-web.
+
+Les informations recueillies par Apple sont systématiquement traitées conformément à la politique de confidentialité d’Apple, disponible sur www.apple.com/ca/fr/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 Mo</item>
+        <item>200 Mo</item>
+        <item>500 Mo</item>
+        <item>1 Go</item>
+        <item>2 Go</item>
+        <item>5 Go</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>De la musique</item>
+        <item>Quelque chose</item>
+        <item>Musique</item>
+        <item>Ma station</item>
+        <item>Ma station de radio</item>
+        <item>Des chansons</item>
+        <item>Des chansons</item>
+        <item>De la musique que j’adore</item>
+        <item>Des chansons sympas</item>
+        <item>Musique que j’aime</item>
+    </string-array>
+</resources>
