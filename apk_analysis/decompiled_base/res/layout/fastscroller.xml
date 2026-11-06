@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/scrollbase" android:background="@android:color/transparent" android:layout_width="100.0dip" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+    <com.apple.android.music.common.views.CustomTextView android:textSize="40.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/fastscroller_handle" android:background="@drawable/fastscroller_handle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toStartOf="@id/fastscroller_bubble" android:layout_alignStart="@id/scrollbase" style="@style/DefaultFont" />
+    <ImageView android:layout_gravity="end" android:id="@id/fastscroller_bubble" android:background="@android:color/transparent" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fastscroller_bubble" android:contentDescription="fastscroller_track" android:paddingStart="6.0dip" android:paddingEnd="6.0dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>
