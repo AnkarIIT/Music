@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/connect_content_type_a_0" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/connect_item_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0" android:layout_marginStart="@dimen/connect_item_view_padding" android:layout_marginEnd="@dimen/connect_item_view_padding">
+        <com.apple.android.music.common.CustomImageView android:layout_gravity="center_vertical" android:id="@id/image_view" android:tag="binding_1" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" android:layout_margin="@dimen/connect_item_view_padding" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/connect_item_text_spacing_large" android:layout_marginBottom="@dimen/connect_item_text_spacing_large" android:layout_weight="1.0" android:layout_marginEnd="@dimen/connect_item_view_padding">
+            <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/Body" />
+            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/connect_item_text_spacing_small" android:maxLines="1" style="@style/Footnote" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
