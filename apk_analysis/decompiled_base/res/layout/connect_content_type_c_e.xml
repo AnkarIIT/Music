@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/connect_content_type_c_e_0" android:paddingTop="@dimen/connect_item_view_padding" android:paddingBottom="@dimen/connect_item_view_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.ConnectSharedContentImageView android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" />
+    <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:layout_gravity="center_horizontal" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/connect_item_text_spacing_large" android:maxLines="1" style="@style/Body" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:layout_gravity="center_horizontal" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/connect_item_text_spacing_small" android:maxLines="1" style="@style/Subhead" />
+</LinearLayout>
