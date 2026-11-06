@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d ક૰</item>
+        <item quantity="one">%d ક૰</item>
+        <item quantity="two">%d ક૰</item>
+        <item quantity="few">%d ક૰</item>
+        <item quantity="many">%d ક૰</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d મિ૰</item>
+        <item quantity="one">%d મિ૰</item>
+        <item quantity="two">%d મિ૰</item>
+        <item quantity="few">%d મિ૰</item>
+        <item quantity="many">%d મિ૰</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d સે૰</item>
+        <item quantity="one">%d સે૰</item>
+        <item quantity="two">%d સે૰</item>
+        <item quantity="few">%d સે૰</item>
+        <item quantity="many">%d સે૰</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d ઍપ કનેક્ટ થઈ</item>
+        <item quantity="one">%d ઍપ કનેક્ટ થઈ</item>
+        <item quantity="two">%d ઍપ કનેક્ટ થઈ</item>
+        <item quantity="few">%d ઍપ કનેક્ટ થઈ</item>
+        <item quantity="many">%d ઍપ કનેક્ટ થઈ</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d ઍલ્બમ</item>
+        <item quantity="one">%d ઍલ્બમ</item>
+        <item quantity="two">%d ઍલ્બમ</item>
+        <item quantity="few">%d ઍલ્બમ</item>
+        <item quantity="many">%d ઍલ્બમ</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d દિવસ પહેલાં</item>
+        <item quantity="one">%d દિવસ પહેલાં</item>
+        <item quantity="two">%d દિવસ પહેલાં</item>
+        <item quantity="few">%d દિવસ પહેલાં</item>
+        <item quantity="many">%d દિવસ પહેલાં</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d કલાક પહેલાં</item>
+        <item quantity="one">%d કલાક પહેલાં</item>
+        <item quantity="two">%d કલાક પહેલાં</item>
+        <item quantity="few">%d કલાક પહેલાં</item>
+        <item quantity="many">%d કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d અઠવાડિયાં પહેલાં</item>
+        <item quantity="one">%d અઠવાડિયાં પહેલાં</item>
+        <item quantity="two">%d અઠવાડિયાં પહેલાં</item>
+        <item quantity="few">%d અઠવાડિયાં પહેલાં</item>
+        <item quantity="many">%d અઠવાડિયાં પહેલાં</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="zero">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+        <item quantity="two">%d કલાક</item>
+        <item quantity="few">%d કલાક</item>
+        <item quantity="many">%d કલાક</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="zero">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="two">%d મિનિટ</item>
+        <item quantity="few">%d મિનિટ</item>
+        <item quantity="many">%d મિનિટ</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d સેકંડ</item>
+        <item quantity="zero">%d સેકંડ</item>
+        <item quantity="one">%d સેકંડ</item>
+        <item quantity="two">%d સેકંડ</item>
+        <item quantity="few">%d સેકંડ</item>
+        <item quantity="many">%d સેકંડ</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">%d આઇટમ રદ કરો</item>
+        <item quantity="one">%d આઇટમ રદ કરો</item>
+        <item quantity="two">%d આઇટમ રદ કરો</item>
+        <item quantity="few">%d આઇટમ રદ કરો</item>
+        <item quantity="many">%d આઇટમ રદ કરો</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">%1$d દિવસમાં લિંકની મુદત પૂરી થઈ જશે.</item>
+        <item quantity="zero">લિંકની મુદત પૂરી થઈ.</item>
+        <item quantity="one">આજે લિંકની મુદત પૂરી થઈ જશે.</item>
+        <item quantity="two">%1$d દિવસમાં લિંકની મુદત પૂરી થઈ જશે.</item>
+        <item quantity="few">%1$d દિવસમાં લિંકની મુદત પૂરી થઈ જશે.</item>
+        <item quantity="many">%1$d દિવસમાં લિંકની મુદત પૂરી થઈ જશે.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d કૉન્સર્ટ</item>
+        <item quantity="one">%d કૉન્સર્ટ</item>
+        <item quantity="two">%d કૉન્સર્ટ</item>
+        <item quantity="few">%d કૉન્સર્ટ</item>
+        <item quantity="many">%d કૉન્સર્ટ</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+        <item quantity="two">%d દિવસ</item>
+        <item quantity="few">%d દિવસ</item>
+        <item quantity="many">%d દિવસ</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d ક૰</item>
+        <item quantity="one">%d ક૰</item>
+        <item quantity="two">%d ક૰</item>
+        <item quantity="few">%d ક૰</item>
+        <item quantity="many">%d ક૰</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d સે૰</item>
+        <item quantity="zero">%d સે૰</item>
+        <item quantity="one">%d સે૰</item>
+        <item quantity="two">%d સે૰</item>
+        <item quantity="few">%d સે૰</item>
+        <item quantity="many">%d સે૰</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d આઇટમ</item>
+        <item quantity="one">%d આઇટમ</item>
+        <item quantity="two">%d આઇટમ</item>
+        <item quantity="few">%d આઇટમ</item>
+        <item quantity="many">%d આઇટમ</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+        <item quantity="two">%d કલાક</item>
+        <item quantity="few">%d કલાક</item>
+        <item quantity="many">%d કલાક</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="two">%d મિનિટ</item>
+        <item quantity="few">%d મિનિટ</item>
+        <item quantity="many">%d મિનિટ</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d મિનિટ</item>
+        <item quantity="one">%,d મિનિટ</item>
+        <item quantity="two">%,d મિનિટ</item>
+        <item quantity="few">%,d મિનિટ</item>
+        <item quantity="many">%,d મિનિટ</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d સેકન્ડ ફાસ્ટ ફૉરવર્ડ કરો</item>
+        <item quantity="one">%d સેકન્ડ ફાસ્ટ ફૉરવર્ડ કરો</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d સેકન્ડ રિવાઇન્ડ કરો</item>
+        <item quantity="one">%d સેકન્ડ રિવાઇન્ડ કરો</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+        <item quantity="two">%d કલાક</item>
+        <item quantity="few">%d કલાક</item>
+        <item quantity="many">%d કલાક</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">કલાક</item>
+        <item quantity="one">કલાક</item>
+        <item quantity="two">કલાક</item>
+        <item quantity="few">કલાક</item>
+        <item quantity="many">કલાક</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d નવાં ગીત</item>
+        <item quantity="one">%d નવાં ગીત</item>
+        <item quantity="two">%d નવાં ગીત</item>
+        <item quantity="few">%d નવાં ગીત</item>
+        <item quantity="many">%d નવાં ગીત</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="two">%d મિનિટ</item>
+        <item quantity="few">%d મિનિટ</item>
+        <item quantity="many">%d મિનિટ</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">મિનિટ</item>
+        <item quantity="one">મિનિટ</item>
+        <item quantity="two">મિનિટ</item>
+        <item quantity="few">મિનિટ</item>
+        <item quantity="many">મિનિટ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d નવા નોટિફિકેશન</item>
+        <item quantity="one">%d નવું નોટિફિકેશન</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d મ્યૂઝિક વીડિયો</item>
+        <item quantity="one">%d મ્યૂઝિક વીડિયો</item>
+        <item quantity="two">%d મ્યૂઝિક વીડિયો</item>
+        <item quantity="few">%d મ્યૂઝિક વીડિયો</item>
+        <item quantity="many">%d મ્યૂઝિક વીડિયો</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">વધુ %d ગીત</item>
+        <item quantity="zero">વધુ %d ગીત</item>
+        <item quantity="one">વધુ %d ગીત</item>
+        <item quantity="two">વધુ %d ગીત</item>
+        <item quantity="few">વધુ %d ગીત</item>
+        <item quantity="many">વધુ %d ગીત</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d વાર પ્લે કરેલ</item>
+        <item quantity="one">%d વાર પ્લે કરેલ</item>
+        <item quantity="two">%d વાર પ્લે કરેલ</item>
+        <item quantity="few">%d વાર પ્લે કરેલ</item>
+        <item quantity="many">%d વાર પ્લે કરેલ</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="one">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યું છે</item>
+        <item quantity="two">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="few">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="many">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d ગીત નવા પ્લેલિસ્ટમાં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="one">%1$d ગીત નવા પ્લેલિસ્ટમાં ઉમેરવામાં આવ્યું છે</item>
+        <item quantity="two">%1$d ગીત નવા પ્લેલિસ્ટમાં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="few">%1$d ગીત નવા પ્લેલિસ્ટમાં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="many">%1$d ગીત નવા પ્લેલિસ્ટમાં ઉમેરવામાં આવ્યાં છે</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s અને %2$d અન્ય</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s અને %2$d અન્ય</item>
+        <item quantity="two">%1$s અને %2$d અન્ય</item>
+        <item quantity="few">%1$s અને %2$d અન્ય</item>
+        <item quantity="many">%1$s અને %2$d અન્ય</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d ગીત સિલેક્ટ કર્યાં</item>
+        <item quantity="one">%1$d ગીત સિલેક્ટ કર્યું</item>
+        <item quantity="two">%1$d ગીત સિલેક્ટ કર્યાં</item>
+        <item quantity="few">%1$d ગીત સિલેક્ટ કર્યાં</item>
+        <item quantity="many">%1$d ગીત સિલેક્ટ કર્યાં</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">રેકોર્ડ લેબલ</item>
+        <item quantity="one">રેકોર્ડ લેબલ</item>
+        <item quantity="many">રેકોર્ડ લેબલ</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">%1$d ગીત કાઢી નાખવા છે?</item>
+        <item quantity="one">%1$d ગીત કાઢી નાખવું છે?</item>
+        <item quantity="two">%1$d ગીત કાઢી નાખવા છે?</item>
+        <item quantity="few">%1$d ગીત કાઢી નાખવા છે?</item>
+        <item quantity="many">%1$d ગીત કાઢી નાખવા છે?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d ઍપ્સ</item>
+        <item quantity="one">%d ઍપ</item>
+        <item quantity="two">%d ઍપ્સ</item>
+        <item quantity="few">%d ઍપ્સ</item>
+        <item quantity="many">%d ઍપ્સ</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d સેકંડ</item>
+        <item quantity="zero">%d સેકંડ</item>
+        <item quantity="one">%d સેકંડ</item>
+        <item quantity="two">%d સેકંડ</item>
+        <item quantity="few">%d સેકંડ</item>
+        <item quantity="many">%d સેકંડ</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">સેકંડ</item>
+        <item quantity="zero">સેકંડ</item>
+        <item quantity="one">સેકંડ</item>
+        <item quantity="two">સેકંડ</item>
+        <item quantity="few">સેકંડ</item>
+        <item quantity="many">સેકંડ</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">તમે તમારા પરિવારમાં મહત્તમ %s વધુ લોકોને ઉમેરી શકો છો.</item>
+        <item quantity="one">તમે તમારા પરિવારમાં વધુ એક વ્યક્તિને ઉમેરી શકો છો.</item>
+        <item quantity="two">તમે તમારા પરિવારમાં મહત્તમ %s વધુ લોકોને ઉમેરી શકો છો.</item>
+        <item quantity="few">તમે તમારા પરિવારમાં મહત્તમ %s વધુ લોકોને ઉમેરી શકો છો.</item>
+        <item quantity="many">તમે તમારા પરિવારમાં મહત્તમ %s વધુ લોકોને ઉમેરી શકો છો.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d લાઇન સિલેક્ટ કરવામાં આવી</item>
+        <item quantity="zero">કોઈ લાઇન સિલેક્ટ કરેલ નથી</item>
+        <item quantity="one">%d લાઇન સિલેક્ટ કરવામાં આવી</item>
+        <item quantity="two">%d લાઇન સિલેક્ટ કરવામાં આવી</item>
+        <item quantity="few">%d લાઇન સિલેક્ટ કરવામાં આવી</item>
+        <item quantity="many">%d લાઇન સિલેક્ટ કરવામાં આવી</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d લોકો સક્રિય</item>
+        <item quantity="one">%d વ્યક્તિ સક્રિય</item>
+        <item quantity="two">%d લોકો સક્રિય</item>
+        <item quantity="few">%d લોકો સક્રિય</item>
+        <item quantity="many">%d લોકો સક્રિય</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d ઍપિસોડ</item>
+        <item quantity="one">%d ઍપિસોડ</item>
+        <item quantity="two">%d ઍપિસોડ</item>
+        <item quantity="few">%d ઍપિસોડ</item>
+        <item quantity="many">%d ઍપિસોડ</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d ગીત બાકી</item>
+        <item quantity="one">%1$d ગીત બાકી</item>
+        <item quantity="two">%1$d ગીત બાકી</item>
+        <item quantity="few">%1$d ગીત બાકી</item>
+        <item quantity="many">%1$d ગીત બાકી</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="one">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યું છે</item>
+        <item quantity="two">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="few">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+        <item quantity="many">%1$d ગીત “%2$s”માં ઉમેરવામાં આવ્યાં છે</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d આઇટમ કાઢી નાખવામાં આવી</item>
+        <item quantity="one">%d આઇટમ કાઢી નાખવામાં આવી</item>
+        <item quantity="two">%d આઇટમ કાઢી નાખવામાં આવી</item>
+        <item quantity="few">%d આઇટમ કાઢી નાખવામાં આવી</item>
+        <item quantity="many">%d આઇટમ કાઢી નાખવામાં આવી</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d ગીત</item>
+        <item quantity="one">%d ગીત</item>
+        <item quantity="two">%d ગીત</item>
+        <item quantity="few">%d ગીત</item>
+        <item quantity="many">%d ગીત</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d ગીત ઉપલબ્ધ છે</item>
+        <item quantity="one">%d ગીત ઉપલબ્ધ છે</item>
+        <item quantity="two">%d ગીત ઉપલબ્ધ છે</item>
+        <item quantity="few">%d ગીત ઉપલબ્ધ છે</item>
+        <item quantity="many">%d ગીત ઉપલબ્ધ છે</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d ગીત</item>
+        <item quantity="one">%d ગીત</item>
+        <item quantity="two">%d ગીત</item>
+        <item quantity="few">%d ગીત</item>
+        <item quantity="many">%d ગીત</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">તમારા વિદ્યાર્થી સ્ટેટસને વેરિફાઈ કરવા માટે %1$d દિવસ બાકી છે.</item>
+        <item quantity="one">તમારા વિદ્યાર્થી સ્ટેટસને વેરિફાઈ કરવા માટે %1$d દિવસ બાકી છે.</item>
+        <item quantity="two">તમારા વિદ્યાર્થી સ્ટેટસને વેરિફાઈ કરવા માટે %1$d દિવસ બાકી છે.</item>
+        <item quantity="few">તમારા વિદ્યાર્થી સ્ટેટસને વેરિફાઈ કરવા માટે %1$d દિવસ બાકી છે.</item>
+        <item quantity="many">તમારા વિદ્યાર્થી સ્ટેટસને વેરિફાઈ કરવા માટે %1$d દિવસ બાકી છે.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d કોલૅબરેટર</item>
+        <item quantity="zero">%1$d કોલૅબરેટર</item>
+        <item quantity="one">%1$d કોલૅબરેટર</item>
+        <item quantity="two">%1$d કોલૅબરેટર</item>
+        <item quantity="few">%1$d કોલૅબરેટર</item>
+        <item quantity="many">%1$d કોલૅબરેટર</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+        <item quantity="two">%d દિવસ</item>
+        <item quantity="few">%d દિવસ</item>
+        <item quantity="many">%d દિવસ</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d ક૰</item>
+        <item quantity="one">%d ક૰</item>
+        <item quantity="two">%d ક૰</item>
+        <item quantity="few">%d ક૰</item>
+        <item quantity="many">%d ક૰</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d મિ૰</item>
+        <item quantity="one">%d મિ૰</item>
+        <item quantity="two">%d મિ૰</item>
+        <item quantity="few">%d મિ૰</item>
+        <item quantity="many">%d મિ૰</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d મહિના</item>
+        <item quantity="one">%d મહિના</item>
+        <item quantity="two">%d મહિના</item>
+        <item quantity="few">%d મહિના</item>
+        <item quantity="many">%d મહિના</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d સે૰</item>
+        <item quantity="one">%d સે૰</item>
+        <item quantity="two">%d સે૰</item>
+        <item quantity="few">%d સે૰</item>
+        <item quantity="many">%d સે૰</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d અ૰</item>
+        <item quantity="one">%d અ૰</item>
+        <item quantity="two">%d અ૰</item>
+        <item quantity="few">%d અ૰</item>
+        <item quantity="many">%d અ૰</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d વ૰</item>
+        <item quantity="one">%d વ૰</item>
+        <item quantity="two">%d વ૰</item>
+        <item quantity="few">%d વ૰</item>
+        <item quantity="many">%d વ૰</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d દિવસ પહેલાં</item>
+        <item quantity="one">%d દિવસ પહેલાં</item>
+        <item quantity="two">%d દિવસ પહેલાં</item>
+        <item quantity="few">%d દિવસ પહેલાં</item>
+        <item quantity="many">%d દિવસ પહેલાં</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d કલાક પહેલાં</item>
+        <item quantity="one">%d કલાક પહેલાં</item>
+        <item quantity="two">%d કલાક પહેલાં</item>
+        <item quantity="few">%d કલાક પહેલાં</item>
+        <item quantity="many">%d કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%dમિ૰ પહેલાં</item>
+        <item quantity="one">%dમિ૰ પહેલાં</item>
+        <item quantity="two">%dમિ૰ પહેલાં</item>
+        <item quantity="few">%dમિ૰ પહેલાં</item>
+        <item quantity="many">%dમિ૰ પહેલાં</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">આ પ્લે કર્યા પછી, શું તમે પ્લે કરવાનું ચાલુ રાખવા માંગો છો અથવા પહેલેથી જ કતારમાં ઉમેરેલા %d ગીત ક્લિઅર કરવા માંગો છો?</item>
+        <item quantity="one">આ પ્લે કર્યા પછી, શું તમે પ્લે કરવાનું ચાલુ રાખવા માંગો છો અથવા પહેલેથી જ કતારમાં ઉમેરેલ %d ગીત ક્લિઅર કરવા માંગો છો?</item>
+        <item quantity="two">આ પ્લે કર્યા પછી, શું તમે પ્લે કરવાનું ચાલુ રાખવા માંગો છો અથવા પહેલેથી જ કતારમાં ઉમેરેલા %d ગીત ક્લિઅર કરવા માંગો છો?</item>
+        <item quantity="few">આ પ્લે કર્યા પછી, શું તમે પ્લે કરવાનું ચાલુ રાખવા માંગો છો અથવા પહેલેથી જ કતારમાં ઉમેરેલા %d ગીત ક્લિઅર કરવા માંગો છો?</item>
+        <item quantity="many">આ પ્લે કર્યા પછી, શું તમે પ્લે કરવાનું ચાલુ રાખવા માંગો છો અથવા પહેલેથી જ કતારમાં ઉમેરેલા %d ગીત ક્લિઅર કરવા માંગો છો?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="zero">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="one">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="two">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="few">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="many">%d દિ૰ પહેલાં અપડેટ કરેલ</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">%d ક૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="one">%d ક૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="two">%d ક૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="few">%d ક૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="many">%d ક૰ પહેલાં અપડેટ કરેલ</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">%d મિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="one">%d મિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="two">%d મિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="few">%d મિ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="many">%d મિ૰ પહેલાં અપડેટ કરેલ</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">%d અઠ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="one">%d અઠ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="two">%d અઠ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="few">%d અઠ૰ પહેલાં અપડેટ કરેલ</item>
+        <item quantity="many">%d અઠ૰ પહેલાં અપડેટ કરેલ</item>
+    </plurals>
+</resources>
