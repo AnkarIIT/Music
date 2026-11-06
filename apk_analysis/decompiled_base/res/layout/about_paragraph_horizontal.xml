@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:tag="layout/about_paragraph_horizontal_0" android:background="@color/secondary_background_color" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/default_padding" android:layout_marginStart="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_a2_title" android:tag="binding_1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/listen_now_header_title_margin_bottom" android:lineSpacingExtra="10.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/MusicTitle2" />
+    <FrameLayout android:id="@id/artist_about_description" android:tag="binding_2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="13.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/paragraph_a2_title">
+        <include android:id="@id/about_collapsed_textview_container" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/paragraph_a2_body" />
+    </FrameLayout>
+    <FrameLayout android:tag="binding_3" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/paragraph_a2_title" app:layout_constraintTop_toTopOf="@id/artist_about_description">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="16.0dip" layout="@layout/paragraph_a2_description" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
