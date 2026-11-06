@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>K</item>
+        <item>M</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Licht</item>
+        <item>Donker</item>
+        <item>Systeemstandaard</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Apparaatopslag</item>
+        <item>SD-kaart</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normaal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple verzamelt informatie over je Apple Music- en Apple Music Classical-activiteit, zoals de nummers die je afspeelt en hoelang je ze afspeelt, om de voorzieningen op je af te stemmen wanneer je bent geabonneerd, je meldingen te sturen en om onze partners te compenseren.</item>
+        <item>Je Apple cloudbibliotheek verstuurt informatie uit je muziekbibliotheek op je apparaat naar Apple, zoals de titels van nummers en namen van artiesten, om zo exemplaren van je nummers die ook beschikbaar zijn in Apple Music te identificeren en te ontgrendelen.</item>
+        <item>We koppelen je cloud­bibliotheek­informatie aan jou zolang je geabonneerd blijft en gedurende een korte tijd daarna. We bewaren gegevens van de nummers die je afspeelt gedurende de perioden die door de toepasselijke wetgeving met betrekking tot financiële verslaggeving vereist zijn.</item>
+        <item>Om fraude op te sporen en te voorkomen, wordt informatie over je gebruik van het apparaat, waaronder het geschatte aantal telefoongesprekken dat je hebt gevoerd of het geschatte aantal e‑mails dat je hebt verzonden en ontvangen, gebruikt om een vertrouwensscore voor je apparaat te berekenen wanneer je probeert om iets te kopen. Deze berekening is zo ontworpen dat Apple de werkelijke waarden op je apparaat niet kan achterhalen. De scores worden gedurende een vaste tijdsduur op onze servers bewaard.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Bescherming van je privacy en beveiliging van je gegevens is een prioriteit van iedereen bij Apple. We werken er hard aan om alleen die gegevens te verzamelen die we nodig hebben om je ervaring te verbeteren. Als we gegevens verzamelen vinden we het belangrijk dat je weet wat we verzamelen en waarom, zodat je een bewuste keuze kunt maken. Net als alle andere Apple producten en voorzieningen zijn ook Apple Music en Apple Music Classical ontworpen met deze principes in gedachten.
+
+We gebruiken je persoonlijke gegevens om de voorzieningen en functies in Apple Music aan te bieden. Deze gegevens bevatten je naam en de foto van je Apple Account (als je er een hebt ingesteld). Je kunt deze terugvinden en wijzigen in de instellingen voor de Muziek-app en gebruiken met de delingsfuncties in Apple Music. Deze gegevens bevatten verder je accountgegevens, de status van je Apple abonnementen en betalingsgegevens, die je in Instellingen of Systeeminstellingen kunt terugvinden en wijzigen.
+
+Wanneer je je abonneert op Apple Music, is volledige toegang tot de apps Muziek en Klassiek inbegrepen in je abonnement. Apple verzamelt informatie over hoe je Apple Music en Apple Music Classical gebruikt om zo de functies op je muzikale smaak af te stemmen. Tot deze functies behoren gepersonaliseerde aanbevelingen zoals albums en afspeellijsten die voor jou zijn geselecteerd en 'Radio' met selecties van je favoriete artiesten en genres. We gebruiken deze gegevens ook om via e‑mail en push­meldingen contact met je te kunnen opnemen over aanstaande releases, nieuwe artiesten en andere gebeurtenissen de apps Muziek en Klassiek die je leuk zou kunnen vinden.
+
+Bepaalde Apple Music-voorzieningen, zoals bepaalde radiostations, zijn mogelijk niet beschikbaar in je regio. Apple maakt mogelijk gebruik van het IP-adres van je internet­verbinding om je locatie bij benadering en de beschik­bare voor­zieningen te bepalen.
+
+Apple Music Classical
+
+Apple Music-abonnees hebben toegang tot Apple Music Classical, een app voor klassieke muziek die ontworpen is zodat je klassieke nummers en albums kunt ontdekken en je favoriete klassieke nummers op één centrale plek kunt bewaren. Je kunt de Apple Music Classical-catalogus zonder abonnement bekijken, maar je moet een abonnement op Apple Music hebben voor toegang tot alle functies in Apple Music Classical. Als je geen actief abonnement op Apple Music hebt, krijg je de optie om je te abonneren op Apple Music voor volledige toegang tot Apple Music Classical.
+
+Cloudbibliotheek
+
+Je cloud­bibliotheek van Apple, die deel uitmaakt van je Apple Music-abonnement, biedt je vanaf elk van je apparaten toegang tot de nummers en afspeel­lijsten in je bibliotheek. Deze functie verstuurt informatie uit je muziek­bibliotheek op je apparaat, zoals de titels van nummers en namen van de artiesten, naar Apple om zo exemplaren van je nummers die ook beschik­baar zijn in Apple Music en Apple Music Classical te identificeren en te ontgrendelen. Alle nummers die niet worden gevonden in Apple Music, worden naar je persoonlijke cloudbibliotheek geüpload, zodat je via Apple Music vanaf al je apparaten toegang hebt tot je complete verzameling. Als je de synchronisatie van je cloudbibliotheek op je iOS-, iPadOS- of visionOS-apparaat wilt stoppen, ga je in Instellingen naar 'Apps' > Muziek' en tik je om 'Synchroniseer bibliotheek' uit te schakelen. Op de Mac open je Apple Music en ga je in Instellingen naar 'Algemeen' en deselecteer je 'Synchroniseer bibliotheek'.
+
+Apple Music-profiel
+
+Als je met anderen in contact wilt komen of informatie wilt delen via Apple Music, kun je een persoon­lijk profiel aanmaken door een gebruikers­naam (bijvoorbeeld @johnappleseed) en scherm­naam aan te maken, desgewenst aangevuld met een profiel­foto en andere informatie. Apple bewaart deze informatie in je account zodat je er toegang toe hebt vanaf al je apparaten. Je gebruikersnaam, schermnaam en profielfoto kunnen zichtbaar zijn naast alle reacties die je plaatst en activiteiten die je op Apple Music deelt. Het delen en plaatsen van content is momenteel niet bedoeld of beschikbaar voor Apple Accounts van kinderen.
+
+Andere personen kunnen je Apple Music-profiel ook vinden met behulp van de informatie die je hebt verstrekt.
+
+Je kunt de inhoud van je profiel, inclusief luisteractiviteit en afspeellijsten, beschikbaar maken voor alleen door jou geselecteerde personen. Je profielgegevens daarentegen, zoals bijnaam, schermnaam, foto, je volgers en wie jij volgt, zijn standaard zichtbaar voor iedereen. Om een gebruiker te blokkeren, zodat deze je profiel niet ziet, ga je naar het profiel van de gebruiker, tik je op 'Meer' en vervolgens op 'Blokkeer'. Personen die je blokkeert, kunnen je muziek niet zien en je profiel niet vinden in Apple Music.
+
+Wanneer je een profiel aanmaakt op Apple Music, geven wij suggesties voor andere Apple Music-abonnees met wie je wellicht vrienden wilt worden. Apple onthoudt of bewaart geen informatie uit je contacten bij het zoeken naar vrienden om aan te bevelen. Alleen ingekorte en versleutelde hashes van de telefoonnummers en e‑mailadressen in je contacten worden naar Apple verstuurd, waarna lokaal op je apparaat wordt vastgesteld welke Apple Music-abonnees in aanmerking komen om te worden aanbevolen. Apple Music kan je contacten periodiek controleren om in de toekomst nieuwe vrienden aan te bevelen. Je kunt dit wijzigen in de accountinstellingen door naar 'Accountinstellingen' > 'Privacy en toegang' > 'Contacten op Apple Music' te gaan. Als je niet door anderen gevonden wilt worden op basis van Apple Account-contactgegevens die zij over jou hebben in hun contacten, kun je dit wijzigen door in de accountinstellingen naar 'Privacy en toegang' > 'Sta zoeken op Apple Account toe' te gaan.
+
+Je kunt de informatie die je in je profiel verstrekt te allen tijde bijwerken of verwijderen. Denk altijd goed na over wat je open­baar maakt wanneer je iets online deelt. Als je materiaal van Apple Music deelt met andere web­sites of sociale net­werken, valt alles wat je deelt onder het privacy­beleid van die andere diensten.
+
+SharePlay
+
+Als je je abonneert op Apple Music, kun je SharePlay-sessies organiseren wanneer je bent verbonden met een Apple TV, HomePod, CarPlay of wanneer je Bluetooth gebruikt. Met SharePlay kunnen andere abonnees van Apple Music deelnemen aan je SharePlay-sessie en de muziek bedienen die wordt afgespeeld via Apple Music. Met SharePlay kunnen bovendien gebruikers zonder abonnement op Apple Music deelnemen aan je SharePlay-sessie. Als Bluetooth is ingeschakeld op je apparaat, gebruikt Apple dit om contacten bij jou in de buurt je Apple Music-sessie te laten ontdekken en ze te laten vragen eraan deel te nemen. Als je niet wilt dat contacten je apparaat kunnen ontdekken en kunnen vragen om zich aan te melden bij je Apple Music-sessie, kun je 'Detecteerbaar door contacten in de buurt' uitschakelen in de instellingen van de Muziek-app. Contacten, evenals andere deelnemers, kunnen zich ook aanmelden voor de sessie door de QR-code te scannen die wordt weergegeven in de instellingen van de Muziek-app of in het voertuig als ze deelnemen aan een SharePlay-sessie in de auto.
+
+De naam en profielfoto van de deelnemers in de sessie zijn zichtbaar voor iedereen in de sessie. Bijdragen aan een SharePlay-sessie worden toegekend aan de persoon die ze heeft gedaan en zijn gekoppeld aan de naam en profielfoto van die persoon, indien opgegeven. Deze kunnen op elk gewenst moment worden gewijzigd in de instellingen van de Muziek-app. Je kunt deelnemers verwijderen uit een SharePlay-sessie die je organiseert door te tikken op het SharePlay-symbool in de Muziek-app en vervolgens de deelnemer te selecteren die je wilt verwijderen. Om een SharePlay-sessie te verlaten, tik je op het SharePlay-symbool in de Muziek-app en vervolgens op 'Verlaat'. Om een SharePlay-sessie die je organiseert te beëindigen, tik je op 'Stop' in de Muziek-app. Apple bewaart geen informatie over je contacten of andere deelnemers die zich hebben aangemeld bij een SharePlay-sessie nadat de sessie is afgelopen.
+
+Je kunt ook SharePlay-sessies inschakelen in Berichten of tijdens een FaceTime-gesprek om muziek "</item>
+        <item>"synchroon met anderen te delen. Om een sessie te starten, selecteer je de muziek waarnaar je wilt luisteren. Vervolgens tik je op 'SharePlay' in de muziekopties, voer je de contacten in met wie je wilt delen en tik je op 'Berichten' of 'FaceTime' om te beginnen.
+
+Maak afspeellijsten aan en werk eraan samen
+
+Apple Music-abonnees kunnen hun eigen afspeellijsten aanmaken of (indien beschikbaar) Playlist Playground gebruiken om een afspeellijst te genereren met behulp van kunstmatige intelligentie. Wanneer je Playlist Playground gebruikt, beschrijf je wat je wilt horen. Dit wordt verwerkt om de stemming, het genre of het thema te begrijpen. Deze informatie wordt gecombineerd met je luistergeschiedenis en andere gebruiksgegevens om een aangepast afspeellijst samen te stellen. Je kunt de afspeellijst verfijnen voordat je deze bewaart en je kunt de gegenereerde afspeellijst op elk moment verwijderen of wijzigen.
+
+Je kunt samenwerken aan afspeellijsten met andere Apple Music-abonnees. Als jij de maker van de afspeellijst bent, kun je ervoor kiezen om personen die aan de afspeellijst willen deelnemen afzonderlijk goed te keuren. Je kunt ook toestaan dat iedereen met de link naar de afspeellijst automatisch kan deelnemen. Alle deelnemers kunnen nummers aan de afspeellijst toevoegen en uit de afspeellijst verwijderen. Ze kunnen ook emojireacties toevoegen. Bijdragen worden toegekend aan de persoon die ze heeft gedaan en zijn gekoppeld aan de naam en profielfoto van die persoon, indien opgegeven. Deze kunnen op elk gewenst moment worden gewijzigd in de instellingen van de Muziek-app. Alle deelnemers aan de afspeellijst en iedereen met toegang tot de afspeellijst kunnen de naam en foto van andere deelnemers zien. Deelnemers aan afspeellijsten kunnen alle nummers en reacties bekijken die door andere deelnemers zijn toegevoegd. Als je niet meer wilt samenwerken, verwijder je jezelf uit de afspeellijst in de instellingen voor de afspeellijst. Als je de maker van de afspeellijst bent, stop je de samenwerking in de instellingen voor het beheren van de samenwerking. Als de maker van de afspeellijst de samenwerking beëindigt, wordt de afspeellijst een gedeelde afspeellijst waartoe de deelnemers toegang hebben in hun Apple Music-bibliotheek.
+
+Concerten
+
+Als je Apple Music toegang geeft tot je locatie, kan je locatie bij benadering worden gebruikt om een voorkeursplaats op te slaan. Zo kun je lokaal relevante informatie ontvangen, zoals concerten bij jou in de buurt. Als je ervoor kiest om Apple Music geen toegang te geven tot je locatie, kun je handmatig een voorkeursplaats invoeren om concerten daar te zoeken. Je voorkeursplaats wordt gesynchroniseerd op apparaten als synchronisatie is ingeschakeld. Je kunt je locatie­gebonden instellingen op elk moment op je iOS- of iPadOS-apparaat wijzigen door in Instellingen naar 'Privacy en beveiliging' > 'Locatievoorzieningen' > 'Muziek' te gaan.
+
+Apple Music en Apple Music Classical personaliseren en verbeteren
+
+Als je je Apple Music-abonnement gebruikt om gratis content buiten je bibliotheek af te spelen, verzamelen we mogelijk informatie over de nummers en video's (indien van toepassing) die je afspeelt of toevoegt aan je muziekbibliotheek of afspeellijsten. We verzamelen mogelijk ook informatie over de artiesten die en de content die je leuk vindt of deelt. Informatie, zoals de account, het IP‑adres en het apparaat, de app of de auto-interface waarmee je muziek hebt afgespeeld, waar je je in Apple Music of Apple Music Classical bevond toen je muziek afspeelde, het tijdstip waarop je de muziek afspeelde en hoelang wordt bijgehouden en verstuurd naar Apple. We gebruiken deze informatie om je Apple Music-ervaring op maat te maken, om je e‑mails en meldingen te sturen, en om ons te helpen begrijpen hoe Apple Music en Apple Music Classical worden gebruikt zodat we onze voorzieningen kunnen verbeteren. Deze informatie kan ons bijvoorbeeld helpen om muziek, video's en content van artiesten te kiezen die we je tonen in Apple Music en Apple Music Classical. Deze informatie stelt ons ook in staat om je andere aanbevelingen te doen die je smaak weer­spiegelen, hitlijsten per plaats aan te maken om je populaire muziek per plaats te laten zien. Ook kunnen we met deze informatie gepersonaliseerde Apple Music-zoekresultaten bieden op basis van diverse informatie, zoals je luistergeschiedenis en je favoriete genres. We gebruiken deze informatie ook om royalty's te betalen en activiteiten die in strijd zijn met de algemene voorwaarden van Apple Media Services of toepasselijke wetgeving te voorkomen of hiertegen in actie te komen.
+
+Als je SharePlay gebruikt om naar content te luisteren met andere gebruikers op Apple Music, verzamelt de Muziek-app informatie over de content die je hebt beluisterd tijdens de SharePlay-sessie en het geschatte aantal deel­nemers aan de sessie, maar bewaart deze geen gegevens waaruit de identiteit van de deel­nemers aan een SharePlay-sessie kan worden achter­haald.
+
+We gebruiken de zoekgegevens van Apple Music ook om modellen te verbeteren die voor Apple Music worden gebruikt. Er worden bijvoorbeeld verzamelde Apple Music-zoekopdrachten gebruikt om het Apple Music-zoekmodel te verfijnen.
+
+Communicatie met jou
+
+Apple gebruikt mogelijk informatie over je account, zoals de Apple producten die je bezit, de Apple apps die je downloadt en je abonne­menten op diensten van Apple, om je kennis­gevingen te sturen over Apple Music en andere Apple producten, diensten en aanbiedingen die voor jou interessant kunnen zijn, waar­onder Apple Music Classical en Apple One. Het serie­nummer van je apparaat en andere hardware-ID's, of informatie over je relevante App Store-abonnementen, kunnen worden gebruikt om na te gaan of je in aanmerking komt voor aanbiedingen van voorzieningen van Apple. Als je deel uit­maakt van een 'Delen met gezin'-groep, kan Apple je berichten sturen over producten, diensten en aan­biedingen die beschik­baar voor je zijn via 'Delen met gezin'. Als je een abonne­ment neemt op Apple One, kunnen we je e‑mails en push­meldingen sturen over de functies van elk van de diensten waarop je je hebt geabonneerd. Apple gebruikt mogelijk ook informatie over je activiteiten binnen Apple Music en Apple Music Classical en je interactie met voorzieningen die worden gebruikt om te controleren of je in aanmerking komt voor beschikbare Apple Music-abonnementen met korting (zoals Apple Music Student) om je e‑mails en push­meldingen te sturen over nieuwe functies, content, evenementen en aanbiedingen die beschik­baar zijn in Apple Music en Apple Music Classical. Voor sommige kennisgevingen wordt een hardware-ID gebruikt om de meldingen die je ontvangt te filteren. Je kunt je e‑mailvoorkeuren wijzigen en je afmelden voor het ontvangen van dergelijke e‑mails door naar account.apple.com te gaan. Als je je meldings­voorkeuren op je iOS-, iPadOS- of visionOS-apparaat wilt bijwerken, ga je in Instellingen naar 'Meldingen' > 'Muziek'. Op de Mac open je Apple Music en ga je in Instellingen naar 'Algemeen' > 'Meldingen'. Apple gebruikt informatie over je interacties met onze communicatie, waaronder meldingen, om onze diensten te verbeteren.
+
+Fraude en andere kwaad­aardige activiteiten voor­komen
+
+Wanneer je iets probeert te kopen, wordt informatie over je gebruik van het apparaat, waaronder het geschatte aantal telefoon­gesprekken dat je hebt gevoerd of het geschatte aantal e‑mails dat je hebt verzonden en ontvangen, gebruikt om een vertrouwens­score voor je apparaat te berekenen. De berekening is zo ontworpen dat Apple de onder­liggende waarden op je apparaat niet kan achter­halen. De score wordt gedurende een vaste tijds­duur op onze servers bewaard. Apple gebruikt mogelijk ook informatie over je histo­rische zakelijke relatie met Apple om verlengingen van abonnementen op Apple Music te verwerken en te bepalen of voortdurende toegang tot je abonnement moet worden geleverd voordat de betalings­partner toestemming geeft.
+
+Openbaar­making aan derden
+
+Radiostations
+Wanneer je Apple Music gebruikt om naar radio te luisteren, maakt je apparaat recht­streeks verbinding met het radio­station om je van de gevraagde content te voorzie"</item>
+        <item>"n. Wanneer je apparaat verbinding maakt, is het IP-adres van het apparaat zicht­baar voor het radio­station. Hoe het radiostation omgaat met je IP-adres wordt bepaald door het privacybeleid van het radiostation of de aanbieder van het radiostation.
+
+Platenlabels, artiesten en samenstellers van hitlijsten
+Wij zijn verplicht om sommige samen­gevoegde, niet-persoon­lijke gegevens over het gebruik van Apple Music en Apple Music Classical, evenals samen­gevoegde demo­grafische gegevens over de gebruiker, zoals leeftijds­groep en gender (hetgeen kan worden afgeleid uit gegevens zoals je naam en begroeting in je Apple Account), te verstrekken aan platen­labels, uitgevers en artiesten, zodat zij het rende­ment van hun creatieve werk kunnen meten en kunnen voldoen aan royalty- en boek­houd­kundige vereisten. Daarnaast delen we samen­gevoegde luister­activiteit met samen­stellers van hit­lijsten voor hit­parades over de hele wereld, met labels en artiesten om engagement te meten, inclusief in real time, en met muziek­marketing­platforms die labels en artiesten helpen om luisteraars te bereiken. Om te bepalen of je in aanmerking komt voor een abonnement als je je op Apple Music abonneert via een externe partner, zoals een aanbieder van mobiele netwerken, of om je aankoop te voltooien, delen we met die partner beperkte gegevens waaruit je identiteit kan worden afgeleid.
+
+Apple Music verbinden met andere apps
+
+iOS-, iPadOS- en visionOS-apps, evenals apps op platforms die niet van Apple zijn, kunnen om toegang vragen tot Apple Music en je cloudbibliotheek. Als je een app dergelijke toe­stemming geeft, krijgt deze toegang tot informatie over je cloud­bibliotheek op je apparaat, de status van je Apple Music-abonne­ment, je muziek- en video­activiteit en je aanbevelingen in Apple Music. Een app met toestemming kan ook gegevens bewerken die zijn gerelateerd aan je account, zoals welke nummers er in je biblio­theek en afspeel­lijsten staan. Als je de app Foto's toegang geeft tot Apple Music, worden door Foto's nummers van Apple Music afgespeeld bij terugblikfilms. Wanneer je een aangepaste terugblikfilm aanmaakt in Foto's, wordt er mogelijk informatie over de ingevoerde instructie voor het aanmaken van de terugblik naar Apple Music verstuurd om muziek te selecteren die bij de film kan worden afgespeeld. Apple apps met content die wordt ondersteund, zoals Remote, worden ook automatisch gekoppeld wanneer je de Muziek-app en ondersteunde content voor het eerst gebruikt. Je kunt de toegang van een app op je iOS-, iPadOS- of visionOS-apparaat uitschakelen door in Instellingen naar 'Privacy en beveiliging' > 'Media en Apple Music' te gaan. Op de Mac ga je in Systeeminstellingen naar 'Privacy en beveiliging' > 'Privacy' > 'Media en Apple Music'. Als je de app hebt verwijderd of een app toestemming hebt gegeven met een versie van iOS ouder dan iOS 11 of iPadOS, kun je de toegang uitschakelen in de account­instellingen van Apple Music.
+
+Apple Music-abonnementen via partners van Apple
+
+Als je mobiele­netwerk­aanbieder Apple Music-abonnementen en gratis proef­periodes aanbiedt, kan Apple je telefoon­nummer controleren om te bepalen of je in aanmerking komt via een mobiele­netwerk­aanbieder. Als je je aanmeldt voor een abonnement of gratis proefperiode van Apple Music via je mobiele­netwerk­aanbieder of een andere partner van Apple, gebruikt Apple je telefoon­nummer of een unieke account-ID die door de partner is gedeeld om je account te identificeren en om je mobiele­netwerk­aanbieder of andere partner te laten weten dat je je abonne­ment hebt geactiveerd. We gebruiken het telefoon­nummer dat of de unieke ID die aan je abonne­ment is gekoppeld om je account te verifiëren als je inlogt en om je Apple Music‑activiteiten aan je account te koppelen. We gebruiken je telefoon­nummer ook om op jouw verzoek annulering van je abonnement bij je mobiele­netwerk­aanbieder aan te vragen.
+
+Bewaar­periode
+
+We bewaren persoonlijke gegevens die gekoppeld zijn aan je gebruik van en interactie met Apple Music en Apple Music Classical gedurende verschillende tijdsperioden, afhankelijk van bedrijfsbehoeften, contractuele verplichtingen en wettelijke vereisten.
+
+Informatie over je luisteractiviteit, content in je bibliotheek, afspeellijsten en je zoekopdrachten wordt bewaard zolang je abonnement actief is en maximaal twee jaar nadat je account is geannuleerd om heractivering te ondersteunen en om met je te communiceren over muziek waarin je mogelijk interesse hebt en aanbiedingen waarvoor je mogelijk in aanmerking komt. We kunnen deze informatie ook bewaren wanneer dit noodzakelijk is om te voldoen aan verplichtingen met betrekking tot financiële rapportage voor de door toepasselijke wetgeving opgegeven perioden, waarbij vaak een bewaar­periode van ten minste 10 jaar is vereist, maar die in rechtsgebieden zoals China maximaal 30 jaar kan zijn.
+
+Als je abonnement verloopt, behoudt Apple Music mogelijk de muziek en afspeellijsten die je hebt toegevoegd of aangemaakt uit de Apple Music-catalogus gedurende een respijtperiode, zodat je het abonnement kunt heractiveren zonder dat je content kwijtraakt. Na deze periode is content uit de Apple Music-catalogus mogelijk niet meer toegankelijk.
+
+Als je je Apple Account verwijdert, kunnen bepaalde gegevens worden bewaard indien vereist door wet- en regel­geving, of om fraude te voorkomen, de voorwaarden voor Apple Media Services te handhaven of de veiligheid van diensten van Apple te waarborgen.
+
+Toepasselijke juridische basis voor het verwerken van persoonlijke gegevens
+
+We verwerken je persoonlijke gegevens in Apple Music over het algemeen voor het uitvoeren van je contract met Apple, zoals noodzakelijk voor het aanbieden van de voorziening en om onze wettelijke verplichtingen na te leven. Indien instemming de toepasselijke juridische basis is, streven we hiernaar in overeenstemming met toepasselijke lokale wetgeving.
+
+Indien toepasselijke lokale wetgeving dit toestaat, verwerken we persoonlijke gegevens als noodzakelijk voor onze wettelijke belangen of die van een derde partij voor de volgende doeleinden:
+
+• Je toegang geven tot de content in Apple Music en Apple Music Classical dat je beluistert, toevoegt aan je bibliotheek of downloadt
+• Personaliseer je ervaring in Apple Music en Apple Music Classical
+• Exemplaren van je nummers identificeren en ontgrendelen die ook beschikbaar zijn via Apple Music
+• De beschikbaarheid van content in je regio en je bevoegdheid voor aanbiedingen en abonnementen bepalen
+• Helpen bij het verbeteren en optimaliseren van Apple Music en Apple Music Classical voor jou en anderen en je kennisgevingen te sturen over de Apple Music-app en de Apple Music Classical-app en andere producten, diensten en aanbiedingen van Apple die voor jou interessant kunnen zijn
+• Je Apple Music-profiel en -afspeellijsten aanmaken en onderhouden
+• Royalty's betalen aan en rapportage bieden aan uitgevers, labels, artiesten en samenstellers van hitlijsten
+• Fraude en andere kwaadaardige activiteiten voorkomen
+
+De gebruikte gegevens omvatten:
+
+• Je gebruik van de apps Muziek en Klassiek van Apple, waaronder je interacties met functies, in-app meldingen en berichten, en de content die je beluistert, zoekt, bekijkt, toevoegt aan je bibliotheek en downloadt op Apple Music en Apple Music Classical
+• Informatie over je apparaat en account
+• Je IP-adres
+• Je Apple Music-profiel en -afspeellijsten
+• De vertrouwensscore van je apparaat
+
+Niet-persoonlijke gegevens
+
+We kunnen niet-persoon­lijke gegevens voor wille­keurige doel­einden verzamelen, gebruiken, over­dragen en open­baar maken. We kunnen bijvoor­beeld je niet-persoon­lijke gegevens samen­voegen met die van andere Apple Music‑gebruikers om de voorziening zo te verbeteren. We kunnen ook bepaalde prestatie­metingen van je apparaat verzamelen wanneer je Apple Music gebruikt, waaronder radio­frequentie­sterkte, land­code, netwerk­code en mobiele radio­toegangs­technologie.
+
+Meer info over Apple Music
+
+Ga voor meer informatie, waaronder functies en prijzen, naar www.apple.com/nl/apple-music.
+
+Ga voor informatie over Apple Music-web­speler en privacy naar www.apple.com/nl/legal/privacy/data/nl/apple-"</item>
+        <item>"music-web.
+
+De door Apple verzamelde gegevens worden te allen tijde behandeld conform het privacybeleid van Apple, dat je kunt vinden op http://www.apple.com/nl/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Wat muziek</item>
+        <item>Iets</item>
+        <item>Muziek</item>
+        <item>Mijn station</item>
+        <item>Mijn radiostation</item>
+        <item>Deuntjes</item>
+        <item>Wat nummers</item>
+        <item>Muziek die ik te gek vind</item>
+        <item>Goeie nummers</item>
+        <item>Muziek die ik leuk vind</item>
+    </string-array>
+</resources>
