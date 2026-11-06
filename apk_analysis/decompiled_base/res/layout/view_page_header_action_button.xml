@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/view_page_header_action_button_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/headers_multistate_pink_button" android:tag="binding_1" android:background="@drawable/bg_page_header_add_action_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/add_to_library">
+        <ImageView android:layout_width="@dimen/artist_latest_album_add_button_size" android:layout_height="@dimen/artist_latest_album_add_button_size" android:src="@null" android:contentDescription="@string/add_to_library" app:tint="@color/color_primary" />
+        <com.apple.android.music.common.views.AutosizeTextView android:ellipsize="middle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/headers_add" android:singleLine="true" android:layout_marginEnd="@dimen/smaller_margin_8" style="@style/HeadlinePinkButton" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/downloaded_view" android:tag="binding_2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_vertical" android:background="@drawable/bg_page_header_download_state_action_button" android:layout_width="@dimen/artist_latest_album_download_button_size" android:layout_height="@dimen/artist_latest_album_download_button_size" android:src="@null" android:contentDescription="@string/headers_downloaded" app:tint="@color/color_primary" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.TintableImageView android:id="@id/state_download" android:tag="binding_3" android:background="@drawable/bg_page_header_download_state_action_button" android:visibility="gone" android:layout_width="@dimen/artist_latest_album_download_button_size" android:layout_height="@dimen/artist_latest_album_download_button_size" android:src="@drawable/ic_navbar_platter_download" android:contentDescription="@string/download" app:tint="@color/color_primary" />
+    <com.apple.android.music.download.views.DownloadProgressButton android:layout_gravity="center" android:id="@id/state_downloading" android:tag="binding_4" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.apple.android.music.download.views.DownloadProgressButton android:layout_gravity="center" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>
