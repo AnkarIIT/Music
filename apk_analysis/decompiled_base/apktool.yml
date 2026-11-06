@@ -1,0 +1,37 @@
+version: 2.11.0
+apkFileName: base.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 30
+  targetSdkVersion: 36
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1614
+  versionName: 7.0.0
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- dex
+- png
+- webp
+- META-INF/services/Ci.b
+- META-INF/services/Oj.C
+- META-INF/services/Vj.p
+- META-INF/services/com.fasterxml.jackson.core.d
+- META-INF/services/com.fasterxml.jackson.core.l
+- META-INF/services/uh.n
+- META-INF/version-control-info.textproto
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- car-app-api.level
+- okhttp3/internal/publicsuffix/publicsuffixes.gz
+- res/raw/com_android_billingclient_heterodyne_info
+- res/raw/com_android_billingclient_registration_info.binarypb
