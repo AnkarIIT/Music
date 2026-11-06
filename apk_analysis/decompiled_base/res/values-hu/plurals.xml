@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="two">%d perc</item>
+        <item quantity="few">%d perc</item>
+        <item quantity="many">%d perc</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
+        <item quantity="two">%d mp</item>
+        <item quantity="few">%d mp</item>
+        <item quantity="many">%d mp</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d alkalmazás csatlakoztatva</item>
+        <item quantity="one">%d alkalmazás csatlakoztatva</item>
+        <item quantity="two">%d alkalmazás csatlakoztatva</item>
+        <item quantity="few">%d alkalmazás csatlakoztatva</item>
+        <item quantity="many">%d alkalmazás csatlakoztatva</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
+        <item quantity="two">%d album</item>
+        <item quantity="few">%d album</item>
+        <item quantity="many">%d album</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+        <item quantity="two">%d napja</item>
+        <item quantity="few">%d napja</item>
+        <item quantity="many">%d napja</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d órája</item>
+        <item quantity="one">%d órája</item>
+        <item quantity="two">%d órája</item>
+        <item quantity="few">%d órája</item>
+        <item quantity="many">%d órája</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d hete</item>
+        <item quantity="one">%d hete</item>
+        <item quantity="two">%d hete</item>
+        <item quantity="few">%d hete</item>
+        <item quantity="many">%d hete</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="zero">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="zero">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="two">%d perc</item>
+        <item quantity="few">%d perc</item>
+        <item quantity="many">%d perc</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="zero">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+        <item quantity="two">%d másodperc</item>
+        <item quantity="few">%d másodperc</item>
+        <item quantity="many">%d másodperc</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">%d elem visszavonása</item>
+        <item quantity="one">%d elem visszavonása</item>
+        <item quantity="two">%d elem visszavonása</item>
+        <item quantity="few">%d elem visszavonása</item>
+        <item quantity="many">%d elem visszavonása</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">A link %1$d nap múlva lejár.</item>
+        <item quantity="zero">A link lejárt.</item>
+        <item quantity="one">A link ma lejár.</item>
+        <item quantity="two">A link %1$d nap múlva lejár.</item>
+        <item quantity="few">A link %1$d nap múlva lejár.</item>
+        <item quantity="many">A link %1$d nap múlva lejár.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d koncert</item>
+        <item quantity="one">%d koncert</item>
+        <item quantity="two">%d koncert</item>
+        <item quantity="few">%d koncert</item>
+        <item quantity="many">%d koncert</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+        <item quantity="two">%d nap</item>
+        <item quantity="few">%d nap</item>
+        <item quantity="many">%d nap</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d mp</item>
+        <item quantity="zero">%d mp</item>
+        <item quantity="one">%d mp</item>
+        <item quantity="two">%d mp</item>
+        <item quantity="few">%d mp</item>
+        <item quantity="many">%d mp</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d elem</item>
+        <item quantity="two">%d elem</item>
+        <item quantity="few">%d elem</item>
+        <item quantity="many">%d elem</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="two">%d perc</item>
+        <item quantity="few">%d perc</item>
+        <item quantity="many">%d perc</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d perc</item>
+        <item quantity="one">%,d perc</item>
+        <item quantity="two">%,d perc</item>
+        <item quantity="few">%,d perc</item>
+        <item quantity="many">%,d perc</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Előretekerés %d másodperccel</item>
+        <item quantity="one">Előretekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Visszatekerés %d másodperccel</item>
+        <item quantity="one">Visszatekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
+        <item quantity="two">óra</item>
+        <item quantity="few">óra</item>
+        <item quantity="many">óra</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d új dal</item>
+        <item quantity="one">%d új dal</item>
+        <item quantity="two">%d új dal</item>
+        <item quantity="few">%d új dal</item>
+        <item quantity="many">%d új dal</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="two">%d perc</item>
+        <item quantity="few">%d perc</item>
+        <item quantity="many">%d perc</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">perc</item>
+        <item quantity="one">perc</item>
+        <item quantity="two">perc</item>
+        <item quantity="few">perc</item>
+        <item quantity="many">perc</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d zenei videó</item>
+        <item quantity="one">%d zenei videó</item>
+        <item quantity="two">%d zenei videó</item>
+        <item quantity="few">%d zenei videó</item>
+        <item quantity="many">%d zenei videó</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d további dal</item>
+        <item quantity="zero">%d további dal</item>
+        <item quantity="one">%d további dal</item>
+        <item quantity="two">%d további dal</item>
+        <item quantity="few">%d további dal</item>
+        <item quantity="many">%d további dal</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d lejátszás</item>
+        <item quantity="one">%d lejátszás</item>
+        <item quantity="two">%d lejátszás</item>
+        <item quantity="few">%d lejátszás</item>
+        <item quantity="many">%d lejátszás</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="one">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="two">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="few">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="many">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d dal hozzáadva az új lejátszási listához</item>
+        <item quantity="one">%1$d dal hozzáadva az új lejátszási listához</item>
+        <item quantity="two">%1$d dal hozzáadva az új lejátszási listához</item>
+        <item quantity="few">%1$d dal hozzáadva az új lejátszási listához</item>
+        <item quantity="many">%1$d dal hozzáadva az új lejátszási listához</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s és %2$d további személy</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s és %2$d további személy</item>
+        <item quantity="two">%1$s és %2$d további személy</item>
+        <item quantity="few">%1$s és %2$d további személy</item>
+        <item quantity="many">%1$s és %2$d további személy</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d dal kijelölve</item>
+        <item quantity="one">%1$d dal kijelölve</item>
+        <item quantity="two">%1$d dal kijelölve</item>
+        <item quantity="few">%1$d dal kijelölve</item>
+        <item quantity="many">%1$d dal kijelölve</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">LEMEZKIADÓ</item>
+        <item quantity="one">LEMEZKIADÓ</item>
+        <item quantity="many">LEMEZKIADÓ</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Eltávolít %1$d dalt?</item>
+        <item quantity="one">Eltávolít %1$d dalt?</item>
+        <item quantity="two">Eltávolít %1$d dalt?</item>
+        <item quantity="few">Eltávolít %1$d dalt?</item>
+        <item quantity="many">Eltávolít %1$d dalt?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+        <item quantity="two">%d alkalmazás</item>
+        <item quantity="few">%d alkalmazás</item>
+        <item quantity="many">%d alkalmazás</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="zero">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+        <item quantity="two">%d másodperc</item>
+        <item quantity="few">%d másodperc</item>
+        <item quantity="many">%d másodperc</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">másodperc</item>
+        <item quantity="zero">másodperc</item>
+        <item quantity="one">másodperc</item>
+        <item quantity="two">másodperc</item>
+        <item quantity="few">másodperc</item>
+        <item quantity="many">másodperc</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Még legfeljebb %s személyt felvehet a családjába.</item>
+        <item quantity="one">Felvehet még egy személyt a családjába.</item>
+        <item quantity="two">Még legfeljebb %s személyt felvehet a családjába.</item>
+        <item quantity="few">Még legfeljebb %s személyt felvehet a családjába.</item>
+        <item quantity="many">Még legfeljebb %s személyt felvehet a családjába.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d sor kijelölve</item>
+        <item quantity="zero">Nincsenek sorok kijelölve</item>
+        <item quantity="one">%d sor kijelölve</item>
+        <item quantity="two">%d sor kijelölve</item>
+        <item quantity="few">%d sor kijelölve</item>
+        <item quantity="many">%d sor kijelölve</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d személy aktív</item>
+        <item quantity="one">%d személy aktív</item>
+        <item quantity="two">%d személy aktív</item>
+        <item quantity="few">%d személy aktív</item>
+        <item quantity="many">%d személy aktív</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d epizód</item>
+        <item quantity="one">%d epizód</item>
+        <item quantity="two">%d epizód</item>
+        <item quantity="few">%d epizód</item>
+        <item quantity="many">%d epizód</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d dal van hátra</item>
+        <item quantity="one">%1$d dal van hátra</item>
+        <item quantity="two">%1$d dal van hátra</item>
+        <item quantity="few">%1$d dal van hátra</item>
+        <item quantity="many">%1$d dal van hátra</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="one">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="two">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="few">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+        <item quantity="many">%1$d dal hozzáadva a következőhöz: „%2$s”</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d elem eltávolítva</item>
+        <item quantity="one">%d elem eltávolítva</item>
+        <item quantity="two">%d elem eltávolítva</item>
+        <item quantity="few">%d elem eltávolítva</item>
+        <item quantity="many">%d elem eltávolítva</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+        <item quantity="two">%d dal</item>
+        <item quantity="few">%d dal</item>
+        <item quantity="many">%d dal</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d dal érhető el</item>
+        <item quantity="one">%d dal érhető el</item>
+        <item quantity="two">%d dal érhető el</item>
+        <item quantity="few">%d dal érhető el</item>
+        <item quantity="many">%d dal érhető el</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d DAL</item>
+        <item quantity="one">%d DAL</item>
+        <item quantity="two">%d DAL</item>
+        <item quantity="few">%d DAL</item>
+        <item quantity="many">%d DAL</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d nap a tanulói státuszának igazolására.</item>
+        <item quantity="one">%1$d nap a tanulói státuszának igazolására.</item>
+        <item quantity="two">%1$d nap a tanulói státuszának igazolására.</item>
+        <item quantity="few">%1$d nap a tanulói státuszának igazolására.</item>
+        <item quantity="many">%1$d nap a tanulói státuszának igazolására.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d közreműködő</item>
+        <item quantity="zero">%1$d közreműködő</item>
+        <item quantity="one">%1$d közreműködő</item>
+        <item quantity="two">%1$d közreműködő</item>
+        <item quantity="few">%1$d közreműködő</item>
+        <item quantity="many">%1$d közreműködő</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d n</item>
+        <item quantity="one">%d n</item>
+        <item quantity="two">%d n</item>
+        <item quantity="few">%d n</item>
+        <item quantity="many">%d n</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d ó</item>
+        <item quantity="one">%d ó</item>
+        <item quantity="two">%d ó</item>
+        <item quantity="few">%d ó</item>
+        <item quantity="many">%d ó</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d p</item>
+        <item quantity="one">%d p</item>
+        <item quantity="two">%d p</item>
+        <item quantity="few">%d p</item>
+        <item quantity="many">%d p</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d hó</item>
+        <item quantity="one">%d hó</item>
+        <item quantity="two">%d hó</item>
+        <item quantity="few">%d hó</item>
+        <item quantity="many">%d hó</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
+        <item quantity="two">%d mp</item>
+        <item quantity="few">%d mp</item>
+        <item quantity="many">%d mp</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d é</item>
+        <item quantity="one">%d é</item>
+        <item quantity="two">%d é</item>
+        <item quantity="few">%d é</item>
+        <item quantity="many">%d é</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+        <item quantity="two">%d napja</item>
+        <item quantity="few">%d napja</item>
+        <item quantity="many">%d napja</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d órája</item>
+        <item quantity="one">%d órája</item>
+        <item quantity="two">%d órája</item>
+        <item quantity="few">%d órája</item>
+        <item quantity="many">%d órája</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">%d perce</item>
+        <item quantity="two">%d perce</item>
+        <item quantity="few">%d perce</item>
+        <item quantity="many">%d perce</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Ennek a lejátszása után folytatni szeretné a lejátszást, vagy töröl %d előzőleg sorba állított dalt?</item>
+        <item quantity="one">Ennek a lejátszása után folytatni szeretné a lejátszást, vagy töröl %d előzőleg sorba állított dalt?</item>
+        <item quantity="two">Ennek a lejátszása után folytatni szeretné a lejátszást, vagy töröl %d előzőleg sorba állított dalt?</item>
+        <item quantity="few">Ennek a lejátszása után folytatni szeretné a lejátszást, vagy töröl %d előzőleg sorba állított dalt?</item>
+        <item quantity="many">Ennek a lejátszása után folytatni szeretné a lejátszást, vagy töröl %d előzőleg sorba állított dalt?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Frissítve %d napja</item>
+        <item quantity="zero">Frissítve %d napja</item>
+        <item quantity="one">Frissítve %d napja</item>
+        <item quantity="two">Frissítve %d napja</item>
+        <item quantity="few">Frissítve %d napja</item>
+        <item quantity="many">Frissítve %d napja</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Frissítve %d órája</item>
+        <item quantity="one">Frissítve %d órája</item>
+        <item quantity="two">Frissítve %d órája</item>
+        <item quantity="few">Frissítve %d órája</item>
+        <item quantity="many">Frissítve %d órája</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Frissítve %d perce</item>
+        <item quantity="one">Frissítve %d perce</item>
+        <item quantity="two">Frissítve %d perce</item>
+        <item quantity="few">Frissítve %d perce</item>
+        <item quantity="many">Frissítve %d perce</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Frissítve %d hete</item>
+        <item quantity="one">Frissítve %d hete</item>
+        <item quantity="two">Frissítve %d hete</item>
+        <item quantity="few">Frissítve %d hete</item>
+        <item quantity="many">Frissítve %d hete</item>
+    </plurals>
+</resources>
