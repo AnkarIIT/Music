@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout android:tag="layout/shows_header_page_bottom_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:alignContent="center" app:alignItems="center" app:flexWrap="wrap"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:id="@id/moveit_item_genre_year" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="10.0dip" style="@style/SubheadShortSystemGray" />
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:id="@id/duration" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="8.0dip" style="@style/SubheadShortSystemGray" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/rating_description" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="8.0dip" style="@style/Badge" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/badge_cc" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/show_cc" android:layout_marginEnd="8.0dip" style="@style/Badge" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/badge_hd" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/metadatabadge_hd" android:text="@string/show_info_hd" android:layout_marginEnd="8.0dip" style="@style/Badge" />
+</com.google.android.flexbox.FlexboxLayout>
