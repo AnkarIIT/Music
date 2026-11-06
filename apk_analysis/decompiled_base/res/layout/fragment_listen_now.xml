@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/listen_now_container" android:tag="layout/fragment_listen_now_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <eightbitlab.com.blurview.BlurTarget android:id="@id/blur_target" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/listen_now_refresh_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.apple.android.music.common.recyclerview.ScrollInterceptingEpoxyRecyclerView android:orientation="vertical" android:id="@id/listen_now_recycler" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </eightbitlab.com.blurview.BlurTarget>
+    <androidx.compose.ui.platform.ComposeView android:layout_gravity="top" android:id="@id/floating_app_bar_container" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <include android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/view_loader_include" />
+</FrameLayout>
