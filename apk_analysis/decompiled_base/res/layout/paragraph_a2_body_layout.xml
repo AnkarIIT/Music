@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.ExpandCollapseTextView android:ellipsize="end" android:id="@id/paragraph_a2_body" android:tag="layout/paragraph_a2_body_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" app:maxCollapseLines="6" app:moreColor="@color/color_primary" style="@style/Subhead"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
