@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>N</item>
+        <item>Tr</item>
+        <item>T</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Sáng</item>
+        <item>Tối</item>
+        <item>Mặc định hệ thống</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Dung lượng thiết bị</item>
+        <item>Thẻ SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Bình thường</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple thu thập thông tin về hoạt động Apple Music và Apple Music Classical của bạn, ví dụ như các bài hát bạn phát và khoảng thời gian bạn phát, để cá nhân hóa các dịch vụ khi bạn đã đăng ký, gửi thông báo cho bạn và trả tiền cho các đối tác của chúng tôi.</item>
+        <item>Thư viện đám mây Apple gửi thông tin từ thư viện nhạc trên thiết bị của bạn đến Apple, ví dụ như tên bài hát và nghệ sĩ, để xác định và mở khóa bản sao của bất kỳ bài hát nào của bạn cũng có sẵn trong Apple Music.</item>
+        <item>Chúng tôi liên kết thông tin thư viện đám mây với bạn chừng nào bạn vẫn còn tư cách thành viên và trong một khoảng thời gian ngắn sau đó. Chúng tôi lưu giữ bản ghi về các bài hát mà bạn phát trong những khoảng thời gian được quy định bởi các luật áp dụng liên quan đến báo cáo tài chính.</item>
+        <item>Để giúp xác định và ngăn chặn hành vi gian lận, thông tin về cách bạn sử dụng thiết bị của mình, bao gồm số lượng gần đúng các cuộc gọi điện thoại hoặc email bạn gửi và nhận, sẽ được sử dụng để tính điểm số tin cậy thiết bị khi bạn muốn mua hàng. Nội dung gửi được thiết kế để Apple không thể ghi nhớ các giá trị thực trên thiết bị của bạn. Điểm số được lưu trữ trong khoảng thời gian cố định trên các máy chủ của chúng tôi.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Bảo vệ quyền riêng tư và bảo mật thông tin của bạn là ưu tiên đối với mọi người tại Apple. Chúng tôi nỗ lực làm việc để chỉ thu thập dữ liệu cần thiết nhằm cải thiện trải nghiệm của bạn và khi thu thập dữ liệu, chúng tôi cho rằng điều quan trọng là bạn biết chúng tôi đang thu thập những gì và tại sao chúng tôi cần dữ liệu đó, để bạn có thể đưa ra lựa chọn đúng đắn. Apple Music và Apple Music Classical, giống như mọi sản phẩm và dịch vụ của Apple, được thiết kế dựa trên những nguyên tắc này.
+
+Chúng tôi sử dụng dữ liệu cá nhân của bạn để cung cấp các dịch vụ và tính năng trong Apple Music. Thông tin này bao gồm tên và ảnh Tài khoản Apple của bạn (nếu đã thiết lập). Bạn có thể truy cập và thay đổi thông tin trong phần cài đặt của ứng dụng Nhạc để sử dụng với các tính năng chia sẻ trong Apple Music. Thông tin này cũng bao gồm tài khoản của bạn, trạng thái gói đăng ký Apple và chi tiết thanh toán mà bạn có thể truy cập và thay đổi trong Cài đặt hoặc Cài đặt hệ thống.
+
+Khi bạn đăng ký vào Apple Music, đăng ký của bạn bao gồm quyền truy cập đầy đủ vào Apple Music và Apple Music Classical. Apple thu thập thông tin về cách bạn sử dụng Apple Music và Apple Music Classical để điều chỉnh các tính năng theo sở thích âm nhạc của bạn. Những tính năng này bao gồm đề xuất được cá nhân hóa, ví dụ như các album và playlist được chọn cho bạn, cũng như Radio để phát các lựa chọn từ nghệ sĩ và thể loại ưa thích của bạn. Chúng tôi cũng sử dụng thông tin này để có thể liên hệ với bạn qua email và thông báo đẩy về các bản phát hành sắp tới, nghệ sĩ mới, cũng như những sự kiện khác trên Apple Music và Apple Music Classical mà bạn có thể thích.
+
+Một số tính năng của Apple Music (ví dụ như một số đài phát radio) có thể không khả dụng tại vùng của bạn. Apple có thể sử dụng địa chỉ IP của kết nối internet để ước tính vị trí của bạn và xác định khả năng có sẵn.
+
+Apple Music Classical
+
+Người đăng ký Apple Music có quyền truy cập vào Apple Music Classical, một ứng dụng nhạc cổ điển được thiết kế để cho phép bạn khám phá các bản nhạc và album cổ điển, cũng như lưu các bản nhạc cổ điển ưa thích của bạn tại một nơi tập trung. Bạn có thể duyệt danh mục Apple Music Classical mà không cần đăng ký, nhưng bạn phải có đăng ký Apple Music để truy cập tất cả các tính năng của Apple Music Classical. Nếu bạn không có đăng ký Apple Music đang hoạt động thì bạn sẽ được cung cấp tùy chọn đăng ký vào Apple Music để có quyền truy cập đầy đủ vào Apple Music Classical.
+
+Thư viện đám mây
+
+Thư viện đám mây Apple là một lợi ích của đăng ký Apple Music, cho phép bạn truy cập vào các bài hát và playlist trong thư viện của mình từ bất kỳ thiết bị nào. Tính năng này gửi thông tin từ thư viện trên thiết bị của bạn đến Apple, như tên bài hát và nghệ sĩ, để xác định và mở khóa bản sao của bất kỳ bài hát nào của bạn cũng có sẵn trong Apple Music và Apple Music Classical. Bất kỳ bài hát nào không thể tìm được trong Apple Music đều được tải lên thư viện đám mây cá nhân để bạn có thể truy cập vào bộ sưu tập hoàn chỉnh của mình từ bất kỳ thiết bị nào thông qua Apple Music. Để dừng đồng bộ hóa thư viện đám mây trên thiết bị iOS, iPadOS hoặc visionOS của bạn, hãy đi tới Cài đặt > Ứng dụng > Nhạc và chạm để tắt Đồng bộ hóa thư viện. Trên máy Mac, hãy mở Apple Music và đi tới Cài đặt > Cài đặt chung, sau đó bỏ chọn Đồng bộ hóa thư viện.
+
+Trang cá nhân Apple Music
+
+Nếu muốn kết nối hoặc chia sẻ với những người khác bằng Apple Music, bạn có thể tạo trang cá nhân bằng việc cung cấp tên người dùng (ví dụ như @johnappleseed), tên hiển thị, cũng như ảnh trang cá nhân và thông tin khác nếu muốn. Apple lưu trữ thông tin này với tài khoản của bạn sao cho bạn có thể truy cập từ bất kỳ thiết bị nào khác. Tên người dùng, tên hiển thị và ảnh trang cá nhân của bạn có thể xuất hiện cùng với bất kỳ nội dung nào bạn đăng và hoạt động bạn chia sẻ trên Apple Music. Tính năng chia sẻ và đăng nội dung hiện không dành cho hoặc không khả dụng đối với Tài khoản Apple cho trẻ em.
+
+Những người dùng khác cũng có thể tìm trang cá nhân Apple Music của bạn bằng thông tin bạn đã cung cấp.
+
+Bạn có thể làm cho nội dung của trang cá nhân (ví dụ như hoạt động nghe và playlist) chỉ khả dụng đối với người mà bạn chọn. Tuy nhiên, thông tin trang cá nhân của bạn, ví dụ như tên người dùng, tên hiển thị, ảnh, người theo dõi của bạn và những người bạn đang theo dõi, được hiển thị mặc định đối với mọi người. Để chặn không cho một người dùng xem trang cá nhân của bạn, hãy đi tới trang cá nhân của người dùng đó, chạm vào Thêm, sau đó chạm vào Chặn. Người mà bạn chặn sẽ không nhìn thấy nhạc hay tìm được trang cá nhân của bạn trong Apple Music.
+
+Khi bạn tạo trang cá nhân trên Apple Music, chúng tôi sẽ đề xuất những người đăng ký Apple Music khác mà bạn có thể muốn kết nối làm bạn bè. Apple không ghi nhớ hay lưu trữ thông tin từ các liên hệ của bạn khi kiểm tra bạn bè để đề xuất. Chỉ những hàm băm ngắn gọn và được mã hóa của các số điện thoại và địa chỉ email trong danh bạ của bạn mới được gửi đến Apple. Sau đó, những người đăng ký Apple Music phù hợp để đề xuất sẽ được xác định cục bộ trên thiết bị của bạn. Apple Music có thể định kỳ kiểm tra danh bạ của bạn để đề xuất những người bạn mới trong tương lai. Bạn có thể kiểm soát việc này bằng cách đi tới Cài đặt tài khoản > Quyền riêng tư &amp; Quyền truy cập > Liên hệ trên Apple Music. Nếu bạn không muốn người khác tìm thấy mình dựa vào thông tin liên hệ Tài khoản Apple mà họ có trong danh bạ, bạn có thể thay đổi tùy chọn này bằng cách đi tới Cài đặt tài khoản > Quyền riêng tư &amp; Quyền truy cập > Cho phép tìm bằng Tài khoản Apple.
+
+Bạn có thể cập nhật hoặc xóa thông tin mà bạn cung cấp trong trang cá nhân bất kỳ lúc nào. Bất kỳ lúc nào bạn chia sẻ trực tuyến, bạn nên suy nghĩ cẩn thận về những gì bạn đang công khai. Khi bạn chia sẻ từ Apple Music đến các trang web hoặc mạng xã hội khác, mọi thứ bạn chia sẻ đều được điều chỉnh bởi chính sách quyền riêng tư của những dịch vụ khác đó.
+
+SharePlay
+
+Khi đăng ký vào Apple Music, bạn có thể tổ chức các phiên SharePlay khi được kết nối với Apple TV, HomePod, CarPlay hoặc khi sử dụng Bluetooth. Với SharePlay, những người đăng ký Apple Music khác có thể tham gia phiên SharePlay của bạn và điều khiển nhạc đang phát thông qua Apple Music. SharePlay cũng cho phép người dùng không có đăng ký Apple Music tham gia phiên SharePlay của bạn. Apple sử dụng Bluetooth, nếu được bật trên thiết bị của bạn, để cho phép các liên hệ ở gần tìm phiên Apple Music của bạn và yêu cầu tham gia phiên. Nếu không muốn các liên hệ có thể tìm thấy thiết bị của bạn và yêu cầu tham gia phiên Apple Music thì bạn có thể tắt khả năng tìm kiếm của các liên hệ ở gần trong cài đặt của ứng dụng Nhạc. Các liên hệ và người tham gia khác cũng có thể tham gia phiên bằng cách quét mã QR được hiển thị trong cài đặt của ứng dụng Nhạc hoặc giao diện của xe nếu tham gia phiên SharePlay trong ô tô.
+
+Tên và ảnh trang cá nhân của người tham gia trong phiên sẽ hiển thị đối với mọi người trong phiên. Các đóng góp vào phiên SharePlay sẽ được ghi nhận cho cá nhân thực hiện, cũng như liên kết với tên và ảnh hồ sơ của người dùng đó (nếu được cung cấp). Bạn có thể sửa những thông tin này bất kỳ lúc nào trong cài đặt ứng dụng Nhạc. Bạn có thể xóa người tham gia khỏi phiên SharePlay mà bạn đang tổ chức bằng cách chạm vào biểu tượng SharePlay trong ứng dụng Nhạc, sau đó chọn người tham gia sẽ xóa. Để rời khỏi phiên SharePlay, hãy chạm vào biểu tượng SharePlay trong ứng dụng Nhạc, sau đó chạm vào Rời khỏi. Để kết thúc phiên SharePlay mà bạn đang tổ chức, hãy chạm vào Kết thúc trong ứng dụng Nhạc. Apple không lưu giữ thông tin về các liên hệ của bạn hoặc những người tham gia khác đã tham gia phiên SharePlay sau khi kết thúc phiên.
+
+Bạn cũng có thể bật các phiên SharePlay trong Tin nhắn hoặc trong cuộc gọi FaceTime để chia sẻ nhạc đồng bộ với người khác. Để bắt đầu một phiên, hãy chọn nhạc mà bạn muốn nghe, sau đó chạm vào SharePlay trong các tùy chọn nhạc, nhập các liên hệ sẽ chia sẻ, sau đó chạm vào “Tin nhắn” hoặc “FaceTime” và Bắt đầu.
+
+Tạo và cộng tác trên các playlist
+
+Người đăng ký Apple Music có thể tự tạo playlist của riêng mình, hoặc sử dụng Playlist Playground (nếu có) để tạo playlist bằng trí tuệ nhân tạo. Khi sử dụng P"</item>
+        <item>"laylist Playground, bạn sẽ mô tả nội dung mình muốn nghe, sau đó thông tin này sẽ được xử lý để hiểu được tâm trạng, thể loại hoặc chủ đề. Thông tin này sẽ được kết hợp với lịch sử nghe và các dữ liệu khác về quá trình sử dụng của bạn để tạo playlist tùy chỉnh. Bạn có thể tinh chỉnh playlist trước khi lưu lại, cũng như có thể xóa hoặc sửa đổi playlist đã tạo bất kỳ lúc nào.
+
+Bạn có thể cộng tác trong các playlist với những người đăng ký Apple Music khác. Nếu bạn là người tạo playlist thì bạn có thể lựa chọn phê duyệt từng người tham gia vào playlist hoặc bạn có thể cho phép bất kỳ người nào có liên kết đến playlist tham gia tự động. Tất cả người tham gia đều có thể thêm và xóa các bài hát khỏi playlist cũng như thêm các tương tác bằng biểu tượng. Các đóng góp sẽ được ghi nhận cho cá nhân đã thực hiện, cũng như liên kết với tên và ảnh trang cá nhân của người dùng đó (nếu được cung cấp). Bạn có thể sửa những thông tin này bất kỳ lúc nào trong cài đặt ứng dụng Nhạc. Tất cả người tham gia trong playlist và bất kỳ ai có quyền truy cập vào playlist đều có thể nhìn thấy và xem tên cũng như ảnh của những người tham gia khác. Những người tham gia playlist có thể xem tất cả bài hát và tương tác mà những người tham gia khác thêm vào. Để dừng cộng tác, hãy xóa chính bạn khỏi playlist trong cài đặt playlist hoặc nếu bạn là người tạo, hãy dừng việc cộng tác trong cài đặt quản lý cộng tác của playlist. Nếu người tạo playlist kết thúc việc cộng tác thì playlist trở thành một playlist được chia sẻ mà những người cộng tác sẽ có quyền truy cập trong thư viện Apple Music của họ.
+
+Chương trình biểu diễn
+
+Nếu bạn cho phép Apple Music truy cập vị trí, vị trí gần đúng của bạn có thể được sử dụng để lưu lại thành phố mà bạn quan tâm và muốn ưu tiên, nhằm cung cấp thông tin liên quan đến địa phương (ví dụ như chương trình biểu diễn ở gần). Nếu bạn lựa chọn không cho phép Apple Music truy cập vị trí, bạn có thể nhập thủ công một thành phố mà mình quan tâm để tìm chương trình biểu diễn tại đó. Thành phố bạn quan tâm sẽ được đồng bộ hóa trên các thiết bị, nếu tính năng đồng bộ hóa được bật. Bạn có thể thay đổi cài đặt theo vị trí của mình bất kỳ lúc nào trên thiết bị iOS hoặc iPadOS, bằng cách đi tới Cài đặt > Quyền riêng tư &amp; Bảo mật > Dịch vụ định vị > Nhạc.
+
+Cá nhân hóa và cải thiện Apple Music và Apple Music Classical
+
+Khi bạn sử dụng đăng ký Apple Music hoặc phát nội dung miễn phí bên ngoài thư viện của mình, chúng tôi có thể thu thập thông tin về các bài hát và video (khi áp dụng) mà bạn phát hoặc thêm vào thư viện nhạc hoặc playlist, cũng như các nghệ sĩ và nội dung mà bạn ưa thích hoặc chia sẻ. Các thông tin như tài khoản, địa chỉ IP, cũng như thiết bị, ứng dụng hoặc giao diện ô tô mà bạn đã sử dụng để phát, vị trí của bạn trong Apple Music hoặc Apple Music Classical khi phát nhạc, thời gian bạn phát nhạc và thời lượng, được ghi lại và gửi đến Apple. Chúng tôi sử dụng thông tin này để tùy chỉnh trải nghiệm của bạn, gửi email và thông báo cho bạn, cũng như giúp chúng tôi tìm hiểu xem Apple Music và Apple Music Classical đang được sử dụng như thế nào để có thể cải thiện các dịch vụ. Ví dụ như thông tin này có thể giúp chúng tôi chọn nhạc, video và nội dung của nghệ sĩ mà chúng tôi hiển thị cho bạn trong Apple Music và Apple Music Classical. Việc này cũng cho phép chúng tôi đưa ra cho bạn các đề xuất khác phản ánh sở thích của bạn, tạo bảng xếp hạng của thành phố để hiển thị cho bạn âm nhạc thịnh hành theo thành phố và cung cấp các kết quả tìm kiếm Apple Music được cá nhân hóa bằng cách sử dụng một tập hợp thông tin như lịch sử nghe và các thể loại ưa thích của bạn. Chúng tôi cũng sử dụng thông tin này để trả tiền tác quyền và ngăn chặn hoặc chống lại các hoạt động vi phạm hoặc có thể vi phạm Điều khoản và điều kiện của Dịch vụ truyền thông của Apple hoặc luật áp dụng.
+
+Nếu bạn sử dụng SharePlay để nghe nội dung với những người dùng khác trên Apple Music thì ứng dụng Nhạc sẽ thu thập thông tin về nội dung mà bạn đã nghe trong phiên SharePlay và số lượng gần đúng những người tham gia vào phiên, nhưng không lưu giữ bất kỳ thông tin nào để nhận dạng người tham gia phiên SharePlay.
+
+Chúng tôi cũng sử dụng dữ liệu tìm kiếm Apple Music để cải thiện các mô hình hỗ trợ Apple Music. Ví dụ: các truy vấn tìm kiếm Apple Music tổng hợp được sử dụng để tinh chỉnh mô hình tìm kiếm của Apple Music.
+
+Liên lạc với bạn
+
+Apple có thể sử dụng thông tin về tài khoản của bạn, ví dụ như sản phẩm Apple mà bạn sở hữu, ứng dụng Apple mà bạn tải về và các đăng ký dịch vụ Apple của bạn, để gửi cho bạn thông báo về Apple Music và các sản phẩm, dịch vụ khác của Apple, cũng như các ưu đãi mà bạn có thể quan tâm, bao gồm Apple Music Classical và Apple One. Số sê-ri của thiết bị và các mã định danh phần cứng khác, hoặc chi tiết về các gói đăng ký App Store có liên quan của bạn có thể được sử dụng để kiểm tra khả năng đủ điều kiện cho các ưu đãi dịch vụ của Apple. Nếu bạn là thành viên của một nhóm Chia sẻ trong gia đình thì Apple có thể gửi cho bạn thông báo về sản phẩm, dịch vụ và ưu đãi khả dụng với bạn thông qua Chia sẻ trong gia đình. Nếu bạn mua gói đăng ký Apple One, chúng tôi có thể gửi cho bạn email và thông báo đẩy về các tính năng của từng dịch vụ mà bạn đã đăng ký. Apple cũng có thể sử dụng thông tin về hoạt động của bạn trong Apple Music và Apple Music Classical, cũng như tương tác của bạn với các dịch vụ được sử dụng để xác minh khả năng đủ điều kiện đối với các gói đăng ký Apple Music giảm giá đang khả dụng (ví dụ như Apple Music sinh viên) để gửi cho bạn email và thông báo đẩy về các tính năng, nội dung, sự kiện và ưu đãi mới, có sẵn trong Apple Music và Apple Music Classical. Đối với một số phương thức liên lạc, mã định danh phần cứng được sử dụng để lọc thông báo mà bạn nhận được. Bạn có thể thay đổi tùy chọn email và lựa chọn không nhận những email này bằng cách truy cập account.apple.com. Để cập nhật tùy chọn thông báo của bạn trên thiết bị iOS, iPadOS hoặc visionOS, hãy đi tới Cài đặt > Thông báo > Nhạc. Trên máy Mac, hãy mở Apple Music và đi tới Cài đặt > Cài đặt chung > Thông báo. Apple sử dụng thông tin về tương tác của bạn với các phương thức liên lạc của chúng tôi, bao gồm thông báo, để cải thiện các dịch vụ.
+
+Ngăn chặn hành vi gian lận và hoạt động có hại khác
+
+Chúng tôi tính điểm số tin cậy thiết bị trên thiết bị của bạn khi bạn muốn mua hàng bằng cách sử dụng thông tin về cách bạn sử dụng thiết bị, bao gồm số lượng gần đúng các cuộc gọi điện thoại hoặc email mà bạn gửi và nhận. Quá trình gửi được thiết kế để Apple không thể biết được các giá trị cơ bản trên thiết bị của bạn. Điểm số được lưu trữ trong khoảng thời gian cố định trên các máy chủ của chúng tôi. Apple cũng có thể sử dụng thông tin về mối quan hệ kinh doanh trước đây của bạn với Apple để xử lý các gia hạn đăng ký Apple Music và xác định xem có cung cấp quyền truy cập liên tục vào đăng ký của bạn trước khi đối tác thanh toán xác thực hay không.
+
+Tiết lộ cho bên thứ ba
+
+Đài phát radio
+Khi bạn sử dụng Apple Music để nghe radio, thiết bị sẽ kết nối trực tiếp với đài phát radio để cung cấp nội dung được yêu cầu. Khi kết nối, địa chỉ IP của thiết bị sẽ hiển thị đối với đài phát radio. Việc đài phát radio sử dụng địa chỉ IP của bạn tuân theo chính sách quyền riêng tư của đài phát radio hoặc nhà cung cấp.
+
+Hãng thu âm, Nghệ sĩ và Nhà biên soạn bảng xếp hạng
+Chúng tôi có nghĩa vụ cung cấp một số dữ liệu phi cá nhân tổng hợp về việc sử dụng Apple Music và Apple Music Classical, cũng như thông tin nhân khẩu học tổng hợp về người dùng như độ tuổi và giới tính (có thể được suy ra từ thông tin như tên và lời chào của bạn trong Tài khoản Apple), cho các hãng thu âm, nhà xuất bản và nghệ sĩ để họ có thể đánh giá hiệu quả của tác phẩm sáng tạo của mình và đáp ứng các yêu cầu về tác quyền và kế toán. Ngoài ra, chúng tôi chia sẻ dữ liệu tổng hợp về hoạt động nghe nhạc với các đơn vị biên soạn bảng xếp hạng âm nhạc trên toàn thế giới, với các hãng thu âm và nghệ sĩ để đo lường mức độ tương tác (bao gồm cả thời gian thực), cũng như với những nền tảng tiếp thị âm nhạc hỗ trợ hãng thu âm và nghệ sĩ tiếp cận người nghe. Để xác định khả năng đủ điều kiện đăng ký của bạn nếu bạn đăng ký vào Apple Music thông qua đối tác bên thứ ba"</item>
+        <item>" như nhà cung cấp mạng di động hoặc để hoàn thành giao dịch mua của bạn, chúng tôi chia sẻ thông tin có thể nhận dạng cá nhân giới hạn với đối tác đó.
+
+Kết nối Apple Music với các ứng dụng khác
+
+Các ứng dụng cho iOS, iPadOS và visionOS cũng như ứng dụng trên các nền tảng không phải của Apple có thể yêu cầu quyền truy cập vào Apple Music và thư viện đám mây của bạn. Nếu bạn cấp phép cho một ứng dụng thì ứng dụng đó có thể truy cập vào thông tin như thư viện đám mây trên thiết bị, liệu bạn có phải là người đăng ký Apple Music không, hoạt động phát nhạc và video của bạn, cũng như các đề xuất trong Apple Music. Ứng dụng được cấp phép cũng có thể sửa đổi dữ liệu được liên kết với tài khoản của bạn, ví dụ như những bài hát nào có trong thư viện và playlist của bạn. Nếu bạn cấp quyền cho ứng dụng Ảnh truy cập Apple Music thì ứng dụng Ảnh sẽ sử dụng các bài hát từ Apple Music để phát cùng phim kỷ niệm. Khi bạn tạo một phim kỷ niệm tùy chỉnh trong ứng dụng Ảnh, thông tin về yêu cầu mà bạn nhập để tạo kỷ niệm này có thể được gửi đến Apple Music để chọn nhạc phát cùng phim. Các ứng dụng của Apple có nội dung được hỗ trợ (ví dụ như ĐK từ xa) cũng sẽ được kết nối tự động khi bạn bắt đầu sử dụng ứng dụng Nhạc của Apple và nội dung được hỗ trợ. Bạn có thể tắt quyền truy cập của ứng dụng trên thiết bị iOS, iPadOS hoặc visionOS của mình bằng cách đi tới Cài đặt > Quyền riêng tư &amp; Bảo mật > Phương tiện &amp; Apple Music. Trên máy Mac, hãy đi tới Cài đặt hệ thống > Quyền riêng tư &amp; Bảo mật > Quyền riêng tư > Phương tiện &amp; Apple Music. Nếu bạn đã xóa ứng dụng hoặc cấp quyền truy cập cho ứng dụng bằng phiên bản iOS trước iOS 11 hoặc iPadOS thì bạn có thể tắt quyền truy cập của ứng dụng đó trong cài đặt tài khoản Apple Music.
+
+Các gói đăng ký Apple Music thông qua đối tác của Apple
+
+Nếu nhà cung cấp mạng di động của bạn cung cấp dùng thử miễn phí và gói đăng ký Apple Music thì Apple có thể kiểm tra số điện thoại của bạn để xác định xem bạn có đủ điều kiện tham gia thông qua nhà cung cấp mạng di động không. Nếu bạn kích hoạt dùng thử miễn phí hoặc gói đăng ký Apple Music thông qua nhà cung cấp mạng di động của mình hoặc một đối tác khác của Apple thì Apple sẽ sử dụng số điện thoại của bạn hoặc mã định danh tài khoản duy nhất được đối tác chia sẻ để nhận dạng tài khoản của bạn và cho phép nhà cung cấp mạng di động hoặc đối tác khác biết rằng bạn đã kích hoạt gói đăng ký. Chúng tôi sẽ sử dụng số điện thoại hoặc mã định danh duy nhất được liên kết với đăng ký của bạn để xác minh tài khoản trong khi đăng nhập và kết nối hoạt động Apple Music với tài khoản của bạn. Chúng tôi cũng sử dụng số điện thoại của bạn để yêu cầu hủy đăng ký với nhà cung cấp mạng di động theo yêu cầu của bạn.
+
+Lưu giữ
+
+Chúng tôi lưu giữ dữ liệu cá nhân được liên kết với việc sử dụng và tương tác của bạn với Apple Music và Apple Music Classical trong các khoảng thời gian khác nhau, tùy theo nhu cầu kinh doanh, nghĩa vụ hợp đồng và yêu cầu pháp lý.
+
+Thông tin về hoạt động nghe, nội dung thư viện, playlist và các tìm kiếm của bạn được lưu giữ trong khoảng thời gian mà đăng ký của bạn hoạt động và tối đa là hai năm sau khi hủy tài khoản, để hỗ trợ kích hoạt lại và để liên lạc với bạn về nhạc mà bạn có thể quan tâm, cũng như các ưu đãi mà bạn có thể đủ điều kiện. Chúng tôi cũng có thể lưu giữ thông tin này khi cần thiết để tuân thủ các nghĩa vụ báo cáo tài chính trong các khoảng thời gian được quy định trong luật áp dụng, thường yêu cầu khoảng thời gian lưu giữ tối thiểu là 10 năm nhưng có thể kéo dài tối đa 30 năm tại các khu vực pháp lý như Trung Quốc.
+
+Nếu đăng ký của bạn kết thúc, Apple Music có thể lưu giữ nhạc và playlist mà bạn đã thêm hoặc tạo từ danh mục Apple Music trong khoảng thời gian gia hạn để cho phép kích hoạt lại mà không mất nội dung. Sau khoảng thời gian này, nội dung từ danh mục Apple Music có thể sẽ không truy cập được nữa.
+
+Nếu bạn xóa Tài khoản Apple thì một số dữ liệu có thể được lưu giữ khi được luật pháp yêu cầu hoặc để ngăn chặn hành vi gian lận, thực thi Điều khoản và điều kiện Dịch vụ truyền thông của Apple, cũng như duy trì bảo mật cho các dịch vụ của Apple.
+
+Cơ sở pháp lý áp dụng cho việc xử lý dữ liệu cá nhân
+
+Thông thường, chúng tôi xử lý dữ liệu cá nhân của bạn trong Apple Music cho việc thực hiện hợp đồng của bạn với Apple, khi cần thiết để cung cấp dịch vụ và để tuân thủ các nghĩa vụ pháp lý của chúng tôi. Khi sự chấp thuận là cơ sở pháp lý phù hợp, chúng tôi sẽ yêu cầu chấp thuận theo luật áp dụng tại địa phương.
+
+Khi luật áp dụng tại địa phương quy định, chúng tôi xử lý dữ liệu cá nhân khi cần thiết cho các mục đích lợi ích hợp pháp của mình hoặc của bên thứ ba để:
+
+• Cung cấp cho bạn quyền truy cập vào nội dung trong Apple Music và Apple Music Classical mà bạn nghe, thêm vào thư viện hoặc tải về
+• Cá nhân hóa trải nghiệm của bạn trong Apple Music và Apple Music Classical
+• Nhận dạng và mở khóa bản sao các bài hát của bạn cũng có sẵn thông qua Apple Music
+• Xác định khả năng có sẵn của nội dung trong vùng của bạn, cũng như khả năng đủ điều kiện cho các ưu đãi và đăng ký
+• Giúp cải thiện và tối ưu hóa Apple Music và Apple Music Classical cho bạn và những người khác, đồng thời gửi cho bạn thông báo về các ứng dụng Apple Music và Apple Music Classical, cũng như các sản phẩm, dịch vụ và ưu đãi khác của Apple mà bạn có thể quan tâm
+• Tạo và duy trì Trang cá nhân Apple Music và các playlist của bạn
+• Thanh toán tiền tác quyền và cung cấp báo cáo cho các nhà xuất bản, hãng thu âm, nghệ sĩ và nhà biên soạn bảng xếp hạng
+• Ngăn chặn hành vi gian lận và hoạt động có hại khác
+
+Dữ liệu được sử dụng bao gồm:
+
+• Việc sử dụng các ứng dụng Nhạc và Apple Music Classical, bao gồm tương tác của bạn với các tính năng, thông báo và tin nhắn in-app, cũng như nội dung mà bạn nghe, tìm kiếm, xem, thêm vào thư viện và tải về trên Apple Music và Apple Music Classical
+• Các chi tiết về thiết bị và tài khoản của bạn
+• Địa chỉ IP của bạn
+• Trang cá nhân Apple Music và các playlist của bạn
+• Điểm số tin cậy thiết bị
+
+Dữ liệu phi cá nhân
+
+Chúng tôi có thể thu thập, sử dụng, chuyển giao và tiết lộ dữ liệu phi cá nhân vì bất kỳ mục đích nào. Ví dụ như chúng tôi có thể tổng hợp dữ liệu phi cá nhân của bạn với thông tin của những người dùng Apple Music khác nhằm cải thiện dịch vụ. Chúng tôi cũng có thể thu thập số liệu hiệu năng nhất định từ thiết bị của bạn khi bạn sử dụng Apple Music, bao gồm cường độ tần số vô tuyến, mã quốc gia, mã mạng và công nghệ truy cập vô tuyến di động.
+
+Tìm hiểu thêm về Apple Music
+
+Để biết thêm thông tin chi tiết, bao gồm các tính năng và bảng giá, hãy truy cập www.apple.com/vn/apple-music.
+
+Để biết thông tin về Trình phát web Apple Music &amp; Quyền riêng tư, hãy truy cập www.apple.com/legal/privacy/data/en/apple-music-web.
+
+Thông tin do Apple thu thập sẽ luôn được xử lý theo Chính sách quyền riêng tư của Apple, có thể tìm thấy tại địa chỉ www.apple.com/vn/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Một vài bản nhạc</item>
+        <item>Một vài nội dung</item>
+        <item>Nhạc</item>
+        <item>Đài phát của tôi</item>
+        <item>Đài phát radio của tôi</item>
+        <item>Một vài giai điệu</item>
+        <item>Một vài bài hát</item>
+        <item>Một vài bản nhạc tôi yêu thích</item>
+        <item>Một vài bài hát hay</item>
+        <item>Nhạc tôi thích</item>
+    </string-array>
+</resources>
