@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item> B</item>
+        <item>Mn</item>
+        <item>Mr</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Açık</item>
+        <item>Koyu</item>
+        <item>Sistem Saptanmışı</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Aygıt Saklama Alanı</item>
+        <item>SD Kart</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple, abone olduğunuzda Apple Music ve Apple Music Classical servislerini kişiselleştirmek, size bildirim göndermek ve iş ortaklarına bedelini ödemek için çaldığınız parçalar ve onları ne kadar süre çaldığınız gibi Apple Music ve Apple Music Classical etkinlikleriniz hakkında bilgi toplar.</item>
+        <item>Apple bulut arşiviniz, Apple Music’te de bulunan parçalarınızı belirlemek ve bu kopyaların kilidini açmak için aygıtınızda bulunan müzik arşivinizdeki parça ve sanatçı adları gibi bilgileri Apple’a gönderir.</item>
+        <item>Bulut arşivi bilgilerinizi abone olduğunuz süre ve ardından da kısa bir süre boyunca sizinle ilişkilendiriyoruz. Çaldığınız parçaların kayıtlarını mali raporlamayla ilgili yürürlükte bulunan kanunlarca belirtilen süre boyunca saklıyoruz.</item>
+        <item>Dolandırıcılığı belirlemeye ve önlemeye yardım etmek için gönderdiğiniz ve aldığınız telefon aramalarının veya e‑postaların yaklaşık sayısı da dahil olmak üzere aygıtınızı nasıl kullandığınız hakkındaki bilgiler, bir satın alma işlemi gerçekleştirmeye çalıştığınızda aygıt güven puanı hesaplamak için kullanılır. Gönderilen veriler, Apple’ın aygıtınızdaki gerçek değerleri öğrenemeyeceği şekilde tasarlanmıştır. Puanlar, sunucularımızda belirli bir süre saklanır.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Bilgilerinizin gizliliğini ve güvenliğini korumak Apple’daki herkesin önceliğidir. Daha iyi bir deneyim yaşamanızı sağlamak amacıyla yalnızca gereksinimimiz olan verileri toplamak için çok çalışıyoruz. Verileri topladığımızda da, bilinçli seçimler yapabilmeniz için neleri topladığımızı ve bunlara niçin gereksinimimiz olduğunu bilmenizin önemli olduğuna inanıyoruz. Her Apple ürünü ve servisi gibi Apple Music ve Apple Music Classical da bu prensipler göz önünde bulundurularak tasarlanmıştır.
+
+Apple Music’teki servisleri ve özellikleri sunmak için kişisel verilerinizi kullanırız. Bu bilgiler, Apple Music’teki paylaşma özellikleri ile kullanmak üzere Apple Music uygulaması ayarlarında erişip değiştirebileceğiniz adınızın ve ayarladıysanız Apple Hesabı fotoğrafınızın yanı sıra Ayarlar’da veya Sistem Ayarları’nda erişip değiştirebileceğiniz hesabınızı, Apple abonelikleri durumunu ve ödeme bilgilerinizi içerir.
+
+Apple Music’e abone olduğunuzda aboneliğiniz Apple Music’e ve Apple Music Classical’a tam erişim içerir. Apple, özellikleri müzik beğenilerinize uygun hâle getirmek için Apple Music’i ve Apple Music Classical’ı nasıl kullandığınızla ilgili bilgileri toplar. Bu özellikler arasında sizin için seçilmiş albümler ve listeler gibi kişiselleştirilmiş öneriler ve favori sanatçılarınıza ve türlerinize ait seçimlerin çalındığı Radyo sayılabilir. Bu bilgileri, yakın zamanda piyasaya çıkacaklar, yeni sanatçılar ve Apple Music’te ve Apple Music Classical’da hoşunuza gidebilecek diğer olaylardan e‑posta ve anında iletilen bildirimler aracılığıyla sizi haberdar etmek için de kullanırız.
+
+Belirli radyo istasyonları gibi bazı Apple Music özellikleri bulunduğunuz bölgede kullanılamayabilir. Apple, konumunuzu yaklaşık olarak tahmin edip bu yayınları kullanıp kullanamayacağınızı belirlemek için internet bağlantınızın IP adresini kullanabilir.
+
+Apple Music Classical
+
+Apple Music abonelerinin, klasik müzik parçalarını ve albümlerini keşfetmenizi ve favori klasik müzik parçalarınızı tek bir merkezi yere kaydetmenizi sağlamak için tasarlanmış bir klasik müzik uygulaması olan Apple Music Classical’a erişimi vardır. Apple Music Classical kataloğuna aboneliğiniz olmadan göz atabilirsiniz ama Apple Music Classical’ın tüm özelliklerine erişmek için Apple Music aboneliğinizin olması gerekir. Aktif bir Apple Music aboneliğiniz yoksa Apple Music Classical’a tam erişim için Apple Music’e abone olma seçeneği sunulur.
+
+Bulut Arşivi
+
+Apple Music aboneliğinizin bir avantajı olan Apple bulut arşiviniz, arşivinizdeki parçalara ve listelere aygıtlarınızın herhangi birinden erişmenizi sağlar. Bu özellik, Apple Music’te ve Apple Music Classical’da da bulunan parçalarınızı belirlemek ve bu kopyaların kilidini açmak için aygıtınızda bulunan arşivinizdeki parça ve sanatçı adları gibi bilgileri Apple’a gönderir. Apple Music’te bulunamayan parçalar kişisel bulut arşivinize yüklenir, böylece koleksiyonunuzun tamamına aygıtlarınızın tümünden Apple Music ile erişebilirsiniz. iOS, iPadOS veya visionOS aygıtınızda bulut arşivinizi eşzamanlamayı durdurmak için Ayarlar > Uygulamalar > Müzik’e gidip Arşiv’i Eşzamanla seçeneğini kapatmak için dokunun. Mac’te ise Müzik’i açın ve Ayarlar > Genel’e gidip Arşiv’i Eşzamanla seçimini kaldırın.
+
+Apple Music Profili
+
+Apple Music’i kullanan diğer kişilerle bağlantı kurmak veya paylaşımlarda bulunmak istiyorsanız bir kullanıcı tanıtıcısı (örneğin @aliutku), görüntülenen ad ve isteniyorsa bir profil fotoğrafı ve diğer bilgileri sağlayarak kişisel bir profil yaratabilirsiniz. Apple bu bilgileri hesabınızda saklar, böylece bu bilgilere aygıtlarınızın herhangi birinden erişebilirsiniz. Kullanıcı tanıtıcınız, görüntülenen adınız ve profil fotoğrafınız gönderdiğiniz herhangi bir içerik ve Apple Music’te paylaştığınız etkinliklerle birlikte görünebilir. Çocuklar için olan Apple Hesapları ile şu an için içerik paylaşma ve yayımlama amaçlanmamıştır veya yapılamamaktadır.
+
+Diğer kişiler de sağladığınız bilgileri kullanarak Apple Music profilinizi bulabilirler.
+
+Profilinize çalma etkinlikleri ve listeleri gibi içerikler ekleyebilirsiniz ve bunlar yalnızca seçtikleriniz tarafından görülür. Bununla birlikte tanıtıcı, görüntülenen ad, fotoğraf, takipçileriniz ve sizin takip ettikleriniz gibi profil bilgileriniz saptanmış olarak herkese açıktır. Bir kullanıcının profilinizi görmesini engellemek için kullanıcının profiline gidin, Daha Fazla’ya dokunun, daha sonra Engelle’ye dokunun. Engellediğiniz kişiler müziklerinizi göremez ya da Apple Music’teki profilinizi bulamazlar.
+
+Apple Music’te bir profil yarattığınızda, arkadaş olarak bağlantı kurmak isteyebileceğiniz diğer Apple Music abonelerini size önereceğiz. Apple, önerecek arkadaşları denetlerken kişilerinizden bilgi edinmez veya saklamaz. Kişilerinizdeki telefon numaralarının ve e-posta adreslerinin yalnızca kısaltılmış ve şifrelenmiş özetleri Apple’a gönderilir, sonra önerilecek Apple Music abonelerini eşleştirme aygıtınızda yerel olarak belirlenir. Apple Music, gelecekte yeni arkadaşlar önermek için kişilerinizi düzenli aralıklarla denetleyebilir; bunu Apple Music’te Hesap Ayarları > Gizlilik ve Erişim > Kişiler’e giderek denetleyebilirsiniz. Kişilerinde sizinle ilgili olabilecek Apple Hesabı kişi bilgileri bulunan başkaları tarafından bu bilgilere göre bulunmak istemiyorsanız bunu Hesap Ayarları’nda Gizlilik ve Erişim > Apple Hesabı’yla Bulunmaya İzin Ver’e giderek değiştirebilirsiniz.
+
+Profilinizde sağladığınız bilgileri istediğiniz zaman güncelleyebilir veya silebilirsiniz. Çevrimiçi bir paylaşımda bulunduğunuz zaman, neleri herkesin kullanımına açtığınızı dikkatlice düşünmeniz gerekir. Apple Music’ten diğer web sitelerinde veya sosyal ağlarda paylaşımda bulunduğunuzda, paylaştığınız her şey bu diğer servislerin gizlilik politikalarına tabi olur.
+
+SharePlay
+
+Apple Music’e abone olursanız Apple TV’ye, HomePod’a, CarPlay’e bağlandığınızda ya da Bluetooth kullanırken SharePlay oturumlarını sunabilirsiniz. SharePlay ile diğer Apple Music aboneleri SharePlay oturumunuza katılabilir ve Apple Music ile çalınan müzikleri denetleyebilir. SharePlay, Apple Music aboneliği olmayan kullanıcıların da SharePlay oturumunuza katılmasını sağlar. Apple, yakındaki kişilerinizin Apple Music oturumunuzu keşfetmelerine ve katılma isteğinde bulunmalarına izin vermek için aygıtınızda etkinleştirilmişse Bluetooth’u kullanır. Kişilerin aygıtınızı bulabilmesini ve Apple Music oturumunuza katılma isteğinde bulunabilmesini istemiyorsanız Müzik uygulaması ayarlarında yakındaki kişiler tarafından bulunabilirliği kapatabilirsiniz. Diğer katılımcıların yanı sıra kişiler de Apple Music uygulaması ayarlarında veya arabada SharePlay oturumuna katılınıyorsa aracın arayüzünde görüntülenen QR kodunu tarayarak oturuma katılabilir.
+
+Oturumdaki katılımcıların adı ve profil fotoğrafı oturumdaki herkes tarafından görülebilir. SharePlay oturumuna yapılan katkılar onları yapan kişiye atfedilir ve sağlanmışsa Apple Music uygulaması ayarlarında her zaman düzenlenebilen o kullanıcının adı ve profil fotoğrafı ile ilişkilendirilir. Sunduğunuz SharePlay oturumundan katılımcıları silmek için Müzik uygulamasında SharePlay simgesine dokunun, sonra silinecek katılımcıyı seçin. Bir SharePlay oturumundan ayrılmak için Apple Music uygulamasında SharePlay simgesine dokunun, sonra Ayrıl’a dokunun. Sunduğunuz bir SharePlay oturumunu sonlandırmak için Müzik uygulamasında Bitir’e dokunun. Apple, kişileriniz ya da bir SharePlay oturumuna oturum bittikten sonra katılan diğer katılımcılar hakkındaki bilgileri tutmaz.
+
+Ayrıca, müziği başkalarıyla eşzamanlı olarak paylaşmak için Mesajlar’da veya bir FaceTime araması sırasında SharePlay oturumlarını etkinleştirebilirsiniz. Bir oturum başlatmak için dinlemek istediğiniz müziği seçin, sonra müzik seçeneklerinde SharePlay’e dokunun, paylaşılacak kişileri girin ve ardından “Mesajlar” veya “FaceTime” seçeneğine ve Başlat’a dokunun.
+
+Listeler Yaratın ve Üzerinde Ortak Çalışın
+
+Apple Music aboneleri kendi listelerini yaratabilir veya yapay zekâdan yararlanarak liste oluşturmak için varsa Playlist Playground’u kullanabilir. Playlist Playground’u kullandığınızda dinlemek istediğinizi tanımlarsınız ve bu tanım ruh hâlini, türü veya temay"</item>
+        <item>"ı anlamak için işlenir. Bu bilgiler, özelleştirilmiş bir liste oluşturmak için dinleme geçmişiniz ve diğer kullanım verilerinizle birleştirilir. Listeyi kaydetmeden önce düzeltebilir, oluşturulan listeyi istediğiniz zaman silebilir veya değiştirebilirsiniz.
+
+Başka Apple Music aboneleriyle birlikte liste yaratabilirsiniz. Listenin yaratıcısıysanız listeye katılan her bir kişiyi onaylamayı seçebilir ya da listenin bağlantısına sahip herkesin otomatik olarak katılmasına izin verebilirsiniz. Tüm katılımcılar listeye parça ekleyip listeden parça silebilir ve emoji tepkileri ekleyebilir. Katkılar onları yapan kişiye atanır ve sağlanırsa Müzik uygulaması ayarlarında her zaman düzenlenebilen o kullanıcının adı ve profil fotoğrafı ile ilişkilendirilir. Listedeki tüm katılımcılar ve listeye erişimi olan herkes diğer katılımcıların adını ve fotoğrafını görebilir ve görüntüleyebilir. Liste katılımcıları, diğer katılımcılar tarafından eklenen tüm parçaları ve tepkileri görebilir. Ortak çalışmayı durdurmak için liste ayarlarında kendinizi listeden silin ya da yaratıcısıysanız ortak çalışmayı yönetme ayarlarında listede ortak çalışmayı durdurun. Listenin yaratıcısı ortak çalışmayı sonlandırırsa liste, ortak çalışanların kendi Apple Music arşivlerine erişimi olacağı paylaşılan bir listeye dönüşür.
+
+Konserler
+
+Apple Music’in konumunuza erişmesine izin verirseniz yakınınızdaki konserler gibi yerel olarak daha ilgili bilgiler sağlamak amacıyla ilginizi çeken tercih ettiğiniz bir şehri kaydetmek için yaklaşık konumunuz kullanılabilir. Apple Music’in konumunuza erişmesine izin vermemeyi seçerseniz ilginizi çeken bir şehrin adını elle girip o şehirdeki konserleri bulabilirsiniz. Eşzamanlama etkinleştirilmişse ilginizi çeken şehir aygıtlarınızın tümünde eşzamanlanır. Konum tabanlı ayarlarınızı iOS veya iPadOS aygıtınızda Ayarlar > Gizlilik ve Güvenlik > Konum Servisleri > Müzik bölümüne giderek istediğiniz zaman değiştirebilirsiniz.
+
+Apple Music’i ve Apple Music Classical’ı Kişiselleştirme ve İyileştirme
+
+Apple Music aboneliğinizi kullandığınızda ya da arşivinizin dışında ücretsiz içerik çaldığınızda, dinlediğiniz parçalarla veya izlediğiniz videolarla ya da müzik arşivinize veya listelerinize eklediklerinizle ve beğendiğiniz veya paylaştığınız sanatçılarla ve içeriklerle ilgili bilgileri toplayabiliriz. Müzik dinlemek için kullandığınız hesap, IP adresi ve aygıt, uygulama ya da araba arabirimi gibi bilgiler, dinlediğinizde Apple Music’te ya da Apple Music Classical’da bulunduğunuz yer, dinlediğiniz zaman ve süre not edilir ve Apple’a gönderilir. Bu bilgileri, deneyiminizi özelleştirmek, size e-postalar ve bildirimler göndermek ve servislerimizi iyileştirebilmek amacıyla Apple Music’i ve Apple Music Classical’ı nasıl kullanıldığını anlamamıza yardımcı olması için kullanırız. Örneğin bu bilgiler, Apple Music’te ve Apple Music Classical’da size gösterdiğimiz müzikleri, videoları ve sanatçı içeriklerini seçmemize yardımcı olabilir. Aynı zamanda; size beğenilerinizi yansıtan başka önerilerde bulunmamızı, şehre göre popüler müzikleri göstermek için şehir listeleri yaratmamızı ve dinleme geçmişiniz ve favori müzik türleriniz gibi bilgilerin karışımını kullanarak kişiselleştirilmiş Apple Music arama sonuçları sağlamamızı da sağlar. Aynı zamanda bu bilgileri; telif ücretlerini ödemek ve Apple Medya Hizmetleri Hüküm ve Koşulları’nı veya yürürlükteki yasaları ihlal eden veya edebilecek faaliyetlere karşı yasal işlem yapmak için de kullanırız.
+
+Müzik’te başka kullanıcılarla içerik dinlemek için SharePlay’i kullanırsanız Müzik uygulaması, SharePlay oturumu sırasında dinlediğiniz içerikle ilgili bilgileri ve SharePlay oturumundaki yaklaşık katılımcı sayısını toplar ama SharePlay oturumuna katılanların kimliklerini belirleyecek hiçbir bilgiyi saklamaz.
+
+Apple Music’i destekleyen modelleri iyileştirmek için Apple Music arama verilerini de kullanırız. Örneğin toplu Apple Music arama sorguları Apple Music arama modelinde ince ayar yapmak için kullanılır.
+
+Sizinle İletişim
+
+Apple, Apple Music ve ilginizi çekebilecek diğer Apple ürünleri, servisleri ve teklifleri (Apple Music Classical ve Apple One da dahil olmak üzere) hakkında size haberler göndermek için hesabınız hakkında, sahip olduğunuz Apple ürünleri, indirdiğiniz Apple uygulamaları ve Apple servislerine olan abonelikleriniz gibi bilgileri kullanabilir. Aygıtınızın seri numarası ve diğer donanım tanıtıcıları ya da ilgili App Store abonelikleriniz hakkında ayrıntılar, Apple servis teklifleri için uygunluğunuzu denetlemek amacıyla kullanılabilir. Apple, bir Aile Paylaşımı grubundaysanız Aile Paylaşımı yoluyla size kullanabileceğiniz ürünler, servisler ve teklifler ile ilgili haberler gönderebilir. Bir Apple One aboneliği satın alırsanız size abone olduğunuz her bir servisin özellikleri hakkında e-posta ve anında iletilen bildirimler gönderebiliriz. Apple, size Apple Music’teki ve Apple Music Classical’daki yeni özellikler, içerikler, etkinlikler ve teklifler hakkında e-postalar ve anında iletilen bildirimler göndermek için Apple Music ve Apple Music Classical etkinliğiniz ve (Apple Music Öğrenci gibi) kullanılabilir indirimli Apple Music abonelikleri için uygunluğu doğrulamak amacıyla kullanılan servislerle etkileşiminiz ile ilgili bilgileri de kullanabilir. Bazı yazışmalar için alacağınız bildirimleri filtrelemek amacıyla bir donanım tanımlayıcısı kullanılır. account.apple.com/tr adresine giderek e‑posta tercihlerinizi değiştirebilir ve e‑posta almaktan vazgeçebilirsiniz. iOS, iPadOS ya da visionOS aygıtınızda bildirim tercihlerini güncellemek için Ayarlar > Bildirimler > Müzik bölümüne gidin. Mac’te ise Müzik’i açın ve Ayarlar > Genel > Bildirimler’e gidin. Apple, bildirimler de dahil olmak üzere iletişim yazışmalarımızla etkileşimleriniz hakkındaki bilgileri servislerimizi iyileştirmek için kullanır.
+
+Dolandırıcılığı ve Diğer Kötü Amaçlı Eylemleri Önleme
+
+Bir satın alma girişiminde bulunduğunuzda, yaptığınız telefon görüşmelerinin veya gönderip aldığınız e‑postaların yaklaşık sayısı da dahil olmak üzere, aygıtınızı nasıl kullandığınız hakkındaki bilgileri kullanarak aygıtınızda bir aygıt güven puanı hesaplarız. Gönderilen veriler, Apple’ın aygıtınızdaki gerçek değerleri öğrenemeyeceği şekilde tasarlanmıştır. Puan, sunucularımızda belirli bir süre saklanır. Apple, Apple Music abonelik yenilemelerini işlemek ve ödeme ortağının onayı beklenmeden aboneliğinize kesintisiz erişim sağlanıp sağlanmayacağına karar vermek için Apple ile geçmiş iş ilişkileriniz hakkındaki bilgileri de kullanabilir.
+
+Bilgilerin Üçüncü Partilere Açıklanması
+
+Radyo İstasyonları
+Radyo yayınlarını dinlemek için Apple Music’i kullandığınızda, aygıtınız size istenilen içeriği sunmak için doğrudan radyo istasyonuna bağlanır. Bağlandığınızda, aygıtınızın IP adresi radyo istasyonu tarafından görülebilir. IP adresinizin radyo istasyonu tarafından kullanımı, radyo istasyonunun veya sağlayıcısının gizlilik politikalarına tabidir.
+
+Müzik Şirketleri, Sanatçılar ve Müzik Listeleri Hazırlayanlar
+Apple Music ve Apple Music Classical kullanımınızla ilgili kişisel olmayan bazı birleştirilmiş veriler ile birlikte Apple Hesabı’nızdaki adınız ve hitap şekliniz gibi bilgilerden çıkarılabilecek yaş grubu ve cinsiyet gibi birleştirilmiş demografik kullanıcı bilgilerini, yaratıcı çalışmalarının performansını ölçebilmeleri, telif ve muhasebe gereksinimlerini karşılayabilmeleri amacıyla müzik şirketleri, yayıncılar ve sanatçılar ile paylaşmak zorundayız. Buna ek olarak, toplu dinleme aktivitelerini dünya çapındaki müzik listeleri için liste hazırlayanlar ile, gerçek zamanlı da dahil olmak üzere etkileşimi ölçmek için müzik şirketleri ve sanatçılar ile, müzik şirketlerini ve sanatçıları dinleyicilere ulaştırmaya yardımcı olan müzik pazarlama platformları ile paylaşırız. Apple Music’e, hücresel ağ sağlayıcı gibi bir üçüncü parti ortak şirket aracılığıyla abone olduysanız abonelik uygunluğunuzu belirlemek için ya da satın alımlarınızı tamamlamak için kişisel olarak teşhis edilebileceğiniz sınırlı bilgileri ortak şirket ile paylaşırız.
+
+Apple Music’e Diğer Uygulamalarla Bağlanma
+
+iOS, iPadOS ve visionOS uygulamaları ile Apple dışı platformlardaki uygulamalar, Apple Music’e ve bul"</item>
+        <item>"ut arşivinize erişmek isteyebilir. Bir uygulamaya bu tür bir izin verirseniz söz konusu uygulama, aygıtınızdaki bulut arşiviniz, Apple Music abonesi olup olmadığınız, müzik çalma ve video oynatma etkinlikleriniz ve Apple Music önerileriniz gibi bilgilere erişebilir. İzin verilen bir uygulama arşivinizde ve listelerinizde bulunan parçalar gibi hesabınızla ilişkili verileri de değiştirebilir. Fotoğraflar uygulamasının Apple Music’e erişmesine izin verirseniz Fotoğraflar, anı filmlerinde çalmak üzere Apple Music’teki parçaları kullanır. Fotoğraflar’da özel bir anı filmi yarattığınızda, anıyı yaratmak için girdiğiniz istemle ilgili bilgiler filmle çalmak üzere müzik seçmek için Apple Music’e gönderilebilir. Desteklenen içeriğe sahip Apple uygulamaları da (Remote gibi), Müzik uygulamasını ve desteklenen içerikleri kullanmaya başladığınızda otomatik olarak bağlanır. Uygulama erişimini, iOS, iPadOS ya da visionOS aygıtınızda Ayarlar > Gizlilik ve Güvenlik > Ortamlar ve Apple Music bölümünde etkisizleştirebilirsiniz. Mac’te Sistem Ayarları > Gizlilik ve Güvenlik > Gizlilik > Ortamlar ve Apple Music bölümüne gidin. Uygulama silinmişse ya da uygulamaya iOS 11’den veya iPadOS’ten önceki bir iOS sürümünde izin verilmişse uygulamanın erişimi Apple Music hesap ayarlarında etkisizleştirilebilir.
+
+Apple’ın İş Ortakları Üzerinden Apple Music Abonelikleri
+
+Apple, hücresel ağ sağlayıcınız Apple Music abonelikleri ve ücretsiz denemeler sunuyorsa bir hücresel ağ sağlayıcı üzerinden aboneliğe uygun olup olmadığınızı belirlemek için telefon numaranızı denetleyebilir. Apple, hücresel ağ sağlayıcınız ya da başka bir Apple ortağı yoluyla bir Apple Music aboneliği ya da ücretsiz deneme için kaydolduysanız hesabınızı belirlemek ve hücresel ağ sağlayıcının ya da diğer ortağın aboneliğinizi etkinleştirdiğinizi bilmesini sağlamak için telefon numaranızı ya da ortak ile paylaşılan benzersiz hesap tanıtıcısını kullanır. Aboneliğinizle ilişkili telefon numarasını veya benzersiz tanıtıcıyı giriş yapma sırasında hesabınızı doğrulamak ve Apple Music etkinliğinizi hesabınızla ilişkilendirmek için kullanırız. İstekte bulunduğunuzda hücresel ağ sağlayıcınızdan aboneliğinizin iptal edilmesini istemek için de cep telefonu numaranızı kullanırız.
+
+Bilgi Saklama
+
+Apple Music ve Apple Music Classical kullanımınız ve bunlarla etkileşimleriniz ile ilişkili kişisel verileri işletme gereksinimlerine, anlaşma yükümlülüklerine ve yasal zorunluluklara göre değişen sürelerle saklarız.
+
+Dinleme etkinliğiniz, arşiv içeriğiniz, listeleriniz ve aramalarınız ile ilgili bilgiler aboneliğiniz etkin olduğu sürece ve hesabın iptal edilmesinden sonra iki yıla kadar yeniden etkinleştirmeyi desteklemek ve ilginizi çekebilecek müzikleri ve size uygun teklifleri haber vermek için tutulur. Bu bilgileri, mali raporlama yükümlülüklerine uymak için gerekli olduğu durumlarda yürürlükte bulunan kanunlarca belirtilen süre boyunca da saklayabiliriz. Çoğunlukla en az 10 yıllık bir saklama süresi gerekir ama Çin gibi bölgelerde bu süre 30 yıla kadar uzatılabilir.
+
+Aboneliğiniz biterse Apple Music, içerik kaybı yaşamadan yeniden etkinleştirmeye izin vermek amacıyla Apple Music kataloğundan eklenen veya yaratılan müzikleri ve listeleri bir süre tutabilir. Bu sürenin sonunda Apple Music kataloğundaki içeriklere erişilemez hâle gelebilir.
+
+Apple Hesabı’nızı silerseniz bazı veriler, yasaların gerektirdiği durumlarda veya dolandırıcılığı önlemek, Apple Medya Hizmetleri Hüküm ve Koşulları’nı uygulatmak ya da Apple servislerinin güvenliğini sağlamak için tutulabilir.
+
+Kişisel Verilerin İşlenmesine Yönelik Yürürlükteki Yasal Dayanak
+
+Apple Music’teki kişisel verilerinizi, servisi sunmak ve yasal yükümlülüklerimize uymak için gerekli olduğu gibi Apple ile sözleşmenizin yerine getirilmesi için işleriz. Onay, yürürlükteki yerel kanunlara göre aradığımız uygun yasal dayanaktır.
+
+Yürürlükteki yerel kanunlar gerektirdiğinde kişisel verileri bizim ya da üçüncü partilerin yasal çıkarlarının gerektirdiği gibi, şunları yapmak için işleriz:
+
+• Dinlediğiniz, arşivinize eklediğiniz ya da indirdiğiniz Apple Music ve Apple Music Classical içeriklerine erişiminizi sağlamak
+• Apple Music ve Apple Music Classical deneyiminizi kişiselleştirmek
+• Apple Music ile bulunabilecek parçalarınızın kopyalarını belirleyip kilitlerini açmak
+• İçeriğin bölgenizde kullanılabilirliğini ve teklifler ve abonelikler için uygunluğunuzu belirlemek
+• Apple Music’i ve Apple Music Classical’ı siz ve başkaları için geliştirmeye ve en iyi hale getirmeye yardımcı olmak ve size Apple Music, Apple Music Classical ve diğer Apple ürünleri, servisleri ve teklifleri hakkında ilginizi çekebilecek haberler göndermek
+• Apple Music profilinizi ve listelerinizi yaratmak ve tutmak
+• Yayın şirketleri, müzik şirketleri, sanatçılar ve müzik listeleri hazırlayanlar için rapor sağlamak ve onlara telif hakkı ödemek
+• Dolandırıcılığı ve diğer kötü amaçlı eylemleri önlemek
+
+Kullanılan veriler şunları içerir:
+
+• Özelliklerle etkileşiminiz, uygulama içi bildirimler ve mesajlar, Apple Music’te ve Apple Music Classical’da dinlediğiniz, aradığınız, görüntülediğiniz, arşivinize eklediğiniz ve indirdiğiniz içerikler gibi Apple Music ve Apple Music Classical uygulamalarını kullanımınız
+• Aygıtınız ve hesabınız ile ilgili ayrıntılar
+• IP adresiniz
+• Apple Music profiliniz ve listeleriniz
+• Aygıt güven puanı
+
+Kişisel Olmayan Veriler
+
+Kişisel olmayan verileri herhangi bir amaç için toplayabilir, kullanabilir, aktarabilir ve açıklayabiliriz. Örneğin servisi iyileştirmek amacıyla kişisel olmayan verilerinizi diğer Apple Music kullanıcılarının verileriyle birleştirebiliriz. Apple Music’i kullandığınızda, radyo frekansı gücü, ülke kodu, ağ kodu ve hücresel radyo erişimi teknolojisi gibi bazı performans ölçütlerini de aygıtınızdan toplayabiliriz.
+
+Apple Music Hakkında Daha Fazla Bilgi
+
+Özellikler ve fiyatlandırma da dahil olmak üzere daha ayrıntılı bilgi için www.apple.com/tr/apple-music adresine gidin.
+
+Apple Music Web Çaları ve Gizlilik hakkında daha fazla bilgi için www.apple.com/tr/legal/privacy/data/tr/apple-music-web adresine gidin.
+
+Apple tarafından alınan tüm bilgiler her zaman www.apple.com/tr/privacy adresinde bulunan Apple’ın Gizlilik Politikası’na uygun bir şekilde işlenecektir."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Müzik</item>
+        <item>Bir şeyler</item>
+        <item>Müzik</item>
+        <item>Radyomu</item>
+        <item>Radyo istasyonumu</item>
+        <item>Şarkı</item>
+        <item>Parça</item>
+        <item>Beğendiğim parçaları</item>
+        <item>Güzel şarkılar</item>
+        <item>Beğendiğim müziklerden</item>
+    </string-array>
+</resources>
