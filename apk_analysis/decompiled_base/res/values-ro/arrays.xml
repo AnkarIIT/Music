@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>mii</item>
+        <item>mil.</item>
+        <item>mld.</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Luminoasă</item>
+        <item>Întunecată</item>
+        <item>Implicită pentru sistem</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Spațiul de stocare al dispozitivului</item>
+        <item>Card SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normală</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple colectează informații despre activitatea dvs. din Apple Music și Apple Music Classical, precum melodiile pe care le redați și durata redării lor, pentru a personaliza serviciile pe perioada abonamentului, a vă trimite notificări și pentru a compensa partenerii.</item>
+        <item>Biblioteca cloud Apple trimite la Apple informații despre biblioteca dvs. muzicală de pe dispozitiv, precum numele melodiilor și ale artiștilor, în vederea identificării și deblocării copiilor oricărora dintre melodiile dvs. care sunt disponibile și în Apple Music.</item>
+        <item>Informațiile bibliotecii dvs. cloud sunt asociate cu dvs. atât timp cât vă păstrați abonamentul și pentru un scurt timp după aceasta. Evidența melodiilor pe care le redați este reținută pentru perioadele specificate de legile aplicabile referitoare la raportarea financiară.</item>
+        <item>În scopul de identificare și prevenire a fraudelor, vor fi utilizate informații despre modul în care vă utilizați dispozitivul, inclusiv numărul aproximativ de apeluri telefonice sau de e‑mailuri pe care le trimiteți sau primiți, pentru a calcula un scor de încredere al dispozitivului atunci când încercați să realizați o achiziție. Trimiterile sunt concepute în așa fel încât Apple să nu poată afla valorile reale de pe dispozitivul dvs. Scorurile sunt stocate pentru o perioadă fixă de timp pe serverele noastre.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Protejarea intimității și securității informațiilor dvs. este o prioritate pentru oricine de la Apple. Ne străduim din greu să colectăm doar datele care sunt necesare pentru a vă oferi o experiență de utilizare superioară și, atunci când colectăm date, credem că este important ca dvs. să știți ce anume colectăm și motivele pentru care o facem, astfel încât să puteți face alegeri în cunoștință de cauză. Serviciile Apple Music și Apple Music Classical, precum toate produsele și serviciile Apple, sunt concepute pe baza acestor principii.
+
+Utilizăm datele dvs. personale pentru a furniza serviciile și funcționalitățile din Apple Music. Aceste informații includ numele dvs. și poza contului Apple, dacă ați configurat una, pe care le puteți accesa și modifica în configurările aplicației Apple Music pentru a fi utilizate cu funcționalitățile de partajare din Apple Music, cât și contul, starea abonamentelor Apple și informațiile dvs. de plată, pe care le puteți accesa și modifica în Configurări sau în Configurări sistem.
+
+Atunci când vă abonați la Apple Music, abonamentul dvs. include acces complet la Apple Music și la Apple Music Classical. Apple colectează informații despre modul în care utilizați Apple Music și Apple Music Classical pentru a le putea adapta funcționalitățile la gusturile dvs. muzicale. Aceste funcționalități includ recomandări personalizate, cum ar fi albume și liste de redare alese pentru dvs., și Radio, care redă selecții aparținând artiștilor și genurilor dvs. preferate. Utilizăm aceste informații și pentru a vă putea contacta prin e‑mail și notificări Push în legătură cu viitoare lansări, noi artiști și alte evenimente Apple Music și Apple Music Classical pe care este posibil să le apreciați.
+
+Este posibil ca unele funcționalități Apple Music, cum ar fi unele posturi radio, să nu fie disponibile în regiunea dvs. Apple poate utiliza adresa IP a conexiunii dvs. de internet pentru a vă aproxima localizarea și a vă determina disponibilitatea.
+
+Apple Music Classical
+
+Abonații Apple Music au acces la Apple Music Classical, o aplicație pentru muzică clasică proiectată pentru a vă permite să descoperiți piese și albume clasice și să salvați piesele clasice favorite într‑un singur loc. Puteți explora catalogul Apple Music Classical fără un abonament, dar trebuie să aveți un abonament Apple Music pentru a accesa toate funcționalitățile Apple Music Classical. Dacă nu aveți un abonament Apple Music activ, veți avea opțiunea de a vă abona la Apple Music pentru a obține acces complet la Apple Music Classical.
+
+Bibliotecă cloud
+
+Biblioteca cloud Apple, care este un beneficiu al abonamentului Apple Music, vă permite să aveți acces la melodiile și listele de redare din biblioteca dvs. de pe oricare dintre dispozitivele dvs. Această funcționalitate trimite la Apple informații din biblioteca de pe dispozitivul dvs., precum numele melodiilor și artiștilor, în vederea identificării și deblocării copiilor oricărora dintre melodiile care sunt disponibile și în Apple Music și Apple Music Classical. Orice melodie care nu poate fi găsită în Apple Music este încărcată în biblioteca cloud personală, pentru a putea beneficia de acces la colecția dvs. completă de pe oricare dintre dispozitive, prin Apple Music. Pentru a opri sincronizarea bibliotecii cloud pe dispozitivul dvs. iOS, iPadOS sau visionOS, accesați Configurări > Aplicații > Muzică și apăsați pentru a dezactiva opțiunea Sincronizare bibliotecă. Pe Mac, deschideți aplicația Muzică și accesați Configurări > General, apoi deselectați opțiunea Sincronizare bibliotecă.
+
+Profilul Apple Music
+
+Dacă doriți să vă conectați sau să partajați informații cu alte persoane utilizând Apple Music, vă puteți crea un profil personal furnizând un identificator de utilizator (de exemplu, @ionpopescu), un nume de ecran și, dacă doriți, o poză de profil și alte informații. Apple stochează aceste informații împreună cu contul dvs., astfel încât să le puteți accesa de pe oricare dintre dispozitivele dvs. Identificatorul de utilizator, numele de ecran și poza de profil pot să apară alături de orice conținut pe care îl postați și de orice activități pe care le partajați în Apple Music. Partajarea și postarea conținutului nu sunt destinate sau disponibile în prezent conturilor Apple pentru copii.
+
+Este posibil ca alte persoane să vă găsească profilul Apple Music folosind informațiile pe care le‑ați furnizat.
+
+Puteți face conținutul profilului, precum activitatea de ascultare și listele de redare, disponibil doar pentru cei pe care îi alegeți. Cu toate acestea, informațiile profilului, cum ar fi identificatorul de utilizator, numele de ecran, poza, urmăritorii și cei pe care îi urmăriți, sunt vizibile în mod implicit pentru toată lumea. Pentru a bloca un utilizator să vă vadă profilul, accesați profilul utilizatorului respectiv, apăsați pe Mai multe, apoi apăsați pe Blocați. Persoanele pe care le blocați nu vor vedea muzica dvs. și nu vor găsi profilul dvs. în Apple Music.
+
+Atunci când creați un profil pe Apple Music, vă vor fi recomandați alți abonați Apple Music cu care ați putea dori să vă conectați ca prieteni. Apple nu află și nu stochează informațiile dvs. de contact atunci când caută prieteni pentru a‑i recomanda. La Apple sunt trimise doar hash‑uri prescurtate și criptate ale numerelor de telefon și ale adreselor de e‑mail ale contactelor dvs., după care abonații Apple Music corespunzători de recomandat sunt determinați local, pe dispozitivul dvs. Apple Music poate verifica periodic contactele dvs. pentru a recomanda pe viitor noi prieteni; puteți controla această acțiune accesând Configurări cont > Intimitate și acces > Contacte pe Apple Music. Dacă nu doriți ca alte persoane să vă poată găsi pe baza informațiilor de contact referitoare la contul Apple pe care le pot avea despre dvs. în propriile informații de contact, puteți schimba această opțiune accesând Configurări cont > Intimitate și acces > Permiteți căutarea după contul Apple.
+
+Puteți actualiza sau elimina informațiile pe care le furnizați în cadrul profilului dvs. în orice moment. De fiecare dată când partajați informații online, este recomandat să cântăriți cu atenție ceea ce urmează să faceți public. Atunci când partajați informații din Apple Music pe alte site‑uri web sau rețele de socializare, tot ceea ce partajați se supune politicilor de confidențialitate ale serviciilor respective.
+
+SharePlay
+
+Când vă abonați la Apple Music, puteți găzdui sesiuni SharePlay atunci când v‑ați conectat la un Apple TV, HomePod, CarPlay sau când utilizați Bluetooth. Cu SharePlay, alți abonați Apple Music pot să se conecteze la sesiunea dvs. SharePlay și să controleze muzica redată prin Apple Music. De asemenea, SharePlay le permite utilizatorilor fără abonament Apple Music să se conecteze la sesiunea dvs. SharePlay. Apple utilizează conexiunea Bluetooth, dacă este activată pe dispozitivul dvs., pentru a le permite contactelor din apropiere să descopere sesiunea dvs. Apple Music și să solicite să se alăture. Dacă nu doriți ca persoanele din lista de contacte să poată să vă detecteze dispozitivul și să solicite să se alăture la sesiunea dvs. Apple Music, puteți să dezactivați în configurările aplicației Muzică posibilitatea ca persoanele de contact din apropiere să vă detecteze. De asemenea, contactele, cât și alți participanți, pot să se alăture prin scanarea unui cod QR afișat în configurările aplicației Apple Music sau pe interfața vehiculului, dacă participă la o sesiune SharePlay în mașină.
+
+Numele și poza de profil ale participanților la sesiune vor fi vizibile tuturor participanților la sesiune. Contribuțiile la o sesiune SharePlay sunt atribuite persoanelor care le‑au realizat și sunt asociate cu numele și poza de profil ale utilizatorului respectiv, dacă au fost furnizate, cu posibilitatea de a fi editate oricând în configurările aplicației Apple Music. Puteți elimina participanți de la o sesiune SharePlay pe care o găzduiți apăsând pe pictograma SharePlay din aplicația Apple Music, apoi selectând participantul pe care doriți să îl eliminați. Pentru a părăsi o sesiune SharePlay, apăsați pe pictograma SharePlay din aplicația Apple Music, apoi apăsați pe Părăs"</item>
+        <item>"iți. Pentru a încheia o sesiune SharePlay pe care o găzduiți, apăsați pe butonul de oprire din aplicația Muzică. După încheierea sesiunii, Apple nu reține informații despre contactele dvs. sau despre alți participanți care s-au alăturat la sesiunea SharePlay.
+
+De asemenea, puteți să activați sesiunile SharePlay din aplicația Mesaje sau în timpul unui apel FaceTime, pentru a partaja muzică în sincron cu ceilalți participanți. Pentru a începe o sesiune, selectați muzica pe care doriți să o ascultați, apoi apăsați pe SharePlay în opțiunile pentru muzică, introduceți contactele cu care doriți să partajați, apoi apăsați pe „Mesaje” sau „FaceTime” și pe Start.
+
+Crearea și colaborarea la liste de redare
+
+Abonații Apple Music pot crea propriile liste de redare sau pot utiliza Playlist Playground, în funcție de disponibilitate, pentru a genera o listă de redare utilizând inteligența artificială. Când utilizați Playlist Playground, veți descrie ceea ce doriți să ascultați, iar informația va fi procesată pentru înțelegerea stării de spirit, genului sau temei. Aceste informații vor fi combinate cu istoricul dvs. de ascultare și cu alte date de utilizare pentru crearea unei liste de redare personalizate. Puteți rafina lista de redare înainte de a o salva și puteți șterge sau modifica în orice moment lista de redare generată.
+
+Puteți colabora la liste de redare cu alți abonați Apple Music. Dacă ați creat lista de redare, puteți alege să aprobați fiecare persoană care se alătură listei de redare sau puteți permite ca orice persoană care are linkul către lista de redare să se alăture în mod automat. Toți participanții pot să adauge și să elimine melodii din lista de redare și să adauge reacții cu emojiuri. Contribuțiile sunt atribuite persoanelor care le‑au realizat și sunt asociate cu numele și poza de profil ale utilizatorului respectiv, dacă au fost furnizate, cu posibilitatea de a fi editate oricând în configurările aplicației Muzică. Toți participanții din lista de redare, inclusiv oricine are acces la lista de redare, pot vedea numele și poza celorlalți participanți. Participanții la lista de redare pot vedea toate melodiile și reacțiile adăugate de alți participanți. Pentru a încheia colaborarea, eliminați‑vă din lista de redare din configurările listei de redare sau, dacă dvs. ați creat lista, opriți colaborarea din configurările de gestionare a colaborării pentru lista de redare. Dacă persoana care a creat lista de redare încheie colaborarea, lista de redare devine listă de redare partajată, la care colaboratorii vor avea acces din biblioteca lor Apple Music.
+
+Concerte
+
+Dacă permiteți ca Apple Music să vă acceseze localizarea, localizarea dvs. aproximativă poate fi utilizată pentru salvarea unui oraș de interes preferat cu scopul de a vă furniza informații relevante la nivel local, cum ar fi concertele din apropiere. Dacă alegeți să nu permiteți ca Apple Music să acceseze localizarea dvs., puteți introduce manual un oraș de interes pentru a afla concertele din orașul respectiv. Orașul dvs. de interes se va sincroniza pe toate dispozitivele dacă sincronizarea este activată. Puteți modifica oricând configurările bazate pe localizare de pe dispozitivul dvs. iOS sau iPadOS accesând Configurări > Intimitate și securitate > Servicii de localizare > Muzică.
+
+Personalizarea și optimizarea Apple Music și Apple Music Classical
+
+Atunci când utilizați abonamentul Apple Music sau redați conținut gratuit în afara bibliotecii dvs., este posibil să colectăm informații despre melodiile și clipurile video (dacă este cazul) pe care le redați sau le adăugați în biblioteca dvs. muzicală sau în listele de redare, precum și despre conținutul și artiștii pe care îi apreciați sau partajați. Informații precum contul, adresa IP, dispozitivul, aplicația sau interfața auto pe care le‑ați utilizat pentru a reda muzică, unde vă aflați în Apple Music sau Apple Music Classical atunci când ați redat‑o, precum și ora și durata redării, sunt colectate și trimise la Apple. Utilizăm aceste informații pentru a personaliza experiența dvs., pentru a vă trimite e‑mailuri și notificări și pentru a înțelege mai bine modul în care sunt utilizate serviciile Apple Music și Apple Music Classical, în vederea îmbunătățirii acestora. De exemplu, aceste informații ne pot ajuta să alegem muzica, clipurile video și conținutul oferit de artiști care să vă fie afișate în Apple Music și Apple Music Classical. De asemenea, ne permit să vă facem alte recomandări care să reflecte gusturile dvs., să creăm clasamente ale orașelor pentru a vă prezenta ce muzică este populară în funcție de oraș și să furnizăm rezultate personalizate ale căutărilor din Apple Music, utilizând o combinație de informații, precum istoricul de ascultare și genurile dvs. favorite. De asemenea, utilizăm aceste informații pentru a putea să plătim redevențe și să prevenim sau să sancționăm activități care încalcă sau ar putea încălca termenele și condițiile Serviciilor multimedia Apple sau legile aplicabile.
+
+Dacă utilizați SharePlay pentru a asculta conținut împreună cu alți utilizatori din Apple Music, aplicația Muzică va colecta informații despre conținutul pe care l‑ați ascultat în timpul sesiunii SharePlay și numărul aproximativ de participanți la sesiune, dar nu reține nicio informație pentru a identifica participanții unei sesiuni SharePlay.
+
+De asemenea, utilizăm datele căutărilor legate de Apple Music pentru a îmbunătăți modelele care stau la baza Apple Music. De exemplu, interogările agregate ale căutărilor legate de Apple Music sunt utilizate pentru a perfecționa modelul de căutare în Apple Music.
+
+Comunicarea cu dvs.
+
+Apple poate utiliza informații despre contul dvs., precum produsele Apple pe care le dețineți, aplicațiile Apple pe care le descărcați și abonamentele dvs. la servicii Apple, pentru a vă trimite comunicări despre Apple Music și alte produse, servicii și oferte Apple care v‑ar putea interesa, inclusiv Apple Music Classical și Apple One. Numărul serial al dispozitivului și alți identificatori hardware sau detalii despre abonamentele dvs. App Store relevante pot fi utilizate pentru a verifica eligibilitatea dvs. pentru ofertele de servicii Apple. Dacă faceți parte dintr‑un grup de Partajare familială, Apple vă poate trimite comunicări despre produsele, serviciile și ofertele disponibile pentru dvs. prin Partajare familială. Dacă achiziționați un abonament Apple One, este posibil să vă trimitem e‑mailuri și notificări Push despre funcționalitățile fiecăruia dintre serviciile la care v‑ați abonat. De asemenea, Apple poate utiliza informații despre activitatea dvs. în cadrul Apple Music și Apple Music Classical și interacțiunea dvs. cu serviciile utilizate pentru a verifica eligibilitatea pentru abonamentele Apple Music cu tarif redus disponibile (precum Apple Music pentru studenți) pentru a vă trimite e‑mailuri și notificări Push despre noi funcționalități, conținut, evenimente și oferte disponibile în Apple Music și Apple Music Classical. Pentru anumite comunicări, este utilizat un identificator hardware pentru a filtra notificările pe care le veți primi. Vă puteți schimba preferințele legate de e‑mail și puteți opta împotriva primirii acestor e‑mailuri accesând account.apple.com. Pentru a vă actualiza preferințele legate de notificări pe un dispozitiv iOS, iPadOS sau visionOS, accesați Configurări > Notificări > Muzică. Pe Mac, deschideți aplicația Muzică și accesați Configurări > General > Notificări. Apple utilizează informații despre interacțiunile dvs. cu comunicările noastre, inclusiv notificările, pentru îmbunătățirea serviciilor.
+
+Prevenirea fraudelor și a activităților rău intenționate
+
+Calculăm un scor de încredere pentru dispozitivul dvs. atunci când încercați să realizați o achiziție, utilizând informații despre modul în care vă utilizați dispozitivul, inclusiv numărul aproximativ de apeluri telefonice sau de e‑mailuri pe care le trimiteți sau le primiți. Trimiterea este concepută în așa fel încât Apple să nu poată afla valorile subiacente de pe dispozitivul dvs. Scorul este stocat pentru o perioadă fixă de timp pe serverele noastre. De asemenea, Apple poate utiliza informații despre istoricul relaț"</item>
+        <item>"iei dvs. comerciale cu Apple pentru a procesa reînnoirile abonamentului Apple Music și a determina dacă să furnizeze acces continuu la abonamentul dvs. înaintea autorizării de către partenerul de plată.
+
+Divulgarea către terțe părți
+
+Posturi radio
+Când utilizați Apple Music pentru a asculta posturi de radiodifuziune, dispozitivul dvs. se conectează direct la postul de radiodifuziune pentru a vă furniza conținutul solicitat. La conectare, adresa IP a dispozitivului dvs. va deveni vizibilă pentru postul de radiodifuziune. Gestionarea adresei dvs. IP de către postul de radiodifuziune este guvernată de politicile de confidențialitate ale acestuia sau ale furnizorului său.
+
+Case de discuri, artiști și autori care compilează clasamente muzicale
+Suntem obligați să furnizăm unele date nepersonale agregate despre utilizarea serviciilor Apple Music și Apple Music Classical, precum și date demografice agregate despre utilizatori, cum ar fi grupa de vârstă și sexul (care pot fi deduse din informații precum numele și formula de adresare din contul dvs. Apple), către casele de discuri, editori și artiști, pentru a le da acestora posibilitatea să își măsoare performanțele lucrărilor de creație și să respecte cerințe legate de redevențe și contabilitate. În plus, partajăm informații agregate despre activitatea de ascultare cu autorii care compilează clasamente muzicale din întreaga lume, cu casele de discuri și artiștii pentru a măsura implicarea, inclusiv în timp real, și cu platformele de marketing muzical care ajută casele de discuri și artiștii să ia contact cu publicul. Pentru a determina eligibilitatea abonării dvs. dacă vă abonați la Apple Music prin intermediul unui partener terț, precum un operator de servicii mobile, sau pentru a finaliza achiziția, partajăm informații limitate care permit identificarea personală cu partenerul respectiv.
+
+Conectarea Apple Music cu alte aplicații
+
+Este posibil ca unele aplicații iOS, iPadOS și visionOS și aplicații de pe platforme non‑Apple să solicite acces la Apple Music și la biblioteca dvs. cloud. Dacă le acordați această permisiune, aplicațiile respective pot accesa informații precum biblioteca cloud de pe dispozitiv, dacă aveți sau nu un abonament la Apple Music, activitățile de redare a muzicii și clipurilor video și recomandările dvs din Apple Music. De asemenea, o aplicație autorizată poate modifica date asociate cu contul dvs., precum melodiile care se află în bibliotecă și în listele de redare. Dacă acordați aplicației Poze permisiunea de a accesa Apple Music, aplicația Poze va utiliza melodii din Apple Music pentru a le reda împreună cu filmele cu amintiri. Când creați un film personalizat cu amintiri în Poze, informații despre solicitarea introdusă pentru a crea amintirea pot fi trimise la Apple Music pentru a selecta melodiile care să fie redate împreună cu filmul. În plus, aplicațiile Apple care oferă conținut compatibil, precum Telecomandă, vor fi conectate automat atunci când începeți să utilizați aplicația Apple Music și conținutul compatibil. Puteți dezactiva accesul aplicațiilor pe un dispozitiv iOS, iPadOS sau visionOS accesând Configurări > Intimitate și securitate > Multimedia și Apple Music. Pe Mac, accesați Configurări sistem > Intimitate și securitate > Intimitate > Multimedia și Apple Music. Dacă ați eliminat aplicația sau ați acordat acces unei aplicații utilizând o versiune de iOS anterioară față de iOS 11 sau iPadOS, îi puteți dezactiva accesul în configurările contului dvs. Apple Music.
+
+Abonamente Apple Music prin parteneri Apple
+
+Dacă furnizorul dvs. de rețea mobilă oferă abonamente la Apple Music și perioade de încercare gratuită, Apple poate verifica numărul dvs. de telefon pentru a vă determina eligibilitatea prin intermediul unui furnizor de rețea mobilă partener. Dacă vă înscrieți pentru un abonament Apple Music sau pentru o perioadă de încercare gratuită prin intermediul furnizorului de rețea mobilă sau a altui partener Apple, Apple va utiliza numărul dvs. de telefon sau un identificator de cont unic partajat de partener pentru identificarea contului dvs. și pentru a aduce la cunoștința furnizorului de rețea mobilă sau a celuilalt partener faptul că v‑ați activat abonamentul. Numărul de telefon sau identificatorul unic asociat cu abonamentul va fi utilizat pentru verificarea contului dvs. la autentificare și pentru conectarea activității dvs. din Apple Music cu respectivul cont. De asemenea, numărul dvs. de telefon va fi utilizat pentru a solicita anularea abonamentului de la furnizorul de rețea mobilă, la cererea dvs.
+
+Retenția
+
+Datele personale asociate cu utilizarea și interacțiunea cu Apple Music și Apple Music Classical sunt reținute pentru diferite perioade de timp, în funcție de necesitățile comerciale, obligațiile contractuale și cerințele legale.
+
+Informațiile despre activitatea de ascultare, conținutul bibliotecii, listele de redare și căutările dvs. sunt reținute pe toată perioada cât abonamentul este activ și pentru o perioadă de până la 2 ani după anularea contului, pentru a permite reactivarea acestuia și pentru a vă comunica informații muzicale care v‑ar putea interesa și oferte pentru care ați putea fi eligibil(ă). De asemenea, aceste informații ar putea fi reținute pentru a îndeplini obligațiile privind raportarea financiară pe perioadele specificate de legile aplicabile, care adesea impun o perioadă de retenție de minimum zece ani, dar, în jurisdicții precum China, perioada respectivă poate fi de până la 30 de ani.
+
+Dacă abonamentul se încheie, Apple Music poate păstra muzica și listele de redare pe care le‑ați adăugat sau creat din catalogul Apple Music pentru o perioadă de grație, pentru a permite reactivarea fără pierderea conținutului. După această perioadă, conținutul din catalogul Apple Music poate deveni inaccesibil.
+
+Dacă vă ștergeți contul Apple, anumite date pot fi reținute dacă acest lucru este cerut prin lege sau pentru protecția împotriva fraudelor, pentru respectarea termenelor și condițiilor serviciilor multimedia Apple sau pentru menținerea securității serviciilor Apple.
+
+Temei juridic aplicabil pentru procesarea datelor personale
+
+În general, procesăm datele dvs. personale în Apple Music pentru executarea contractului dvs. cu Apple, pentru furnizarea serviciului, după caz, și în scopul respectării obligațiilor legale. În cazul în care consimțământul este temeiul legal corespunzător, îl solicităm conform legilor locale în vigoare.
+
+În cazul în care legislația locală în vigoare prevede acest lucru, procesăm date personale, așa cum este necesar în scopul intereselor legitime ale noastre sau ale terților, pentru:
+
+• Asigurarea accesului la conținutul din Apple Music și Apple Music Classical pe care îl ascultați, îl adăugați în biblioteca dvs. sau îl descărcați
+• Personalizarea experienței dvs. din Apple Music și Apple Music Classical
+• Identificarea și deblocarea copiilor melodiilor dvs. care sunt disponibile și prin Apple Music
+• Determinarea disponibilității conținutului în regiunea dvs. și eligibilitatea dvs. pentru oferte și abonamente
+• Îmbunătățirea și optimizarea Apple Music și Apple Music Classical pentru dvs. și pentru ceilalți utilizatori, precum și trimiterea de comunicări despre aplicațiile Apple Music și Apple Music Classical și despre alte produse, servicii și oferte Apple care v‑ar putea interesa
+• Crearea și menținerea profilului și listelor de redare din Apple Music
+• Plătirea redevențelor și furnizarea rapoartelor pentru editori, case de discuri, artiști și autori care compilează clasamente muzicale
+• Prevenirea fraudelor și a activităților rău intenționate
+
+Datele utilizate includ:
+
+• Modul în care utilizați aplicațiile Apple Music și Apple Music Classical, inclusiv interacțiunile dvs. cu funcționalitățile, notificările și mesajele din aplicație, precum și conținutul pe care îl ascultați, căutați, vizualizați, adăugați în bibliotecă și descărcați din Apple Music și Apple Music Classical
+• Detalii despre dispozitivul și contul dvs.
+• Adresa dvs. IP
+• Profilul și listele dvs. de redare din Apple Music
+• Scorul de încredere al dispozitivului
+
+Date nepersonale
+
+Putem colecta, utiliza, transfera și divulga date nepersonale indi"</item>
+        <item>"ferent de scop. De exemplu, datele dvs. nepersonale ar putea fi agregate cu cele ale altor utilizatori ai serviciului Apple Music în scopul îmbunătățirii serviciului. De asemenea, putem colecta anumiți parametri de performanță de pe dispozitivul dvs. atunci când utilizați Apple Music, inclusiv intensitatea semnalului de radiofrecvență, codul de țară, codul de rețea și tehnologia de acces radio celular.
+
+Aflați mai multe despre Apple Music
+
+Pentru informații mai detaliate, inclusiv despre funcționalități și tarife, vizitați www.apple.com/ro/apple-music.
+
+Pentru informații despre playerul web Apple Music și intimitate, vizitați www.apple.com/legal/privacy/data/ro/apple-music-web.
+
+Informațiile colectate de Apple vor fi în permanență tratate în conformitate cu politica de confidențialitate Apple, care se află la www.apple.com/ro/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Niște muzică</item>
+        <item>Ceva</item>
+        <item>Muzică</item>
+        <item>Postul meu</item>
+        <item>Postul meu de radio</item>
+        <item>Câteva piese</item>
+        <item>Câteva melodii</item>
+        <item>Muzică pe care o apreciez</item>
+        <item>Câteva melodii tari</item>
+        <item>Muzica apreciată de mine</item>
+    </string-array>
+</resources>
