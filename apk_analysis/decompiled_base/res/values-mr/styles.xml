@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.ActionBar.MenuTextStyle" parent="@style/AppTheme.ActionBar.BaseMenuTextStyle">
+        <item name="android:fontFamily">@font/regular_devanagari</item>
+    </style>
+    <style name="AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.Button" parent="@style/AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.BaseButton">
+        <item name="fontFamily">@font/regular_devanagari</item>
+    </style>
+    <style name="AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.Message" parent="@style/AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.BaseMessage">
+        <item name="fontFamily">@font/regular_devanagari</item>
+    </style>
+    <style name="AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.PositiveButton" parent="@style/AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.BasePositiveButton">
+        <item name="fontFamily">@font/bold_devanagari</item>
+    </style>
+    <style name="AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.Title" parent="@style/AppTheme.Overlay.MaterialComponents.MaterialAlertDialog.BaseTitle">
+        <item name="fontFamily">@font/bold_devanagari</item>
+    </style>
+    <style name="SlidingTabTitle" parent="@style/BaseSlidingTabTitle">
+        <item name="android:fontFamily">@font/medium_devanagari</item>
+    </style>
+</resources>
