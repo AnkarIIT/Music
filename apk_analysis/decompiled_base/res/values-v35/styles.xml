@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShareLyricsBottomSheetDialogTheme" parent="@style/AppTheme.BaseShareLyricsBottomSheetDialogTheme">
+        <item name="android:ambientShadowAlpha">0.1</item>
+        <item name="android:spotShadowAlpha">1.0</item>
+    </style>
+</resources>
