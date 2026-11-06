@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fuse="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/user_profile_image_container" android:layout_width="@dimen/account_page_image_size" android:layout_height="@dimen/account_page_image_size" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/default_padding">
+        <com.apple.android.music.common.views.Monogram android:layout_gravity="center" android:id="@id/monograms" android:background="@drawable/nav_head_monogram_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" fuse:initialsSize="20.0dip" fuse:text_tint_color="@android:color/white" />
+        <com.apple.android.music.common.CustomImageView android:gravity="center" android:id="@id/profile_imageview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@string/profile_picture" fuse:circularImage="true" />
+    </FrameLayout>
+    <com.apple.android.music.common.views.VerticalGroupView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/user_profile_image_container">
+        <com.apple.android.music.common.views.CustomEditText android:layout_width="0.0dip" android:layout_height="0.0dip" android:imeOptions="flagNoExtractUi" style="@style/DefaultFont" />
+        <com.google.android.material.textfield.TextInputLayout android:id="@id/textinput_layout_name" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText android:gravity="start|center|top" android:id="@id/profileedit_name_value" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/account_edit_hint_name" android:inputType="textPersonName" android:imeOptions="flagNoExtractUi" android:textDirection="anyRtl" android:textAlignment="viewStart" android:backgroundTint="@color/system_gray" fuse.hintEnabled="true" style="@style/Callout" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout android:id="@id/textinput_layout_handle" android:paddingTop="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText android:textColorHint="@color/gray_divider" android:id="@id/profileedit_handle_value" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/account_edit_hint_nickname" android:maxLength="32" android:digits="_0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz" android:inputType="textNoSuggestions" android:imeOptions="flagNoExtractUi" android:textDirection="anyRtl" android:textAlignment="viewStart" android:backgroundTint="@color/system_gray" fuse.hintEnabled="true" style="@style/Callout" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </com.apple.android.music.common.views.VerticalGroupView>
+</RelativeLayout>
