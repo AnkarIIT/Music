@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/container" android:tag="layout/layout_create_new_playlist_button_0" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="56.0dip" android:paddingStart="@dimen/playlist_item_margin_horizontal" android:paddingEnd="@dimen/playlist_item_margin_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:id="@id/list_left_icon" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" android:src="@drawable/placeholder_playlist_new" android:contentDescription="@string/new_playlist_button" app:roundedCornerRadius="@dimen/corner_radius_s" />
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:id="@id/list_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/listview_item_track_height" android:text="@string/new_playlist_button" android:maxLines="2" android:layout_marginStart="@dimen/default_padding" style="@style/SmallListATitleStyle" />
+</LinearLayout>
