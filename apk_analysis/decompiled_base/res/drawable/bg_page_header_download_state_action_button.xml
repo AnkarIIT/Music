@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/artist_latest_album_download_button_bg_radius" />
+    <padding android:left="@dimen/smaller_margin_4" android:top="@dimen/smaller_margin_2" android:right="@dimen/smaller_margin_4" android:bottom="@dimen/smaller_margin_2" />
+    <solid android:color="@color/tertiary_fill_color" />
+</shape>
