@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/connect_content_type_f_0" android:paddingTop="@dimen/connect_item_view_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.ConnectSharedContentImageView android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>
