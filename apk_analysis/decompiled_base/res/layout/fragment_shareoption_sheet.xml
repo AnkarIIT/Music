@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/action_sheet_coordinator" android:tag="layout/fragment_shareoption_sheet_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_behavior="@string/bottom_sheet_behavior">
+        <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding" android:layout_marginTop="28.0dip" android:layout_marginBottom="8.0dip" android:text="@string/sharing_options" style="@style/Title2Emphasized" />
+        <RadioGroup android:id="@id/privacy_radio_group" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding">
+            <com.apple.android.music.common.views.MultiTextRadioButtonV2 android:theme="@style/AppTheme" android:id="@id/radio_anyonewithlink" android:layout_width="fill_parent" android:layout_height="wrap_content" app:radiobtn_subtitle="lalal 1 sub" app:radiobtn_title="@string/collab_anyone_with_link" app:titleSelectedColor="@color/color_primary" />
+            <com.apple.android.music.common.views.MultiTextRadioButtonV2 android:theme="@style/AppTheme" android:id="@id/radio_invitedppl" android:layout_width="fill_parent" android:layout_height="wrap_content" app:radiobtn_subtitle="lalal 2 sub" app:radiobtn_title="@string/collab_only_invited_people" app:titleSelectedColor="@color/color_primary" />
+        </RadioGroup>
+        <View android:background="@color/gray_de" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/default_padding" android:layout_marginRight="@dimen/default_padding" />
+        <androidx.appcompat.widget.SwitchCompat android:theme="@style/AppTheme" android:textSize="20.0dip" android:layout_gravity="center_vertical" android:id="@id/switch_anyone_can_add_people" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding" android:text="@string/collab_anyone_can_add_people" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
