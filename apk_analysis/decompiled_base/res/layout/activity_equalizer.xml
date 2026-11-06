@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/coordinator_layout" android:background="@color/system_light_gray" android:fitsSystemWindows="true" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" sameSizePortraitWidth="\@{0}"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/toolbar_actionbar" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior">
+        <fragment android:name="com.apple.android.music.equalizer.EQActivityFragment" android:id="@id/fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
