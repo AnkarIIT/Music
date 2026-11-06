@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="layout/swiping_grid_e7_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/in_favorites_indicator" android:tag="binding_1" android:background="@android:color/transparent" android:padding="3.0dip" android:layout_width="@dimen/favorite_icon_width_16" android:layout_height="@dimen/favorite_icon_height_16" android:src="@drawable/list_item_favorite_icon" android:tintMode="src_in" app:tint="@color/favorite_star_color" />
+    <com.apple.android.music.common.CustomImageView android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="@dimen/featured_release_image_size" app:roundedCornerRadius="@dimen/corner_radius_s" style="@style/ArtistFeaturedReleaseLayoutGravity" />
+    <androidx.legacy.widget.Space android:layout_width="@dimen/default_padding" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/featured_release_image_size" style="@style/ArtistFeaturedReleaseLayoutGravity">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/grid_e_secondary_subtitle" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EyeBrow" />
+        <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:id="@id/title_grid_e" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:id="@id/subtitle_e" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Footnote" />
+        <androidx.legacy.widget.Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_8" />
+        <com.apple.android.music.common.SwipingPageHeaderActionButton android:id="@id/header_action_button" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>
