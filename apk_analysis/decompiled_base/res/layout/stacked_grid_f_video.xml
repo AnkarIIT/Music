@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/stacked_grid_f_video_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/header_main_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.CustomImageView android:id="@id/header_top_imageview" android:tag="binding_1" android:background="#00ffffff" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:roundedCornerRadius="@dimen/corner_radius_m" />
+        </FrameLayout>
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_title" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_subtitle" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/SubheadSecondary" />
+    </LinearLayout>
+</FrameLayout>
