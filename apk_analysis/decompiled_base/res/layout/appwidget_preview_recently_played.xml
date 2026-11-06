@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/appwidget_view" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintWidth_max="@dimen/widget_preview_dimen_max">
+        <ImageView android:id="@id/appwidget_view_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/appwidget_view_default_background" android:scaleType="fitXY" android:layout_alignBottom="@id/appwidget_list_item_container_a" android:layout_alignParentTop="true" />
+        <FrameLayout android:background="@drawable/appwidget_shield" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/appwidget_list_items_header_and_spacer" android:layout_alignBottom="@id/appwidget_list_item_container_a" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:src="@drawable/ic_widgets_appicon_note" android:tint="@color/white" android:layout_marginEnd="12.0dip" android:layout_alignParentEnd="true" android:tintMode="src_in" />
+        <com.apple.android.music.common.CustomImageView android:id="@id/appwidget_header_imageview" android:layout_width="110.0dip" android:layout_height="110.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="6.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" android:elevation="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/appwidget_header_container_info" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_frame_padding" android:layout_alignBottom="@id/appwidget_header_imageview" android:paddingEnd="@dimen/widget_item_padding" android:layout_marginEnd="@dimen/widget_frame_padding" android:layout_toEndOf="@id/appwidget_header_imageview">
+            <TextView android:id="@id/appwidget_header_caption" style="@style/AppWidgetCaption2Emphasized" />
+            <TextView android:id="@id/appwidget_item_title" style="@style/AppWidgetHeadline" />
+            <TextView android:id="@id/appwidget_item_subtitle" style="@style/AppWidgetBody" />
+            <include layout="@layout/appwidget_pill_play_button" />
+        </LinearLayout>
+        <TextView android:id="@id/widget_header_bottom_spacer" android:layout_width="fill_parent" android:layout_height="6.0dip" android:layout_below="@id/appwidget_header_imageview" />
+        <TextView android:id="@id/appwidget_list_items_header_and_spacer" android:paddingTop="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/appwidget_recently_played_title_capitalized" android:layout_below="@id/widget_header_bottom_spacer" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" style="@style/AppWidgetCaption2Emphasized" />
+        <LinearLayout android:orientation="vertical" android:id="@id/appwidget_list_item_container_a" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="3.0" android:layout_below="@id/appwidget_list_items_header_and_spacer" style="@style/AppWidgetListItemContainer">
+            <include android:id="@id/preview_list_item_1" layout="@layout/appwidget_list_item_preview" />
+            <include android:id="@id/preview_list_item_2" layout="@layout/appwidget_list_item_preview" />
+            <include android:id="@id/preview_list_item_3" layout="@layout/appwidget_list_item_preview" />
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
