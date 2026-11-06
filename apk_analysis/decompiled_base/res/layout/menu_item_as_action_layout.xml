@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@color/color_primary" android:gravity="start" android:id="@id/menu_item_as_action_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="0.0dip" android:paddingEnd="5.0dip" style="@style/ToolBarStyleText"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
