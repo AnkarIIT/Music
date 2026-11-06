@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/coordinator_layout" android:tag="layout/activity_account_0" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior">
+        <LinearLayout android:orientation="vertical" android:id="@id/content_root_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <ScrollView android:paddingTop="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:isScrollContainer="true">
+                <LinearLayout android:orientation="vertical" android:id="@id/main_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </ScrollView>
+        </LinearLayout>
+        <include layout="@layout/toolbar_actionbar" />
+        <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/activity_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:backgroundColor="@color/translucent_dark_30" />
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
