@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:isScrollContainer="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/dialog_background_inset" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="100.0dip" android:paddingStart="48.0dip" android:paddingEnd="48.0dip">
+        <com.apple.android.music.common.views.CustomTextView android:textSize="18.0sp" android:textColor="@color/label_color" android:id="@id/dialog_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_8" android:text="@string/create_explicit_pin_title" style="@style/DefaultFontBold" />
+        <com.apple.android.music.common.views.CustomTextView android:textSize="15.0sp" android:textColor="@color/secondary_label_color" android:id="@id/dialog_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_24" android:text="@string/create_explicit_pin_message" android:minLines="1" style="@style/DefaultFont" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/carrier_code_container" android:background="@color/background_color_layer1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_8">
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/explicit_code_insert_1" android:clickable="false" style="@style/ExplicitPinTextUi" />
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/explicit_code_insert_2" android:clickable="false" style="@style/ExplicitPinTextUi" />
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/explicit_code_insert_3" android:clickable="false" style="@style/ExplicitPinTextUi" />
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/explicit_code_insert_4" android:clickable="false" style="@style/ExplicitPinTextUi" />
+        </LinearLayout>
+        <FrameLayout android:layout_gravity="end|bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.apple.android.music.common.views.BackDetectEditText android:layout_gravity="center" android:id="@id/hidden_input" android:layout_width="1.0dip" android:layout_height="1.0dip" android:windowSoftInputMode="adjustResize|stateVisible" style="@style/ExplicitPinEditTextAutoFill" />
+            <com.apple.android.music.common.views.CustomTextButton android:id="@id/cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tracking_logs__on_dialog_button_negative_on_demand" style="@style/DefaultFontMedium" />
+        </FrameLayout>
+    </LinearLayout>
+</ScrollView>
