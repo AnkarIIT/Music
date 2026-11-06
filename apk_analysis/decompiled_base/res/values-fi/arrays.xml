@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item> t.</item>
+        <item> milj.</item>
+        <item> mrd.</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Vaalea</item>
+        <item>Tumma</item>
+        <item>Järjestelmän oletus</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Laitteen tallennustila</item>
+        <item>SD-kortti</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normaali</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple kerää tietoja Apple Musicin ja Apple Music Classicalin käytöstäsi, kuten toistamistasi kappaleista ja kuinka kauan toistat niitä, palvelujen personoimiseksi sinulle tilaajana, ilmoitusten lähettämiseksi sinulle sekä maksujen maksamiseksi sen kumppaneille.</item>
+        <item>Apple-pilvikirjastosi lähettää Applelle musiikkikirjastostasi tietoja, kuten kappaleiden ja artistien nimet, joiden perusteella tunnistetaan ja vapautetaan kappaleet, jotka ovat saatavilla myös Apple Musicista.</item>
+        <item>Tiedot pilvikirjastostasi yhdistetään sinuun niin kauan, kun olet tilaaja ja lyhyen aikaa sen jälkeen. Tietoja kuuntelemistasi kappaleista säilytetään taloudellisen raportoinnin vaatiman laissa säädetyn ajan.</item>
+        <item>Petosten havaitsemiseksi ja estämiseksi laitteesi käyttötiedoista, mukaan lukien likimääräinen puheluiden ja sähköpostien määrä, lasketaan laitteen luottamusluku, kun yrität ostaa. Lähetettävät tiedot on suunniteltu siten, että Apple ei saa tietoonsa todellisia arvoja laitteestasi. Tuloksia säilytetään määrätty aika Applen palvelimilla.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Tietojesi yksityisyyden ja turvallisuuden suojaaminen on Applelle ensisijaista. Apple pyrkii keräämään vain tietoja, joita tarvitaan käyttökokemuksesi parantamiseen, ja kun tietoja kerätään, Applelle on tärkeää, että tiedät, mitä ja miksi kerätään, jotta voit tehdä tietoon perustuvia valintoja. Apple Music ja Apple Music Classical, kuten kaikki Applen tuotteet ja palvelut, on suunniteltu näiden periaatteiden mukaisesti.
+
+Henkilötietojasi käytetään palvelujen ja ominaisuuksien tarjoamiseen Apple Musicissa. Näihin tietoihin kuuluvat Apple Musicin jako-ominaisuuksissa käytettävä nimesi ja Apple-tilillä oleva kuvasi (jos olet asettanut sellaisen), jotka näkyvät ja ovat muutettavissa Musiikki-apin asetuksissa, sekä tilitietosi, Apple-tilauksesi tila ja maksutietosi, jotka näkyvät ja ovat muutettavissa Asetuksissa tai Järjestelmäasetuksissa.
+
+Kun tilaat Apple Musicin, tilauksesi sisältää Apple Musicin ja Apple Music Classicalin täyden käyttöoikeuden. Apple kerää tietoja siitä, miten käytät Apple Musicia ja Apple Music Classicalia, ominaisuuksien räätälöimiseen henkilökohtaisen musiikkimakusi mukaan. Näihin ominaisuuksiin kuuluvat personoidut suositukset, kuten sinulle valitut albumit ja soittolistat, ja Radio, joka soittaa valikoimia suosikkiartisteiltasi ja -genreistäsi. Apple käyttää näitä tietoja myös ottaakseen sinuun yhteyttä sähköpostilla tai ilmoituksella, kun uusia julkaisuja tulee, tai Apple Musicissa ja Apple Music Classicalissa on muita sinua mahdollisesti kiinnostavia tapahtumia.
+
+Osa Apple Musicin ominaisuuksista, kuten tietyt radioasemat, eivät ehkä ole saatavilla alueellasi. Apple saattaa käyttää internet-yhteyden IP-osoitetta sijaintisi arvioimiseen ja saatavuuden määrittämiseen.
+
+Apple Music Classical
+
+Apple Music -tilaajilla on Apple Music Classicalin käyttöoikeus. Apple Music Classical on klassisen musiikin appi, jonka avulla voit löytää klassisen musiikin kappaleita ja albumeja sekä tallentaa suosikkikappaleesi yhteen keskitettyyn paikkaan. Voit selata Apple Music Classical -katalogia ilman tilausta, mutta sinulla on oltava Apple Music -tilaus, jotta voit käyttää kaikkia Apple Music Classicalin ominaisuuksia. Jos sinulla ei ole aktiivista Apple Music -tilausta, sinulle annetaan vaihtoehto tilata Apple Music, jotta saat Apple Music Classicalin täyden käyttöoikeuden.
+
+Pilvikirjasto
+
+Apple-pilvikirjasto, joka on Apple Music -tilauksen etuja, mahdollistaa kappaleidesi ja soittolistojesi käyttämisen kaikissa laitteissasi. Tämä ominaisuus lähettää Applelle laitteestasi olevasta kirjastosta tietoja, kuten kappaleiden ja artistien nimet, joiden perusteella tunnistetaan ja vapautetaan kappaleet, jotka ovat saatavilla myös Apple Musicista ja Apple Music Classicalista. Mitkä tahansa kappaleet, joita ei löydy Apple Musicista, lähetetään henkilökohtaiseen pilvikirjastoosi, jotta koko kokoelmasi olisi käytettävissä kaikissa laitteissasi Apple Musicin kautta. Jos haluat lopettaa pilvikirjastosi synkronoinnin, valitse iOS-, iPadOS- tai visionOS-laitteessa Asetukset > Apit > Musiikki ja laita kirjaston synkronointi pois päältä. Avaa Macissa Musiikki-appi, valitse Asetukset > Yleiset ja poista kirjaston synkronoinnin valinta.
+
+Apple Music -profiili
+
+Jos haluat olla yhteydessä tai jakaa Apple Musicissa, voit luoda henkilökohtaisen profiilin syöttämällä käyttäjätunnisteen (esim. @johnappleseed), näyttönimen sekä halutessasi profiilikuvan ja muita tietoja. Apple säilyttää nämä tiedot tilisi yhteydessä, ja voit käyttää niitä kaikilla laitteillasi. Käyttäjätunnisteesi, näyttönimesi ja profiilikuvasi voivat näkyä postaamasi sisällön ja muun Apple Musicissa jakamasi toiminnan yhteydessä. Sisällön jakamista tai julkaisemista ei ole tarkoitettu eivätkä ne ole saatavilla lasten Apple-tileille.
+
+Muut Apple Music -käyttäjät voivat löytää profiilisi antamiesi tietojen perusteella.
+
+Voit valita, ketkä näkevät profiilisi sisällön, kuten kuuntelemasi musiikin ja soittolistat. Profiilitietosi, kuten käyttäjätunnisteesi, näyttönimesi, kuvasi, seuraajasi ja ketä sinä seuraat, näkyvät oletusarvoisesti kaikille. Jos haluat estää käyttäjää näkemästä profiiliasi, mene käyttäjän profiiliin, napauta Enemmän ja napauta sitten Estä. Estämäsi käyttäjät eivät näe musiikkiasi eivätkä löydä profiiliasi Apple Musicissa.
+
+Kun luot profiilin Apple Musicissa, saat suosituksia muista Apple Music -tilaajista, joihin saatat haluta olla yhteydessä. Apple ei saa tietoja yhteystiedoistasi eikä tallenna niitä etsiessään suositeltavia ystäviä. Vain yhteystietojesi puhelinnumeroiden ja sähköpostiosoitteiden lyhennetyt ja salatut tiivisteet lähetetään Applelle. Mahdollisesti suositeltavien Apple Music -tilaajien yhdistäminen tapahtuu paikallisesti laitteellasi. Apple Music voi tarkistaa yhteystietosi säännöllisesti ja suositella tulevaisuudessa uusia ystäviä. Voit hallita tätä kohdassa Tiliasetukset > Tietosuoja ja käyttöoikeudet > Yhteystiedot Apple Musicissa. Jos et halua, että muut löytävät sinut yhteystiedoissaan mahdollisesti olevan Apple-tilin yhteystietosi perusteella, voit muuttaa sen kohdassa Tiliasetukset > Tietosuoja ja käyttöoikeudet > Salli etsiminen Apple-tilillä.
+
+Voit muuttaa tai poistaa profiiliin syöttämäsi tiedot koska tahansa. Aina, kun jaat jotakin verkossa, mieti tarkkaan, mitä olet julkaisemassa. Kun jaat Apple Musicista muille sivustoille tai someen, olet kyseisten muiden palveluiden tietosuojakäytäntöjen alainen.
+
+SharePlay
+
+Kun tilaat Apple Musicin, voit järjestää SharePlay-istuntoja, kun laitteesi on yhdistetty Apple TV:hen, HomePodiin tai CarPlayhin tai kun käytät Bluetoothia. SharePlayta käytettäessä muut Apple Music -tilaajat voivat liittyä SharePlay-istuntoosi ja hallita Apple Musicin kautta toistettavaa musiikkia. SharePlay antaa myös käyttäjille, joilla ei ole Apple Music -tilausta, mahdollisuuden liittyä SharePlay-istuntoon. Apple sallii lähellä olevien yhteystietojen löytää Apple Music -istuntosi ja pyytää liittyä siihen käyttämällä Bluetoothia, jos se on käytössä laitteessasi. Jos et halua, että yhteystiedot voivat löytää laitteesi ja pyytää liittyä Apple Music -istuntoosi, voit laittaa löydettävyyden lähellä oleville yhteyshenkilöille pois päältä Musiikki-apin asetuksissa. Yhteystiedot sekä muut osallistujat voivat liittyä istuntoon skannaamalla Musiikki-apin asetuksissa tai ajoneuvon käyttöliittymässä näkyvän QR-koodin, jos SharePlay-istuntoon osallistutaan autossa.
+
+Istuntoon osallistujien nimet ja profiilikuvat näkyvät kaikille istunnossa oleville. SharePlay-istuntoon tehdyt muutokset liitetään niiden tekijään ja yhdistetään kyseisen käyttäjän nimeen ja profiilikuvaan (mikäli asetettu), joita voidaan muokata koska tahansa Musiikki-apin asetuksissa. Voit poistaa osallistujia järjestämästäsi SharePlay-istunnosta napauttamalla Apple Music -apissa SharePlay-kuvaketta ja valitsemalla sitten poistettavan osallistujan. Poistu SharePlay-istunnosta napauttamalla Apple Music -apissa SharePlay-kuvaketta ja napauttamalla sitten Poistu. Lopeta järjestämäsi SharePlay-istunto napauttamalla Musiikki-apissa Lopeta. Apple ei säilytä SharePlay-istunnon päättymisen jälkeen tietoja yhteystiedoistasi tai muista osallistujista, jotka ovat liittyneet istuntoon.
+
+Voit myös ottaa SharePlay-istuntoja käyttöön Viesteissä tai FaceTime-puhelun aikana, jotta voit jakaa musiikkia synkronoidusti muiden kanssa. Aloita istunto valitsemalla musiikki, jota haluat kuunnella ja napauta sitten musiikkivalinnoissa SharePlay, syötä yhteystiedot, joiden kanssa jaetaan, ja napauta sitten Viestit tai FaceTime ja Aloita.
+
+Luo ja yhteiskäytä soittolistoja
+
+Apple Musicin tilaajat voivat luoda omia soittolistoja tai generoida soittolistan tekoälyn avulla käyttämällä Playlist Playgroundia (jos saatavilla). Kun käytät Playlist Playgroundia, kuvailet, mitä haluat kuulla. Tämä käsitellään mielialan, genren tai teeman ymmärtämiseksi. Nämä tiedot yhdistetään kuunteluhistoriaasi ja muihin käyttöön liittyviin tietoihin muokatun soittolistan laatimista varten. Voit hioa soittolistaa ennen sen tallentamista, ja voit poistaa generoidun soittolistan tai muokata sitä milloin tahansa.
+
+Voit tehdä soittolistoja yhdessä muiden Apple Musicin tilaajien kanssa. Jos olet soittolistan luoja, voit halutessasi hyväk"</item>
+        <item>"syä kunkin soittolistaan liittyvän käyttäjän tai voit antaa kenen tahansa, jolla on soittolistan linkki, liittyä automaattisesti. Kaikki osallistujat voivat lisätä kappaleita soittolistaan tai poistaa kappaleita soittolistasta sekä lisätä emojireaktioita. Muutokset liitetään niiden tekijään ja yhdistetään kyseisen käyttäjän nimeen ja profiilikuvaan (mikäli asetettu), joita voidaan muokata koska tahansa Musiikki-apin asetuksissa. Kaikki soittolistan osallistujat ja kaikki, joilla on soittolistan käyttöoikeus, voivat nähdä muiden osallistujien nimen ja kuvan. Soittolistaan osallistujat voivat nähdä kaikki muiden osallistujien lisäämät kappaleet ja reaktiot. Jos haluat lopettaa yhteistyöskentelyn, poista itsesi soittolistasta soittolistan asetuksissa, tai jos olet sen luoja, lopeta yhteistyöskentely soittolistan yhteistyöskentelyn hallinta-asetuksissa. Jos soittolistan luoja lopettaa yhteistyöskentelyn, soittolistasta tulee jaettu soittolista, jota osallistujat voivat käyttää Apple Music -kirjastossaan.
+
+Konsertit
+
+Jos sallit Apple Musicin käyttää sijaintiasi, likimääräistä sijaintiasi voidaan käyttää tallentamaan ensisijainen kaupunkisi, jotta sinulle voidaan tarjota paikallisesti olennaista tietoa, kuten lähellä olevia konsertteja. Jos et halua antaa Apple Musicille sijaintisi käyttöoikeutta, voit syöttää kiinnostavan kaupungin käsin, jotta voit löytää siellä olevat konsertit. Kiinnostava kaupunkisi synkronoidaan laitteiden välillä, jos synkronointi on käytössä. Voit muuttaa sijaintiperusteisia asetuksiasi milloin tahansa iOS- tai iPadOS-laitteellasi kohdassa Asetukset > Tietosuoja ja suojaus > Sijaintipalvelut > Musiikki.
+
+Apple Musicin ja Apple Music Classicalin personointi ja parantaminen
+
+Kun käytät Apple Music -jäsenyyttäsi tai toistat ilmaista sisältöä kirjastosi ulkopuolella, Apple voi kerätä tietoja toistamistasi ja musiikkikirjastoon tai soittolistoihin lisäämistäsi kappaleista ja videoista (soveltuvin osin) sekä artisteista ja sisällöstä, jonka lisäät suosikiksi tai jaat. Tietoja, kuten tili, IP-osoite ja laite, appi tai autoliittymä toistettaessa musiikkia, sijaintisi Apple Musicia tai Apple Music Classicalia käytettäessä, toistoaika ja toiston kesto, kirjataan ylös ja lähetetään Applelle. Apple käyttää näitä tietoja kokemuksen muokkaamiseen, sähköpostin ja ilmoitusten lähettämiseen sinulle ja sen ymmärtämiseen, miten Apple Musicia ja Apple Music Classicalia käytetään, jotta palveluja voitaisiin parantaa. Tällä perusteella voidaan esimerkiksi valita musiikkia, videoita ja artistien sisältöä, joita sinulle näytetään Apple Musicissa ja Apple Music Classicalissa. Tämän avulla Apple voi myös antaa muita makuasi vastaavia suosituksia, luoda kaupunkikohtaisia musiikkilistoja sekä tarjota personoituja Apple Music -hakutuloksia käyttämällä erilaisia tietoja, kuten kuunteluhistoriaasi ja suosikkigenrejäsi. Näitä tietoja käytetään myös tekijänoikeuskorvausten maksamisessa ja Applen mediapalvelujen käyttöehtojen tai vallitsevien lakien kieltämän toiminnan ehkäisemisessä.
+
+Jos kuuntelet sisältöä muiden käyttäjien kanssa SharePlaylla, Musiikki-appi kirjaa tietoja SharePlay-istunnon aikana kuunnellusta sisällöstä sekä istuntoon osallistujien määrän, mutta se ei säilytä mitään tietoja, joilla SharePlay-istuntoon osallistuneet voitaisiin tunnistaa.
+
+Apple käyttää Apple Musicin hakutietoja Apple Musicin teknisten mallien parantamiseen. Esimerkiksi koostettuja Apple Music -hakukyselyjä käytetään Apple Musicin hakumallin hienosäätöön.
+
+Viestintä sinulle
+
+Apple voi käyttää tietoja tilistäsi (esim. omistamasi Apple-tuotteet, lataamasi Apple-apit ja tilaamasi Applen palvelut) lähettääkseen sinulle tietoja Apple Musicista ja muista Applen tuotteista, palveluista ja tarjouksista, jotka voivat kiinnostaa sinua, mukaan lukien Apple Music Classical ja Apple One. Laitteesi sarjanumeron ja muiden laitetunnisteiden tai asiaankuuluviin App Store -tilauksiin liittyvien tietojen avulla saatetaan tarkistaa kelpoisuus Applen palvelutarjouksiin. Jos kuulut Perhejako-ryhmään, Apple voi lähettää sinulle viestejä tuotteista, palveluista ja tarjouksista, jotka ovat saatavillasi Perhejaon kautta. Jos ostat Apple One -tilauksen, Apple voi lähettää sinulle sähköpostia tai ilmoituksia kunkin tilaamasi palvelun ominaisuuksista. Apple voi myös käyttää tietoja toiminnastasi Apple Musicissa ja Apple Music Classicalissa sekä käyttötapahtumistasi palveluissa, sen selvittämiseen, oletko oikeutettu saatavilla oleviin alennettuihin Apple Music -tilauksiin (kuten Apple Music Student), ja lähettää niiden perusteella sinulle sähköpostia tai ilmoituksia uusista ominaisuuksista, sisällöstä, tapahtumista ja tarjouksista Apple Musicissa ja Apple Music Classicalissa. Jossakin viestinnässä laitteistotunnistetta käytetään vastaanottamiesi ilmoitusten suodattamiseen. Voit muuttaa sähköpostiasetuksiasi ja estää sähköpostit osoitteessa account.apple.com. Voit päivittää ilmoitusasetuksesi iOS-, iPadOS- tai visionOS-laitteessa valitsemalla Asetukset > Ilmoitukset > Musiikki. Avaa Macissa Musiikki-appi ja valitse Asetukset > Yleiset > Ilmoitukset. Apple käyttää tietoja siitä, miten reagoit Applen viestintään (kuten ilmoituksiin), palvelujensa parantamiseen.
+
+Petosten ja muun haitallisen toiminnan torjunta
+
+Laitteesi käyttötiedoista, mukaan lukien likimääräinen puheluiden ja sähköpostien määrä, lasketaan laitteen luottamusluku, kun yrität ostaa. Lähetettävät tiedot on suunniteltu siten, että Apple ei voi selvittää laitteen todellisia arvoja. Lukua säilytetään määrätty aika Applen palvelimilla. Apple voi myös käyttää tietoja aikaisemmasta liikesuhteestasi Applen kanssa Apple Music -tilauksen uusimisten käsittelyyn ja päättääkseen, annetaanko sinun käyttää tilaustasi ennen maksunkäsittelykumppanin hyväksyntää.
+
+Tietojen antaminen kolmansille osapuolille
+
+Radioasemat
+Kun käytät Apple Musicia radiolähetysten kuunteluun, laitteesi yhdistää suoraan radioasemaan halutun sisällön tarjoamiseksi. Kun se yhdistää, laitteesi IP-osoite näkyy radioasemalle. Siihen, miten radioasema käsittelee IP-osoitettasi, sovelletaan aseman tai sen tarjoajan tietosuojakäytäntöä.
+
+Levy-yhtiöt, artistit ja listojen ylläpitäjät
+Applella on velvollisuus toimittaa koostettuja ei-henkilökohtaisia tietoja Apple Musicin ja Apple Music Classicalin käytöstä sekä koostettuja demografisia tietoja käyttäjistä, kuten ikäryhmä ja sukupuoli (mikä voidaan päätellä esimerkiksi Apple-tililläsi olevasta nimestä ja tervehdyksestä), levy-yhtiöille, julkaisijoille ja artisteille, jotta ne voivat mitata luovan työnsä arvoa sekä täyttää tekijänoikeus- ja kirjanpitovaatimuksensa. Lisäksi Apple jakaa koostettuja tietoja kuuntelutoiminnasta musiikkilistojen laatijoille eri puolilla maailmaa, levy-yhtiöille ja artisteille sitoutumisen mittaamiseksi (myös reaaliajassa) sekä musiikin markkinointialustoille, jotka auttavat levy-yhtiöitä ja artisteja tavoittamaan kuuntelijoita. Jos tilaat Apple Musicin Applen ulkopuolisen kumppanin, kuten mobiilioperaattorin, kautta, Apple jakaa rajoitettuja henkilökohtaisia tietoja kyseisen kumppanin kanssa tilauksen kelpoisuuden varmistamiseksi tai oston viimeistelemiseksi.
+
+Muiden appien yhdistäminen Apple Musiciin
+
+iOS-, iPadOS- ja visionOS-apit sekä muilla kuin Applen alustoilla toimivat apit voivat pyytää käyttöoikeutta Apple Musiciin ja pilvikirjastoosi. Jos annat apille luvan, se voi saada tietoonsa mm. laitteesi pilvikirjaston sisällön, oletko Apple Music ‑tilaaja, toistamasi musiikin ja videot sekä suosituksesi Apple Musicissa. Luvan saanut appi voi myös muokata tiliisi liittyviä tietoja, esimerkiksi mitä kappaleita on kirjastossasi ja soittolistoillasi. Jos myönnät Kuvat-apille luvan käyttää Apple Musicia, Kuvat toistaa Apple Musicissa olevia kappaleita muistoelokuvissa. Kun luot muokatun muistoelokuvan Kuvissa, tietoja muiston luomiseen käyttämästäsi kehotteesta voidaan lähettää Apple Musiciin elokuvan kanssa toistettavan musiikin valitsemista varten. Tuettua sisältöä sisältävät Applen apit, kuten Kaukosäädin, yhdistetään myös automaattisesti, kun aloitat Musiikki-apin ja tuetun sisällön käytön. Voit poistaa apin käyttöoikeuden iOS-, iPadOS- tai visionOS-laitteessasi kohdassa Asetukset > Tietosuoja ja suojaus "</item>
+        <item>"> Media ja Apple Music. Valitse Macissa Järjestelmäasetukset > Tietosuoja ja suojaus > Tietosuoja > Media ja Apple Music. Jos olet poistanut apin tai antanut apille käyttöoikeuden iOS 11:tä vanhemmalla iOS- tai iPadOS-versiolla, voit poistaa sen käyttöoikeuden käytöstä Apple Music -tiliasetuksissa.
+
+Apple Music -tilaukset Applen kumppaneiden kautta
+
+Jos mobiilioperaattorisi tarjoaa Apple Music -tilauksia ja ilmaisia kokeiluja, Apple voi tarkistaa puhelinnumerosi selvittääkseen, oletko oikeutettu operaattorin kautta. Jos tilaat Apple Musicin tai ilmaisen kokeilun mobiilioperaattorisi tai muun Applen kumppanin kautta, Apple käyttää puhelinnumeroasi tai kumppanin jakamaa yksilöllistä tilitunnistetta tilisi tunnistamiseen ja tilauksen aktivoimisesta ilmoittamiseen mobiilioperaattorille tai muulle kumppanille. Tilaukseesi yhdistettyä puhelinnumeroa tai ainutlaatuista tunnistetta käytetään tilisi tunnistamiseen kirjauduttaessa ja Apple Music -aktiivisuutesi liittämiseen tiliin. Apple käyttää puhelinnumeroasi myös tilauksen peruuttamispyynnön lähettämiseen operaattorillesi, jos pyydät sitä.
+
+Säilytys
+
+Apple säilyttää henkilökohtaisia tietoja Apple Musicin ja Apple Music Classicalin käytöstäsi ja käyttötapahtumistasi eripituisia aikoja riippuen liiketoiminnan tarpeista, sopimusvelvotteista ja lain asettamista vaatimuksista.
+
+Tietoja kuuntelutoiminnastasi, kirjastosi sisällöstä, soittolistoistasi ja hauistasi säilytetään niin kauan kuin tilauksesi on aktiivinen sekä enintään kaksi vuotta tilin perumisen jälkeen uudelleenaktivoinnin tukemiseksi ja jotta sinulle voidaan tiedottaa musiikista, joka saattaa kiinnostaa sinua, sekä tarjouksista, joihin voit olla oikeutettu. Apple säilyttää näitä tietoja myös siltä osin kuin se on tarpeen taloudellista raportointia koskevien velvoitteiden täyttämistä varten, kyseiseen raportointiin sovellettavien lakien mukaisen ajan, joka on usein vähintään 10 vuotta mutta voi joillakin oikeustoimialueilla, kuten Kiinassa, olla jopa 30 vuotta.
+
+Jos tilauksesi päättyy, Apple Music voi säilyttää Apple Music -katalogista lisäämäsi musiikin ja luomasi soittolistat tietyn ajan, jotta tilaus voidaan aktivoida uudelleen sisältöä menettämättä. Tämän ajan jälkeen Apple Music -katalogin sisältö ei ehkä ole enää käytettävissä.
+
+Jos poistat Apple-tilisi, tiettyjä tietoja voidaan säilyttää lain niin vaatiessa, petoksilta suojaamiseksi, Apple Media Services -käyttöehtojen täytäntöönpanemiseksi tai Apple-palvelujen turvallisuuden ylläpitämiseksi.
+
+Henkilötietojen käsittelyyn sovellettava oikeusperusta
+
+Apple käsittelee henkilötietojasi Apple Musicissa yleisesti toteuttaakseen sopimuksesi Applen kanssa, siinä määrin kuin on tarpeen palvelun tarjoamiseksi ja laillisten velvoitteiden täyttämiseksi. Suostumuksen ollessa asianmukainen oikeusperusta Apple hankkii sen sovellettavan paikallisen lain mukaisesti.
+
+Soveltuvan paikallisen lain salliessa Apple käsittelee henkilötietoja siinä määrin kuin on tarpeen Applen tai kolmannen osapuolen oikeutettujen etujen mukaisiin tarkoituksiin, mm. seuraaviin:
+
+• Kuuntelemasi, kirjastoon lisäämäsi tai lataamasi sisällön sekä ominaisuuksien tarjoaminen Apple Musicissa ja Apple Music Classicalissa.
+• Apple Music- ja Apple Music Classical -käyttökokemuksesi personoiminen.
+• Myös Apple Musicin kautta saatavilla olevien kappaleiden tunnistaminen ja vapauttaminen
+• Sen määrittäminen, mitä sisältöä on käytettävissä alueellasi sekä oletko oikeutettu tarjouksiin ja tilauksiin
+• Apple Musicin ja Apple Music Classicalin optimoiminen sinulle ja muille sekä tietojen lähettäminen sinulle Musiikki- ja Classical-apeista sekä muista Applen tuotteista, palveluista ja tarjouksista, jotka voivat kiinnostaa sinua.
+• Apple Music -profiilisi ja -soittolistojesi luominen ja ylläpitäminen
+• Rojaltien maksaminen ja raporttien antaminen julkaisijoille, levy-yhtiöille, artisteille ja listojen ylläpitäjille
+• Petosten ja muun haitallisen toiminnan torjunta
+
+Käytettyihin tietoihin sisältyvät seuraavat:
+
+• Musiikki- ja Classical-appien käyttösi, mukaan lukien ominaisuuksien käyttö, ilmoitukset ja viestit apissa sekä Musiikissa ja Classicalissa kuuntelemasi, etsimäsi, tarkastelemasi, kirjastoon lisäämäsi ja lataamasi sisältö.
+• Tietoja laitteestasi ja tilistäsi
+• IP-osoitteesi
+• Apple Music -profiilisi ja soittolistasi
+• Laitteen luottamusluku
+
+Muut kuin henkilötiedot
+
+Apple voi kerätä, käyttää, siirtää ja antaa ei-henkilökohtaisia tietoja mihin tahansa tarkoitukseen. Apple voi esimerkiksi käyttää ei-henkilökohtaisia tietojasi yhdistettynä muiden Apple Music -käyttäjien tietoihin palvelun parantamista varten. Apple voi myös kerätä laitteestasi tiettyjä mittaustietoja, kun käytät Apple Musicia, kuten radiotaajuuden voimakkuus, maakoodi, verkon koodi ja mobiiliradioteknologia.
+
+Lisätietoja Apple Musicista
+
+Yksityiskohtaisempia tietoja Apple Musicista, kuten ominaisuudet ja hinnat, löytyvät osoitteesta www.apple.com/fi/apple-music.
+
+Katso lisätietoja Tietoja Apple Music -verkkosoittimesta ja tietosuojasta -sivulta osoitteessa www.apple.com/legal/privacy/data/fi/apple-music-web.
+
+Applen keräämää tietoa käsitellään aina Applen tietosuojakäytännön mukaisesti. Tietoja käytännöstä löydät osoitteesta www.apple.com/legal/privacy/fi/."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 Mt</item>
+        <item>200 Mt</item>
+        <item>500 Mt</item>
+        <item>1 Gt</item>
+        <item>2 Gt</item>
+        <item>5 Gt</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Musiikkia</item>
+        <item>Jotain</item>
+        <item>Musiikki</item>
+        <item>Omaa asemaa</item>
+        <item>Omaa radioasemaa</item>
+        <item>Biisejä</item>
+        <item>Kappaleita</item>
+        <item>Hyvää musiikkia</item>
+        <item>Hyviä kappaleita</item>
+        <item>Musiikkia, josta pidän</item>
+    </string-array>
+</resources>
