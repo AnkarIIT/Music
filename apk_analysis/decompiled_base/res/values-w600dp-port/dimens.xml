@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listen_now_friends_image_translation_width">-30.0dip</dimen>
+    <item type="dimen" name="search_fragment_end_margin">@dimen/endMargin</item>
+    <item type="dimen" name="search_fragment_start_margin">@dimen/endMargin</item>
+    <dimen name="unsubscribed_upsell_margin">24.0dip</dimen>
+</resources>
