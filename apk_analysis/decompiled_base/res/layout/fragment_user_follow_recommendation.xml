@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:tag="layout/fragment_user_follow_recommendation_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/toolbar_actionbar" />
+    <FrameLayout android:id="@id/content_layout" android:tag="binding_1" android:background="@color/background_color_layer1" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/list_view" android:visibility="visible" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:isScrollContainer="true" />
+        <include layout="@layout/view_loader_include" />
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
