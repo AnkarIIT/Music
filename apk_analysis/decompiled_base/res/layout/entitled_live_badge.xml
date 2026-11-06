@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:gravity="center" android:id="@id/live_text" android:background="@drawable/bg_entitled_live_badge" android:paddingLeft="@dimen/entitled_live_badge_padding_horiz" android:paddingRight="@dimen/entitled_live_badge_padding_horiz" android:layout_width="wrap_content" android:layout_height="@dimen/entitled_live_badge_height" android:text="@string/live" android:textAllCaps="true" style="@style/Caption2Bold"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
