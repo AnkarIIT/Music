@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:id="@id/small_list_d_item" android:tag="layout-w600dp/small_list_d_item_collection_0" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:layout_marginStart="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/divider" android:layout_alignParentTop="true" android:layout_alignStart="@id/text_layout" style="@style/Divider" />
+        <LinearLayout android:gravity="start|center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/body" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toStartOf="@id/end_item">
+            <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/small_list_d_start_collection" />
+            <include android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" layout="@layout/small_list_d_mid_collection" />
+        </LinearLayout>
+        <include android:id="@id/end_item" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_alignParentEnd="true" layout="@layout/small_list_d_item_end" />
+    </RelativeLayout>
+</FrameLayout>
