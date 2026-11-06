@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:tag="layout/collection_activity_0" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/content_layout" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/playlist_recyclerview" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/view_loader_include" />
+    </LinearLayout>
+    <include android:id="@id/fullscreen_loader" layout="@layout/view_loader_include" />
+</FrameLayout>
