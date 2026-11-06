@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/tabbar_home" android:enabled="true" android:id="@id/action_listen_now_deprecated" android:title="@string/listen_now" app:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_uitabbar_browse" android:enabled="true" android:id="@id/action_browse_deprecated" android:title="@string/new_tab_name" app:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_uitabbar_radio" android:enabled="true" android:id="@id/action_multiply_radio_deprecated" android:title="@string/radio" app:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_uitabbar_library" android:enabled="true" android:id="@id/action_library_deprecated" android:title="@string/setting_library" app:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_uitabbar_search" android:enabled="true" android:id="@id/search_fragment_deprecated" android:title="@string/search" app:showAsAction="always|withText" />
+</menu>
