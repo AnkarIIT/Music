@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+        <item quantity="two">%d t</item>
+        <item quantity="few">%d t</item>
+        <item quantity="many">%d t</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="two">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">Yhdistettyjä appeja: %d</item>
+        <item quantity="one">Yhdistettyjä appeja: %d</item>
+        <item quantity="two">Yhdistettyjä appeja: %d</item>
+        <item quantity="few">Yhdistettyjä appeja: %d</item>
+        <item quantity="many">Yhdistettyjä appeja: %d</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d albumia</item>
+        <item quantity="one">%d albumi</item>
+        <item quantity="two">%d albumia</item>
+        <item quantity="few">%d albumia</item>
+        <item quantity="many">%d albumia</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d pv sitten</item>
+        <item quantity="one">%d pv sitten</item>
+        <item quantity="two">%d pv sitten</item>
+        <item quantity="few">%d pv sitten</item>
+        <item quantity="many">%d pv sitten</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d h sitten</item>
+        <item quantity="one">%d h sitten</item>
+        <item quantity="two">%d h sitten</item>
+        <item quantity="few">%d h sitten</item>
+        <item quantity="many">%d h sitten</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d vk sitten</item>
+        <item quantity="one">%d vk sitten</item>
+        <item quantity="two">%d vk sitten</item>
+        <item quantity="few">%d vk sitten</item>
+        <item quantity="many">%d vk sitten</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="zero">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+        <item quantity="two">%d tuntia</item>
+        <item quantity="few">%d tuntia</item>
+        <item quantity="many">%d tuntia</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="zero">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+        <item quantity="two">%d minuuttia</item>
+        <item quantity="few">%d minuuttia</item>
+        <item quantity="many">%d minuuttia</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="zero">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+        <item quantity="two">%d sekuntia</item>
+        <item quantity="few">%d sekuntia</item>
+        <item quantity="many">%d sekuntia</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Kumoa %d kohdetta</item>
+        <item quantity="one">Kumoa %d kohde</item>
+        <item quantity="two">Kumoa %d kohdetta</item>
+        <item quantity="few">Kumoa %d kohdetta</item>
+        <item quantity="many">Kumoa %d kohdetta</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Linkki vanhenee %1$d päivässä.</item>
+        <item quantity="zero">Linkki vanhentunut.</item>
+        <item quantity="one">Linkki vanhenee tänään.</item>
+        <item quantity="two">Linkki vanhenee %1$d päivässä.</item>
+        <item quantity="few">Linkki vanhenee %1$d päivässä.</item>
+        <item quantity="many">Linkki vanhenee %1$d päivässä.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d konserttia</item>
+        <item quantity="one">%d konsertti</item>
+        <item quantity="two">%d konserttia</item>
+        <item quantity="few">%d konserttia</item>
+        <item quantity="many">%d konserttia</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d päivän</item>
+        <item quantity="one">%d päivä</item>
+        <item quantity="two">%d päivän</item>
+        <item quantity="few">%d päivän</item>
+        <item quantity="many">%d päivän</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="zero">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="two">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+        <item quantity="two">%d kohdetta</item>
+        <item quantity="few">%d kohdetta</item>
+        <item quantity="many">%d kohdetta</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+        <item quantity="two">%d tuntia</item>
+        <item quantity="few">%d tuntia</item>
+        <item quantity="many">%d tuntia</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+        <item quantity="two">%d minuuttia</item>
+        <item quantity="few">%d minuuttia</item>
+        <item quantity="many">%d minuuttia</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d minuuttia</item>
+        <item quantity="one">%,d minuutti</item>
+        <item quantity="two">%,d minuuttia</item>
+        <item quantity="few">%,d minuuttia</item>
+        <item quantity="many">%,d minuuttia</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Siirry eteenpäin %d sekuntia</item>
+        <item quantity="one">Siirry eteenpäin %d sekunti</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Siirry taaksepäin %d sekuntia</item>
+        <item quantity="one">Siirry taaksepäin %d sekunti</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+        <item quantity="two">%d tuntia</item>
+        <item quantity="few">%d tuntia</item>
+        <item quantity="many">%d tuntia</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">tuntia</item>
+        <item quantity="one">tunti</item>
+        <item quantity="two">tuntia</item>
+        <item quantity="few">tuntia</item>
+        <item quantity="many">tuntia</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d uutta kappaletta</item>
+        <item quantity="one">%d uusi kappale</item>
+        <item quantity="two">%d uutta kappaletta</item>
+        <item quantity="few">%d uutta kappaletta</item>
+        <item quantity="many">%d uutta kappaletta</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+        <item quantity="two">%d minuuttia</item>
+        <item quantity="few">%d minuuttia</item>
+        <item quantity="many">%d minuuttia</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">minuuttia</item>
+        <item quantity="one">minuutti</item>
+        <item quantity="two">minuuttia</item>
+        <item quantity="few">minuuttia</item>
+        <item quantity="many">minuuttia</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d musiikkivideota</item>
+        <item quantity="one">%d musiikkivideo</item>
+        <item quantity="two">%d musiikkivideota</item>
+        <item quantity="few">%d musiikkivideota</item>
+        <item quantity="many">%d musiikkivideota</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d kappaletta lisää</item>
+        <item quantity="zero">%d kappaletta lisää</item>
+        <item quantity="one">%d kappale lisää</item>
+        <item quantity="two">%d kappaletta lisää</item>
+        <item quantity="few">%d kappaletta lisää</item>
+        <item quantity="many">%d kappaletta lisää</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d toistoa</item>
+        <item quantity="one">%d toisto</item>
+        <item quantity="two">%d toistoa</item>
+        <item quantity="few">%d toistoa</item>
+        <item quantity="many">%d toistoa</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="one">%1$d kappale lisätty listalle %2$s</item>
+        <item quantity="two">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="few">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="many">%1$d kappaletta lisätty listalle %2$s</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d kappaletta lisättiin uuteen soittolistaan</item>
+        <item quantity="one">%1$d kappale lisättiin uuteen soittolistaan</item>
+        <item quantity="two">%1$d kappaletta lisättiin uuteen soittolistaan</item>
+        <item quantity="few">%1$d kappaletta lisättiin uuteen soittolistaan</item>
+        <item quantity="many">%1$d kappaletta lisättiin uuteen soittolistaan</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s ja %2$d muuta</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s ja %2$d muu</item>
+        <item quantity="two">%1$s ja %2$d muuta</item>
+        <item quantity="few">%1$s ja %2$d muuta</item>
+        <item quantity="many">%1$s ja %2$d muuta</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d kappaletta valittu</item>
+        <item quantity="one">%1$d kappale valittu</item>
+        <item quantity="two">%1$d kappaletta valittu</item>
+        <item quantity="few">%1$d kappaletta valittu</item>
+        <item quantity="many">%1$d kappaletta valittu</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">LEVY-YHTIÖT</item>
+        <item quantity="one">LEVY-YHTIÖ</item>
+        <item quantity="many">LEVY-YHTIÖT</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Poistetaanko %1$d kappaletta?</item>
+        <item quantity="one">Poistetaanko %1$d kappale?</item>
+        <item quantity="two">Poistetaanko %1$d kappaletta?</item>
+        <item quantity="few">Poistetaanko %1$d kappaletta?</item>
+        <item quantity="many">Poistetaanko %1$d kappaletta?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d appia</item>
+        <item quantity="one">%d appi</item>
+        <item quantity="two">%d appia</item>
+        <item quantity="few">%d appia</item>
+        <item quantity="many">%d appia</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="zero">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+        <item quantity="two">%d sekuntia</item>
+        <item quantity="few">%d sekuntia</item>
+        <item quantity="many">%d sekuntia</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">sekuntia</item>
+        <item quantity="zero">sekuntia</item>
+        <item quantity="one">sekunti</item>
+        <item quantity="two">sekuntia</item>
+        <item quantity="few">sekuntia</item>
+        <item quantity="many">sekuntia</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Voit lisätä perheeseesi %s henkilöä lisää.</item>
+        <item quantity="one">Voit lisätä perheeseesi vielä yhden henkilön.</item>
+        <item quantity="two">Voit lisätä perheeseesi %s henkilöä lisää.</item>
+        <item quantity="few">Voit lisätä perheeseesi %s henkilöä lisää.</item>
+        <item quantity="many">Voit lisätä perheeseesi %s henkilöä lisää.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d riviä valittu</item>
+        <item quantity="zero">Ei valittuja rivejä</item>
+        <item quantity="one">%d rivi valittu</item>
+        <item quantity="two">%d riviä valittu</item>
+        <item quantity="few">%d riviä valittu</item>
+        <item quantity="many">%d riviä valittu</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d aktiivisena</item>
+        <item quantity="one">%d aktiivisena</item>
+        <item quantity="two">%d aktiivisena</item>
+        <item quantity="few">%d aktiivisena</item>
+        <item quantity="many">%d aktiivisena</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d jaksoa</item>
+        <item quantity="one">%d jakso</item>
+        <item quantity="two">%d jaksoa</item>
+        <item quantity="few">%d jaksoa</item>
+        <item quantity="many">%d jaksoa</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d kappaletta jäljellä</item>
+        <item quantity="one">%1$d kappale jäljellä</item>
+        <item quantity="two">%1$d kappaletta jäljellä</item>
+        <item quantity="few">%1$d kappaletta jäljellä</item>
+        <item quantity="many">%1$d kappaletta jäljellä</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="one">%1$d kappale lisätty listalle %2$s</item>
+        <item quantity="two">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="few">%1$d kappaletta lisätty listalle %2$s</item>
+        <item quantity="many">%1$d kappaletta lisätty listalle %2$s</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d kohdetta poistettu</item>
+        <item quantity="one">%d kohde poistettu</item>
+        <item quantity="two">%d kohdetta poistettu</item>
+        <item quantity="few">%d kohdetta poistettu</item>
+        <item quantity="many">%d kohdetta poistettu</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d kappaletta</item>
+        <item quantity="one">%d kappale</item>
+        <item quantity="two">%d kappaletta</item>
+        <item quantity="few">%d kappaletta</item>
+        <item quantity="many">%d kappaletta</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d kappaletta saatavilla</item>
+        <item quantity="one">%d kappale saatavilla</item>
+        <item quantity="two">%d kappaletta saatavilla</item>
+        <item quantity="few">%d kappaletta saatavilla</item>
+        <item quantity="many">%d kappaletta saatavilla</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d KAPPALETTA</item>
+        <item quantity="one">%d KAPPALE</item>
+        <item quantity="two">%d KAPPALETTA</item>
+        <item quantity="few">%d KAPPALETTA</item>
+        <item quantity="many">%d KAPPALETTA</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d päivää aikaa opiskelijastatuksesi varmistamiseen.</item>
+        <item quantity="one">%1$d päivä aikaa opiskelijastatuksesi varmistamiseen.</item>
+        <item quantity="two">%1$d päivää aikaa opiskelijastatuksesi varmistamiseen.</item>
+        <item quantity="few">%1$d päivää aikaa opiskelijastatuksesi varmistamiseen.</item>
+        <item quantity="many">%1$d päivää aikaa opiskelijastatuksesi varmistamiseen.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d yhteiskäyttäjää</item>
+        <item quantity="zero">%1$d yhteiskäyttäjää</item>
+        <item quantity="one">%1$d yhteiskäyttäjä</item>
+        <item quantity="two">%1$d yhteiskäyttäjää</item>
+        <item quantity="few">%1$d yhteiskäyttäjää</item>
+        <item quantity="many">%1$d yhteiskäyttäjää</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d pv</item>
+        <item quantity="one">%d pv</item>
+        <item quantity="two">%d pv</item>
+        <item quantity="few">%d pv</item>
+        <item quantity="many">%d pv</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+        <item quantity="two">%d t</item>
+        <item quantity="few">%d t</item>
+        <item quantity="many">%d t</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d kk</item>
+        <item quantity="one">%d kk</item>
+        <item quantity="two">%d kk</item>
+        <item quantity="few">%d kk</item>
+        <item quantity="many">%d kk</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="two">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d vk</item>
+        <item quantity="one">%d vk</item>
+        <item quantity="two">%d vk</item>
+        <item quantity="few">%d vk</item>
+        <item quantity="many">%d vk</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d v</item>
+        <item quantity="one">%d v</item>
+        <item quantity="two">%d v</item>
+        <item quantity="few">%d v</item>
+        <item quantity="many">%d v</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d pv sitten</item>
+        <item quantity="one">%d pv sitten</item>
+        <item quantity="two">%d pv sitten</item>
+        <item quantity="few">%d pv sitten</item>
+        <item quantity="many">%d pv sitten</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d h sitten</item>
+        <item quantity="one">%d h sitten</item>
+        <item quantity="two">%d h sitten</item>
+        <item quantity="few">%d h sitten</item>
+        <item quantity="many">%d h sitten</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d min sitten</item>
+        <item quantity="one">%d min sitten</item>
+        <item quantity="two">%d min sitten</item>
+        <item quantity="few">%d min sitten</item>
+        <item quantity="many">%d min sitten</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Kun tämä on toistettu, jatketaanko aiemmin jonoon asettamiesi %d kappaleen toistamista vai tyhjennetäänkö jono?</item>
+        <item quantity="one">Kun tämä on toistettu, jatketaanko aiemmin jonoon asettamasi %d kappaleen toistamista vai tyhjennetäänkö jono?</item>
+        <item quantity="two">Kun tämä on toistettu, jatketaanko aiemmin jonoon asettamiesi %d kappaleen toistamista vai tyhjennetäänkö jono?</item>
+        <item quantity="few">Kun tämä on toistettu, jatketaanko aiemmin jonoon asettamiesi %d kappaleen toistamista vai tyhjennetäänkö jono?</item>
+        <item quantity="many">Kun tämä on toistettu, jatketaanko aiemmin jonoon asettamiesi %d kappaleen toistamista vai tyhjennetäänkö jono?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Päivitetty %d pv sitten</item>
+        <item quantity="zero">Päivitetty %d pv sitten</item>
+        <item quantity="one">Päivitetty %d pv sitten</item>
+        <item quantity="two">Päivitetty %d pv sitten</item>
+        <item quantity="few">Päivitetty %d pv sitten</item>
+        <item quantity="many">Päivitetty %d pv sitten</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Päivitetty %d h sitten</item>
+        <item quantity="one">Päivitetty %d h sitten</item>
+        <item quantity="two">Päivitetty %d h sitten</item>
+        <item quantity="few">Päivitetty %d h sitten</item>
+        <item quantity="many">Päivitetty %d h sitten</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Päivitetty %d min sitten</item>
+        <item quantity="one">Päivitetty %d min sitten</item>
+        <item quantity="two">Päivitetty %d min sitten</item>
+        <item quantity="few">Päivitetty %d min sitten</item>
+        <item quantity="many">Päivitetty %d min sitten</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Päivitetty %d vk sitten</item>
+        <item quantity="one">Päivitetty %d vk sitten</item>
+        <item quantity="two">Päivitetty %d vk sitten</item>
+        <item quantity="few">Päivitetty %d vk sitten</item>
+        <item quantity="many">Päivitetty %d vk sitten</item>
+    </plurals>
+</resources>
