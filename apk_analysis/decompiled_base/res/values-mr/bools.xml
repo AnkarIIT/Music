@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_ligature_script">true</bool>
+    <bool name="should_apply_letter_spacing_sf_font">false</bool>
+    <bool name="skip_letter_spacing_nav_tabs">true</bool>
+</resources>
