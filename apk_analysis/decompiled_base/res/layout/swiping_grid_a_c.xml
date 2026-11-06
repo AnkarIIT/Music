@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/swiping_grid_a_c_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="start|bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.SquareFrameLayout android:layout_gravity="center_horizontal" android:id="@id/list_profile_icon_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.apple.android.music.common.CustomImageView android:layout_gravity="start|bottom|center" android:id="@id/transition_artwork" android:tag="binding_1" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:transitionName="@string/image_transition" app:resizeToAspectRatio="true" app:roundedCornerRadius="@dimen/corner_radius_m" />
+                <ImageView android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@null" android:scaleType="center" />
+            </com.apple.android.music.common.SquareFrameLayout>
+            <LinearLayout android:layout_gravity="end|bottom|center" android:orientation="vertical" android:tag="binding_2" android:background="@drawable/showcase_bottom_gradient" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:layout_alignParentEnd="true">
+                <com.apple.android.music.common.views.CustomTextView android:layout_gravity="end" android:id="@id/caption_1" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/caption_2" android:textDirection="anyRtl" android:textAlignment="viewEnd" android:layout_alignParentEnd="true" style="@style/Caption2WhiteBold" />
+                <com.apple.android.music.common.views.CustomTextView android:layout_gravity="end" android:id="@id/caption_2" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:textDirection="anyRtl" android:textAlignment="viewEnd" android:layout_alignParentEnd="true" style="@style/Caption2White" />
+            </LinearLayout>
+        </FrameLayout>
+        <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_4" />
+        <com.apple.android.music.common.views.CustomTextView android:textSize="20.0sp" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Caption2Bold" />
+        <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:id="@id/title" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:ellipsize="end" android:id="@id/grid_a_c_subtitle" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_7" android:paddingTop="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Footnote" />
+        <Space android:layout_width="fill_parent" android:layout_height="@dimen/grid_bottom_padding" />
+    </LinearLayout>
+</FrameLayout>
