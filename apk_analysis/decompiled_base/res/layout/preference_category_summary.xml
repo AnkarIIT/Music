@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd" style="@style/CustomPreferenceCategoryText" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:id="@android:id/summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingLeft" android:paddingEnd="?android:listPreferredItemPaddingRight" style="@style/DefaultFont" />
+</LinearLayout>
