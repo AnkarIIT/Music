@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/closed_captions_list_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/divider" style="@style/Divider" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/list_layout_container" android:tag="binding_1" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding">
+        <com.apple.android.music.common.views.TintableImageView android:layout_gravity="center_vertical" android:id="@id/list_left_icon" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="16.0dip" app:tint="@color/color_primary" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/list_title" android:tag="binding_3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="14.0dip" android:layout_weight="1.0" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="14.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+        <com.apple.android.music.common.views.TintableImageView android:layout_gravity="center_vertical" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" app:tint="@color/color_primary" />
+    </LinearLayout>
+</FrameLayout>
