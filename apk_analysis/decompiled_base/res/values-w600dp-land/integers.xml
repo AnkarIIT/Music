@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="expanded_swoosh_columns_two">4</integer>
+    <integer name="multiply_upcoming_shows_column_count">2</integer>
+    <item type="integer" name="profile_top_songs_column_count">@integer/grid_a_column_count</item>
+    <integer name="radio_live_showcase_column_count">6</integer>
+</resources>
