@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="layout/button_add_to_queue_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/queue_line_padding_horiz"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView android:id="@id/button_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/default_padding" app:cardBackgroundColor="@color/player_vibrant_quarternary" app:cardCornerRadius="@dimen/corner_radius_s" app:cardElevation="0.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/nowplaying_addsongs" android:tintMode="src_in" app:tint="@color/white" />
+    </com.google.android.material.card.MaterialCardView>
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/player_vibrant_primary" android:layout_gravity="start|center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_songs_to_queue" android:maxLines="1" android:drawablePadding="@dimen/explicit_badge_padding" android:textDirection="anyRtl" android:paddingEnd="16.0dip" style="@style/BodyShort" />
+</LinearLayout>
