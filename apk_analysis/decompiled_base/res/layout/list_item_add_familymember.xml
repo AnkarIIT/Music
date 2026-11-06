@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/background_color" android:focusable="true" android:layout_width="fill_parent" android:layout_height="@dimen/header_icon" android:layout_marginTop="@dimen/smaller_margin" android:contentDescription="@string/add_family_member"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:textSize="14.0sp" android:textColor="@drawable/selector_stroke_buttons" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/add_family_member" style="@style/DefaultFont" />
+</LinearLayout>
