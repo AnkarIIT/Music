@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_background">#FF0F0F0F</color>
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_white_strong">#33FFFFFF</color>
+    <color name="gradient_end">#FF0F0F0F</color>
+    <color name="gradient_start">#FF2C1010</color>
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="light_on_background">#FF1A1A1A</color>
+    <color name="light_on_surface">#FF1A1A1A</color>
+    <color name="light_primary">#FFE53E3E</color>
+    <color name="light_surface">#FFF5F5F5</color>
+    <color name="primary_red">#FFFF4B4B</color>
+    <color name="surface_color">#FF1E1E1E</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB3B3B3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="album_art">Album art</string>
+    <string name="app_name">Music</string>
+    <string name="error_loading">Error loading content</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="next">Next</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_results">No results found</string>
+    <string name="notification_channel_description">Ongoing music playback controls</string>
+    <string name="notification_channel_name">Music Playback</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="previous">Previous</string>
+    <string name="profile">Profile</string>
+    <string name="repeat">Repeat</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search songs, artists, albums</string>
+    <string name="shuffle">Shuffle</string>
+    <style name="Theme.MusicApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>
