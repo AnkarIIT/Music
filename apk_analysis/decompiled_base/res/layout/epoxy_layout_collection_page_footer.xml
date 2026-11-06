@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/digital_master_badge" android:tag="layout/epoxy_layout_collection_page_footer_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="14.0dip" android:text="@string/digital_master_title" android:drawableLeft="@drawable/ic_product_header_adm" android:drawablePadding="@dimen/collection_header_lossless_badge_drawable_padding" android:contentDescription="@string/ax_digital_master_badge" android:drawableTintMode="src_in" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/collection_release_date" android:tag="layout/epoxy_layout_collection_page_footer_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:textAlignment="viewStart" android:paddingEnd="@dimen/default_padding" style="@style/SubheadSecondary" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/collection_song_count_and_duration" android:tag="layout/epoxy_layout_collection_page_footer_2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textAlignment="viewStart" style="@style/SubheadSecondary" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/collection_copyright" android:tag="layout/epoxy_layout_collection_page_footer_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" android:paddingEnd="@dimen/default_padding" style="@style/SubheadSecondary" />
+</merge>
