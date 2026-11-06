@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/button_group_play_shuffle_action" android:tag="layout/button_group_play_shuffle_action_buttons_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:tag="binding_1" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="0.5" />
+    <include android:id="@id/button_shuffle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="8.0dip" layout="@layout/button_c" />
+    <include android:id="@id/button_play" android:layout_width="160.0dip" android:layout_height="wrap_content" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" layout="@layout/button_b_knockout" />
+    <include android:id="@id/button_action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="8.0dip" layout="@layout/button_c" />
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="0.5" />
+</LinearLayout>
