@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout android:id="@id/app_bar_layout" android:tag="layout/toolbar_collapsing_actionbar_with_upsell_0" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.CollapsingToolbarLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_scrollFlags="scroll|exitUntilCollapsed">
+        <androidx.appcompat.widget.Toolbar android:gravity="top" android:id="@id/toolbar_actionbar" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:contentInsetStart="@dimen/endMargin" android:contentInsetEnd="@dimen/endMargin" android:contentInsetLeft="@dimen/endMargin" android:contentInsetRight="@dimen/endMargin" app:contentInsetEnd="@dimen/endMargin" app:contentInsetLeft="@dimen/endMargin" app:contentInsetRight="@dimen/endMargin" app:contentInsetStart="@dimen/endMargin" app:layout_collapseMode="pin" app:theme="@style/ToolBarStyle">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip">
+                <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:id="@id/main_title" android:focusable="true" android:nextFocusRight="@id/right_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ToolBarStyleText" />
+                <com.apple.android.music.common.views.CustomTextView android:gravity="center_horizontal" android:id="@id/center_text_view" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:nextFocusLeft="@id/main_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Caption2EmphasizedGray" />
+                <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:id="@id/right_text_view" android:focusable="true" android:visibility="gone" android:nextFocusLeft="@id/main_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ToolBarStyleText" />
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+        <FrameLayout android:layout_gravity="bottom" android:id="@id/app_bar_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_collapseMode="parallax" app:layout_collapseParallaxMultiplier="1.0">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="?actionBarSize">
+                <androidx.recyclerview.widget.RecyclerView android:gravity="center_vertical" android:id="@id/browse_upsell_recyclerview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <com.apple.android.music.common.views.AutosizeTextView android:id="@id/header_page_title" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:minLines="1" android:layout_below="@id/browse_upsell_recyclerview" android:layout_alignParentStart="true" app:as_maxTextSize="36.0sp" app:as_minTextSize="32.0sp" style="@style/SystemFont40dp" />
+                <LinearLayout android:orientation="horizontal" android:tag="binding_2" android:paddingTop="@dimen/smaller_margin_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="16.0dip" android:layout_alignParentEnd="true">
+                    <com.apple.android.music.common.views.AutosizeTextView android:textSize="14.0sp" android:textColor="@color/system_gray" android:gravity="center_vertical" android:id="@id/header_page_subtitle" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/Caption2EmphasizedGray" />
+                    <androidx.appcompat.widget.SwitchCompat android:gravity="center_vertical" android:id="@id/header_page_switch" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="8.0dip" />
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+    </com.google.android.material.appbar.CollapsingToolbarLayout>
+</com.google.android.material.appbar.AppBarLayout>
