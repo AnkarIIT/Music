@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/activity_show_library_details_0" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/toolbar_actionbar" />
+    <LinearLayout android:orientation="vertical" android:id="@id/fragment_stub" android:background="@color/white_translucent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0" />
+</LinearLayout>
