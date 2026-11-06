@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/fragment_edit_profile_settings_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:isScrollContainer="true" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/action_sheet_list" android:background="@drawable/dialog_background_inset" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="start" android:id="@id/close_button" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_close" android:tint="@color/secondary_label_color" android:tintMode="src_in" />
+        <ViewStub android:id="@id/insert_dynamic_interactive_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/default_padding" android:layout_marginRight="@dimen/default_padding" />
+        <com.apple.android.music.common.views.CustomTextButton android:gravity="end" android:id="@id/cta_button" android:tag="binding_1" android:background="@color/background_color_layer1" android:layout_width="fill_parent" android:layout_height="@dimen/buttona_height" android:layout_marginTop="@dimen/default_padding" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" style="@style/BodyPink" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/connecting_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/buttona_height" android:layout_marginStart="@dimen/light_identity_cta_button_margin" android:layout_marginEnd="@dimen/light_identity_cta_button_margin">
+            <com.apple.android.music.common.views.Loader android:id="@id/loader_progress" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginEnd="5.0dip" />
+            <com.apple.android.music.common.views.CustomTextView android:gravity="center" android:id="@id/loader_textview" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/BodyEmphasized" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
