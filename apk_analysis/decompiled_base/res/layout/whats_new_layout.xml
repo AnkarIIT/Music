@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/main_container" android:background="@color/background_color_layer1" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/larger_margin" android:paddingEnd="@dimen/larger_margin">
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/welcome_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/gdpr_container" app:layout_constraintTop_toTopOf="parent">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/whatsnew_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_8" android:src="@drawable/appicon_non_launcher" />
+            <com.apple.android.music.common.views.CustomTextView android:textSize="32.0dip" android:gravity="center_horizontal" android:id="@id/welcome_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_24" android:text="@string/whats_new_title_fresh_install" style="@style/Title0Emphasized" />
+            <com.apple.android.music.common.views.CustomTextView android:textSize="17.0dip" android:gravity="center_horizontal" android:id="@id/whatsnew_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/whats_new_subtitle_fresh_install" style="@style/Body" />
+        </LinearLayout>
+        <ScrollView android:scrollbarSize="4.0dip" android:scrollbarThumbVertical="@drawable/scrollbar_thumb_whatsnew" android:scrollbarStyle="outsideInset" android:gravity="center" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:scrollbarDefaultDelayBeforeFade="600" app:layout_constraintBottom_toTopOf="@id/gdpr_container" app:layout_constraintTop_toTopOf="parent">
+            <FrameLayout android:paddingTop="@dimen/larger_margin" android:paddingBottom="@dimen/larger_margin" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:gravity="center|top" android:orientation="vertical" android:id="@id/whatsnew_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <com.apple.android.music.common.views.CustomTextView android:gravity="center" android:id="@id/whatsnew_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/larger_margin" android:layout_marginBottom="@dimen/margin_24" android:text="@string/whats_new_title" style="@style/Title0Emphasized" />
+                    <LinearLayout android:layout_gravity="center|top" android:orientation="vertical" android:id="@id/whatsnew_features_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </FrameLayout>
+        </ScrollView>
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/gdpr_container" android:paddingTop="@dimen/margin_24" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_chainStyle="spread" app:layout_constraintVertical_weight="1.0">
+            <include android:id="@id/privacy_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" layout="@layout/layout_gdpr" />
+            <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="center_horizontal" android:id="@id/signin_continue_button" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/continue_button" style="@style/ButtonAStyle" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/view_loader_include" />
+</FrameLayout>
