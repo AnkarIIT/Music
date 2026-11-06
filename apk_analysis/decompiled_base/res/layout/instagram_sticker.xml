@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/instagram_sticker_0" android:layout_width="292.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="start" android:layout_gravity="center|top" android:orientation="vertical" android:id="@id/main_view" android:background="@drawable/rounded_background_12" android:paddingBottom="@dimen/stories_stamp_margins" android:layout_width="274.0dip" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.CustomImageView android:id="@id/artwork" android:tag="binding_1" android:layout_width="238.0dip" android:layout_height="238.0dip" android:layout_marginLeft="@dimen/stories_stamp_margins" android:layout_marginTop="@dimen/stories_stamp_margins" android:layout_marginRight="@dimen/stories_stamp_margins" app:roundedCornerRadius="8.0dip" />
+        </FrameLayout>
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/caption_1" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:maxLines="4" android:layout_marginStart="@dimen/default_padding" style="@style/BodyEmphasized" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/caption_2" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-1.0dip" android:layout_marginStart="@dimen/default_padding" style="@style/Body" />
+        <ImageView android:id="@id/logo" android:layout_width="wrap_content" android:layout_height="@dimen/wordmark_default_height" android:layout_marginTop="5.0dip" android:src="@drawable/apple_music_wordmark" android:scaleType="fitStart" android:adjustViewBounds="true" android:tint="@color/tertiary_label_color" android:layout_marginStart="@dimen/default_padding" android:tintMode="src_in" />
+    </LinearLayout>
+</FrameLayout>
