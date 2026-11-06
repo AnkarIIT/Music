@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/fragment_player_main_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/player_root" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.player.LyricsBackgroundLayerView android:id="@id/background_layers" android:background="@drawable/bg_lyrics_page_default" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+        <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/lyrics_queue_thumbnail_top_guideline" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/lyrics_queue_thumbnail_start_guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="@dimen/lyrics_line_padding_horiz" />
+        <ViewSwitcher android:id="@id/motion_switcher" android:tag="binding_3" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inAnimation="@android:anim/fade_in" android:outAnimation="@android:anim/fade_out" android:alpha="0.0">
+            <include android:id="@id/motion_container1" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/view_motion_container" />
+            <include android:id="@id/motion_container2" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/view_motion_container" />
+        </ViewSwitcher>
+        <FrameLayout android:id="@id/player_fragments_host" android:tag="binding_4" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:layout_gravity="bottom" android:id="@id/nav_bar_divider" android:tag="binding_5" android:background="@color/player_vibrant_quarternary" style="@style/Divider" />
+        </FrameLayout>
+        <include android:id="@id/mini_player" layout="@layout/mini_player" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>
