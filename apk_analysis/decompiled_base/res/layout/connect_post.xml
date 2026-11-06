@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/connect_post_0" android:background="@color/custom_gray" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/connect_item_view_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.connect.view.ConnectPostView android:tag="binding_1" android:background="@drawable/connect_post_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>
