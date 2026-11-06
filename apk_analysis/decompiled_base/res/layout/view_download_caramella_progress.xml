@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/view_download_caramella_progress_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_gravity="center" android:id="@id/buffering_loader" android:visibility="gone" android:layout_width="@dimen/buffer_loader" android:layout_height="@dimen/buffer_loader" style="@style/PlayButtonLoader" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/headers_multistate_pink_button" android:tag="binding_1" android:background="@drawable/rounded_corners_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" />
+        <com.apple.android.music.common.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/headers_add" android:textAllCaps="true" android:layout_marginEnd="@dimen/smaller_margin_4" style="@style/HeadlinePinkButton" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/state_downloaded" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/headers_downloaded" android:drawablePadding="5.0dip" android:textAllCaps="true" android:drawableStart="@drawable/action_sheet_add_control_added_check" style="@style/Caption2Bold" />
+    <ImageView android:id="@id/state_download" android:tag="binding_3" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/add_to_library" android:layout_alignParentStart="true" style="@style/PlayerButtonStyle" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/state_downloading" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/downloading" android:textAllCaps="true" style="@style/Caption2Bold" />
+</RelativeLayout>
