@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.connect.view.ConnectPostView android:tag="layout/connect_post_detail_view_0" android:paddingTop="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
