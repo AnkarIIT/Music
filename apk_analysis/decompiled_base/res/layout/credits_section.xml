@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/credit_section" android:tag="layout/credits_section_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/song_credits_section_spacer_height" android:layout_marginStart="@dimen/endMargin" android:layout_marginEnd="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/section_header" android:tag="binding_1" android:paddingTop="@dimen/padding_14" android:paddingBottom="@dimen/smaller_margin_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAllCaps="true" android:textDirection="locale" android:textAlignment="viewStart" android:paddingStart="@dimen/padding_14" android:paddingEnd="@dimen/endMargin" style="@style/FootnoteSecondary" />
+    <LinearLayout android:orientation="vertical" android:id="@id/credits_section" android:tag="binding_2" android:background="@drawable/credits_section_background" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>
