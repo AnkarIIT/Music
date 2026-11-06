@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/view_equalizer_band_level_header_0" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="@dimen/band_level_seek_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="end|center|top" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="end|center" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="end|bottom|center" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Subhead" />
+</FrameLayout>
