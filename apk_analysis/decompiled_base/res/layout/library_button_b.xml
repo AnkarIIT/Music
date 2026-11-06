@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/button_b_container" android:tag="layout/library_button_b_0" android:paddingLeft="@dimen/smaller_margin_8" android:paddingRight="@dimen/smaller_margin_8" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/minimum_button_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:tag="binding_1" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tintMode="src_in" app:tint="@color/label_color" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/button_label" android:tag="binding_2" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="44.0dip" android:paddingStart="5.0dip" style="@style/ButtonB" />
+</LinearLayout>
