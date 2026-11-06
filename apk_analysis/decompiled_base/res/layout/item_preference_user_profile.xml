@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:tag="layout/item_preference_user_profile_0" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:fuse="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:id="@id/user_profile_image_container" android:layout_width="@dimen/account_page_image_size" android:layout_height="@dimen/account_page_image_size" android:layout_margin="@dimen/default_padding" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/default_padding">
+        <com.apple.android.music.common.views.Monogram android:layout_gravity="center" android:tag="binding_1" android:background="@drawable/nav_head_monogram_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" fuse:initialsSize="20.0dip" fuse:text_tint_color="@android:color/white" />
+        <com.apple.android.music.common.CustomImageView android:gravity="center" android:id="@id/profile_imageview" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" fuse:circularImage="true" />
+    </FrameLayout>
+    <com.apple.android.music.common.views.VerticalGroupView android:id="@id/text_view_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/user_profile_image_container">
+        <com.apple.android.music.common.views.CustomTextView android:textSize="16.0sp" android:textColor="@color/label_color" android:id="@id/title" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DefaultFont" />
+        <com.apple.android.music.common.views.CustomTextView android:textSize="14.0sp" android:textColor="@color/secondary_label_color" android:id="@id/description" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/title" style="@style/DefaultFont" />
+    </com.apple.android.music.common.views.VerticalGroupView>
+    <View android:id="@id/divider" android:layout_below="@id/user_profile_image_container" android:layout_alignParentBottom="true" android:layout_marginStart="12.0dip" style="@style/Divider" />
+</RelativeLayout>
