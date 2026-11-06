@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/security_question_answer_label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.6" style="@style/DefaultFont" />
+    <com.apple.android.music.common.views.CustomEditText android:id="@id/security_question_answer_value" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="false" android:layout_weight="1.3" android:imeOptions="flagNoExtractUi" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/FormEditText" />
+</LinearLayout>
