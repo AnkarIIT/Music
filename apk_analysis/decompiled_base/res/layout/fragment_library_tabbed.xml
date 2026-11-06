@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/library_container" android:tag="layout/fragment_library_tabbed_0" android:paddingTop="?actionBarSize" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/library_tabs_and_viewpager2_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/banner_host" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.google.android.material.tabs.TabLayout android:id="@id/sliding_tabs" android:tag="binding_1" android:background="@null" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="4.0dip" app:tabGravity="fill" app:tabIndicatorColor="@color/color_primary" app:tabIndicatorFullWidth="true" app:tabIndicatorHeight="2.0dip" app:tabMode="scrollable" app:tabSelectedTextColor="@color/color_primary" app:tabTextAppearance="@style/SlidingTabTitle" app:tabTextColor="@color/secondary_label_color" />
+        <androidx.viewpager2.widget.ViewPager2 android:id="@id/library_main_view_pager" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.Loader android:id="@id/init_import_progress_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:horizontal="true" />
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
