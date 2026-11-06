@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.legacy.widget.Space android:id="@id/app_grid_spacer" android:tag="layout/small_list_app_grid_spacer_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
