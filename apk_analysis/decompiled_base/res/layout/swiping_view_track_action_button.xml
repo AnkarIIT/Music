@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:tag="layout/swiping_view_track_action_button_0" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="31.0dip" android:minHeight="31.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center" android:id="@id/action_button" android:tag="binding_1" android:layout_width="@dimen/download_item_image_size" android:layout_height="fill_parent" android:src="@drawable/ic_actionitem_downloaded" android:tintMode="src_atop" />
+    <ViewStub android:layout_gravity="center" android:id="@id/action_checkbox" android:tag="binding_2" android:layout="@layout/button_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <include android:layout_gravity="center" android:id="@id/download_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/swiping_download_progress_button" />
+    <include android:id="@id/default_waiting_ring" android:inflatedId="@id/default_waiting_ring" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/swiping_view_waiting_ring" />
+</FrameLayout>
