@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/artwork" android:paddingTop="@dimen/smaller_margin_4" android:layout_width="wrap_content" android:layout_height="@dimen/notification_comnpact_image_size" android:src="@drawable/placeholder_music_default_artwork" android:scaleType="fitStart" android:adjustViewBounds="true" android:minHeight="@dimen/notification_comnpact_image_size" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_weight="1.0">
+        <TextView android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/explicit_badge_padding" style="@style/Subhead" />
+        <TextView android:textColor="@color/system_gray" android:ellipsize="end" android:id="@id/subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/Footnote" />
+    </LinearLayout>
+    <ImageView android:id="@id/prev" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:src="@drawable/ic_nowplaying_mp_rewind" android:contentDescription="@string/upnext_button_previous_track" />
+    <ImageView android:id="@id/play" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/default_padding" android:layout_marginRight="@dimen/default_padding" android:src="@drawable/ic_nowplaying_mp_play" android:contentDescription="@string/play_button" />
+    <ImageView android:id="@id/next" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_nowplaying_mp_fforward" android:contentDescription="@string/upnext_button_next_track" />
+</LinearLayout>
