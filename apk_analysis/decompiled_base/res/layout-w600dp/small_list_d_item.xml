@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:id="@id/small_list_d_item" android:tag="layout-w600dp/small_list_d_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/divider" android:tag="binding_2" android:visibility="visible" android:layout_alignParentTop="true" android:layout_alignStart="@id/text_layout" style="@style/Divider" />
+        <ImageView android:gravity="center" android:id="@id/list_favorite_icon_status" android:tag="binding_3" android:background="@android:color/transparent" android:padding="3.0dip" android:visibility="invisible" android:layout_width="@dimen/favorite_icon_width_16" android:layout_height="@dimen/favorite_icon_height_16" android:src="@drawable/list_item_favorite_icon" android:scaleType="centerCrop" android:layout_centerVertical="true" android:layout_alignParentStart="true" android:tintMode="src_in" app:tint="@color/favorite_star_color" />
+        <LinearLayout android:gravity="start|center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/body" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0" android:layout_toStartOf="@id/end_item" android:layout_toEndOf="@id/list_favorite_icon_status">
+            <include android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/small_list_d_start" />
+            <include android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.0" android:layout_centerVertical="true" layout="@layout/small_list_d_mid" />
+        </LinearLayout>
+        <include android:id="@id/end_item" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_alignParentEnd="true" layout="@layout/small_list_d_item_end" />
+    </RelativeLayout>
+</FrameLayout>
