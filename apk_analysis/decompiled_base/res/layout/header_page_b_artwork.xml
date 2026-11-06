@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/header_image_and_title" android:tag="layout/header_page_b_artwork_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.CustomImageView android:id="@id/header_page_b_top_imageview" android:tag="binding_1" android:background="@color/tertiary_label_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="@dimen/header_page_b_aspect_ratio" app:roundedBackground="false" />
+        <com.apple.android.music.common.CustomImageView android:layout_gravity="bottom" android:id="@id/header_page_b_sub_image" android:tag="binding_2" android:layout_width="@dimen/medium_list_image_height" android:layout_height="@dimen/medium_list_image_height" android:layout_marginBottom="@dimen/default_padding" android:scaleType="fitXY" android:adjustViewBounds="true" android:layout_marginStart="@dimen/default_padding" />
+    </FrameLayout>
+    <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_marginBottom="@dimen/default_padding" layout="@layout/header_page_b_common" />
+</LinearLayout>
