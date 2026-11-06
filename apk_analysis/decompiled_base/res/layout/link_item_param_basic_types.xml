@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/item_panel" android:tag="layout/link_item_param_basic_types_0" android:background="@color/background_color" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/link_text" android:tag="binding_1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/LargeListAText" />
+</androidx.constraintlayout.widget.ConstraintLayout>
