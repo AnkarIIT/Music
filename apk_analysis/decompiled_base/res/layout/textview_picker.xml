@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:textColorHint="@color/gray_6" android:id="@id/textview_picker_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin" android:minWidth="60.0dip" android:drawableRight="@drawable/selector_arrow" android:drawablePadding="@dimen/default_padding" style="@style/DefaultFont" />
+    <View android:background="@color/gray_7b" android:layout_width="fill_parent" android:layout_height="0.5dip" />
+</LinearLayout>
