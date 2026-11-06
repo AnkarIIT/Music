@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/activity_add_family_member_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/main_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.views.CustomEditText android:gravity="center_vertical" android:id="@id/editTextName" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/family_invite_search_contact_hint" android:inputType="textWebEmailAddress" android:imeOptions="flagNoExtractUi" android:paddingStart="@dimen/larger_margin" style="@style/AddFamilyMemberEditText" />
+        <View android:layout_gravity="bottom" android:id="@id/divider" android:visibility="visible" android:layout_below="@id/editTextName" style="@style/Divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/add_child_id_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" android:layout_below="@id/divider" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding">
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_family_create_child_appleid_button" style="@style/DialogSubtitle" />
+        </LinearLayout>
+        <ListView android:id="@android:id/list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/default_padding" android:layout_below="@id/editTextName" />
+        <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@android:id/list" style="@style/DefaultFont" />
+    </RelativeLayout>
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/add_member_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:backgroundColor="@color/translucent_dark_30" />
+</FrameLayout>
