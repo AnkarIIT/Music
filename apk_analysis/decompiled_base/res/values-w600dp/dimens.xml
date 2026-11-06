@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collection_notes_margin">32.0dip</dimen>
+    <item type="dimen" name="default_showcase_aspect_ratio">1.7777</item>
+    <dimen name="dialog_flow_container_width">540.0dip</dimen>
+    <dimen name="header_bottom_margin">48.0dip</dimen>
+    <dimen name="header_non_uber_cover_art_margin_top">14.0dip</dimen>
+    <dimen name="header_non_uber_cover_art_size">300.0dip</dimen>
+    <item type="dimen" name="header_page_b_aspect_ratio">@dimen/header_page_h_aspect_ratio</item>
+    <item type="dimen" name="header_page_h_aspect_ratio">2.28</item>
+    <item type="dimen" name="header_page_uber_ratio">2.28</item>
+    <dimen name="manage_collab_height">600.0dip</dimen>
+    <dimen name="manage_collab_width">540.0dip</dimen>
+    <dimen name="mini_player_horizontal_margin">90.0dip</dimen>
+    <dimen name="mini_player_max_width">420.0dip</dimen>
+    <dimen name="miniplayer_to_navtabs_spacing">0.0dip</dimen>
+    <dimen name="now_playing_artwork_margin_horizontal">78.0dip</dimen>
+    <dimen name="now_playing_metadata_padding_horizontal">0.0dip</dimen>
+    <dimen name="now_playing_seekbar_padding_horizontal">0.0dip</dimen>
+    <item type="dimen" name="playlist_item_margin_horizontal">@dimen/larger_margin</item>
+    <dimen name="product_header_badge_margin_top_desc_gone">17.0dip</dimen>
+    <item type="dimen" name="search_filter_margin_horiz">@dimen/larger_margin</item>
+    <item type="dimen" name="unsubscribed_upsell_image_aspect_ratio">2.4</item>
+    <dimen name="unsubscribed_upsell_margin">16.0dip</dimen>
+</resources>
