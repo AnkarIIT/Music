@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="landing_search_column_count">4</integer>
+    <integer name="listen_now_power_swoosh_items_on_screen">3</integer>
+    <integer name="listen_now_standard_swoosh_items_on_screen">4</integer>
+</resources>
