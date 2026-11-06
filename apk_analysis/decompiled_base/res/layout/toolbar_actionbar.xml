@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout android:id="@id/app_bar_layout" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:elevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.appcompat.widget.Toolbar android:gravity="center_vertical" android:id="@id/toolbar_actionbar" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentInsetStart="@dimen/endMargin" android:contentInsetEnd="@dimen/endMargin" android:contentInsetLeft="@dimen/endMargin" android:contentInsetRight="@dimen/endMargin" app:contentInsetEnd="@dimen/endMargin" app:contentInsetLeft="@dimen/endMargin" app:contentInsetRight="@dimen/endMargin" app:contentInsetStart="@dimen/endMargin" app:theme="@style/ToolBarStyle">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:id="@id/main_title" android:focusable="true" android:nextFocusRight="@id/right_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ToolBarStyleText" />
+                <View android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:id="@id/right_text_view" android:focusable="true" android:visibility="gone" android:nextFocusLeft="@id/main_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ToolBarStyleText" />
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+        <View android:layout_gravity="bottom" android:id="@id/toolbar_divider" android:background="@color/separator_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    </FrameLayout>
+</com.google.android.material.appbar.AppBarLayout>
