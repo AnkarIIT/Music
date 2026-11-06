@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/appwidget_list_item" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="400.0dip" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="16.0dip">
+        <ImageView android:id="@id/appwidget_imageview" android:padding="4.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/appwidget_imageview_placeholder" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignTop="@id/appwidget_imageview" android:layout_alignBottom="@id/appwidget_imageview" android:paddingStart="8.0dip" android:layout_toEndOf="@id/appwidget_imageview">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="11.0dip">
+                <LinearLayout android:gravity="center_vertical" android:background="@drawable/appwidget_empty_text_shape" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.3" />
+                <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.7" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="9.0dip" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="11.0dip">
+                <LinearLayout android:gravity="center_vertical" android:background="@drawable/appwidget_empty_text_shape" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.45" />
+                <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.55" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
