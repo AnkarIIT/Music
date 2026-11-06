@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout-w400dp/activity_social_share_playlist_0" android:background="@color/background_color_layer1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="vertical" android:tag="binding_1" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.appcompat.widget.Toolbar android:gravity="center_vertical" android:id="@id/toolbar_actionbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:theme="@style/ToolBarStyle" />
+        <include android:id="@id/btn_next_playlistsetup" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/button_a" />
+        <FrameLayout android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/btn_next_playlistsetup" android:layout_below="@id/toolbar_actionbar">
+            <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="@id/playlist_recyclerview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </LinearLayout>
+            <include android:id="@id/error_view" android:visibility="gone" layout="@layout/social_onboarding_error_view" />
+        </FrameLayout>
+    </RelativeLayout>
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
