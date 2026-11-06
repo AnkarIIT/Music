@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d j</item>
+        <item quantity="one">%d j</item>
+        <item quantity="two">%d j</item>
+        <item quantity="few">%d j</item>
+        <item quantity="many">%d j</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+        <item quantity="many">%d saat</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d app disambungkan</item>
+        <item quantity="one">%d app disambungkan</item>
+        <item quantity="two">%d app disambungkan</item>
+        <item quantity="few">%d app disambungkan</item>
+        <item quantity="many">%d app disambungkan</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d Album</item>
+        <item quantity="one">%d Album</item>
+        <item quantity="two">%d Album</item>
+        <item quantity="few">%d Album</item>
+        <item quantity="many">%d Album</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%dh lalu</item>
+        <item quantity="one">%dh lalu</item>
+        <item quantity="two">%dh lalu</item>
+        <item quantity="few">%dh lalu</item>
+        <item quantity="many">%dh lalu</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%dj lalu</item>
+        <item quantity="one">%dj lalu</item>
+        <item quantity="two">%dj lalu</item>
+        <item quantity="few">%dj lalu</item>
+        <item quantity="many">%dj lalu</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%dmg lalu</item>
+        <item quantity="one">%dmg lalu</item>
+        <item quantity="two">%dmg lalu</item>
+        <item quantity="few">%dmg lalu</item>
+        <item quantity="many">%dmg lalu</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="zero">%d jam</item>
+        <item quantity="one">%d jam</item>
+        <item quantity="two">%d jam</item>
+        <item quantity="few">%d jam</item>
+        <item quantity="many">%d jam</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d minit</item>
+        <item quantity="zero">%d minit</item>
+        <item quantity="one">%d minit</item>
+        <item quantity="two">%d minit</item>
+        <item quantity="few">%d minit</item>
+        <item quantity="many">%d minit</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d saat</item>
+        <item quantity="zero">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+        <item quantity="many">%d saat</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Batalkan %d Item</item>
+        <item quantity="one">Batalkan %d Item</item>
+        <item quantity="two">Batalkan %d Item</item>
+        <item quantity="few">Batalkan %d Item</item>
+        <item quantity="many">Batalkan %d Item</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Pautan tamat tempoh dalam masa %1$d hari.</item>
+        <item quantity="zero">Pautan tamat tempoh.</item>
+        <item quantity="one">Pautan tamat tempoh hari ini.</item>
+        <item quantity="two">Pautan tamat tempoh dalam masa %1$d hari.</item>
+        <item quantity="few">Pautan tamat tempoh dalam masa %1$d hari.</item>
+        <item quantity="many">Pautan tamat tempoh dalam masa %1$d hari.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d konsert</item>
+        <item quantity="one">%d konsert</item>
+        <item quantity="two">%d konsert</item>
+        <item quantity="few">%d konsert</item>
+        <item quantity="many">%d konsert</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+        <item quantity="two">%d hari</item>
+        <item quantity="few">%d hari</item>
+        <item quantity="many">%d hari</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d j</item>
+        <item quantity="two">%d jam</item>
+        <item quantity="few">%d jam</item>
+        <item quantity="many">%d jam</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="zero">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="two">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d Item</item>
+        <item quantity="one">%d Item</item>
+        <item quantity="two">%d Item</item>
+        <item quantity="few">%d Item</item>
+        <item quantity="many">%d Item</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+        <item quantity="two">%d jam</item>
+        <item quantity="few">%d jam</item>
+        <item quantity="many">%d jam</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d minit</item>
+        <item quantity="one">%d minit</item>
+        <item quantity="two">%d minit</item>
+        <item quantity="few">%d minit</item>
+        <item quantity="many">%d minit</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d minit</item>
+        <item quantity="one">%,d minit</item>
+        <item quantity="two">%,d minit</item>
+        <item quantity="few">%,d minit</item>
+        <item quantity="many">%,d minit</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Mundar laju %d saat</item>
+        <item quantity="one">Mundar laju %d saat</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Mandir %d saat</item>
+        <item quantity="one">Mandir %d saat</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d Jam</item>
+        <item quantity="one">%d Jam</item>
+        <item quantity="two">%d Jam</item>
+        <item quantity="few">%d Jam</item>
+        <item quantity="many">%d Jam</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">Jam</item>
+        <item quantity="one">Jam</item>
+        <item quantity="two">Jam</item>
+        <item quantity="few">Jam</item>
+        <item quantity="many">Jam</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d Lagu Baharu</item>
+        <item quantity="one">%d Lagu Baharu</item>
+        <item quantity="two">%d Lagu Baharu</item>
+        <item quantity="few">%d Lagu Baharu</item>
+        <item quantity="many">%d Lagu Baharu</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d Minit</item>
+        <item quantity="one">%d Minit</item>
+        <item quantity="two">%d Minit</item>
+        <item quantity="few">%d Minit</item>
+        <item quantity="many">%d Minit</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">Minit</item>
+        <item quantity="one">Minit</item>
+        <item quantity="two">Minit</item>
+        <item quantity="few">Minit</item>
+        <item quantity="many">Minit</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d pemberitahuan baharu</item>
+        <item quantity="one">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d Video Muzik</item>
+        <item quantity="one">%d Video Muzik</item>
+        <item quantity="two">%d Video Muzik</item>
+        <item quantity="few">%d Video Muzik</item>
+        <item quantity="many">%d Video Muzik</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d Lagi Lagu</item>
+        <item quantity="zero">%d Lagi Lagu</item>
+        <item quantity="one">%d Lagi Lagu</item>
+        <item quantity="two">%d Lagi Lagu</item>
+        <item quantity="few">%d Lagi Lagu</item>
+        <item quantity="many">%d Lagi Lagu</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d Bermain</item>
+        <item quantity="one">%d Bermain</item>
+        <item quantity="two">%d Bermain</item>
+        <item quantity="few">%d Bermain</item>
+        <item quantity="many">%d Bermain</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="one">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="two">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="few">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="many">%1$d lagu ditambahkan ke \"%2$s\"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d lagu ditambahkan ke Senarai Main Baharu</item>
+        <item quantity="one">%1$d lagu ditambahkan ke Senarai Main Baharu</item>
+        <item quantity="two">%1$d lagu ditambahkan ke Senarai Main Baharu</item>
+        <item quantity="few">%1$d lagu ditambahkan ke Senarai Main Baharu</item>
+        <item quantity="many">%1$d lagu ditambahkan ke Senarai Main Baharu</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s &amp; %2$d Lagi</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s &amp; %2$d Lagi</item>
+        <item quantity="two">%1$s &amp; %2$d Lagi</item>
+        <item quantity="few">%1$s &amp; %2$d Lagi</item>
+        <item quantity="many">%1$s &amp; %2$d Lagi</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d lagu dipilih</item>
+        <item quantity="one">%1$d lagu dipilih</item>
+        <item quantity="two">%1$d lagu dipilih</item>
+        <item quantity="few">%1$d lagu dipilih</item>
+        <item quantity="many">%1$d lagu dipilih</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">SYARIKAT MUZIK</item>
+        <item quantity="one">SYARIKAT MUZIK</item>
+        <item quantity="many">SYARIKAT MUZIK</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Keluarkan %1$d Lagu?</item>
+        <item quantity="one">Keluarkan %1$d Lagu?</item>
+        <item quantity="two">Keluarkan %1$d Lagu?</item>
+        <item quantity="few">Keluarkan %1$d Lagu?</item>
+        <item quantity="many">Keluarkan %1$d Lagu?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d App</item>
+        <item quantity="one">App %d</item>
+        <item quantity="two">%d App</item>
+        <item quantity="few">%d App</item>
+        <item quantity="many">%d App</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d Saat</item>
+        <item quantity="zero">%d Saat</item>
+        <item quantity="one">%d Saat</item>
+        <item quantity="two">%d Saat</item>
+        <item quantity="few">%d Saat</item>
+        <item quantity="many">%d Saat</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">Saat</item>
+        <item quantity="zero">Saat</item>
+        <item quantity="one">Saat</item>
+        <item quantity="two">Saat</item>
+        <item quantity="few">Saat</item>
+        <item quantity="many">Saat</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Anda boleh menambah sehingga %s lagi orang ke keluarga anda.</item>
+        <item quantity="one">Anda boleh menambah seorang lagi ke keluarga anda.</item>
+        <item quantity="two">Anda boleh menambah sehingga %s lagi orang ke keluarga anda.</item>
+        <item quantity="few">Anda boleh menambah sehingga %s lagi orang ke keluarga anda.</item>
+        <item quantity="many">Anda boleh menambah sehingga %s lagi orang ke keluarga anda.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d Baris Dipilih</item>
+        <item quantity="zero">Tiada Baris Dipilih</item>
+        <item quantity="one">%d Baris Dipilih</item>
+        <item quantity="two">%d Baris Dipilih</item>
+        <item quantity="few">%d Baris Dipilih</item>
+        <item quantity="many">%d Baris Dipilih</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d Orang Aktif</item>
+        <item quantity="one">%d Orang Aktif</item>
+        <item quantity="two">%d Orang Aktif</item>
+        <item quantity="few">%d Orang Aktif</item>
+        <item quantity="many">%d Orang Aktif</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d Episod</item>
+        <item quantity="one">%d Episod</item>
+        <item quantity="two">%d Episod</item>
+        <item quantity="few">%d Episod</item>
+        <item quantity="many">%d Episod</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">Tinggal %1$d Lagu</item>
+        <item quantity="one">Tinggal %1$d Lagu</item>
+        <item quantity="two">Tinggal %1$d Lagu</item>
+        <item quantity="few">Tinggal %1$d Lagu</item>
+        <item quantity="many">Tinggal %1$d Lagu</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="one">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="two">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="few">%1$d lagu ditambahkan ke \"%2$s\"</item>
+        <item quantity="many">%1$d lagu ditambahkan ke \"%2$s\"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d Item Dikeluarkan</item>
+        <item quantity="one">%d Item Dikeluarkan</item>
+        <item quantity="two">%d Item Dikeluarkan</item>
+        <item quantity="few">%d Item Dikeluarkan</item>
+        <item quantity="many">%d Item Dikeluarkan</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d lagu</item>
+        <item quantity="one">%d lagu</item>
+        <item quantity="two">%d lagu</item>
+        <item quantity="few">%d lagu</item>
+        <item quantity="many">%d lagu</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d Lagu Tersedia</item>
+        <item quantity="one">%d Lagu Tersedia</item>
+        <item quantity="two">%d Lagu Tersedia</item>
+        <item quantity="few">%d Lagu Tersedia</item>
+        <item quantity="many">%d Lagu Tersedia</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d LAGU</item>
+        <item quantity="one">%d LAGU</item>
+        <item quantity="two">%d LAGU</item>
+        <item quantity="few">%d LAGU</item>
+        <item quantity="many">%d LAGU</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d hari untuk mengesahkan status pelajar anda.</item>
+        <item quantity="one">%1$d hari untuk mengesahkan status pelajar anda.</item>
+        <item quantity="two">%1$d hari untuk mengesahkan status pelajar anda.</item>
+        <item quantity="few">%1$d hari untuk mengesahkan status pelajar anda.</item>
+        <item quantity="many">%1$d hari untuk mengesahkan status pelajar anda.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d Kolaborator</item>
+        <item quantity="zero">%1$d Kolaborator</item>
+        <item quantity="one">%1$d Kolaborator</item>
+        <item quantity="two">%1$d Kolaborator</item>
+        <item quantity="few">%1$d Kolaborator</item>
+        <item quantity="many">%1$d Kolaborator</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="two">%dh</item>
+        <item quantity="few">%dh</item>
+        <item quantity="many">%dh</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%dj</item>
+        <item quantity="one">%dj</item>
+        <item quantity="two">%dj</item>
+        <item quantity="few">%dj</item>
+        <item quantity="many">%dj</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+        <item quantity="two">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%dbln</item>
+        <item quantity="one">%dbln</item>
+        <item quantity="two">%dbln</item>
+        <item quantity="few">%dbln</item>
+        <item quantity="many">%dbln</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="two">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%dmn</item>
+        <item quantity="one">%dmn</item>
+        <item quantity="two">%dmn</item>
+        <item quantity="few">%dmn</item>
+        <item quantity="many">%dmn</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%dt</item>
+        <item quantity="one">%dt</item>
+        <item quantity="two">%dt</item>
+        <item quantity="few">%dt</item>
+        <item quantity="many">%dt</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%dh lalu</item>
+        <item quantity="one">%dh lalu</item>
+        <item quantity="two">%dh lalu</item>
+        <item quantity="few">%dh lalu</item>
+        <item quantity="many">%dh lalu</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%dj lalu</item>
+        <item quantity="one">%dj lalu</item>
+        <item quantity="two">%dj lalu</item>
+        <item quantity="few">%dj lalu</item>
+        <item quantity="many">%dj lalu</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%dm lalu</item>
+        <item quantity="one">%dm lalu</item>
+        <item quantity="two">%dm lalu</item>
+        <item quantity="few">%dm lalu</item>
+        <item quantity="many">%dm lalu</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Selepas ini dimainkan, adakah anda mahu terus memainkan atau mengosongkan %d lagu yang anda baris gilirkan sebelum ini?</item>
+        <item quantity="one">Selepas ini dimainkan, adakah anda mahu terus memainkan atau mengosongkan %d lagu yang anda baris gilirkan sebelum ini?</item>
+        <item quantity="two">Selepas ini dimainkan, adakah anda mahu terus memainkan atau mengosongkan %d lagu yang anda baris gilirkan sebelum ini?</item>
+        <item quantity="few">Selepas ini dimainkan, adakah anda mahu terus memainkan atau mengosongkan %d lagu yang anda baris gilirkan sebelum ini?</item>
+        <item quantity="many">Selepas ini dimainkan, adakah anda mahu terus memainkan atau mengosongkan %d lagu yang anda baris gilirkan sebelum ini?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Dikemas kini %dh lalu</item>
+        <item quantity="zero">Dikemas kini %dh lalu</item>
+        <item quantity="one">Dikemas kini %dh lalu</item>
+        <item quantity="two">Dikemas kini %dh lalu</item>
+        <item quantity="few">Dikemas kini %dh lalu</item>
+        <item quantity="many">Dikemas kini %dh lalu</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Dikemas kini %dj lalu</item>
+        <item quantity="one">Dikemas kini %dj lalu</item>
+        <item quantity="two">Dikemas kini %dj lalu</item>
+        <item quantity="few">Dikemas kini %dj lalu</item>
+        <item quantity="many">Dikemas kini %dj lalu</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Dikemas kini %dm lalu</item>
+        <item quantity="one">Dikemas kini %dm lalu</item>
+        <item quantity="two">Dikemas kini %dm lalu</item>
+        <item quantity="few">Dikemas kini %dm lalu</item>
+        <item quantity="many">Dikemas kini %dm lalu</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Dikemas kini %dmg lalu</item>
+        <item quantity="one">Dikemas kini %dmg lalu</item>
+        <item quantity="two">Dikemas kini %dmg lalu</item>
+        <item quantity="few">Dikemas kini %dmg lalu</item>
+        <item quantity="many">Dikemas kini %dmg lalu</item>
+    </plurals>
+</resources>
