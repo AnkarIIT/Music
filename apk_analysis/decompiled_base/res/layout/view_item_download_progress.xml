@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/view_item_download_progress_0" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="32.0dip" android:minHeight="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/download_progress" android:tag="binding_1" android:layout="@layout/download_progress_button" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/default_waiting_ring" android:tag="binding_2" android:layout="@layout/view_waiting_ring" android:inflatedId="@id/default_waiting_ring" android:layout_width="@dimen/playerbutton" android:layout_height="@dimen/playerbutton" />
+</FrameLayout>
