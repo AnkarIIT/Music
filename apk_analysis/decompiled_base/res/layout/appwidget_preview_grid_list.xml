@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/appwidget_view" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintWidth_max="@dimen/widget_preview_dimen_max">
+        <ImageView android:id="@id/appwidget_view_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/appwidget_view_default_background" android:scaleType="fitXY" android:layout_alignBottom="@id/appwidget_list_item_containers" android:layout_alignParentTop="true" android:layout_alignStart="@id/appwidget_list_item_containers" android:layout_alignEnd="@id/appwidget_list_item_containers" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_frame_padding" android:src="@drawable/ic_widgets_appicon_note" android:tint="@color/white" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/widget_frame_padding" android:layout_alignEnd="@id/appwidget_list_item_containers" android:tintMode="src_in" />
+        <TextView android:id="@id/appwidget_header_caption" android:paddingTop="8.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:paddingStart="@dimen/widget_frame_padding" android:paddingEnd="@dimen/widget_frame_padding" android:layout_alignStart="@id/appwidget_list_item_containers" android:layout_alignEnd="@id/appwidget_list_item_containers" style="@style/AppWidgetHeadline" />
+        <LinearLayout android:orientation="vertical" android:id="@id/appwidget_list_item_containers" android:paddingBottom="@dimen/widget_frame_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/appwidget_header_caption" android:paddingStart="@dimen/widget_frame_padding" android:paddingEnd="@dimen/widget_frame_padding">
+            <LinearLayout android:gravity="start" android:orientation="horizontal" android:id="@id/appwidget_list_item_row_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false">
+                <include android:id="@id/preview_list_item_1" layout="@layout/appwidget_list_item_preview_b" />
+                <include android:id="@id/preview_list_item_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="12.0dip" layout="@layout/appwidget_list_item_preview_b" />
+                <include android:id="@id/preview_list_item_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="12.0dip" layout="@layout/appwidget_list_item_preview_b" />
+            </LinearLayout>
+            <LinearLayout android:gravity="start" android:orientation="horizontal" android:id="@id/appwidget_list_item_row_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:baselineAligned="false">
+                <include android:id="@id/preview_list_item_4" layout="@layout/appwidget_list_item_preview_b" />
+                <include android:id="@id/preview_list_item_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="12.0dip" layout="@layout/appwidget_list_item_preview_b" />
+                <include android:id="@id/preview_list_item_6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="12.0dip" layout="@layout/appwidget_list_item_preview_b" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
