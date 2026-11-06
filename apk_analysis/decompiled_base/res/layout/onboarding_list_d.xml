@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:layout_alignParentTop="true" android:layout_alignStart="@id/list_titlelayout" style="@style/Divider" />
+    <RadioButton android:id="@id/radio_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/default_padding" android:layout_alignParentEnd="true" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/list_titlelayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="21.0dip" android:layout_marginBottom="21.0dip" android:paddingEnd="60.0dip" android:layout_toStartOf="@id/radio_btn" android:layout_alignParentStart="true">
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/black" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/BodyEmphasized" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/sub_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" style="@style/Caption1" />
+    </LinearLayout>
+</RelativeLayout>
