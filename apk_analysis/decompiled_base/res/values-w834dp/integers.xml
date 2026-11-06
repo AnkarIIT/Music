@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="grid_a_column_count">3</integer>
+    <integer name="grid_b_column_count">5</integer>
+    <integer name="grid_c_column_count">6</integer>
+    <integer name="limited_datasource_itemcount">12</integer>
+</resources>
