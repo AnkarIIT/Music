@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/paragraph_a2_description_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hometown" android:textAllCaps="true" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="@dimen/default_padding" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="@dimen/default_padding" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/genre" android:textAllCaps="true" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextView android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+</LinearLayout>
