@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/button_group_play_shuffle_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:layout_gravity="top" android:tag="binding_1" android:layout_marginStart="@dimen/endMargin" style="@style/Divider" />
+    <FrameLayout android:tag="binding_2" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/button_group_play_shuffle_buttons" />
+    </FrameLayout>
+</LinearLayout>
