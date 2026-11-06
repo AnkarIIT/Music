@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/activity_icloud_invitation_options_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/toolbar_actionbar" />
+    <RelativeLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.views.CustomTextView android:gravity="start" android:layout_gravity="center" android:id="@id/textview_join_or_invite" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" android:text="@string/family_text_join_icloud_member" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding" style="@style/DefaultFont" />
+        <RadioGroup android:orientation="vertical" android:id="@id/radiogroup_icloudmember_inviteoptions" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkedButton="@id/radio_send_invitation" android:layout_below="@id/textview_join_or_invite">
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/radio_send_invitation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" android:text="@string/button_send_email_invitation" style="@style/FormRadioButton" />
+            <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/radio_enter_password" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/button_enter_password" style="@style/FormRadioButton" />
+        </RadioGroup>
+        <com.apple.android.music.common.views.ButtonsBottomBar android:id="@id/buttons_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/add_icloudmember_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:backgroundColor="@color/translucent_dark_30" />
+</FrameLayout>
