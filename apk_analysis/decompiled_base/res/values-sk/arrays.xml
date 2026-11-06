@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>tis</item>
+        <item>mil</item>
+        <item>mld</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Svetlý</item>
+        <item>Tmavý</item>
+        <item>Systémová predvoľba</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Úložisko zariadenia</item>
+        <item>SD karta</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25 ×</item>
+        <item>0,5 ×</item>
+        <item>0,75 ×</item>
+        <item>Normálne</item>
+        <item>1,25 ×</item>
+        <item>1,5 ×</item>
+        <item>2 ×</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Spoločnosť Apple zhromažďuje informácie o vašich aktivitách v Apple Music a Apple Music Classical, ako napríklad prehrávané skladby a ako dlho ich prehrávate, na prispôsobenie odoberaných služieb, posielanie hlásení a kompenzáciu partnerov.</item>
+        <item>Vaša knižnica na cloude spoločnosti Apple odosiela spoločnosti Apple informácie z hudobnej knižnice na vašom zariadení, ako sú názvy skladieb a mená interpretov, na účely identifikácie a odomknutia kópií všetkých vašich skladieb, ktoré sú zároveň dostupné aj v Apple Music.</item>
+        <item>Informácie z vašej knižnice v cloude sú k vám priradené na dobu odberu služby a krátky čas po jeho ukončení. Záznamy o prehrávaných skladbách sú uchované po dobu stanovenú platnými zákonmi o finančnej evidencii.</item>
+        <item>Na pomoc pri identifikácii a ochrane voči podvodom je pri pokuse o uskutočnenie nákupu vypočítané skóre dôvery zariadenia. Na výpočet tohto skóre slúžia informácie týkajúce sa používania zariadenia vrátane približného množstva uskutočnených telefonických hovorov a prijatých a odoslaných emailov. Odoslanie týchto dát je navrhnuté tak, aby spoločnosť Apple nedokázala zistiť skutočné hodnoty na vašom zariadení. Skóre je po určitý čas uchované na našich serveroch.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Ochrana vášho súkromia a bezpečnosť vašich informácií je prioritou pre každého v Apple. Snažíme sa zhromažďovať len tie dáta, ktoré potrebujeme, aby sme vám vedeli ponúknuť stále lepší užívateľský zážitok. Myslíme si, že pri ich zhromažďovaní je dôležité, aby ste vedeli, aké dáta zhromažďujeme a prečo ich potrebujeme, vďaka čomu sa môžete informovane rozhodnúť. Služby Apple Music a Apple Music Classical sa rovnako ako každý iný produkt a služba spoločnosti Apple riadia týmito princípmi.
+
+Vaše osobné údaje používame na poskytovanie služieb a funkcií v Apple Music. Medzi tieto informácie patrí vaše meno a fotka v Apple účte, pokiaľ ste si ich nastavili (k týmto údajom používaným s funkciami zdieľania v Apple Music môžete pristupovať a upravovať ich v nastaveniach apky Hudba), ako aj informácie z vášho účtu, stav odberu služieb Apple a platobné údaje, ktoré si môžete prezerať a upravovať v Nastaveniach alebo Systémových nastaveniach.
+
+Keď si predplatíte službu Apple Music, okrem služby Apple Music získate aj plný prístup k službe Apple Music Classical. Spoločnosť Apple zhromažďuje informácie o spôsobe, akým používate služby Apple Music a Apple Music Classical, aby mohla prispôsobovať jednotlivé funkcie vášmu hudobnému vkusu. Tieto funkcie zahŕňajú prispôsobené odporúčania, napríklad albumy a playlisty vybrané pre vás a Rádio, ktorá umožňuje prehrávať vybrané skladby vašich obľúbených interpretov a žánrov. Tieto informácie používame aj na to, aby sme vás mohli kontaktovať prostredníctvom emailu alebo push hlásení v súvislosti s novými vydaniami, novými interpretmi a ďalšími novinkami v službách Apple Music a Apple Music Classical, ktoré by sa vám mohli páčiť.
+
+Niektoré funkcie Apple Music, napríklad vysielanie niektorých staníc rádia, nemusia byť dostupné vo vašom regióne. Spoločnosť Apple môže na stanovenie vašej približnej polohy a dostupnosti funkcií použiť IP adresu vášho internetového pripojenia.
+
+Apple Music Classical
+
+Predplatitelia služby Apple Music majú prístup k Apple Music Classical, aplikácii navrhnutej na počúvanie klasickej hudby, v ktorej môžete na jednom mieste objavovať klasické skladby a albumy a ukladať si svoje obľúbené klasické skladby. Katalóg Apple Music Classical môžete prechádzať aj bez predplatenia, na prístup ku všetkým funkciám Apple Music Classical však budete potrebovať predplatné Apple Music. Ak nemáte aktívne predplatné Apple Music, budete mať možnosť predplatiť si túto službu a získať tak plný prístup k Apple Music Classical.
+
+Knižnica na cloude
+
+Jednou z výhod predplatného služby Apple Music je knižnica na cloude spoločnosti Apple, vďaka ktorej môžete na ľubovoľnom zo svojich zariadení pristupovať k skladbám a playlistom vo svojej knižnici. Táto funkcia odosiela informácie z hudobnej knižnice na vašom zariadení, ako sú napríklad názvy skladieb a interpretov, spoločnosti Apple s cieľom identifikovať a odomknúť kópie vašich skladieb, ktoré sú dostupné aj v službách Apple Music a Apple Music Classical. Skladby, ktoré sa nenájdu v službe Apple Music, sa nahrajú do vašej osobnej knižnice na cloude, vďaka čomu budete mať prostredníctvom služby Apple Music prístup k celej svojej zbierke na všetkých svojich zariadeniach. Ak chcete zastaviť synchronizáciu knižnice na cloude na svojom iOS, iPadOS alebo visionOS zariadení, otvorte Nastavenia > Apky a klepnutím vypnite možnosť Synchronizovať knižnicu. Na Macu otvorte apku Hudba, prejdite do Nastavenia > Všeobecné a zrušte zaškrtnutie možnosti Synchronizovať knižnicu.
+
+Profil v Apple Music
+
+Ak sa chcete pomocou služby Apple Music spojiť s inými ľuďmi alebo s nimi zdieľať obsah, môžete si vytvoriť osobný profil zadaním užívateľského mena (napr. @jankohrasko), prezývky, pridaním profilovej fotky, krátkeho textu o sebe a ďalších informácií. Spoločnosť Apple uchováva tieto informácie s vaším účtom, takže k nim môžete pristupovať z ľubovoľného zariadenia. Vaše užívateľské meno, zobrazované meno a profilová fotka sa môžu zobrazovať spolu s akýmkoľvek zverejneným obsahom a aktivitami, ktoré zdieľate v službe Apple Music. Zverejňovanie a komentovanie obsahu v tejto chvíli nie je určené ani dostupné pre Apple účty detí.
+
+Pomocou informácií, ktoré zadáte, môžu váš profil v službe Apple Music vyhľadať aj iní užívatelia.
+
+Obsah svojho profilu, napríklad playlisty a vypočutý obsah, môžete sprístupniť všetkým alebo len vybraným užívateľom. Informácie o vašom profile, ako je užívateľské meno, zobrazované meno, fotka, vaši nasledovatelia a osoby, ktoré nasledujete, si predvolene môžu pozrieť všetci. Ak chcete zabrániť v prezeraní vášho profilu konkrétnemu užívateľovi, klepnite na profil daného užívateľa, klepnite na Viac a potom klepnite na Zablokovať. Ľudia, ktorých zablokujete, neuvidia vašu hudbu a nebudú môcť vyhľadať váš profil v Apple Music.
+
+Po vytvorení profilu v službe Apple Music vám odporučíme ďalších odberateľov Apple Music, s ktorými by ste sa mohli chcieť spojiť ako priatelia. Pri hľadaní vhodných priateľov na odporúčanie spoločnosť Apple nezisťuje ani neuchováva informácie z vašich kontaktov. Spoločnosti Apple sú odosielané len skrátené a zašifrované zhluky telefónnych čísiel a emailových adries z vašich kontaktov. Vhodné odporúčania nových priateľov na Apple Music sú následne vytvárané lokálne na vašom zariadení. Apple Music môže v budúcnosti pravidelne kontrolovať vaše kontakty s cieľom navrhovať nových priateľov. Túto funkciu môžete vypnúť v Nastavenia účtu > Súkromie a prístup > Kontakty na Apple Music. Ak nechcete, aby vás ostatní užívatelia mohli vyhľadať na základe údajov z vášho Apple účtu, ktoré majú uložené v kontaktoch, môžete to zmeniť v Nastavenia účtu > Súkromie a prístup > Nájsť ma podľa Apple účtu.
+
+Informácie zadané vo svojom profile môžete kedykoľvek aktualizovať alebo odstrániť. Pri zdieľaní obsahu online by ste mali dobre zvážiť, aké informácie zverejníte. Obsah zdieľaný zo služby Apple Music na iných webových stránkach alebo v sociálnych sieťach sa riadi zásadami ochrany osobných údajov príslušných služieb.
+
+SharePlay
+
+Keď máte predplatenú službu Apple Music a pripojíte sa k Apple TV, HomePodu alebo CarPlay, prípadne keď používate Bluetooth, môžete hosťovať relácie SharePlay. Cez SharePlay sa iní predplatitelia Apple Music môžu pripájať do vašich relácií SharePlay a ovládať hudbu prehrávanú prostredníctvom Apple Music. SharePlay umožňuje pripájať sa do relácií SharePlay aj užívateľom, ktorí nemajú predplatenú službu Apple Music. Ak máte na zariadení zapnutý Bluetooth, spoločnosť Apple prostredníctvom tohto rozhrania umožňuje kontaktom v blízkosti vyhľadať vašu reláciu v Apple Music a požiadať o pripojenie. Ak nechcete umožniť kontaktom, aby mohli vyhľadať vaše zariadenie a požiadať o pripojenie k vašej relácii Apple Music, v nastaveniach apky Hudba môžete vypnúť viditeľnosť svojho zariadenia pre kontakty v blízkosti. Vaše kontakty a ďalší účastníci sa do relácie môžu pripojiť aj naskenovaním QR kódu, ktorý sa zobrazí v nastaveniach apky Hudba alebo v rozhraní vozidla, ak sa do relácie SharePlay pripájajú v aute.
+
+Každý účastník relácie uvidí mená a profilové fotky všetkých ostatných účastníkov. Príspevky v relácii SharePlay sú pripísané užívateľovi, ktorý ich vytvoril, a prepojené s jeho menom a profilovou fotkou, pokiaľ tieto údaje (ktoré možno kedykoľvek upraviť v nastaveniach apky Hudba) poskytol. Z relácií SharePlay, ktoré hosťujete, môžete odstrániť účastníkov klepnutím na ikonu SharePlay v apke Hudba a následným výberom účastníkov, ktorých chcete odstrániť. Ak chcete opustiť reláciu SharePlay, klepnite na ikonu SharePlay v apke Hudba a potom klepnite na Opustiť. Ak hosťujete reláciu SharePlay a chcete ju ukončiť, klepnite na Ukončiť v apke Hudba. Spoločnosť Apple po skončení relácie SharePlay neuchováva informácie o vašich kontaktoch ani o ostatných účastníkoch, ktorí boli pripojení.
+
+Relácie SharePlay môžete spúšťať aj v apke Správy alebo počas FaceTime hovorov na synchrónne počúvanie hudby s ostatnými. Ak chcete spustiť takúto reláciu, vyberte hudbu, ktorú chcete počúvať, v možnostiach hudby klepnite na SharePlay, zadajte kontakty, s ktorými chcete hudbu zdieľať, klepnite na Správy alebo FaceTime a nakoniec klepnite na Spustiť.
+
+Vytváranie p"</item>
+        <item>"laylistov a spolupráca na playlistoch
+
+Predplatitelia služby Apple Music môžu vytvárať svoje vlastné playlisty alebo používať funkciu Playlist Playground (ak je k dispozícii) na generovanie playlistov pomocou umelej inteligencie. Pri používaní funkcie Playlist Playground opíšete to, čo chcete počúvať, a tento opis bude spracovaný s cieľom určiť náladu, žáner alebo tému. Tieto informácie budú skombinované s vašou históriou počúvania a ďalšími dátami o používaní s cieľom vytvorenia prispôsobeného playlistu. Pred uložením playlistu ho môžete doladiť a vygenerovaný playlist môžete kedykoľvek vymazať alebo upraviť.
+
+S ostatnými predplatiteľmi služby Apple Music môžete spolupracovať na playlistoch. Pri vytváraní playlistu sa môžete rozhodnúť, či chcete schvaľovať pripojenie jednotlivých účastníkov, alebo povoliť automatické pripojenie všetkých užívateľov s odkazom. Všetci účastníci v playliste môžu pridávať a odstraňovať skladby a reagovať prostredníctvom emoji. Príspevky sú pripísané užívateľovi, ktorý ich vytvoril, a prepojené s jeho menom a profilovou fotkou, pokiaľ tieto údaje (ktoré možno kedykoľvek upraviť v nastaveniach apky Hudba) poskytol. Všetci účastníci v playliste a všetky osoby s prístupom k playlistu uvidia alebo si môžu pozrieť mená a fotky ostatných účastníkov. Účastníci v playliste si môžu prezerať všetky skladby a reakcie pridané ostatnými účastníkmi. Ak chcete prestať spolupracovať, odstráňte sami seba z playlistu v jeho nastaveniach. Ak ste playlist vytvorili, ukončite spoluprácu v nastaveniach správy spolupráce. Ak spoluprácu ukončí tvorca playlistu, playlist sa zmení na zdieľaný playlist a ostatní k nemu budú môcť pristupovať vo vlastných knižniciach Apple Music.
+
+Koncerty
+
+Ak apke Apple Music povolíte prístup k vašej polohe, vaša približná poloha môže byť použitá na uloženie preferovaného mesta s cieľom poskytovať lokálne relevantné informácie, napríklad koncerty v okolí. Ak sa rozhodnete nepovoliť apke Apple Music prístup k vašej polohe, preferované mesto, v ktorom chcete vyhľadať koncerty, môžete zadať manuálne. Ak je zapnutá synchronizácia, vybrané mesto sa bude synchronizovať medzi zariadeniami. Nastavenia založené na polohe môžete na svojom iOS alebo iPadOS zariadení kedykoľvek zmeniť tak, že prejdete do Nastavenia > Súkromie a bezpečnosť > Lokalizačné služby > Hudba.
+
+Prispôsobenie a vylepšovanie služieb Apple Music a Apple Music Classical
+
+Keď používate svoje predplatné Apple Music alebo prehrávate bezplatný obsah mimo svojej knižnice, môžeme zhromažďovať informácie o skladbách a videách (ak je to možné), ktoré prehrávate alebo pridávate do svojej hudobnej knižnice alebo playlistov, a o interpretoch a obsahu, ktorý označíte ako obľúbený alebo ho zdieľate. Spoločnosť Apple zaznamenáva a prijíma rôzne informácie, ako sú napríklad účet, IP adresa a zariadenie, apka alebo rozhranie v aute, ktoré ste použili na prehrávanie hudby, miesto v službe Apple Music alebo Apple Music Classical, na ktorom ste sa pri prehrávaní nachádzali, a čas a dĺžka prehrávania. Tieto informácie nám umožňujú prispôsobovať služby Apple Music a Apple Music Classical, posielať vám emaily a hlásenia a pomáhajú nám pochopiť, ako sa služby Apple Music a Apple Music Classical používajú, aby sme ich mohli vylepšovať. Môžu nám napríklad pomáhať pri výbere hudby, videí a obsahu od interpretov, ktoré vám zobrazujeme v Apple Music a Apple Music Classical. Umožňujú nám tiež poskytovať vám ďalšie odporúčania, ktoré zohľadňujú váš vkus, vytvárať mestské rebríčky určené na prezeranie populárnej hudby podľa miest a poskytovať výsledky vyhľadávania v Apple Music prispôsobené pre vás na základe kombinácie rôznych informácií, napríklad vašej histórie počúvania a vašich obľúbených žánrov. Tieto informácie používame aj na platenie tantiémov a zabraňovanie aktivitám, ktoré by mohli byť v rozpore so zmluvnými podmienkami mediálnych služieb spoločnosti Apple alebo príslušnými zákonmi.
+
+Ak používate SharePlay na počúvanie obsahu s inými užívateľmi služby Apple Music, apka Hudba bude zhromažďovať informácie o obsahu, ktorý ste počúvali počas relácie SharePlay, a o približnom počte účastníkov zapojených do relácie, nebudú však uchované žiadne informácie, ktoré by umožnili identifikovať účastníkov relácie SharePlay.
+
+Dáta získané z vyhľadávania v službe Apple Music používame aj na vylepšovanie modelov, ktoré zabezpečujú fungovanie služby Apple Music. Napríklad agregované hľadané výrazy v Apple Music sa používajú na dolaďovanie vyhľadávacieho modelu služby Apple Music.
+
+Komunikácia s vami
+
+Spoločnosť Apple môže používať informácie o vašom účte, napríklad o produktoch spoločnosti Apple, ktoré vlastníte, apkách spoločnosti Apple, ktoré si stiahnete, a odberoch služieb spoločnosti Apple, na posielanie informácií o Apple Music a ďalších produktoch, službách a ponukách spoločnosti Apple, ktoré by vás mohli zaujímať, vrátane Apple Music Classical a Apple One. Sériové číslo zariadenia a ďalšie hardvérové identifikátory, prípadne aj podrobnosti o vašich aktuálnych odberoch z App Storu, bude možné použiť na overenie spôsobilosti pre ponúkané služby spoločnosti Apple. Ak ste členom skupiny rodinného zdieľania, spoločnosť Apple vám môže posielať informácie o produktoch, službách a ponukách, ktoré máte k dispozícii prostredníctvom funkcie Rodinné zdieľanie. Ak si predplatíte odber Apple One, môžeme vám posielať emaily a push hlásenia o funkciách jednotlivých služieb, ktoré odoberáte. Spoločnosť Apple môže zároveň používať informácie o vašich aktivitách v Apple Music a Apple Music Classical a o vašich interakciách s týmito službami na overenie nároku na zľavnené odbery Apple Music (napríklad študentský odber Apple Music), aby vám mohla posielať emaily a push hlásenia o nových funkciách, obsahu, udalostiach a ponukách dostupných v Apple Music a Apple Music Classical. Pri niektorých typoch komunikácie sa na filtrovanie hlásení, ktoré dostanete, používa hardvérový identifikátor. Na stránke account.apple.com môžete zmeniť nastavenia emailu a odhlásiť sa z prijímania týchto emailov. Ak chcete aktualizovať nastavenia hlásení na svojom iOS, iPadOS alebo visionOS zariadení, otvorte Nastavenia > Hlásenia > Hudba. Na Macu otvorte apku Hudba a prejdite do Nastavenia > Všeobecné > Hlásenia. Spoločnosť Apple používa informácie o vašich interakciách s našimi správami vrátane hlásení na vylepšovanie svojich služieb.
+
+Predchádzanie podvodom a iným nezákonným aktivitám
+
+Keď sa pokúsite uskutočniť nákup, vypočítame na vašom zariadení skóre dôvery zariadenia použitím informácií týkajúcich sa používania zariadenia vrátane približného množstva uskutočnených telefonických hovorov a prijatých a odoslaných emailov. Odoslanie týchto dát je navrhnuté tak, aby spoločnosť Apple nedokázala zistiť hodnoty na vašom zariadení, na základe ktorých bolo skóre vypočítané. Skóre je po určitý čas uchované na našich serveroch. Pri spracovaní žiadostí o predĺženie odberu Apple Music môže Apple použiť aj informácie o histórii vášho obchodného vzťahu so spoločnosťou Apple a na základe nich stanoviť, či vám ďalší prístup k odberu poskytneme ešte pred autorizáciou platobným partnerom.
+
+Poskytovanie údajov tretím stranám
+
+Stanice rádia
+Keď počúvate vysielanie rádia prostredníctvom Apple Music, vaše zariadenie sa pripája priamo k vysielanej stanici rádia, ktorá poskytuje požadovaný obsah. Po pripojení môže vysielaná stanica rádia vidieť IP adresu vášho zariadenia. Vysielaná stanica rádia bude s vašou IP adresou zaobchádzať v súlade so zásadami ochrany osobných údajov vysielanej stanice rádia alebo jej poskytovateľa.
+
+Hudobné vydavateľstvá, interpreti a tvorcovia hudobných rebríčkov
+Hudobným vydavateľstvám, vydavateľom a interpretom sme povinní poskytovať niektoré agregované neosobné údaje o používaní Apple Music a Apple Music Classical, ako aj agregované demografické údaje o užívateľoch, napríklad vekovú skupinu alebo pohlavie (tieto môžu byť odvodené z informácií, ako sú vaše meno a oslovenie vo vašom Apple účte), aby mohli posudzovať úspešnosť svojich diel a plniť požiadavky súvisiace s autorskými honorármi a účtovníctvom. Okrem toho zdieľame agregované aktivity poslucháčov s tvorcami hudobných hitparád po celom svete, s hudo"</item>
+        <item>"bnými vydavateľstvami a interpretmi na meranie zapojenia (aj v reálnom čase) a s platformami pre marketing hudby, ktoré pomáhajú vydavateľstvám a interpretom osloviť poslucháčov. Aby sme vedeli určiť vašu spôsobilosť na odber služby Apple Music alebo dokončenie nákupu, keď sa prihlasujete na odber prostredníctvom partnera tretej strany, napríklad mobilného operátora, s daným partnerom zdieľame obmedzené informácie umožňujúce osobnú identifikáciu.
+
+Prepájanie služby Apple Music s inými apkami
+
+Apky pre iOS, iPadOS a visionOS a apky na platformách iných výrobcov môžu požiadať o prístup k službe Apple Music a k vašej knižnici na cloude. Apka po udelení takéhoto prístupu získa prístup k informáciám, ako je knižnica na cloude na zariadení, stav odberu Apple Music, aktivity súvisiace s prehrávaním hudby a videí a odporúčania v Apple Music. Apka, ktorej bol udelený prístup, môže zároveň upravovať dáta priradené k vášmu účtu, ako sú názvy skladieb vo vašej knižnici a playlistoch. Ak prístup k službe Apple Music udelíte apke Fotky, bude používať skladby z Apple Music na prehrávanie v spomienkových filmoch. Keď si v apke Fotky vytvoríte vlastný spomienkový film, informácie o výzve zadanej na vytvorenie spomienky sa môžu odoslať do služby Apple Music na výber hudby, ktorá sa má prehrávať vo filme. Keď začnete používať apku Hudba a podporovaný obsah, automaticky sa pripoja aj apky Apple s podporovaným obsahom, ako je napríklad apka Ovládač. Prístup apky môžete vypnúť na iOS, iPadOS alebo visionOS zariadení v Nastavenia > Súkromie a bezpečnosť > Médiá a Apple Music. Na Macu otvorte Systémové nastavenia > Súkromie a bezpečnosť > Súkromie > Médiá a Apple Music. Ak ste odstránili apku alebo jej udelili prístup použitím verzie iOS staršej ako iOS 11 alebo v systéme iPadOS, môžete jej prístup vypnúť v nastaveniach Apple Music účtu.
+
+Odbery Apple Music sprostredkované partnermi spoločnosti Apple
+
+Ak váš poskytovateľ mobilnej siete ponúka odbery a bezplatné skúšobné verzie služby Apple Music, spoločnosť Apple môže skontrolovať vaše telefónne číslo, aby mohla zistiť, či máte nárok na službu prostredníctvom poskytovateľa mobilnej siete. Ak sa zaregistrujete na odber alebo bezplatnú skúšobnú verziu služby Apple Music prostredníctvom poskytovateľa mobilnej siete alebo iného partnera spoločnosti Apple, vaše telefónne číslo alebo jedinečný identifikátor účtu zdieľaný s daným partnerom budú spoločnosťou Apple použité na identifikovanie vášho účtu a na oznámenie poskytovateľovi mobilnej siete alebo inému partnerovi, že ste aktivovali odber. Telefónne číslo alebo jedinečný identifikátor priradené k vášmu odberu použijeme na overenie vášho účtu pri prihlasovaní a na prepojenie vašich aktivít v službe Apple Music s vaším účtom. Vaše telefónne číslo môžeme použiť aj pri požiadaní o zrušenie vášho odberu u poskytovateľa mobilnej siete na vašu žiadosť.
+
+Uchovávanie dát
+
+Osobné údaje spojené s používaním služieb Apple Music a Apple Music Classical a s interakciou s nimi uchovávame rôzne dlhú dobu, ktorá závisí od obchodných potrieb, zmluvných záväzkov a právnych požiadaviek.
+
+Informácie o počúvaní, obsahu knižnice, playlistoch a vyhľadávaniach uchovávame po dobu trvania vášho odberu a až dva roky po zrušení vášho účtu, aby sme vám mohli umožniť jeho opätovnú aktiváciu a aby sme s vami mohli komunikovať o hudbe, ktorá by vás mohla zaujímať, a ponukách, na ktoré by ste mohli mať nárok. Tieto informácie môžeme uchovávať aj vtedy, ak je to potrebné z dôvodu povinností finančnej evidencie, a to po dobu stanovenú platnými zákonmi, ktoré často vyžadujú minimálne 10-ročné obdobie uchovávania, ale v niektorých jurisdikciách (napríklad v Číne) to môže byť až 30 rokov.
+
+Po ukončení vášho predplatného môže služba Apple Music na prechodné obdobie uchovať hudbu a playlisty, ktoré ste pridali alebo vytvorili z katalógu Apple Music, aby vám umožnila reaktiváciu vášho účtu bez straty jeho obsahu. Po tomto období už obsah z katalógu Apple Music nemusí byť prístupný.
+
+V prípade vymazania vášho Apple účtu môžu byť niektoré dáta uchované, ak to vyžaduje zákon, prípadne s cieľom predchádzania podvodom, uplatňovania zmluvných podmienok mediálnych služieb Apple alebo zachovania bezpečnosti služieb Apple.
+
+Platný právny základ pre spracovanie osobných údajov
+
+Vaše osobné údaje v Apple Music vo všeobecnosti spracúvame na účely plnenia vašej zmluvy so spoločnosťou Apple, na poskytovanie služby a na plnenie našich zákonných povinností. Ak je súhlas vhodným právnym základom, žiadame ho v súlade s platnými miestnymi zákonmi.
+
+Tam, kde je to stanovené príslušnými miestnymi zákonmi, spracúvame osobné údaje na účely našich oprávnených záujmov alebo záujmov tretích strán, aby sme mohli:
+
+• Poskytovať prístup k obsahu v Apple Music a Apple Music Classical, ktorý počúvate, pridáte do svojej knižnice alebo stiahnete.
+• Prispôsobiť rozhranie Apple Music a Apple Music Classical pre vás.
+• Identifikovať a odomykať kópie vašich skladieb, ktoré sú dostupné aj prostredníctvom Apple Music.
+• Stanoviť dostupnosť obsahu vo vašom regióne a vašu spôsobilosť pre rôzne ponuky a odbery.
+• Pomáhať vylepšovať a optimalizovať Apple Music a Apple Music Classical pre vás aj ostatných a posielať informácie o apkách Hudba a Apple Music Classical a ďalších produktoch, službách a ponukách spoločnosti Apple, ktoré by vás mohli zaujímať.
+• Vytvárať a udržiavať profily a playlisty v Apple Music.
+• Platiť tantiémy a poskytovať hlásenia vydavateľom, štúdiám, interpretom a tvorcom rebríčkov.
+• Predchádzať podvodom a iným nezákonným aktivitám.
+
+Používané údaje zahŕňajú:
+
+• Údaje o používaní apiek spoločnosti Apple Hudba a Apple Music Classical vrátane vašich interakcií s funkciami apiek, hláseniami a správami v apkách a o obsahu, ktorý ste počúvali, hľadali, zobrazili, pridali do svojej knižnice a stiahli v službách Apple Music a Apple Music Classical.
+• Podrobnosti o vašom zariadení a účte.
+• Vašu IP adresu.
+• Váš profil a playlisty v Apple Music.
+• Skóre dôvery zariadenia.
+
+Neosobné údaje
+
+Na ľubovoľný účel môžeme zhromažďovať, používať, prenášať a zverejňovať aj neosobné údaje. Môžeme napríklad vytvárať súhrny vašich neosobných údajov s neosobnými údajmi iných užívateľov služby Apple Music na jej vylepšovanie. Zároveň môžeme počas používania Apple Music zhromažďovať z vášho zariadenia vybranú výkonnostnú metriku vrátane rádiofrekvenčného výkonu, kódu krajiny, kódu siete a mobilnej rádiovej prístupovej technológie.
+
+Viac informácií o službe Apple Music
+
+Viac informácií o službe Apple Music vrátane funkcií a cien nájdete na stránke www.apple.com/sk/apple-music.
+
+Viac informácií o webovom prehrávači Apple Music a súkromí nájdete na stránke www.apple.com/legal/privacy/data/sk/apple-music-web.
+
+S informáciami zhromaždenými spoločnosťou Apple sa po celý čas bude zaobchádzať v súlade so zásadami ochrany súkromia spoločnosti Apple, ktoré nájdete na adrese www.apple.com/sk/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Nejaká hudba</item>
+        <item>Niečo</item>
+        <item>Hudba</item>
+        <item>Moja stanica</item>
+        <item>Moja stanica rádia</item>
+        <item>Nejaká hudba</item>
+        <item>Nejaké skladby</item>
+        <item>Nejaká hudba, ktorá sa mi páči</item>
+        <item>Nejaké skvelé skladby</item>
+        <item>Hudba, ktorá sa mi páči</item>
+    </string-array>
+</resources>
