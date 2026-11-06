@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mini_player_button_size">48.0dip</dimen>
+    <dimen name="mini_player_inset_button_padding">8.0dip</dimen>
+    <item type="dimen" name="mini_player_max_font_scale">2.0</item>
+    <dimen name="mini_player_max_width">690.0dip</dimen>
+    <dimen name="mini_player_padding_end">8.0dip</dimen>
+    <dimen name="mini_player_padding_start">18.0dip</dimen>
+    <dimen name="mini_player_thumbnail_height">40.0dip</dimen>
+    <item type="dimen" name="mini_player_thumbnail_radius">@dimen/corner_radius_m</item>
+    <dimen name="miniplayer_height">64.0dip</dimen>
+</resources>
