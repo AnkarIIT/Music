@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/social_network_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/margin_24" android:paddingEnd="@dimen/margin_24"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip">
+        <com.apple.android.music.common.CustomImageView android:id="@id/network_icon" android:tag="binding_2" android:background="@android:color/transparent" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginEnd="32.0dip" app:roundedBackground="false" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/network_title" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginEnd="@dimen/default_padding" style="@style/Body" />
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/universal_chevron_right_white" android:tint="@color/system_gray" android:rotationY="@integer/rotation_icon" />
+    </LinearLayout>
+    <View android:layout_width="wrap_content" android:layout_alignParentBottom="true" style="@style/Divider" />
+</RelativeLayout>
