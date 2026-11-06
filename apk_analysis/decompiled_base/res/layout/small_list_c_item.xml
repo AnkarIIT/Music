@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:tag="layout/small_list_c_item_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomCheckBox android:id="@id/checkbox" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="12.0dip" style="@style/DefaultFont" />
+    <com.apple.android.music.common.CustomImageView android:layout_gravity="center" android:tag="binding_2" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_marginStart="@dimen/default_padding"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <View android:id="@id/divider" android:layout_alignStart="@id/title_area" style="@style/Divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="8.0dip" android:layout_centerVertical="true" android:layout_toStartOf="@id/list_right_icon">
+            <com.apple.android.music.common.views.CustomTextView android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/Body" />
+            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:paddingTop="4.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" style="@style/Footnote" />
+        </LinearLayout>
+        <ImageView android:id="@id/list_right_icon" android:tag="binding_4" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:layout_centerVertical="true" android:importantForAccessibility="yes" android:layout_marginStart="@dimen/default_padding" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</LinearLayout>
