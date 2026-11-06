@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/onboard_search_artist_layout_0" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:background="@drawable/search_view_bg" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <ImageButton android:id="@id/btn_back" android:background="@android:color/transparent" android:padding="@dimen/default_padding" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="fill_parent" android:src="@null" android:layout_centerVertical="true" android:contentDescription="@string/navigate_up" />
+        <ImageButton android:icon="@drawable/ic_checkmark" android:id="@id/btn_check" android:padding="@dimen/default_padding" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_centerVertical="true" android:contentDescription="@string/playlist_menu_save" android:layout_alignParentEnd="true" app:tint="@color/key_color" />
+        <com.apple.android.music.common.views.CustomSearchView android:id="@id/searchview" android:background="@null" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inputType="text" android:imeOptions="flagNoExtractUi" android:textDirection="anyRtl" android:layout_toStartOf="@id/btn_check" android:layout_toEndOf="@id/btn_back" style="@style/SearchViewStyle" />
+    </RelativeLayout>
+</RelativeLayout>
