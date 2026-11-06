@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/main_container" android:tag="layout/activity_main_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.fragment.app.FragmentContainerView android:name="androidx.navigation.fragment.NavHostFragment" android:id="@id/nav_host_fragment_activity_main" android:layout_width="fill_parent" android:layout_height="fill_parent" app:defaultNavHost="true" app:navGraph="@navigation/nav_graph" />
+    <androidx.compose.ui.platform.ComposeView android:id="@id/top_and_bottom_gradients" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ToolBarStyle" android:id="@id/main_toolbar" android:tag="binding_1" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0" app:popupTheme="@style/ToolBarStyle.PopupOverlay">
+        <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:layout_gravity="start" android:id="@id/main_title" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="?actionBarSize" style="@style/ToolBarStyleText" />
+    </androidx.appcompat.widget.Toolbar>
+    <androidx.compose.ui.platform.ComposeView android:id="@id/dialogs_host" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
