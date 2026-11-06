@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/inapp_banner" android:tag="layout/inapp_banner_0" android:paddingBottom="@dimen/smaller_margin_8" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" android:minHeight="60.0dip" android:paddingStart="@dimen/smaller_margin_8" android:paddingEnd="@dimen/smaller_margin_8" android:layout_marginStart="@dimen/smaller_margin_8" android:layout_marginEnd="@dimen/smaller_margin_8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="2.0dip" android:src="@drawable/apple_music_wordmark" />
+    <com.apple.android.music.common.views.AutosizeTextView android:textColor="@color/white" android:gravity="center" android:id="@id/inapp_banner_textview" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:maxLines="2" android:textDirection="anyRtl" app:minTextSize="10.0sp" style="@style/Callout" />
+</LinearLayout>
