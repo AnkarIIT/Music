@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/spacer_c" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/latest_release" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.4" android:layout_marginEnd="@dimen/default_padding">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ViewStub android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/swiping_chart_list_a2_song_padding_vert" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/top_songs_sections" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.6">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/endMargin" />
+        <ViewStub android:inflatedId="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>
