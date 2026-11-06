@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="edit_profile_textinput_color">@color/background_color_layer1</color>
+    <color name="settings_background_color">@color/secondary_background_color</color>
+</resources>
