@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d ชม.</item>
+        <item quantity="one">%d ชม.</item>
+        <item quantity="two">%d ชม.</item>
+        <item quantity="few">%d ชม.</item>
+        <item quantity="many">%d ชม.</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="one">%d วินาที</item>
+        <item quantity="two">%d วินาที</item>
+        <item quantity="few">%d วินาที</item>
+        <item quantity="many">%d วินาที</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">เชื่อมต่ออยู่กับ %d แอป</item>
+        <item quantity="one">เชื่อมต่ออยู่กับ %d แอป</item>
+        <item quantity="two">เชื่อมต่ออยู่กับ %d แอป</item>
+        <item quantity="few">เชื่อมต่ออยู่กับ %d แอป</item>
+        <item quantity="many">เชื่อมต่ออยู่กับ %d แอป</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d อัลบั้ม</item>
+        <item quantity="one">%d อัลบั้ม</item>
+        <item quantity="two">%d อัลบั้ม</item>
+        <item quantity="few">%d อัลบั้ม</item>
+        <item quantity="many">%d อัลบั้ม</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d วันที่แล้ว</item>
+        <item quantity="one">%d วันที่แล้ว</item>
+        <item quantity="two">%d วันที่แล้ว</item>
+        <item quantity="few">%d วันที่แล้ว</item>
+        <item quantity="many">%d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d ชม. ที่แล้ว</item>
+        <item quantity="one">%d ชม. ที่แล้ว</item>
+        <item quantity="two">%d ชม. ที่แล้ว</item>
+        <item quantity="few">%d ชม. ที่แล้ว</item>
+        <item quantity="many">%d ชม. ที่แล้ว</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d สัปดาห์ที่แล้ว</item>
+        <item quantity="one">%d สัปดาห์ที่แล้ว</item>
+        <item quantity="two">%d สัปดาห์ที่แล้ว</item>
+        <item quantity="few">%d สัปดาห์ที่แล้ว</item>
+        <item quantity="many">%d สัปดาห์ที่แล้ว</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="zero">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+        <item quantity="two">%d ชั่วโมง</item>
+        <item quantity="few">%d ชั่วโมง</item>
+        <item quantity="many">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d นาที</item>
+        <item quantity="zero">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="zero">%d วินาที</item>
+        <item quantity="one">%d วินาที</item>
+        <item quantity="two">%d วินาที</item>
+        <item quantity="few">%d วินาที</item>
+        <item quantity="many">%d วินาที</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">ยกเลิก %d รายการ</item>
+        <item quantity="one">ยกเลิก %d รายการ</item>
+        <item quantity="two">ยกเลิก %d รายการ</item>
+        <item quantity="few">ยกเลิก %d รายการ</item>
+        <item quantity="many">ยกเลิก %d รายการ</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">ลิงก์หมดอายุใน %1$d วัน</item>
+        <item quantity="zero">ลิงก์หมดอายุแล้ว</item>
+        <item quantity="one">ลิงก์หมดอายุในวันนี้</item>
+        <item quantity="two">ลิงก์หมดอายุใน %1$d วัน</item>
+        <item quantity="few">ลิงก์หมดอายุใน %1$d วัน</item>
+        <item quantity="many">ลิงก์หมดอายุใน %1$d วัน</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d คอนเสิร์ต</item>
+        <item quantity="one">%d คอนเสิร์ต</item>
+        <item quantity="two">%d คอนเสิร์ต</item>
+        <item quantity="few">%d คอนเสิร์ต</item>
+        <item quantity="many">%d คอนเสิร์ต</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+        <item quantity="two">%d วัน</item>
+        <item quantity="few">%d วัน</item>
+        <item quantity="many">%d วัน</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d ชม.</item>
+        <item quantity="one">%d ชม.</item>
+        <item quantity="two">%d ชม.</item>
+        <item quantity="few">%d ชม.</item>
+        <item quantity="many">%d ชม.</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d วิ</item>
+        <item quantity="zero">%d วิ</item>
+        <item quantity="one">%d วิ</item>
+        <item quantity="two">%d วิ</item>
+        <item quantity="few">%d วิ</item>
+        <item quantity="many">%d วิ</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d รายการ</item>
+        <item quantity="one">%d รายการ</item>
+        <item quantity="two">%d รายการ</item>
+        <item quantity="few">%d รายการ</item>
+        <item quantity="many">%d รายการ</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+        <item quantity="two">%d ชั่วโมง</item>
+        <item quantity="few">%d ชั่วโมง</item>
+        <item quantity="many">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d นาที</item>
+        <item quantity="one">%,d นาที</item>
+        <item quantity="two">%,d นาที</item>
+        <item quantity="few">%,d นาที</item>
+        <item quantity="many">%,d นาที</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+        <item quantity="two">%d ชั่วโมง</item>
+        <item quantity="few">%d ชั่วโมง</item>
+        <item quantity="many">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">ชั่วโมง</item>
+        <item quantity="one">ชั่วโมง</item>
+        <item quantity="two">ชั่วโมง</item>
+        <item quantity="few">ชั่วโมง</item>
+        <item quantity="many">ชั่วโมง</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d เพลงใหม่</item>
+        <item quantity="one">%d เพลงใหม่</item>
+        <item quantity="two">%d เพลงใหม่</item>
+        <item quantity="few">%d เพลงใหม่</item>
+        <item quantity="many">%d เพลงใหม่</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">นาที</item>
+        <item quantity="one">นาที</item>
+        <item quantity="two">นาที</item>
+        <item quantity="few">นาที</item>
+        <item quantity="many">นาที</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">มิวสิควิดีโอ %d ไฟล์</item>
+        <item quantity="one">มิวสิควิดีโอ %d ไฟล์</item>
+        <item quantity="two">มิวสิควิดีโอ %d ไฟล์</item>
+        <item quantity="few">มิวสิควิดีโอ %d ไฟล์</item>
+        <item quantity="many">มิวสิควิดีโอ %d ไฟล์</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">อีก %d เพลง</item>
+        <item quantity="zero">อีก %d เพลง</item>
+        <item quantity="one">อีก %d เพลง</item>
+        <item quantity="two">อีก %d เพลง</item>
+        <item quantity="few">อีก %d เพลง</item>
+        <item quantity="many">อีก %d เพลง</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">เล่นไปแล้ว %d ครั้ง</item>
+        <item quantity="one">เล่นไปแล้ว %d ครั้ง</item>
+        <item quantity="two">เล่นไปแล้ว %d ครั้ง</item>
+        <item quantity="few">เล่นไปแล้ว %d ครั้ง</item>
+        <item quantity="many">เล่นไปแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="one">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="two">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="few">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="many">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">เพิ่ม %1$d เพลงไปยังเพลย์ลิสต์ใหม่แล้ว</item>
+        <item quantity="one">เพิ่ม %1$d เพลงไปยังเพลย์ลิสต์ใหม่แล้ว</item>
+        <item quantity="two">เพิ่ม %1$d เพลงไปยังเพลย์ลิสต์ใหม่แล้ว</item>
+        <item quantity="few">เพิ่ม %1$d เพลงไปยังเพลย์ลิสต์ใหม่แล้ว</item>
+        <item quantity="many">เพิ่ม %1$d เพลงไปยังเพลย์ลิสต์ใหม่แล้ว</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s และอีก %2$d คน</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s และอีก %2$d คน</item>
+        <item quantity="two">%1$s และอีก %2$d คน</item>
+        <item quantity="few">%1$s และอีก %2$d คน</item>
+        <item quantity="many">%1$s และอีก %2$d คน</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">เลือกอยู่ %1$d เพลง</item>
+        <item quantity="one">เลือกอยู่ %1$d เพลง</item>
+        <item quantity="two">เลือกอยู่ %1$d เพลง</item>
+        <item quantity="few">เลือกอยู่ %1$d เพลง</item>
+        <item quantity="many">เลือกอยู่ %1$d เพลง</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">ค่ายเพลง</item>
+        <item quantity="one">ค่ายเพลง</item>
+        <item quantity="many">ค่ายเพลง</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">เอา %1$d เพลงออกหรือไม่</item>
+        <item quantity="one">เอา %1$d เพลงออกหรือไม่</item>
+        <item quantity="two">เอา %1$d เพลงออกหรือไม่</item>
+        <item quantity="few">เอา %1$d เพลงออกหรือไม่</item>
+        <item quantity="many">เอา %1$d เพลงออกหรือไม่</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d แอป</item>
+        <item quantity="one">%d แอป</item>
+        <item quantity="two">%d แอป</item>
+        <item quantity="few">%d แอป</item>
+        <item quantity="many">%d แอป</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="zero">%d วินาที</item>
+        <item quantity="one">%d วินาที</item>
+        <item quantity="two">%d วินาที</item>
+        <item quantity="few">%d วินาที</item>
+        <item quantity="many">%d วินาที</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">วินาที</item>
+        <item quantity="zero">วินาที</item>
+        <item quantity="one">วินาที</item>
+        <item quantity="two">วินาที</item>
+        <item quantity="few">วินาที</item>
+        <item quantity="many">วินาที</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">คุณสามารถเพิ่มผู้คนไปยังครอบครัวของคุณได้สูงสุดอีก %s คน</item>
+        <item quantity="one">คุณสามารถเพิ่มผู้คนไปยังครอบครัวของคุณได้อีก 1 คน</item>
+        <item quantity="two">คุณสามารถเพิ่มผู้คนไปยังครอบครัวของคุณได้สูงสุดอีก %s คน</item>
+        <item quantity="few">คุณสามารถเพิ่มผู้คนไปยังครอบครัวของคุณได้สูงสุดอีก %s คน</item>
+        <item quantity="many">คุณสามารถเพิ่มผู้คนไปยังครอบครัวของคุณได้สูงสุดอีก %s คน</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">เลือกอยู่ %d บรรทัด</item>
+        <item quantity="zero">ไม่ได้เลือกบรรทัด</item>
+        <item quantity="one">เลือกอยู่ %d บรรทัด</item>
+        <item quantity="two">เลือกอยู่ %d บรรทัด</item>
+        <item quantity="few">เลือกอยู่ %d บรรทัด</item>
+        <item quantity="many">เลือกอยู่ %d บรรทัด</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">มี %d คนใช้อยู่</item>
+        <item quantity="one">มี %d คนใช้อยู่</item>
+        <item quantity="two">มี %d คนใช้อยู่</item>
+        <item quantity="few">มี %d คนใช้อยู่</item>
+        <item quantity="many">มี %d คนใช้อยู่</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d ตอน</item>
+        <item quantity="one">%d ตอน</item>
+        <item quantity="two">%d ตอน</item>
+        <item quantity="few">%d ตอน</item>
+        <item quantity="many">%d ตอน</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">เหลือ %1$d เพลง</item>
+        <item quantity="one">เหลือ %1$d เพลง</item>
+        <item quantity="two">เหลือ %1$d เพลง</item>
+        <item quantity="few">เหลือ %1$d เพลง</item>
+        <item quantity="many">เหลือ %1$d เพลง</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="one">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="two">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="few">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+        <item quantity="many">เพิ่ม %1$d เพลงไปยัง \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">เอา %d รายการออกแล้ว</item>
+        <item quantity="one">เอา %d รายการออกแล้ว</item>
+        <item quantity="two">เอา %d รายการออกแล้ว</item>
+        <item quantity="few">เอา %d รายการออกแล้ว</item>
+        <item quantity="many">เอา %d รายการออกแล้ว</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d เพลง</item>
+        <item quantity="one">%d เพลง</item>
+        <item quantity="two">%d เพลง</item>
+        <item quantity="few">%d เพลง</item>
+        <item quantity="many">%d เพลง</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">มี %d เพลง</item>
+        <item quantity="one">มี %d เพลง</item>
+        <item quantity="two">มี %d เพลง</item>
+        <item quantity="few">มี %d เพลง</item>
+        <item quantity="many">มี %d เพลง</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d เพลง</item>
+        <item quantity="one">%d เพลง</item>
+        <item quantity="two">%d เพลง</item>
+        <item quantity="few">%d เพลง</item>
+        <item quantity="many">%d เพลง</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">อีก %1$d วันจะตรวจสอบยืนยันสถานะนักศึกษาของคุณ</item>
+        <item quantity="one">อีก %1$d วันจะตรวจสอบยืนยันสถานะนักศึกษาของคุณ</item>
+        <item quantity="two">อีก %1$d วันจะตรวจสอบยืนยันสถานะนักศึกษาของคุณ</item>
+        <item quantity="few">อีก %1$d วันจะตรวจสอบยืนยันสถานะนักศึกษาของคุณ</item>
+        <item quantity="many">อีก %1$d วันจะตรวจสอบยืนยันสถานะนักศึกษาของคุณ</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">ผู้ใช้งานร่วม %1$d คน</item>
+        <item quantity="zero">ผู้ใช้งานร่วม %1$d คน</item>
+        <item quantity="one">ผู้ใช้งานร่วม %1$d คน</item>
+        <item quantity="two">ผู้ใช้งานร่วม %1$d คน</item>
+        <item quantity="few">ผู้ใช้งานร่วม %1$d คน</item>
+        <item quantity="many">ผู้ใช้งานร่วม %1$d คน</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+        <item quantity="two">%d วัน</item>
+        <item quantity="few">%d วัน</item>
+        <item quantity="many">%d วัน</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d ชม.</item>
+        <item quantity="one">%d ชม.</item>
+        <item quantity="two">%d ชม.</item>
+        <item quantity="few">%d ชม.</item>
+        <item quantity="many">%d ชม.</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d เดือน</item>
+        <item quantity="one">%d เดือน</item>
+        <item quantity="two">%d เดือน</item>
+        <item quantity="few">%d เดือน</item>
+        <item quantity="many">%d เดือน</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d วิ</item>
+        <item quantity="one">%d วิ</item>
+        <item quantity="two">%d วิ</item>
+        <item quantity="few">%d วิ</item>
+        <item quantity="many">%d วิ</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d สัปดาห์</item>
+        <item quantity="one">%d สัปดาห์</item>
+        <item quantity="two">%d สัปดาห์</item>
+        <item quantity="few">%d สัปดาห์</item>
+        <item quantity="many">%d สัปดาห์</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d ปี</item>
+        <item quantity="one">%d ปี</item>
+        <item quantity="two">%d ปี</item>
+        <item quantity="few">%d ปี</item>
+        <item quantity="many">%d ปี</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d วันที่แล้ว</item>
+        <item quantity="one">%d วันที่แล้ว</item>
+        <item quantity="two">%d วันที่แล้ว</item>
+        <item quantity="few">%d วันที่แล้ว</item>
+        <item quantity="many">%d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d ชม. ที่แล้ว</item>
+        <item quantity="one">%d ชม. ที่แล้ว</item>
+        <item quantity="two">%d ชม. ที่แล้ว</item>
+        <item quantity="few">%d ชม. ที่แล้ว</item>
+        <item quantity="many">%d ชม. ที่แล้ว</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d นาทีที่แล้ว</item>
+        <item quantity="one">%d นาทีที่แล้ว</item>
+        <item quantity="two">%d นาทีที่แล้ว</item>
+        <item quantity="few">%d นาทีที่แล้ว</item>
+        <item quantity="many">%d นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">หลังจากเล่นจบ คุณยังต้องการเก็บ %d เพลงที่มีในคิวไว้เล่นต่อหรือลบออก</item>
+        <item quantity="one">หลังจากเล่นจบ คุณยังต้องการเก็บ %d เพลงที่มีในคิวไว้เล่นต่อหรือลบออก</item>
+        <item quantity="two">หลังจากเล่นจบ คุณยังต้องการเก็บ %d เพลงที่มีในคิวไว้เล่นต่อหรือลบออก</item>
+        <item quantity="few">หลังจากเล่นจบ คุณยังต้องการเก็บ %d เพลงที่มีในคิวไว้เล่นต่อหรือลบออก</item>
+        <item quantity="many">หลังจากเล่นจบ คุณยังต้องการเก็บ %d เพลงที่มีในคิวไว้เล่นต่อหรือลบออก</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">อัปเดต %d วันที่แล้ว</item>
+        <item quantity="zero">อัปเดต %d วันที่แล้ว</item>
+        <item quantity="one">อัปเดต %d วันที่แล้ว</item>
+        <item quantity="two">อัปเดต %d วันที่แล้ว</item>
+        <item quantity="few">อัปเดต %d วันที่แล้ว</item>
+        <item quantity="many">อัปเดต %d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">อัปเดต %d ชม. ที่แล้ว</item>
+        <item quantity="one">อัปเดต %d ชม. ที่แล้ว</item>
+        <item quantity="two">อัปเดต %d ชม. ที่แล้ว</item>
+        <item quantity="few">อัปเดต %d ชม. ที่แล้ว</item>
+        <item quantity="many">อัปเดต %d ชม. ที่แล้ว</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">อัปเดต %d นาทีที่แล้ว</item>
+        <item quantity="one">อัปเดต %d นาทีที่แล้ว</item>
+        <item quantity="two">อัปเดต %d นาทีที่แล้ว</item>
+        <item quantity="few">อัปเดต %d นาทีที่แล้ว</item>
+        <item quantity="many">อัปเดต %d นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">อัปเดต %d สัปดาห์ที่แล้ว</item>
+        <item quantity="one">อัปเดต %d สัปดาห์ที่แล้ว</item>
+        <item quantity="two">อัปเดต %d สัปดาห์ที่แล้ว</item>
+        <item quantity="few">อัปเดต %d สัปดาห์ที่แล้ว</item>
+        <item quantity="many">อัปเดต %d สัปดาห์ที่แล้ว</item>
+    </plurals>
+</resources>
