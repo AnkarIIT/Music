@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/mixed_rtl_ltr_container" android:tag="layout/lyrics_pronunciation_mixed_rtl_ltr_0" android:paddingTop="0.0dip" android:paddingBottom="@dimen/lyrics_pronunciation_line_break_padding_vert" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0dip" android:baselineAligned="false" android:paddingStart="0.0dip" android:paddingEnd="0.0dip" app:layout_wrapBefore="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/mixed_rtl_ltr_lyrics" android:tag="binding_1" android:padding="0.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/mixed_rtl_ltr_pronunciation" android:tag="binding_2" android:padding="0.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0dip" />
+</LinearLayout>
