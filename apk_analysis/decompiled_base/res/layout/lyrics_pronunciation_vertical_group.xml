@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/lyrics_pronunciation_vertical_container" android:tag="layout/lyrics_pronunciation_vertical_group_0" android:paddingTop="0.0dip" android:paddingBottom="@dimen/lyrics_pronunciation_line_break_padding_vert" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="0.0dip" android:baselineAligned="false" android:paddingStart="0.0dip" android:paddingEnd="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
