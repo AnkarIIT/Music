@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/header_main_layout" android:tag="layout/header_page_e_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.CustomImageView android:id="@id/header_page_top_imageview" android:tag="binding_1" android:background="#00ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_12" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="1.562" app:roundedBackground="false" />
+        <Space android:layout_gravity="bottom" android:id="@id/header_page_e_tile_placeholder" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin">
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:id="@id/header_page_e_subtitle" android:tag="binding_3" android:focusable="true" android:nextFocusDown="@id/header_play_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" app:maxCollapseLines="3" app:moreColor="@color/color_primary" style="@style/Subhead" />
+        <include layout="@layout/shows_header_page_bottom" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/header_page_bottom_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:weightSum="1.0" android:paddingStart="@dimen/endMargin">
+        <ImageView android:layout_gravity="center" android:id="@id/header_play_button" android:tag="binding_4" android:nextFocusDown="@id/header_context_menu_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/play_button" android:layout_marginEnd="8.0dip" />
+        <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:id="@id/header_page_e_season_description" android:tag="binding_5" android:focusable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Subhead" />
+        <com.apple.android.music.common.views.TintableImageView android:id="@id/header_context_menu_button" android:tag="binding_6" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/more_button" android:paddingStart="@dimen/default_padding" android:layout_marginEnd="@dimen/smaller_margin" style="@style/PlayerButtonStyle" />
+    </LinearLayout>
+</LinearLayout>
