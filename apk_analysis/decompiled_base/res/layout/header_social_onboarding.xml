@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/header_social_onboarding_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/margin_24" android:layout_marginEnd="@dimen/margin_24"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="22.0dip" style="@style/Title0Emphasized" />
+    <com.apple.android.music.common.views.CustomTextView android:layout_gravity="center" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="25.0dip" style="@style/SubheadEmphasized" />
+</LinearLayout>
