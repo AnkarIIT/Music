@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="horizontal" android:id="@id/header_page_f_title_line_layout" android:tag="layout-w600dp/header_page_f_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_12" android:layout_marginStart="@dimen/endMargin" android:layout_marginEnd="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/guideline" android:layout_width="1.0dip" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+    <FrameLayout android:id="@id/header_main_layout" android:tag="binding_1" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="@id/guideline" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.apple.android.music.common.CustomImageView android:tag="binding_2" android:background="#00ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="1.562" />
+        <ImageView android:layout_gravity="center" android:id="@id/header_play_button" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/play_button" />
+        <include layout="@layout/shows_bookmark_bar" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/header_description" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="@id/guideline" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:orientation="vertical" android:tag="binding_4" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_title" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textAllCaps="true" style="@style/Caption2EmphasizedGray" />
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/header_page_bottom_layout" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:lineSpacingExtra="0.0dip" style="@style/PageHeader3" />
+            <com.apple.android.music.common.views.ExpandCollapseTextView android:id="@id/movie_item_description" android:tag="binding_7" android:nextFocusDown="@id/header_play_button" android:layout_width="fill_parent" android:layout_height="wrap_content" app:maxCollapseLines="3" app:moreColor="@color/color_primary" style="@style/Subhead" />
+            <include layout="@layout/shows_header_page_bottom" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/header_description_actions" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/header_main_layout" app:layout_constraintTop_toBottomOf="@id/header_description" app:layout_constraintVertical_bias="1.0">
+        <com.apple.android.music.common.PageHeaderActionButton android:layout_gravity="start|bottom|center" android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.apple.android.music.common.views.TintableImageView android:layout_gravity="end|bottom|center" android:tag="binding_9" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/more_button" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
