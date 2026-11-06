@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d س</item>
+        <item quantity="one">%d س</item>
+        <item quantity="two">%d س</item>
+        <item quantity="few">%d س</item>
+        <item quantity="many">%d س</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">‏%d د</item>
+        <item quantity="one">‏%d د</item>
+        <item quantity="two">‏%d د</item>
+        <item quantity="few">‏%d د</item>
+        <item quantity="many">‏%d د</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d ث</item>
+        <item quantity="one">%d ث</item>
+        <item quantity="two">%d ث</item>
+        <item quantity="few">%d ث</item>
+        <item quantity="many">%d ث</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">تم اتصال %d تطبيق</item>
+        <item quantity="one">تم اتصال تطبيق واحد</item>
+        <item quantity="two">تم اتصال تطبيقين</item>
+        <item quantity="few">تم اتصال %d تطبيقات</item>
+        <item quantity="many">تم اتصال %d تطبيقًا</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">‏%d ألبوم</item>
+        <item quantity="one">ألبوم واحد</item>
+        <item quantity="two">ألبومان</item>
+        <item quantity="few">‏%d ألبومات</item>
+        <item quantity="many">‏%d ألبومًا</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">منذ %d يوم</item>
+        <item quantity="one">منذ %d ي</item>
+        <item quantity="two">منذ %d ي</item>
+        <item quantity="few">منذ %d ي</item>
+        <item quantity="many">منذ %d ي</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">منذ %d س</item>
+        <item quantity="one">منذ %d س</item>
+        <item quantity="two">منذ %d س</item>
+        <item quantity="few">منذ %d س</item>
+        <item quantity="many">منذ %d س</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">منذ %d أ</item>
+        <item quantity="one">منذ %d أ</item>
+        <item quantity="two">منذ %d أ</item>
+        <item quantity="few">منذ %d أ</item>
+        <item quantity="many">منذ %d أ</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة (%d)</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة (%d)</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">ثانية واحدة (%d)</item>
+        <item quantity="two">ثانيتان (%d)</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">إلغاء %d عنصر</item>
+        <item quantity="one">إلغاء عنصر واحد</item>
+        <item quantity="two">إلغاء عنصرين</item>
+        <item quantity="few">إلغاء %d عناصر</item>
+        <item quantity="many">إلغاء %d عنصرًا</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">تنتهي صلاحية الرابط خلال %1$d يوم.</item>
+        <item quantity="zero">انتهت صلاحية الرابط.</item>
+        <item quantity="one">تنتهي صلاحية الرابط اليوم.</item>
+        <item quantity="two">تنتهي صلاحية الرابط خلال يومين (%1$d).</item>
+        <item quantity="few">تنتهي صلاحية الرابط خلال %1$d أيام.</item>
+        <item quantity="many">تنتهي صلاحية الرابط خلال %1$d يومًا.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d حفلة موسيقية</item>
+        <item quantity="one">حفلة موسيقية واحدة (%d)</item>
+        <item quantity="two">حفلتان موسيقيتان (%d)</item>
+        <item quantity="few">%d حفلات موسيقية</item>
+        <item quantity="many">%d حفلة موسيقية</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d يوم</item>
+        <item quantity="one">يوم واحد (%d)</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d س</item>
+        <item quantity="one">%d س</item>
+        <item quantity="two">%d س</item>
+        <item quantity="few">%d س</item>
+        <item quantity="many">%d س</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">‏%d ث</item>
+        <item quantity="zero">‏%d ث</item>
+        <item quantity="one">‏%d ث</item>
+        <item quantity="two">‏%d ث</item>
+        <item quantity="few">‏%d ث</item>
+        <item quantity="many">‏%d ث</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">‏%d عنصر</item>
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">‏%d عناصر</item>
+        <item quantity="many">‏%d عنصرًا</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">‏%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">‏%d دقائق</item>
+        <item quantity="many">‏%d دقيقة</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">‏%,d دقيقة</item>
+        <item quantity="one">دقيقة واحدة (%,d)</item>
+        <item quantity="two">دقيقتان (%,d)</item>
+        <item quantity="few">‏%,d دقائق</item>
+        <item quantity="many">‏%,d دقيقة</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">‏%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">‏%d ساعات</item>
+        <item quantity="many">‏%d ساعة</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">ساعة</item>
+        <item quantity="one">ساعة</item>
+        <item quantity="two">ساعة</item>
+        <item quantity="few">ساعات</item>
+        <item quantity="many">ساعة</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d أغنية جديدة</item>
+        <item quantity="one">أغنية واحدة (%d) جديدة</item>
+        <item quantity="two">أغنيتان (%d) جديدتان</item>
+        <item quantity="few">%d أغانٍ جديدة</item>
+        <item quantity="many">%d أغنية جديدة</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">‏%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">‏%d دقائق</item>
+        <item quantity="many">‏%d دقيقة</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">دقيقة</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقيقة</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">‏%d فيديو موسيقي</item>
+        <item quantity="one">فيديو موسيقي واحد</item>
+        <item quantity="two">فيديوهان موسيقيان</item>
+        <item quantity="few">‏%d فيديوهات موسيقية</item>
+        <item quantity="many">‏%d فيديو موسيقيًا</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d أغنية أخرى</item>
+        <item quantity="zero">%d أغنية أخرى</item>
+        <item quantity="one">أغنية واحدة (%d) أخرى</item>
+        <item quantity="two">أغنيتان (%d) أخريان</item>
+        <item quantity="few">%d أغانٍ أخرى</item>
+        <item quantity="many">%d أغنية أخرى</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d تشغيل</item>
+        <item quantity="one">تشغيل واحد (%d)</item>
+        <item quantity="two">تشغيلان (%d)</item>
+        <item quantity="few">%d تشغيلات</item>
+        <item quantity="many">%d تشغيلًا</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">تمت إضافة %1$d أغنية إلى \"%2$s\"</item>
+        <item quantity="one">تمت إضافة أغنية واحدة (%1$d) إلى \"%2$s\"</item>
+        <item quantity="two">تمت إضافة أغنيتين (%1$d) إلى \"%2$s\"</item>
+        <item quantity="few">تمت إضافة %1$d أغانٍ إلى \"%2$s\"</item>
+        <item quantity="many">تمت إضافة %1$d أغنية إلى \"%2$s\"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">تمت إضافة %1$d أغنية إلى قائمة تشغيل جديدة</item>
+        <item quantity="one">تمت إضافة أغنية واحدة (%1$d) إلى قائمة تشغيل جديدة</item>
+        <item quantity="two">تمت إضافة أغنيتين (%1$d) إلى قائمة تشغيل جديدة</item>
+        <item quantity="few">تمت إضافة %1$d أغانٍ إلى قائمة تشغيل جديدة</item>
+        <item quantity="many">تمت إضافة %1$d أغنية إلى قائمة تشغيل جديدة</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">‏%1$s و %2$d آخرون</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">‏%1$s و %2$d آخر</item>
+        <item quantity="two">‏%1$s و %2$d آخران</item>
+        <item quantity="few">‏%1$s و %2$d آخرون</item>
+        <item quantity="many">‏%1$s و %2$d آخرون</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">تم تحديد %1$d أغنية</item>
+        <item quantity="one">تم تحديد أغنية واحدة</item>
+        <item quantity="two">تم تحديد أغنيتين</item>
+        <item quantity="few">تم تحديد %1$d أغانٍ</item>
+        <item quantity="many">تم تحديد %1$d أغنية</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">شركات الإنتاج</item>
+        <item quantity="one">شركة تسجيلات</item>
+        <item quantity="many">شركات الإنتاج</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">إزالة %1$d أغنية؟</item>
+        <item quantity="one">إزالة أغنية واحدة (%1$d)؟</item>
+        <item quantity="two">إزالة أغنيتين (%1$d)؟</item>
+        <item quantity="few">إزالة %1$d أغانٍ؟</item>
+        <item quantity="many">إزالة %1$d أغنية؟</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">‏%d تطبيق</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">تطبيقان</item>
+        <item quantity="few">‏%d تطبيقات</item>
+        <item quantity="many">‏%d تطبيقًا</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">‏%d ثانية</item>
+        <item quantity="zero">‏%d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">‏%d ثوانٍ</item>
+        <item quantity="many">‏%d ثانية</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">ثانية</item>
+        <item quantity="zero">ثانية</item>
+        <item quantity="one">ثانية</item>
+        <item quantity="two">ثانية</item>
+        <item quantity="few">ثوانٍ</item>
+        <item quantity="many">ثانية</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">يمكنك إضافة حتى %s شخص آخر إلى عائلتك.</item>
+        <item quantity="one">يمكنك إضافة شخص آخر إلى عائلتك.</item>
+        <item quantity="two">يمكنك إضافة حتى شخصين (%s) آخرَين إلى عائلتك.</item>
+        <item quantity="few">يمكنك إضافة حتى %s أشخاص آخرين إلى عائلتك.</item>
+        <item quantity="many">يمكنك إضافة حتى %s شخصًا آخر إلى عائلتك.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">عدد الأسطر المحددة: %d</item>
+        <item quantity="zero">لم يتم تحديد أسطر</item>
+        <item quantity="one">عدد الأسطر المحددة: %d</item>
+        <item quantity="two">عدد الأسطر المحددة: %d</item>
+        <item quantity="few">عدد الأسطر المحددة: %d</item>
+        <item quantity="many">عدد الأسطر المحددة: %d</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d شخص متصل</item>
+        <item quantity="one">شخص واحد (%d) متصل</item>
+        <item quantity="two">شخصان (%d) متصلان</item>
+        <item quantity="few">%d أشخاص متصلون</item>
+        <item quantity="many">%d شخصًا متصلون</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">‏%d حلقة</item>
+        <item quantity="one">حلقة واحدة</item>
+        <item quantity="two">حلقتان</item>
+        <item quantity="few">‏%d حلقات</item>
+        <item quantity="many">‏%d حلقة</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">متبقٍ %1$d أغنية</item>
+        <item quantity="one">متبقٍ أغنية واحدة (%1$d)</item>
+        <item quantity="two">متبقٍ أغنيتان (%1$d)</item>
+        <item quantity="few">متبقٍ %1$d أغانٍ</item>
+        <item quantity="many">متبقٍ %1$d أغنية</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">تمت إضافة %1$d أغنية إلى \"%2$s\"</item>
+        <item quantity="one">تمت إضافة أغنية واحدة (%1$d) إلى \"%2$s\"</item>
+        <item quantity="two">تمت إضافة أغنيتين (%1$d) إلى \"%2$s\"</item>
+        <item quantity="few">تمت إضافة %1$d أغانٍ إلى \"%2$s\"</item>
+        <item quantity="many">تمت إضافة %1$d أغنية إلى \"%2$s\"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">تمت إزالة %d عنصر</item>
+        <item quantity="one">تمت إزالة عنصر واحد</item>
+        <item quantity="two">تمت إزالة عنصرين</item>
+        <item quantity="few">تمت إزالة %d عناصر</item>
+        <item quantity="many">تمت إزالة %d عنصرًا</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">‏%d أغنية</item>
+        <item quantity="one">أغنية واحدة</item>
+        <item quantity="two">أغنيتان</item>
+        <item quantity="few">‏%d أغانٍ</item>
+        <item quantity="many">‏%d أغنية</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">تتوفر %d أغنية</item>
+        <item quantity="one">تتوفر أغنية واحدة (%d)</item>
+        <item quantity="two">تتوفر أغنيتان (%d)</item>
+        <item quantity="few">تتوفر %d أغانٍ</item>
+        <item quantity="many">تتوفر %d أغنية</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">‏%d أغنية</item>
+        <item quantity="one">أغنية واحدة (%d)</item>
+        <item quantity="two">أغنيتان (%d)</item>
+        <item quantity="few">‏%d أغانٍ</item>
+        <item quantity="many">‏%d أغنية</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">متبقٍ %1$d يوم على التحقق من حالتك كطالب.</item>
+        <item quantity="one">متبقٍ يوم واحد (%1$d) على التحقق من حالتك كطالب.</item>
+        <item quantity="two">متبقٍ يومان (%1$d) على التحقق من حالتك كطالب.</item>
+        <item quantity="few">متبقٍ %1$d أيام على التحقق من حالتك كطالب.</item>
+        <item quantity="many">متبقٍ %1$d يومًا على التحقق من حالتك كطالب.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d متعاون</item>
+        <item quantity="zero">%1$d متعاون</item>
+        <item quantity="one">متعاون واحد (%1$d)</item>
+        <item quantity="two">متعاونان (%1$d)</item>
+        <item quantity="few">%1$d متعاونين</item>
+        <item quantity="many">%1$d متعاونًا</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">‏%d ي</item>
+        <item quantity="one">‏%d ي</item>
+        <item quantity="two">‏%d ي</item>
+        <item quantity="few">‏%d ي</item>
+        <item quantity="many">‏%d ي</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">‏%d س</item>
+        <item quantity="one">‏%d س</item>
+        <item quantity="two">‏%d س</item>
+        <item quantity="few">‏%d س</item>
+        <item quantity="many">‏%d س</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d د</item>
+        <item quantity="one">%d د</item>
+        <item quantity="two">%d د</item>
+        <item quantity="few">%d د</item>
+        <item quantity="many">%d د</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d ش</item>
+        <item quantity="one">%d ش</item>
+        <item quantity="two">%d ش</item>
+        <item quantity="few">%d ش</item>
+        <item quantity="many">%d ش</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">‏%d ث</item>
+        <item quantity="one">‏%d ث</item>
+        <item quantity="two">‏%d ث</item>
+        <item quantity="few">‏%d ث</item>
+        <item quantity="many">‏%d ث</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">‏%d أ</item>
+        <item quantity="one">‏%d أ</item>
+        <item quantity="two">‏%d أ</item>
+        <item quantity="few">‏%d أ</item>
+        <item quantity="many">‏%d أ</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">‏%d ع</item>
+        <item quantity="one">‏%d ع</item>
+        <item quantity="two">‏%d ع</item>
+        <item quantity="few">‏%d ع</item>
+        <item quantity="many">‏%d ع</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">منذ %d ي</item>
+        <item quantity="one">منذ %d ي</item>
+        <item quantity="two">منذ %d ي</item>
+        <item quantity="few">منذ %d ي</item>
+        <item quantity="many">منذ %d ي</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">منذ %d س</item>
+        <item quantity="one">منذ %d س</item>
+        <item quantity="two">منذ %d س</item>
+        <item quantity="few">منذ %d س</item>
+        <item quantity="many">منذ %d س</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">منذ %d د</item>
+        <item quantity="one">منذ %d د</item>
+        <item quantity="two">منذ %d د</item>
+        <item quantity="few">منذ %d د</item>
+        <item quantity="many">منذ %d د</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">بعد تشغيل هذا المسار، هل ترغب في متابعة التشغيل أم إزالة الأغاني الـ %d التي وضعت في قائمة الانتظار سابقًا؟</item>
+        <item quantity="one">بعد تشغيل هذا المسار، هل ترغب في متابعة التشغيل أم إزالة الأغنية (%d) التي وضعتها في قائمة الانتظار سابقًا؟</item>
+        <item quantity="two">بعد تشغيل هذا المسار، هل ترغب في متابعة التشغيل أم إزالة الأغنيتين (%d) اللتين وضعتهما في قائمة الانتظار سابقًا؟</item>
+        <item quantity="few">بعد تشغيل هذا المسار، هل ترغب في متابعة التشغيل أم إزالة الأغاني (%d) التي وضعتها في قائمة الانتظار سابقًا؟</item>
+        <item quantity="many">بعد تشغيل هذا المسار، هل ترغب في متابعة التشغيل أم إزالة الأغاني (%d) التي وضعتها في قائمة الانتظار سابقًا؟</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">تم التحديث منذ %d ي</item>
+        <item quantity="zero">تم التحديث منذ %d ي</item>
+        <item quantity="one">تم التحديث منذ %d ي</item>
+        <item quantity="two">تم التحديث منذ %d ي</item>
+        <item quantity="few">تم التحديث منذ %d ي</item>
+        <item quantity="many">تم التحديث منذ %d ي</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">تم التحديث منذ %d س</item>
+        <item quantity="one">تم التحديث منذ %d س</item>
+        <item quantity="two">تم التحديث منذ %d س</item>
+        <item quantity="few">تم التحديث منذ %d س</item>
+        <item quantity="many">تم التحديث منذ %d س</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">تم التحديث منذ %d د</item>
+        <item quantity="one">تم التحديث منذ %d د</item>
+        <item quantity="two">تم التحديث منذ %d د</item>
+        <item quantity="few">تم التحديث منذ %d د</item>
+        <item quantity="many">تم التحديث منذ %d د</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">تم التحديث منذ %d أ</item>
+        <item quantity="one">تم التحديث منذ %d أ</item>
+        <item quantity="two">تم التحديث منذ %d أ</item>
+        <item quantity="few">تم التحديث منذ %d أ</item>
+        <item quantity="many">تم التحديث منذ %d أ</item>
+    </plurals>
+</resources>
