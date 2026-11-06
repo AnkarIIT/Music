@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root_view" android:background="@color/black" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.AspectRatioFrameLayout android:layout_gravity="center" android:id="@id/video_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <SurfaceView android:layout_gravity="center" android:id="@id/surface_view_video" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.apple.android.music.common.closecaptions.SubtitleView android:id="@id/subtitles" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.apple.android.music.common.views.AspectRatioFrameLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/loader" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/FullPlayerLoader" />
+    <LinearLayout android:layout_gravity="start|center|top" android:orientation="horizontal" android:id="@id/title_card" android:background="@drawable/video_fullscreen_hud_gradient" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/exit_full_screen" android:background="?selectableItemBackgroundBorderless" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/ax_fullscreen_off" />
+        <Space android:layout_width="20.0dip" android:layout_height="fill_parent" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:layout_gravity="center_vertical" android:id="@id/video_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/default_padding" style="@style/Title2Emphasized" />
+    </LinearLayout>
+</FrameLayout>
