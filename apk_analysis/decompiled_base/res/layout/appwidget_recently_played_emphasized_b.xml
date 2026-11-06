@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/header_grouping" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:clipToPadding="false" android:layout_width="216.0dip" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="16.0dip" android:paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/appwidget_header_imageview" android:background="@drawable/appwidget_image_container_background" android:layout_width="140.0dip" android:layout_height="140.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" android:clipToOutline="true" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/appwidget_header_container_info" android:paddingBottom="12.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/appwidget_header_imageview" android:paddingStart="@dimen/widget_frame_padding" android:paddingEnd="@dimen/widget_frame_padding">
+        <TextView android:id="@id/appwidget_header_caption" android:visibility="gone" style="@style/AppWidgetCaption2Emphasized" />
+        <TextView android:id="@id/appwidget_item_title" style="@style/AppWidgetSubheadMedium" />
+        <TextView android:id="@id/appwidget_item_subtitle" style="@style/AppWidgetSubhead" />
+        <include layout="@layout/appwidget_pill_play_button" />
+    </LinearLayout>
+</LinearLayout>
