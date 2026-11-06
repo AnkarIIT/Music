@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="top" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.AutosizeTextView android:textColor="@color/label_color" android:gravity="center" android:id="@id/offline_banner_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin" android:layout_marginBottom="@dimen/smaller_margin" android:text="@string/offline_filter_on_banner" android:layout_marginStart="@dimen/endMargin" style="@style/PlaylistAddToMusicBanner" />
+</FrameLayout>
