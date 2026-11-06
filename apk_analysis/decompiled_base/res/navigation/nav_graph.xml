@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/nav_graph" app:startDestination="@id/activity_level_navigation"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include app:graph="@navigation/activity_level_navigation" />
+    <action android:id="@id/action_pop_to_music_content" app:popUpTo="@id/music_content" app:popUpToInclusive="false" />
+    <fragment android:name="com.apple.android.music.library3.LibraryDownloadsComposeContentFragment" android:id="@id/action_library_download" />
+    <fragment android:name="com.apple.android.music.groupings.EditorialGroupingViewFragment" android:id="@id/action_grouping_fragment" />
+    <fragment android:name="com.apple.android.music.room.RoomFragment" android:id="@id/action_room" />
+    <fragment android:name="com.apple.android.music.room.IdRoomFragment" android:id="@id/action_id_room" />
+    <fragment android:name="com.apple.android.music.room.PathRoomFragment" android:id="@id/action_path_room" />
+    <fragment android:name="com.apple.android.music.room.PaginatedPathRoomFragment" android:id="@id/action_paginated_path_room" />
+    <fragment android:name="com.apple.android.music.browse.TopChartRoomFragment" android:id="@id/action_top_chart_room" />
+    <fragment android:name="com.apple.android.music.listennow.ListenNowRoomFragment" android:id="@id/action_listen_now_room" />
+    <fragment android:name="com.apple.android.music.social.fragments.SocialProfileRoomFragment" android:id="@id/action_social_profile_room" />
+    <fragment android:name="com.apple.android.music.browse.TopChartsFragment" android:id="@id/action_top_chart" />
+    <fragment android:name="com.apple.android.music.room.MultiRoomFragment" android:id="@id/action_multi_room" />
+    <fragment android:name="com.apple.android.music.navigation.DummyNavigationFragment" android:id="@id/action_dummy_fragment" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.AlbumFragment" android:id="@id/action_album_legacy" />
+    <fragment android:name="com.apple.android.music.collection2.fragment.AlbumPageFragment" android:id="@id/action_album_compose" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.AlbumFragment" android:id="@id/action_song" />
+    <fragment android:name="com.apple.android.music.collection2.fragment.AlbumPageFragment" android:id="@id/action_song_compose" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.PlaylistFragment" android:id="@id/action_playlist" />
+    <dialog android:label="com.apple.android.music.collection.mediaapi.fragment.NewPlaylistFragment" android:name="com.apple.android.music.collection.fragment.DialogHostFragment" android:id="@id/action_playlist_edit" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.PlaylistEditFragment" android:id="@id/action_new_playlist" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.PlaylistEditCoverFragment" android:id="@id/action_edit_pl_cover" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.SelectPlaylistFragment" android:id="@id/action_select_playlist" />
+    <dialog android:label="com.apple.android.music.collection.mediaapi.fragment.AddMusicPickerSheetFragment" android:name="com.apple.android.music.collection.fragment.DialogHostFragment" android:id="@id/action_add_music" />
+    <dialog android:name="com.apple.android.music.collection.fragment.DialogHostFragment" android:id="@id/action_dialog_flow" />
+    <fragment android:name="com.apple.android.music.social.fragments.SocialProfileFragment" android:id="@id/action_social_profile" />
+    <dialog android:name="com.apple.android.music.social.fragments.SocialEditProfileFragment" android:id="@id/social_edit_profile" />
+    <dialog android:name="com.apple.android.music.social.fragments.SocialEditProfileOptionsFragment" android:id="@id/social_edit_profile_options" />
+    <dialog android:name="com.apple.android.music.social.fragments.onboarding.ProfileSetupStepFragment" android:id="@id/social_onboarding_profile_setup" />
+    <dialog android:name="com.apple.android.music.social.fragments.onboarding.FollowFriendsStepFragment" android:id="@id/social_onboarding_follow_friends" />
+    <dialog android:name="com.apple.android.music.social.fragments.onboarding.PrivacySetupStepFragment" android:id="@id/social_onboarding_privacy_setup" />
+    <dialog android:name="com.apple.android.music.social.fragments.onboarding.SharePlaylistStepFragment" android:id="@id/social_onboarding_share_playlist" />
+    <dialog android:name="com.apple.android.music.social.fragments.SocialPrivacyConsentFragment" android:id="@id/social_privacy_consent" />
+    <fragment android:name="com.apple.android.music.social.fragments.SocialUpsellFragment" android:id="@id/social_upsell_fragment" />
+    <fragment android:name="com.apple.android.music.library.fragments.LibraryDetailsFragment" android:id="@id/library_details_fragment" />
+    <fragment android:name="com.apple.android.music.library.fragments.LibraryRecentlyAddedFragment" android:id="@id/library_recently_added_fragment" />
+    <fragment android:name="com.apple.android.music.library.fragments.LibraryShowsDetailBaseFragment" android:id="@id/library_show_details_fragment" />
+    <fragment android:name="com.apple.android.music.shows.ShowsFragment" android:id="@id/shows_fragment" />
+    <dialog android:label="com.apple.android.music.download.fragment.DownloadingFragment" android:name="com.apple.android.music.collection.fragment.DialogHostFragment" android:id="@id/downloading_fragment" />
+    <fragment android:name="com.apple.android.music.radio3.RadioScheduleFragment" android:id="@id/live_station_schedule_fragment" />
+    <fragment android:name="com.apple.android.music.social.fragments.SocialProfileFollowRequestsFragment" android:id="@id/social_profile_follow_fragment" />
+    <fragment android:name="com.apple.android.music.video.VideoDetailFragment" android:id="@id/video_detail_fragment" />
+    <fragment android:name="com.apple.android.music.search.fragments.viewpager.SearchActivityBaseFragment" android:id="@id/recently_search_fragment" />
+    <fragment android:name="com.apple.android.music.search.fragments.viewpager.SearchViewPagerFragment" android:id="@id/hints_search_fragment" />
+    <fragment android:name="com.apple.android.music.search.fragments.viewpager.Search2ResultsPagerFragment" android:id="@id/results_search_fragment" />
+    <fragment android:name="com.apple.android.music.profiles.GenericProfileFragment" android:id="@id/generic_profile_fragment_legacy" />
+    <fragment android:name="com.apple.android.music.profiles2.ArtistFragment" android:id="@id/artist_fragment" />
+    <fragment android:name="com.apple.android.music.profiles2.ArtistInfoFragment" android:id="@id/artist_info_fragment" />
+    <fragment android:name="com.apple.android.music.concerts.ConcertHubLocationPickerFragment" android:id="@id/concert_hub_location_picker_fragment" />
+    <fragment android:name="com.apple.android.music.profiles.CuratorLabelFragment" android:id="@id/curator_label_fragment" />
+    <fragment android:name="com.apple.android.music.songcredits2.SongCreditsFragment" android:id="@id/song_credits_fragment" />
+    <dialog android:name="com.apple.android.music.collection.mediaapi.fragment.ManageCollaboratorsFragment" android:id="@id/manage_collab" />
+    <fragment android:name="com.apple.android.music.collection.mediaapi.fragment.CollaboratorsFragment" android:id="@id/collab_list" />
+    <dialog android:name="com.apple.android.music.mli.MLIFragment" android:id="@id/mli_fragment" />
+    <dialog android:name="com.apple.android.music.replay.ReplayFragment" android:id="@id/replay_fragment" />
+    <fragment android:name="com.apple.android.music.replayinapp.ReplayInAppFragment" android:id="@id/replay_in_app_fragment" />
+    <fragment android:name="com.apple.android.music.amplify.AmplifyRedeemCodeFragment" android:id="@id/amplify_redeem_code_fragment" />
+    <fragment android:name="com.apple.android.music.replayinapp.ReplayRoomFragment" android:id="@id/replay_room_fragment" />
+    <fragment android:name="com.apple.android.music.replayinapp.MilestoneFullScreenFragment" android:id="@id/replay_milestone_full_screen_fragment" />
+    <dialog android:label="com.apple.android.music.connect.fragments.ReportConcernFragment" android:name="com.apple.android.music.collection.fragment.DialogHostFragment" android:id="@id/report_concern_fragment" />
+    <fragment android:name="com.apple.android.music.lyrics.StaticLyricsFragment" android:id="@id/static_lyrics_fragment" />
+    <fragment android:name="com.apple.android.music.room2.PathRoomFragment" android:id="@id/action_compose_path_room" />
+    <fragment android:name="com.apple.android.music.concerts.ArtistConcertRoomFragment" android:id="@id/artist_concert_path_room" />
+    <fragment android:name="com.apple.android.music.concerts.ConcertHubFragment" android:id="@id/concert_hub" />
+    <fragment android:name="com.apple.android.music.concerts.ConcertDetailsFragment" android:id="@id/concert_details" />
+    <fragment android:name="com.apple.android.music.concerts.ConcertHubRoomFragment" android:id="@id/concert_hub_room" />
+    <dialog android:name="com.apple.android.music.commerce.activities.SonosStorePageFragment" android:id="@id/sonos_page_commerce_view" />
+    <dialog android:name="com.apple.android.music.commerce.activities.SonosAppleFragment" android:id="@id/sonos_page_upsell" />
+    <dialog android:name="com.apple.android.music.onboarding.fragments.WhatsNewAndGDPRFragment" android:id="@id/whatsnew_and_gdpr" />
+    <dialog android:name="com.apple.android.music.commerce.fragments.StorePageFragment" android:id="@id/store_page_fragment_dialog" />
+    <dialog android:name="com.apple.android.music.commerce.fragments.PriceChangeFragment" android:id="@id/price_change_dialog_fragment" />
+    <dialog android:name="com.apple.android.music.commerce.fragments.GoogleWelcomeUpsellFragment" android:id="@id/google_welcome_upsell_dialog_fragment" />
+    <dialog android:name="com.apple.android.music.commerce.fragments.OffersFragment" android:id="@id/offers_dialog_fragment" />
+    <dialog android:name="com.apple.android.music.commerce.fragments.PlayBillingFragment" android:id="@id/goslo_dialog_fragment" />
+    <dialog android:name="com.apple.android.music.settings.fragment.GiftCardRedeemDialog" android:id="@id/gift_card_redeem_fragment" />
+    <dialog android:name="com.apple.android.music.player.mediarouter.cast.CastControllerDialogFragment" android:id="@id/cast_controller_dialog" />
+    <fragment android:label="@string/settings" android:name="com.apple.android.music.settings2.fragment.SettingsFragment" android:id="@id/action_settings" />
+    <fragment android:label="@string/account_settings" android:name="com.apple.android.music.settings2.fragment.AccountSettingsFragment" android:id="@id/action_account_settings" />
+    <fragment android:label="@string/settings_user_debug_settings" android:name="com.apple.android.music.settings2.fragment.InternalDebugSettingsFragment" android:id="@id/action_internal_debug_settings" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.ListPreferenceFragment" android:id="@id/settings_list_preference" />
+    <fragment android:name="com.apple.android.music.settings.fragment.UserDebugSettingsFragment" android:id="@id/action_user_debug_settings" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.FamilySetupFragment" android:id="@id/family_setup_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.FamilyInfoFragment" android:id="@id/family_info_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.FamilyMemberDetailsFragment" android:id="@id/family_member_details_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationBirthdayFragment" android:id="@id/family_child_account_birthday_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationStartFragment" android:id="@id/family_child_account_start_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationAskToBuyFragment" android:id="@id/family_child_account_ask_to_buy_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationParentalDisclosureFragment" android:id="@id/family_child_account_parental_disclosure_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationEmailFragment" android:id="@id/family_child_account_email_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationPasswordFragment" android:id="@id/family_child_account_password_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationQuestionsFragment" android:id="@id/family_child_account_questions_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationNameFragment" android:id="@id/family_child_account_name_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationICloudTermsFragment" android:id="@id/family_child_account_icloud_terms_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ChildAccountCreationITunesTermsFragment" android:id="@id/family_child_account_itunes_terms_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.AddNewMemberFragment" android:id="@id/family_add_new_member_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.IcloudMemberInviteOptionsFragment" android:id="@id/family_member_invite_options_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ICloudCVVVerificationFragment" android:id="@id/family_cvv_verification_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.FamilyInviteFragment" android:id="@id/family_invite_fragment" />
+    <fragment android:name="com.apple.android.music.icloud2.fragment.ICloudMemberEnterPasswordFragment" android:id="@id/family_member_enter_password_fragment" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.CellularDataSettingsFragment" android:id="@id/settings_cellular_data" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.AudioQualitySettingsFragment" android:id="@id/settings_audio_quality" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.AudioQualityOptionsSettingsFragment" android:id="@id/settings_cellular_audio_quality" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.NotificationsSettingsFragment" android:id="@id/settings_notifications" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.MotionSettingsFragment" android:id="@id/settings_motion" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.ListPreferenceFragment" android:id="@id/settings_lyrics" />
+    <fragment android:name="com.apple.android.music.settings.fragment.KaraokeSettingsFragment" android:id="@id/settings_karaoke" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.CrossfadeSettingsFragment" android:id="@id/settings_crossfade" />
+    <fragment android:name="com.apple.android.music.settings.fragment.DolbyAtmosSettingsFragment" android:id="@id/settings_dolby_atmos" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.DiagnosticsFragment" android:id="@id/settings_diagnostics" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.SDKLinkedAppsSettingsFragment" android:id="@id/settings_sdk_linked_apps" />
+    <fragment android:name="com.apple.android.music.settings2.fragment.RestrictionsSettingsFragment" android:id="@id/settings_restrictions" />
+    <fragment android:name="com.apple.android.music.commerce.fragments.AccountCreationFragment" android:id="@id/account_creation_fragment" />
+    <fragment android:name="com.apple.android.music.ui.fragment.WebViewFragment" android:id="@id/webview_preference" />
+    <fragment android:label="@string/account_subscription_title" android:name="com.apple.android.music.settings2.fragment.AccountSettingsSubscriptionFragment" android:id="@id/settings_manage_subscription" />
+    <fragment android:label="@string/downloaded_music" android:name="com.apple.android.music.settings2.fragment.DownloadedMusicFragment" android:id="@id/settings_manage_downloaded_content" />
+    <fragment android:label="@string/downloads" android:name="com.apple.android.music.settings2.fragment.DownloadLocationSettingsFragment" android:id="@id/settings_download_location" />
+    <dialog android:name="com.apple.android.music.sdk.SDKLandingFragment" android:id="@id/sdk_landing_fragment" />
+    <dialog android:name="com.apple.android.music.sdk.ApproveAccessFragment" android:id="@id/sdk_approve_access_fragment" />
+</navigation>
