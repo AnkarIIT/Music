@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/small_list_f_item" android:tag="layout/epoxy_layout_small_list_f_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/divider" android:tag="binding_1" android:layout_alignParentTop="true" android:layout_marginStart="@dimen/endMargin" android:layout_marginEnd="@dimen/endMargin" style="@style/Divider" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/list_left_icon" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/playlist_add_song" android:paddingEnd="@dimen/default_padding" />
+        <com.apple.android.music.common.views.CustomTextView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/list_title" android:tag="binding_3" android:paddingTop="11.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/listview_item_track_height" android:maxLines="2" android:paddingEnd="@dimen/endMargin" style="@style/SmallListATitleStyle" />
+    </LinearLayout>
+</FrameLayout>
