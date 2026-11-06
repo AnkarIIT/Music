@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/background_color" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_gravity="center_vertical" android:id="@id/signin_toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:windowSoftInputMode="adjustNothing|stateVisible">
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.apple.android.music.common.views.TintableImageView android:id="@id/close_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_close" android:scaleType="center" android:windowSoftInputMode="adjustNothing|stateVisible" android:contentDescription="@string/ax_close_button" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding" />
+                <ImageView android:layout_gravity="center" android:id="@id/logo" android:layout_width="wrap_content" android:layout_height="@dimen/wordmark_default_height" android:src="@drawable/apple_music_wordmark" android:layout_centerInParent="true" />
+            </RelativeLayout>
+        </FrameLayout>
+        <ScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="20.0dip" android:layout_marginBottom="30.0dip" android:layout_above="@id/btn1" android:layout_below="@id/signin_toolbar">
+            <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:id="@id/app_logo" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_margin="30.0dip" android:layout_centerHorizontal="true" />
+                <com.apple.android.music.common.views.CustomTextButton android:textColor="@color/system_gray" android:gravity="center" android:id="@id/access_request_text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:text="@string/approve_access_main" android:layout_below="@id/app_logo" style="@style/Title2" />
+            </RelativeLayout>
+        </ScrollView>
+        <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="bottom" android:id="@id/btn1" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_margin="50.0dip" android:text="@string/btn_continue" android:layout_alignParentBottom="true" android:textAllCaps="false" style="@style/ButtonAStyle" />
+    </RelativeLayout>
+</FrameLayout>
