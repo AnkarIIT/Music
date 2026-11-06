@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/store_page_main_container" android:tag="layout/store_page_layout_0" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fuse="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar android:gravity="center_vertical" android:id="@id/toolbar_actionbar" android:background="@color/background_color" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" fuse:contentInsetStart="0.0dip" fuse:navigationIcon="@drawable/abc_ic_ab_back_material">
+        <com.apple.android.music.common.views.CustomTextView android:gravity="start|center" android:id="@id/title" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ToolBarStyleText" />
+    </androidx.appcompat.widget.Toolbar>
+    <FrameLayout android:id="@id/account_creation_webview_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolbar_actionbar" android:scrollbarFadeDuration="6000" android:verticalScrollbarPosition="right" />
+    <com.apple.android.music.common.views.Loader android:id="@id/store_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" fuse:backgroundColor="@color/black_alpha_30" />
+</RelativeLayout>
