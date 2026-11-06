@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inline_bottom_padding">56.0dip</dimen>
+    <dimen name="modal_margin">88.0dip</dimen>
+</resources>
