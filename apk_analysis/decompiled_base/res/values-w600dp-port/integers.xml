@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="profile_top_songs_column_count">@integer/grid_a_column_count</item>
+    <integer name="radio_live_showcase_column_count">6</integer>
+</resources>
