@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/swiping_multiroom_feature_b_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:tag="binding_1" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_8" />
+    <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:ellipsize="end" android:id="@id/feature_b_body" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:minLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/feature_b_description" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/grid_bottom_padding" />
+</LinearLayout>
