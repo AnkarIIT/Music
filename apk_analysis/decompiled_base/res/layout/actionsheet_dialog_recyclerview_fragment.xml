@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/actionsheet_dialog_recyclerview_fragment_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/action_sheet_outside" android:layout_width="fill_parent" android:layout_height="fill_parent" android:soundEffectsEnabled="false" android:importantForAccessibility="no" app:layout_constraintBottom_toTopOf="@id/action_sheet_coordinator" app:layout_constraintStart_toStartOf="parent" />
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/action_sheet_coordinator" android:background="@color/translucent_separator_color" android:layout_width="fill_parent" android:layout_height="0.0dip" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <com.apple.android.music.common.recyclerview.ScrollInterceptingEpoxyRecyclerView android:id="@id/action_sheet_list" android:background="@color/background_color_layer1" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/bottom_sheet_behavior" style="@style/Animation.Design.BottomSheetDialog" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
