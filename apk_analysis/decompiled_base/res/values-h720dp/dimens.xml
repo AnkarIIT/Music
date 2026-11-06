@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_alert_dialog_button_bar_height">54.0dip</dimen>
+    <dimen name="player_play_button_height">66.0dip</dimen>
+    <dimen name="player_play_button_width">66.0dip</dimen>
+    <dimen name="player_skip_button_height">61.0dip</dimen>
+    <dimen name="player_skip_button_width">68.0dip</dimen>
+</resources>
