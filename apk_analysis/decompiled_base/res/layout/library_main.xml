@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_library_base_layout" android:tag="layout/library_main_0" android:background="@color/white_alpha_70" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/library_refresh_layout" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.apple.android.music.common.recyclerview.SafeRecyclerView android:id="@id/library_main_recyclerview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <FrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.apple.android.music.common.views.Loader android:layout_gravity="center" android:id="@id/progress_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:backgroundColor="@color/background_color" app:horizontal="true" />
+            <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/library_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</LinearLayout>
