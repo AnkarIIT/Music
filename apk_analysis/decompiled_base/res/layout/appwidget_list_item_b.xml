@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="@style/AppWidgetListItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="@style/AppWidgetListItemImageView" />
+    <LinearLayout style="@style/AppWidgetListItemContentMetadata">
+        <TextView android:ellipsize="end" android:id="@id/appwidget_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" style="@style/AppWidgetSubheadMedium" />
+    </LinearLayout>
+    <include layout="@layout/appwidget_list_item_play_button" />
+</RelativeLayout>
