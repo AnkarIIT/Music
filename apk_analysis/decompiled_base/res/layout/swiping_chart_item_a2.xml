@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="layout/swiping_chart_item_a2_0" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/list_favorite_icon_status" android:tag="binding_1" android:background="@android:color/transparent" android:padding="3.0dip" android:layout_width="@dimen/favorite_icon_width_16" android:layout_height="@dimen/favorite_icon_height_16" android:src="@drawable/list_item_favorite_icon" android:scaleType="centerCrop" android:tintMode="src_in" app:tint="@color/favorite_star_color" />
+    <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip">
+        <com.apple.android.music.common.CustomImageView android:id="@id/list_profile_icon" android:tag="binding_2" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" />
+        <com.apple.android.music.common.views.ContentArtDancingBarView android:id="@id/item_play_view" android:tag="binding_3" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/small_list_image_height" />
+    </FrameLayout>
+    <RelativeLayout android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="8.0dip">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/song_index" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="32.0dip" android:layout_centerVertical="true" style="@style/BodyEmphasized" />
+        <View android:id="@id/divider" android:layout_toEndOf="@id/song_index" android:layout_alignStart="@id/title_area" style="@style/Divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="8.0dip" android:paddingStart="8.0dip" android:layout_marginEnd="@dimen/default_padding" android:layout_toStartOf="@id/list_right_icon" android:layout_toEndOf="@id/song_index">
+            <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SmallListATitleStyle" />
+            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:ellipsize="end" android:id="@id/swiping_chart_item_a2_subtitle" android:tag="binding_7" android:paddingTop="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" style="@style/SmallListASubTitleStyle" />
+        </LinearLayout>
+        <com.apple.android.music.common.TrackActionButton android:id="@id/list_right_icon" android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@id/menu_action_button" />
+        <ImageView android:id="@id/menu_action_button" android:tag="binding_9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_actionitem_more" android:layout_centerVertical="true" android:contentDescription="@string/ax_song_menu_options" android:layout_alignParentEnd="true" app:tint="@color/actionitem_more_tint_color" />
+    </RelativeLayout>
+</LinearLayout>
