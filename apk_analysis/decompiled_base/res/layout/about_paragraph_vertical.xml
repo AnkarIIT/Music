@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/about_paragraph_vertical_0" android:background="@color/secondary_background_color" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginStart="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/paragraph_a2_title" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="10.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/ParagraphTitleStyle" />
+    <include android:id="@id/about_collapsed_textview_container" layout="@layout/paragraph_a2_body" />
+    <Space android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="@dimen/default_padding" />
+    <include layout="@layout/paragraph_a2_description" />
+</LinearLayout>
