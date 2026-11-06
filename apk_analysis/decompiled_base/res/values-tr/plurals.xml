@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+        <item quantity="two">%d sa.</item>
+        <item quantity="few">%d sa.</item>
+        <item quantity="many">%d sa.</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+        <item quantity="two">%d dk.</item>
+        <item quantity="few">%d dk.</item>
+        <item quantity="many">%d dk.</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d sn.</item>
+        <item quantity="one">%d sn.</item>
+        <item quantity="two">%d sn.</item>
+        <item quantity="few">%d sn.</item>
+        <item quantity="many">%d sn.</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d uygulama bağlı</item>
+        <item quantity="one">%d uygulama bağlı</item>
+        <item quantity="two">%d uygulama bağlı</item>
+        <item quantity="few">%d uygulama bağlı</item>
+        <item quantity="many">%d uygulama bağlı</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d Albüm</item>
+        <item quantity="one">%d Albüm</item>
+        <item quantity="two">%d Albüm</item>
+        <item quantity="few">%d Albüm</item>
+        <item quantity="many">%d Albüm</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+        <item quantity="two">%d gün önce</item>
+        <item quantity="few">%d gün önce</item>
+        <item quantity="many">%d gün önce</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d sa. önce</item>
+        <item quantity="one">%d sa. önce</item>
+        <item quantity="two">%d sa. önce</item>
+        <item quantity="few">%d sa. önce</item>
+        <item quantity="many">%d sa. önce</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d hf. önce</item>
+        <item quantity="one">%d hf. önce</item>
+        <item quantity="two">%d hf. önce</item>
+        <item quantity="few">%d hf. önce</item>
+        <item quantity="many">%d hf. önce</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="zero">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+        <item quantity="many">%d saat</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="zero">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+        <item quantity="two">%d dakika</item>
+        <item quantity="few">%d dakika</item>
+        <item quantity="many">%d dakika</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="zero">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="two">%d saniye</item>
+        <item quantity="few">%d saniye</item>
+        <item quantity="many">%d saniye</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">%d Öğeyi Sil</item>
+        <item quantity="one">%d Öğeyi Sil</item>
+        <item quantity="two">%d Öğeyi Sil</item>
+        <item quantity="few">%d Öğeyi Sil</item>
+        <item quantity="many">%d Öğeyi Sil</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Bağlantının süresi %1$d gün sonra dolacak.</item>
+        <item quantity="zero">Bağlantının süresi doldu.</item>
+        <item quantity="one">Bağlantının süresi bugün dolacak.</item>
+        <item quantity="two">Bağlantının süresi %1$d gün sonra dolacak.</item>
+        <item quantity="few">Bağlantının süresi %1$d gün sonra dolacak.</item>
+        <item quantity="many">Bağlantının süresi %1$d gün sonra dolacak.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d konser</item>
+        <item quantity="one">%d konser</item>
+        <item quantity="two">%d konser</item>
+        <item quantity="few">%d konser</item>
+        <item quantity="many">%d konser</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">%d gün</item>
+        <item quantity="few">%d gün</item>
+        <item quantity="many">%d gün</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+        <item quantity="two">%d sa.</item>
+        <item quantity="few">%d sa.</item>
+        <item quantity="many">%d sa.</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d sn.</item>
+        <item quantity="zero">%d sn.</item>
+        <item quantity="one">%d sn.</item>
+        <item quantity="two">%d sn.</item>
+        <item quantity="few">%d sn.</item>
+        <item quantity="many">%d sn.</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d Öğe</item>
+        <item quantity="one">%d Öğe</item>
+        <item quantity="two">%d Öğe</item>
+        <item quantity="few">%d Öğe</item>
+        <item quantity="many">%d Öğe</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+        <item quantity="many">%d saat</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+        <item quantity="two">%d dakika</item>
+        <item quantity="few">%d dakika</item>
+        <item quantity="many">%d dakika</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d dakika</item>
+        <item quantity="one">%,d dakika</item>
+        <item quantity="two">%,d dakika</item>
+        <item quantity="few">%,d dakika</item>
+        <item quantity="many">%,d dakika</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniye ileri sar</item>
+        <item quantity="one">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniye geri sar</item>
+        <item quantity="one">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d Saat</item>
+        <item quantity="one">%d Saat</item>
+        <item quantity="two">%d Saat</item>
+        <item quantity="few">%d Saat</item>
+        <item quantity="many">%d Saat</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">Saat</item>
+        <item quantity="one">Saat</item>
+        <item quantity="two">Saat</item>
+        <item quantity="few">Saat</item>
+        <item quantity="many">Saat</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d Yeni Şarkı</item>
+        <item quantity="one">%d Yeni Şarkı</item>
+        <item quantity="two">%d Yeni Şarkı</item>
+        <item quantity="few">%d Yeni Şarkı</item>
+        <item quantity="many">%d Yeni Şarkı</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d Dakika</item>
+        <item quantity="one">%d Dakika</item>
+        <item quantity="two">%d Dakika</item>
+        <item quantity="few">%d Dakika</item>
+        <item quantity="many">%d Dakika</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">Dakika</item>
+        <item quantity="one">Dakika</item>
+        <item quantity="two">Dakika</item>
+        <item quantity="few">Dakika</item>
+        <item quantity="many">Dakika</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d Video Klip</item>
+        <item quantity="one">%d Video Klip</item>
+        <item quantity="two">%d Video Klip</item>
+        <item quantity="few">%d Video Klip</item>
+        <item quantity="many">%d Video Klip</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d Parça Daha</item>
+        <item quantity="zero">%d Parça Daha</item>
+        <item quantity="one">%d Parça Daha</item>
+        <item quantity="two">%d Parça Daha</item>
+        <item quantity="few">%d Parça Daha</item>
+        <item quantity="many">%d Parça Daha</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d Kere</item>
+        <item quantity="one">%d Kere</item>
+        <item quantity="two">%d Kere</item>
+        <item quantity="few">%d Kere</item>
+        <item quantity="many">%d Kere</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="one">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="two">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="few">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="many">“%2$s” listesine %1$d parça eklendi</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d şarkı yeni listeye eklendi</item>
+        <item quantity="one">%1$d şarkı yeni listeye eklendi</item>
+        <item quantity="two">%1$d şarkı yeni listeye eklendi</item>
+        <item quantity="few">%1$d şarkı yeni listeye eklendi</item>
+        <item quantity="many">%1$d şarkı yeni listeye eklendi</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s ve Diğer %2$d Kişi</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s ve Diğer %2$d Kişi</item>
+        <item quantity="two">%1$s ve Diğer %2$d Kişi</item>
+        <item quantity="few">%1$s ve Diğer %2$d Kişi</item>
+        <item quantity="many">%1$s ve Diğer %2$d Kişi</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d parça seçildi</item>
+        <item quantity="one">%1$d parça seçildi</item>
+        <item quantity="two">%1$d parça seçildi</item>
+        <item quantity="few">%1$d parça seçildi</item>
+        <item quantity="many">%1$d parça seçildi</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">MÜZİK ŞİRKETLERİ</item>
+        <item quantity="one">MÜZİK ŞİRKETİ</item>
+        <item quantity="many">MÜZİK ŞİRKETLERİ</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">%1$d Parça Kaldırılsın mı?</item>
+        <item quantity="one">%1$d Parça Kaldırılsın mı?</item>
+        <item quantity="two">%1$d Parça Kaldırılsın mı?</item>
+        <item quantity="few">%1$d Parça Kaldırılsın mı?</item>
+        <item quantity="many">%1$d Parça Kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d Uygulama</item>
+        <item quantity="one">%d Uygulama</item>
+        <item quantity="two">%d Uygulama</item>
+        <item quantity="few">%d Uygulama</item>
+        <item quantity="many">%d Uygulama</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d Saniye</item>
+        <item quantity="zero">%d Saniye</item>
+        <item quantity="one">%d Saniye</item>
+        <item quantity="two">%d Saniye</item>
+        <item quantity="few">%d Saniye</item>
+        <item quantity="many">%d Saniye</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">Saniye</item>
+        <item quantity="zero">Saniye</item>
+        <item quantity="one">Saniye</item>
+        <item quantity="two">Saniye</item>
+        <item quantity="few">Saniye</item>
+        <item quantity="many">Saniye</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Ailenize en fazla %s kişi daha ekleyebilirsiniz.</item>
+        <item quantity="one">Ailenize bir kişi daha ekleyebilirsiniz.</item>
+        <item quantity="two">Ailenize en fazla %s kişi daha ekleyebilirsiniz.</item>
+        <item quantity="few">Ailenize en fazla %s kişi daha ekleyebilirsiniz.</item>
+        <item quantity="many">Ailenize en fazla %s kişi daha ekleyebilirsiniz.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d Satır Seçildi</item>
+        <item quantity="zero">Seçili Bir Satır Yok</item>
+        <item quantity="one">%d Satır Seçildi</item>
+        <item quantity="two">%d Satır Seçildi</item>
+        <item quantity="few">%d Satır Seçildi</item>
+        <item quantity="many">%d Satır Seçildi</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d Kişi Etkin</item>
+        <item quantity="one">%d Kişi Etkin</item>
+        <item quantity="two">%d Kişi Etkin</item>
+        <item quantity="few">%d Kişi Etkin</item>
+        <item quantity="many">%d Kişi Etkin</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d Bölüm</item>
+        <item quantity="one">%d Bölüm</item>
+        <item quantity="two">%d Bölüm</item>
+        <item quantity="few">%d Bölüm</item>
+        <item quantity="many">%d Bölüm</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d Parça Kaldı</item>
+        <item quantity="one">%1$d Parça Kaldı</item>
+        <item quantity="two">%1$d Parça Kaldı</item>
+        <item quantity="few">%1$d Parça Kaldı</item>
+        <item quantity="many">%1$d Parça Kaldı</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="one">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="two">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="few">“%2$s” listesine %1$d parça eklendi</item>
+        <item quantity="many">“%2$s” listesine %1$d parça eklendi</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d Öğe Silindi</item>
+        <item quantity="one">%d Öğe Silindi</item>
+        <item quantity="two">%d Öğe Silindi</item>
+        <item quantity="few">%d Öğe Silindi</item>
+        <item quantity="many">%d Öğe Silindi</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d parça</item>
+        <item quantity="one">%d parça</item>
+        <item quantity="two">%d parça</item>
+        <item quantity="few">%d parça</item>
+        <item quantity="many">%d parça</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d Şarkı Var</item>
+        <item quantity="one">%d Şarkı Var</item>
+        <item quantity="two">%d Şarkı Var</item>
+        <item quantity="few">%d Şarkı Var</item>
+        <item quantity="many">%d Şarkı Var</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d PARÇA</item>
+        <item quantity="one">%d PARÇA</item>
+        <item quantity="two">%d PARÇA</item>
+        <item quantity="few">%d PARÇA</item>
+        <item quantity="many">%d PARÇA</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">Öğrenci olduğunuzu doğrulamak için %1$d gün kaldı.</item>
+        <item quantity="one">Öğrenci olduğunuzu doğrulamak için %1$d gün kaldı.</item>
+        <item quantity="two">Öğrenci olduğunuzu doğrulamak için %1$d gün kaldı.</item>
+        <item quantity="few">Öğrenci olduğunuzu doğrulamak için %1$d gün kaldı.</item>
+        <item quantity="many">Öğrenci olduğunuzu doğrulamak için %1$d gün kaldı.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d Ortak Çalışan</item>
+        <item quantity="zero">%1$d Ortak Çalışan</item>
+        <item quantity="one">%1$d Ortak Çalışan</item>
+        <item quantity="two">%1$d Ortak Çalışan</item>
+        <item quantity="few">%1$d Ortak Çalışan</item>
+        <item quantity="many">%1$d Ortak Çalışan</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">%d gün</item>
+        <item quantity="few">%d gün</item>
+        <item quantity="many">%d gün</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+        <item quantity="two">%d sa.</item>
+        <item quantity="few">%d sa.</item>
+        <item quantity="many">%d sa.</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+        <item quantity="two">%d dk.</item>
+        <item quantity="few">%d dk.</item>
+        <item quantity="many">%d dk.</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
+        <item quantity="two">%d ay</item>
+        <item quantity="few">%d ay</item>
+        <item quantity="many">%d ay</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d sn.</item>
+        <item quantity="one">%d sn.</item>
+        <item quantity="two">%d sn.</item>
+        <item quantity="few">%d sn.</item>
+        <item quantity="many">%d sn.</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d hf.</item>
+        <item quantity="one">%d hf.</item>
+        <item quantity="two">%d hf.</item>
+        <item quantity="few">%d hf.</item>
+        <item quantity="many">%d hf.</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d yıl</item>
+        <item quantity="one">%d yıl</item>
+        <item quantity="two">%d yıl</item>
+        <item quantity="few">%d yıl</item>
+        <item quantity="many">%d yıl</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+        <item quantity="two">%d gün önce</item>
+        <item quantity="few">%d gün önce</item>
+        <item quantity="many">%d gün önce</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d sa. önce</item>
+        <item quantity="one">%d sa. önce</item>
+        <item quantity="two">%d sa. önce</item>
+        <item quantity="few">%d sa. önce</item>
+        <item quantity="many">%d sa. önce</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+        <item quantity="two">%d dakika önce</item>
+        <item quantity="few">%d dakika önce</item>
+        <item quantity="many">%d dakika önce</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Bunu çaldıktan sonra daha önce sıraya eklediğiniz %d parça ile sürdürmek mi yoksa onları silmek mi istiyorsunuz?</item>
+        <item quantity="one">Bunu çaldıktan sonra daha önce sıraya eklediğiniz %d parça ile sürdürmek mi yoksa onları silmek mi istiyorsunuz?</item>
+        <item quantity="two">Bunu çaldıktan sonra daha önce sıraya eklediğiniz %d parça ile sürdürmek mi yoksa onları silmek mi istiyorsunuz?</item>
+        <item quantity="few">Bunu çaldıktan sonra daha önce sıraya eklediğiniz %d parça ile sürdürmek mi yoksa onları silmek mi istiyorsunuz?</item>
+        <item quantity="many">Bunu çaldıktan sonra daha önce sıraya eklediğiniz %d parça ile sürdürmek mi yoksa onları silmek mi istiyorsunuz?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">%d gün önce güncellendi</item>
+        <item quantity="zero">%d gün önce güncellendi</item>
+        <item quantity="one">%d gün önce güncellendi</item>
+        <item quantity="two">%d gün önce güncellendi</item>
+        <item quantity="few">%d gün önce güncellendi</item>
+        <item quantity="many">%d gün önce güncellendi</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">%d sa. önce güncellendi</item>
+        <item quantity="one">%d sa. önce güncellendi</item>
+        <item quantity="two">%d sa. önce güncellendi</item>
+        <item quantity="few">%d sa. önce güncellendi</item>
+        <item quantity="many">%d sa. önce güncellendi</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">%d dk. önce güncellendi</item>
+        <item quantity="one">%d dk. önce güncellendi</item>
+        <item quantity="two">%d dk. önce güncellendi</item>
+        <item quantity="few">%d dk. önce güncellendi</item>
+        <item quantity="many">%d dk. önce güncellendi</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">%d hf. önce güncellendi</item>
+        <item quantity="one">%d hf. önce güncellendi</item>
+        <item quantity="two">%d hf. önce güncellendi</item>
+        <item quantity="few">%d hf. önce güncellendi</item>
+        <item quantity="many">%d hf. önce güncellendi</item>
+    </plurals>
+</resources>
