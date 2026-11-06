@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/large_list_a_item_0" android:background="@color/background_color" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:tag="binding_1" android:visibility="visible" style="@style/Divider" />
+        <LinearLayout android:orientation="horizontal" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingEnd="20.0dip">
+            <ViewStub android:gravity="center" android:layout_gravity="center" android:id="@id/list_checkbox" android:tag="binding_2" android:layout="@layout/button_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/default_padding" />
+            <com.apple.android.music.common.views.CustomTextView android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/LargeListAText" />
+            <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <ImageView android:id="@id/list_right_icon" android:tag="binding_4" android:focusable="true" android:layout_width="@dimen/list_action_icon_width" android:layout_height="@dimen/list_action_icon_width" android:src="@null" android:layout_centerVertical="true" android:contentDescription="@string/ax_drag_instructions" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
