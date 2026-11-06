@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView android:id="@id/showcase_tile" android:tag="layout/live_radio_tile_0" android:layout_width="fill_parent" android:layout_height="wrap_content" app:cardCornerRadius="@dimen/radio_live_tile_corner_radius" app:cardElevation="0.0dip" app:strokeColor="@color/rounded_image_stroke_color" app:strokeWidth="@dimen/image_border_stroke_width"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:id="@id/live_radio_image" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" app:aspectRatio="@dimen/radio_live_tile_aspect_ratio" app:resizeToAspectRatio="true" app:roundedBackground="false" />
+</com.google.android.material.card.MaterialCardView>
