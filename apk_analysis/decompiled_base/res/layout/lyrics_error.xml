@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:gravity="center" android:id="@id/lyrics_error_text" android:tag="layout/lyrics_error_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding" android:text="@string/lyrics_failed" style="@style/Subhead"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
