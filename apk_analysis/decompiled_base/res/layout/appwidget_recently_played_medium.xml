@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="start|center" android:id="@id/recently_played_widget_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/widget_rp_width_max" android:layout_height="184.0dip" android:src="@drawable/placeholder_music_default_artwork">
+        <ImageView android:id="@id/appwidget_view_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/appwidget_view_default_background" android:scaleType="fitXY" />
+        <ImageView android:id="@id/appwidget_header_imageview" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/widget_frame_padding" android:src="@drawable/appwidget_image_container_background" android:adjustViewBounds="true" android:layout_alignParentStart="true" style="@style/WidgetRpImageViewHeader" />
+        <LinearLayout android:orientation="vertical" android:id="@id/appwidget_header_container_info" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/appwidget_header_imageview" android:layout_marginEnd="@dimen/widget_frame_padding" android:layout_toEndOf="@id/appwidget_header_imageview">
+            <TextView android:id="@id/appwidget_header_caption" style="@style/AppWidgetCaption2Emphasized" />
+            <TextView android:id="@id/appwidget_item_title" android:maxLines="2" style="@style/AppWidgetHeadline" />
+            <TextView android:id="@id/appwidget_item_subtitle" style="@style/AppWidgetBody" />
+            <include layout="@layout/appwidget_pill_play_button" />
+        </LinearLayout>
+        <ImageView android:id="@id/appwidget_glyph" android:layout_alignParentTop="true" android:layout_alignParentEnd="true" style="@style/WidgetMusicNote" />
+    </RelativeLayout>
+</RelativeLayout>
