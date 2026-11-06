@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/header_page_f_title_line_layout" android:tag="layout/header_page_f_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/header_main_layout" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_12">
+        <com.apple.android.music.common.CustomImageView android:id="@id/header_page_top_imageview" android:tag="binding_2" android:background="#00ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="1.562" app:roundedBackground="false" />
+        <ImageView android:layout_gravity="center" android:id="@id/header_play_button" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/play_button" />
+        <include layout="@layout/shows_bookmark_bar" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:tag="binding_4" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_title" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textAllCaps="true" style="@style/Caption2EmphasizedGray" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/header_page_bottom_layout" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:lineSpacingExtra="0.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/PageHeader3" />
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_secondary_subtitle" android:tag="binding_7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="2.0dip" android:maxLines="2" android:lineSpacingExtra="0.0dip" style="@style/Title2Pink" />
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:id="@id/movie_item_description" android:tag="binding_8" android:nextFocusDown="@id/header_play_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="6.0dip" app:maxCollapseLines="3" app:moreColor="@color/color_primary" style="@style/Subhead" />
+        <include layout="@layout/shows_header_page_bottom" />
+        <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_12" android:layout_marginBottom="20.0dip" android:weightSum="1.0">
+            <com.apple.android.music.common.PageHeaderActionButton android:layout_gravity="center_vertical" android:tag="binding_9" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginEnd="8.0dip" />
+            <com.apple.android.music.common.views.TintableImageView android:layout_gravity="end|center" android:tag="binding_10" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/more_button" android:layout_marginEnd="8.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
