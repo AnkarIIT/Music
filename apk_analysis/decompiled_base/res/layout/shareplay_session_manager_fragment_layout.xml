@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="bottom" android:id="@id/container_layout" android:tag="layout/shareplay_session_manager_fragment_layout_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/action_sheet_list" android:background="@drawable/bottomsheet_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="6.0dip">
+        <ImageView android:layout_gravity="start" android:id="@id/close_button" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_close" android:tint="@color/secondary_label_color" android:tintMode="src_in" />
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/shareplay_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-32.0dip" android:src="@drawable/np_wrangler_shareplay" />
+        <com.apple.android.music.common.views.CustomTextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/shareplay_manager_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/shareplay_title" android:layout_marginStart="80.0dip" android:layout_marginEnd="80.0dip" style="@style/BodyBold" />
+        <com.apple.android.music.common.views.CustomTextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/shareplay_manager_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_20" android:text="@string/shareplay_subtitle" android:layout_marginStart="60.0dip" android:layout_marginEnd="60.0dip" style="@style/Subhead" />
+        <com.apple.android.music.settings.view.DividerView android:id="@id/divider_view_one" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/participants_recyclerview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:isScrollContainer="true" />
+        <com.apple.android.music.settings.view.DividerView android:id="@id/divider_view_two" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/qr_code_container" android:layout_width="fill_parent" android:layout_height="114.0dip" android:layout_marginStart="@dimen/padding_20" android:layout_marginEnd="18.0dip">
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/qr_code_textview" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/shareplay_scan_qr_code" android:layout_weight="1.0" android:layout_marginEnd="@dimen/padding_20" style="@style/Subhead" />
+            <ImageView android:id="@id/qr_code" android:layout_width="78.0dip" android:layout_height="78.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
