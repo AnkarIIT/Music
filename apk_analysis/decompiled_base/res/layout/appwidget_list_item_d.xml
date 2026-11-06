@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="@style/AppWidgetListItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="@style/AppWidgetListItemImageView" />
+    <LinearLayout style="@style/AppWidgetListItemContentMetadata">
+        <LinearLayout android:orientation="horizontal" android:id="@id/appwidget_list_item_badge_container" android:background="@drawable/appwidget_image_container_background" android:layout_width="54.0dip" android:layout_height="16.0dip" />
+        <TextView android:ellipsize="end" android:id="@id/appwidget_item_title" android:maxLines="1" style="@style/AppWidgetSubheadMedium" />
+        <TextView android:ellipsize="end" android:id="@id/appwidget_item_subtitle" android:maxLines="1" style="@style/AppWidgetSubhead" />
+    </LinearLayout>
+    <include layout="@layout/appwidget_list_item_play_button" />
+</RelativeLayout>
