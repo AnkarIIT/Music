@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:tag="layout/base_profile_main_view_0" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.recyclerview.ScrollInterceptingEpoxyRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="top" android:id="@id/bubble_tip_parent" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/presto_classical_tooltip_view" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="1.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0" app:layout_constraintWidth_default="percent" app:layout_constraintWidth_percent="@dimen/tooltip_width_percent" layout="@layout/bubble_tip_standard" />
+        <include android:id="@id/favorite_toolbar_tooltip_view" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="1.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0" app:layout_constraintWidth_default="percent" app:layout_constraintWidth_percent="@dimen/tooltip_width_percent" layout="@layout/bubble_tip_standard" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/view_loader_include" />
+</FrameLayout>
