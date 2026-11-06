@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/showcase_0" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/divider" android:focusable="false" android:layout_marginTop="@dimen/smaller_margin_8" android:layout_marginBottom="@dimen/smaller_margin_8" style="@style/Divider" />
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.apple.android.music.common.views.CustomTextView android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/EyeBrow" />
+        <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Title2" />
+        <com.apple.android.music.common.views.CustomTextView android:ellipsize="end" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Title2" />
+    </LinearLayout>
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/smaller_margin_8" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.CustomImageView android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" app:aspectRatio="@dimen/default_showcase_aspect_ratio" />
+        <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:tag="binding_5" android:background="@drawable/showcase_bottom_gradient" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="86.0dip" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+            <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginEnd="10.0dip">
+                <com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="firstStrong" style="@style/Footnote" />
+                <com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:ellipsize="end" android:tag="binding_7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="firstStrong" style="@style/Footnote" />
+            </LinearLayout>
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <com.apple.android.music.common.CustomImageView android:layout_gravity="bottom" android:id="@id/customImageView2" android:tag="binding_8" android:layout_width="58.0dip" android:layout_height="58.0dip" />
+            </FrameLayout>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>
