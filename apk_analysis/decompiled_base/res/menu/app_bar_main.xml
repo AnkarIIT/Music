@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@android:drawable/ic_menu_search" android:id="@id/action_search" android:visible="false" android:title="@string/search" app:actionLayout="@layout/library_search_layout" app:showAsAction="always" />
+    <item android:icon="@drawable/toolbar_new_playlist" android:id="@id/new_playlist" android:visible="false" android:title="@string/new_playlist_button" android:contentDescription="@string/new_playlist_button" app:showAsAction="always" />
+    <item android:id="@id/active_downloads_menu_item" android:visible="false" android:title="@string/downloads" app:showAsAction="always" />
+    <item android:id="@id/settings" android:title="@string/settings" android:contentDescription="@string/settings" app:showAsAction="never" />
+    <item android:id="@id/account_settings" android:title="@string/account_settings" android:contentDescription="@string/account_settings" app:showAsAction="never" />
+    <item android:id="@id/debug_settings" android:visible="@bool/debugInternal" android:title="@string/settings_user_debug_settings" android:contentDescription="@string/settings_user_debug_settings" app:showAsAction="never" />
+    <item android:icon="@drawable/ic_navbar_favorite" android:id="@id/favorite_artist_item" android:visible="false" android:title="@string/favorite_button" app:actionLayout="@layout/favorite_artist_menu_item_layout" app:showAsAction="ifRoom" />
+</menu>
