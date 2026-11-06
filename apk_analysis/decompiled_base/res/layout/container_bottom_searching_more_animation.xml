@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:tag="layout/container_bottom_searching_more_animation_0" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_8" android:layout_marginBottom="@dimen/smaller_margin_8" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/fuse_progress_indicator" android:clickable="false" android:layout_width="wrap_content" android:layout_height="40.0dip" />
+</LinearLayout>
