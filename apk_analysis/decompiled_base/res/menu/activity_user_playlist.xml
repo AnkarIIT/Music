@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/active_downloads_menu_item" android:visible="false" android:title="@string/downloads" app:showAsAction="always" />
+    <item android:id="@id/app_bar_profile" android:title="@string/profile_menu_item" app:actionLayout="@layout/user_profile_badge" app:showAsAction="always" />
+    <item android:id="@id/menu_item_playlist_edit" android:title="@string/playlist_menu_edit" android:contentDescription="@string/playlist_menu_edit" app:showAsAction="never" />
+</menu>
