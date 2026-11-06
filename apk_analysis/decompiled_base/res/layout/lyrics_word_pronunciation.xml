@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@android:color/white" android:ellipsize="none" android:gravity="bottom" android:id="@id/pronunciation_word" android:tag="layout/lyrics_word_pronunciation_0" android:layout_width="wrap_content" android:layout_height="fill_parent" android:bufferType="normal" android:singleLine="true" android:textIsSelectable="false" android:textDirection="anyRtl" style="@style/Title3Emphasized"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
