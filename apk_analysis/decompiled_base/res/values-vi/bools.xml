@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="increase_height_for_diacritics">true</bool>
+</resources>
