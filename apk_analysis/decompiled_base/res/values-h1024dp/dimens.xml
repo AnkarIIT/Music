@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="player_play_button_height">@integer/custom_wrap_content</item>
+    <item type="dimen" name="player_play_button_width">@integer/custom_wrap_content</item>
+    <item type="dimen" name="player_skip_button_height">@integer/custom_wrap_content</item>
+    <item type="dimen" name="player_skip_button_width">@integer/custom_wrap_content</item>
+</resources>
