@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:textColor="@android:color/white" android:ellipsize="none" android:id="@id/lyrics_bg_translation_line" android:tag="layout/lyrics_bg_translation_line_karaoke_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_2" android:bufferType="normal" android:textIsSelectable="false" android:textDirection="anyRtl" app:layout_wrapBefore="true" style="@style/SubheadBoldShort"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
