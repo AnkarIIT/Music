@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/lyrics_line_parent" android:tag="layout/share_lyrics_line_overlay_0" android:layout_width="fill_parent" android:layout_height="fill_parent" app:cardBackgroundColor="@android:color/transparent" app:cardCornerRadius="@dimen/lyrics_ripple_corner_radius" app:cardElevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/background_image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    <ImageView android:id="@id/src_song_lyrics_line_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/selector_share_lyrics_line_text" android:id="@id/dst_song_lyrics_line" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/share_lyrics_line_margin_vert" android:layout_marginBottom="@dimen/share_lyrics_line_margin_vert" android:alpha="0.0" android:textDirection="anyRtl" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" style="@style/Title2Emphasized" />
+</androidx.cardview.widget.CardView>
