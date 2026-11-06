@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/calendar_badge_large_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView android:tag="binding_1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minWidth="@dimen/calendar_badge_large_size" android:minHeight="@dimen/calendar_badge_large_size" app:cardCornerRadius="@dimen/corner_radius_m" app:cardElevation="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintDimensionRatio="1:1" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:strokeColor="@color/black_alpha_8" app:strokeWidth="1.0dip">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingTop="@dimen/smaller_margin_4" android:paddingBottom="@dimen/smaller_margin_2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.views.CustomTextView android:textSize="10.0sp" android:id="@id/concert_date_month" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/DefaultFontSemiBold" />
+            <com.apple.android.music.common.views.CustomTextView android:textSize="30.0sp" android:id="@id/concert_date_day" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DefaultFontMedium" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
