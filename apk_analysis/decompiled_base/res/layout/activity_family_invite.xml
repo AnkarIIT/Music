@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/activity_family_invite_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fuse="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/invite_layout" android:background="@color/background_color" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@null" android:src="@drawable/family_cloud" />
+        <com.apple.android.music.common.views.CustomTextView android:textSize="@null" android:textColor="@color/label_color_alpha_90" android:gravity="center" android:id="@id/invite_info" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_margin="@dimen/larger_margin" android:layout_weight="1.0" style="@style/DefaultTitle" />
+        <RelativeLayout android:gravity="end" android:layout_gravity="end" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.apple.android.music.common.views.CustomTextButton android:id="@id/btn_decline" android:layout_width="wrap_content" android:layout_height="@dimen/stroke_button_height" android:text="@string/btn_text_decline" android:textAllCaps="true" android:layout_marginStart="@dimen/larger_margin" android:layout_alignParentStart="true" style="@style/SubscriptionTextButton" />
+            <com.apple.android.music.common.views.CustomTextButton android:id="@id/btn_accept" android:layout_width="wrap_content" android:layout_height="@dimen/stroke_button_height" android:text="@string/btn_text_accept" android:textAllCaps="true" android:layout_marginEnd="@dimen/larger_margin" android:layout_alignParentEnd="true" style="@style/SubscriptionTextButton" />
+        </RelativeLayout>
+    </LinearLayout>
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/invite_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" fuse:backgroundColor="@android:color/transparent" />
+</FrameLayout>
