@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:id="@id/appwidget_pill" android:layout_width="wrap_content" android:layout_height="28.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/appwidget_pill_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/appwidget_listening_activity_platter" android:scaleType="fitXY" />
+    <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="4.0dip" android:paddingEnd="16.0dip">
+        <ImageView android:id="@id/appwidget_pill_image" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/appwidget_pill_play" />
+        <TextView android:id="@id/appwidget_pill_text" android:text="@string/play_button" android:maxLines="1" style="@style/AppWidgetFootnoteEmphasized" />
+    </LinearLayout>
+</FrameLayout>
