@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>ezer</item>
+        <item>millió</item>
+        <item>milliárd</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Világos</item>
+        <item>Sötét</item>
+        <item>Rendszer alapértelmezett értéke</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Eszköz tárhelye</item>
+        <item>SD-kártya</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25×</item>
+        <item>0,5×</item>
+        <item>0,75×</item>
+        <item>Normál</item>
+        <item>1,25×</item>
+        <item>1,5×</item>
+        <item>2×</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Az Apple az előfizetett szolgáltatások személyre szabásához, értesítések küldéséhez és a saját partnereinek kompenzálásához információkat gyűjt arról, hogy Ön hogyan használja az Apple Musicot és az Apple Music Classicalt, például milyen dalokat játszik le, és milyen hosszan játssza le azokat.</item>
+        <item>Az Ön Apple-felhőkönyvtára információkat küld az eszközén lévő zenekönyvtárából az Apple-nek – például dal- és előadóneveket – az olyan dalok azonosításához és egy példányuk feloldásához, amelyek elérhetők az Apple Musicban is.</item>
+        <item>A felhőben lévő könyvtára információit addig Önhöz rendeljük, amíg előfizető marad, majd utána még egy rövid ideig. A pénzügyi jelentési kötelezettségre vonatkozó törvényekben meghatározott ideig megtartjuk az Ön által hallgatott dalokról szóló feljegyzéseket.</item>
+        <item>Amikor megpróbál vásárolni, a csalások felderítése és megakadályozása érdekében egy eszközmegbízhatósági pontszámot számítunk ki az eszközhasználattal kapcsolatos információi alapján, amelyek azt is tartalmazzák, hogy hozzávetőlegesen hány telefonhívást intézett, és hány e-mail-üzenetet küldött és kapott. Az információk beküldése úgy lett megtervezve, hogy az Apple ne tudja megállapítani a mögöttes értékeket az eszközén. A pontszámot meghatározott ideig tároljuk a szervereinken.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"A felhasználói adatok védelme az egyik elsődleges szempont az Apple számára. Törekszünk arra, hogy csak azokat az adatokat gyűjtsük be, amelyek a felhasználói élmény fokozásához szükségesek. Amikor mégis bizonyos adatok begyűjtése mellett döntünk, akkor fontosnak tartjuk a felhasználók tájékoztatását arról, hogy pontosan milyen információkat gyűjtünk be, és hogy miért van rájuk szükségünk, mivel így hozhatják meg a számukra megfelelő döntéseket. Az Apple Musicot és az Apple Music Classicalt – az Apple összes termékéhez és szolgáltatásához hasonlóan – ezeknek az elveknek a mentén alakítottuk ki.
+
+Az Ön személyes adatait szolgáltatások és funkciók biztosítására használjuk fel az Apple Musicban. Az ilyen adatok közé tartozik az Ön neve és az Apple‑fiókjához beállított fotó (ha beállított ilyet), amelyeket az Apple Zene app beállításaiban érhet el és módosíthat az Apple Music megosztási funkciójával való használat céljából; valamint a fiók- és fizetési információi, illetve az Apple-előfizetései állapota, amelyeket a Beállításokban vagy a Rendszerbeállításokban érhet el és módosíthat.
+
+Az Apple Musicra való előfizetés esetén teljes hozzáférést kap az Apple Musichoz és az Apple Music Classicalhoz. Az Apple információkat fog gyűjteni az Apple Music és az Apple Music Classical használati módjára vonatkozóan, hogy ezáltal az Ön zenei ízléséhez igazíthassa a különböző funkciókat. Az ilyen funkciók közé tartoznak a személyre szabott ajánlások, többek között az Önnek válogatott albumok és lejátszási listák, valamint a Rádió, amely a kedvenc előadóitól és műfajaiból játszik számokat. Arra is felhasználjuk ezeket az információkat, hogy e-mailt és push értesítést tudjunk Önnek küldeni az Apple Music és Apple Music Classical szolgáltatásban a közeljövőben megjelenő új kiadásokról, az új előadókról és minden olyan eseményről, amely érdekelheti Önt.
+
+Előfordulhat, hogy egyes Apple Music-funkciók, mint bizonyos rádióállomások, nem érhetők el az Ön régiójában. Előfordulhat, hogy az Apple felhasználja az Ön internetkapcsolatának IP-címét a helyzetének és az elérhetőségnek a meghatározásához.
+
+Apple Music Classical
+
+Az Apple Music-előfizetők hozzáféréssel rendelkeznek az Apple Music Classicalhoz, egy olyan komolyzenét kínáló alkalmazáshoz, amelyben komolyzenei darabokat és albumokat fedezhet fel, és a kedvenc komolyzenei darabjait egyetlen központi helyre mentheti el. Az Apple Music Classical katalógusában előfizetés nélkül is böngészhet, azonban az Apple Music Classical összes funkciójának eléréséhez Apple Music-előfizetéssel kell rendelkeznie. Ha Ön nem rendelkezik aktív Apple Music-előfizetéssel, lehetősége lesz előfizetni az Apple Musicra, hogy teljes hozzáférést kapjon az Apple Music Classicalhoz.
+
+Felhőkönyvtár
+
+Az Ön Apple-felhőkönyvtára – amely az Apple Music-előfizetéshez járó egyik funkció – lehetővé teszi, hogy a könyvtárában megtalálható dalokat és lejátszási listákat bármelyik eszközéről elérhesse. A funkció azért továbbít információkat – például a dalok címét és az előadók nevét – az Ön eszközén található könyvtáráról az Apple-nek, hogy be tudjuk azonosítani és elérhetővé tehessük az Ön zenéi közül azokat a dalokat, amelyek az Apple Music és az Apple Music Classical szolgáltatásban is rendelkezésre állnak. Az Apple Music szolgáltatásban nem megtalálható dalok feltöltődnek a személyes felhőkönyvtárába, aminek köszönhetően bármelyik eszközéről elérheti a teljes gyűjteményét az Apple Musicon keresztül. Ha azt szeretné, hogy a felhőkönyvtára ne legyen szinkronizálva, az iOS-, iPadOS- vagy visionOS-eszközein válassza a Beállítások > Appok > Zene (visionOS‑en: Settings > Apps > Music) menüpontot, és koppintással kapcsolja ki a Könyvtár szinkronizálása (visionOS‑en: Sync Library) beállítást. Macen nyissa meg az Apple Zene appot, válassza a Beállítások > Általános menüpontot, majd törölje a Könyvtár szinkronizálása beállítás jelölését.
+
+Apple Music-profil
+
+Ha kapcsolatba szeretne lépni az Apple Music szolgáltatást használó többi felhasználóval, illetve tartalmakat szeretne megosztani velük, hozzon létre egy személyes profilt egy felhasználói azonosító (pl. @kovacsadam), egy megjelenített név, valamint – ha szeretne – egy profilfotó és egyéb információk megadásával. Az Apple az Ön fiókjában tárolja az ilyen információkat, így bármelyik készülékén elérheti őket. A felhasználói azonosítója, a megjelenített neve és a profilfotója megjelenhet az Apple Musicban közzétett tartalmakkal és az itt megosztott tevékenységekkel együtt. Jelenleg a tartalmak megosztása és közzététele nem gyermekekhez tartozó Apple-fiókokhoz szánt funkciók, és az ilyen fiókokhoz nem érhetők el.
+
+A többi felhasználó adott esetben meg is találhatja az Ön Apple Music-profilját a megadott információk alapján.
+
+Beállíthatja, hogy csak az Ön által kiválasztottak számára legyen elérhető a profiljának tartalma, például a tartalomhallgatási tevékenységei és lejátszási listái. Azonban a profiladatai, például a felhasználói azonosítója, a megjelenített neve, a fotója, a követői és az Ön által követettek alapértelmezés szerint láthatók mindenki számára. Ha meg szeretné akadályozni, hogy egy felhasználó megtekinthesse az Ön profilját, lépjen az adott felhasználó profiljára, koppintson a Továbbiak, majd a Blokkolás lehetőségre. A személyek, akiket blokkolt, nem látják majd az Ön zenéit, és nem találhatják meg az Ön profilját az Apple Musicban.
+
+Amikor profilt hoz létre az Apple Musicban, javasolni fogunk olyan más Apple Music-előfizetőket, akikkel kapcsolatba léphet barátként. Az Apple nem kap és nem tárol el információkat az Ön kontaktjairól, amikor megkeresi az ajánlható barátokat. Kizárólag a kontaktjai között szereplő telefonszámok és e-mail-címek rövidített és titkosított hash értékei lesznek elküldve az Apple-nek, majd ezután az ajánláshoz megfelelő Apple Music-előfizetők helyileg lesznek meghatározva az Ön eszközén. Az Apple Music képes rendszeres időközönként ellenőrizni az Ön kontaktjait, hogy új barátokat ajánljon a jövőben. Ezt a Fiókbeállítások > Adatvédelem és hozzáférés > Kontaktok menüpontban szabályozhatja az Apple Musicban. Ha nem szeretné, hogy mások megtalálják Önt az Apple-fiókjához kapcsolódó kontaktinformációi alapján, amelyek az általuk használt Kontaktokban szerepelhetnek, akkor ezt a Fiókbeállítások > Adatvédelem és hozzáférés > Apple‑fiók alapján történő keresés engedélyezése menüpontban módosíthatja.
+
+Bármikor módosíthatja, illetve eltávolíthatja az Ön által a profiljában megadott információkat. Az interneten történő megosztás során mindig érdemes átgondolni, hogy mit tesz nyilvánosan elérhetővé. Amennyiben az Apple Musicból egyéb webhelyeken vagy közösségi hálózatokban tesz közzé valamit, a megosztott tartalom az adott szolgáltatások adatvédelmi szabályzatának hatálya alá esik.
+
+SharePlay
+
+Amikor előfizet az Apple Musicra, képes lesz SharePlay-lejátszást indítani, amikor Apple TV-hez, HomePodhoz vagy CarPlayhez csatlakozik, vagy amikor Bluetootht használ. A SharePlay használatakor más Apple Music-előfizetők csatlakozhatnak az Ön által indított SharePlay-lejátszáshoz, és vezérelhetik az Apple Musicon keresztül lejátszott zenét. A SharePlay használatakor az Apple Music-előfizetéssel nem rendelkező felhasználók is csatlakozhatnak a SharePlay-lejátszáshoz. Az Apple a Bluetooth használatával (ha azt engedélyezte az eszközén) lehetővé teszi, hogy az Ön közelében található kontaktjai felfedezzék az Apple Music-munkamenetét, és kérelmezzék a csatlakozást. Ha nem szeretné, hogy a kontaktok megtalálhassák az Ön eszközét, és kérhessék a csatlakozást az Ön Apple Music-munkamenetéhez, az Apple Zene app beállításaiban kikapcsolhatja, hogy a közeli kontaktok felfedezhessék Önt. A kontaktok, valamint a többi résztvevő a lejátszáshoz az Apple Zene app beállításaiban megjelenített QR-kód beolvasásával is csatlakozhat, vagy a jármű felhasználói felületén, ha a SharePlay-lejátszáshoz való csatlakozás autóban történik.
+
+A résztvevők neve és profilfotója az összes résztvevő számára látható lesz. A SharePlay-lejátszáshoz való hozzáadások hozzá lesznek rendelve ahhoz a személyhez, aki az adott tevékenységet végezte, valamint társítva lesznek a felhasználó nevéhez és profilképéhez, ha ezek meg v"</item>
+        <item>"annak adva. Ezek az adatok bármikor szerkeszthetők az Apple Zene app beállításaiban. Az Ön által indított SharePlay-lejátszásból eltávolíthat résztvevőket, ha a SharePlay ikonra koppint az Apple Zene appban, majd kiválasztja az eltávolítani kívánt résztvevőt. A SharePlay-lejátszásból való kilépéshez koppintson a SharePlay ikonra az Apple Zene appban, majd koppintson a Kilépés lehetőségre. Az Ön által indított SharePlay-használat befejezéséhez koppintson a Befejezés lehetőségre az Apple Zene appban. Az Apple nem őriz meg információkat az Ön kontaktjairól vagy a többi SharePlay-résztvevőről, miután befejezte a SharePlay használatát.
+
+Ezenkívül a SharePlay-használatot engedélyezheti az Üzenetekben vagy egy FaceTime-hívás során, hogy másokkal szinkronban oszthasson meg zenét. SharePlay indításához válassza ki a hallgatni kívánt zenét, koppintson a zenebeállítások között a SharePlay lehetőségre, adja meg a kontaktokat, akikkel meg szeretné osztani, koppintson az „Üzenetek” vagy „FaceTime” lehetőségre, majd az Indítás gombra.
+
+Lejátszási listák létrehozása és együttműködés lejátszási listákon
+
+Apple Music-előfizetők létrehozhatják saját lejátszási listáikat, vagy használhatják a Playlist Playground funkciót (ahol elérhető), hogy mesterséges intelligencia segítségével hozzanak létre lejátszási listát. Amikor a Playlist Playgroundot használja, leírja, hogy mit szeretne hallani, ami fel lesz dolgozva a hangulat, a műfaj vagy a téma megértéséhez. Ezek az információk a hallgatási előzményeivel és egyéb használati adataival lesznek egyesítve egy személyre szabott lejátszási lista összeállításához. Pontosíthatja a lejátszási listát annak mentése előtt, és bármikor törölheti vagy módosíthatja a létrehozott lejátszási listát.
+
+Lehetősége van lejátszási listákon együttműködni más Apple Music-előfizetőkkel. Ha Ön a lejátszási lista létrehozója, dönthet úgy, hogy minden egyes személyt jóvá kell hagynia, aki a lejátszási listához csatlakozik, vagy megengedheti, hogy bárki automatikusan csatlakozzon a lejátszási listához a link birtokában. Minden résztvevő hozzáadhat és eltávolíthat dalokat a lejátszási listán, valamint emojireakciókat is hozzáadhat. A hozzáadások hozzá lesznek rendelve ahhoz a személyhez, aki az adott tevékenységet végezte, valamint ehhez hozzá lesz társítva a felhasználó neve és profilképe, ha ezek meg vannak adva. Ezek az adatok bármikor szerkeszthetők az Apple Zene app beállításaiban. A lejátszási lista minden résztvevője, valamint a lejátszási listához hozzáféréssel rendelkező személyek láthatják és megtekinthetik a többi résztvevő nevét és fotóját. A lejátszási lista résztvevői megtekinthetik a többi résztvevő által hozzáadott összes dalt és reakciót. Az együttműködés befejezéséhez eltávolíthatja önmagát a lejátszási listából a lejátszási lista beállításaiban, vagy amennyiben Ön a létrehozó, leállíthatja az együttműködést a lejátszási lista együttműködés-kezelési beállításaiban. Ha a lejátszási lista létrehozója leállítja az együttműködést, akkor a lejátszási lista egy megosztott lejátszási listává alakul, amelyhez a közreműködők hozzáférnek a saját Apple Zene-könyvtárukban.
+
+Koncertek
+
+Ha engedélyezi az Apple Musicnak, hogy hozzáférjen az Ön helyzetéhez, a hozzávetőleges helyzete felhasználható egy Ön által választott város mentésére, hogy helyileg releváns információkat kapjon, például a közelben lévő koncertekről. Ha úgy dönt, hogy nem engedélyezi az Apple Music számára a helyzetének elérését, manuálisan is megadhat egy választott várost, hogy megkeresse az adott városban tartott koncerteket. A beállított város szinkronizálva lesz az eszközök között, ha a szinkronizálás engedélyezve van. Módosíthatja a helyzetalapú beállításait bármikor az iOS- vagy iPadOS-eszközén a Beállítások > Adatvédelem és biztonság > Helymeghatározás > Zene menüpontba lépve.
+
+Az Apple Music és az Apple Music Classical személyre szabása és továbbfejlesztése
+
+Amikor az Apple Music-előfizetését használja, vagy nem a könyvtárából származó ingyenes tartalmakat játszik le, előfordulhat, hogy információkat gyűjtünk az Ön által lejátszott, illetve a zenekönyvtárához vagy lejátszási listákhoz hozzáadott dalokkal és videókkal (ha van ilyen), az Ön által kedvencként megjelölt előadókkal és tartalmakkal, valamint azokkal az előadókkal és tartalmakkal kapcsolatban, amelyeket megosztott. Az Apple olyan információkat rögzít és kap meg, mint a lejátszáshoz használt fiók, IP-cím, készülék, app vagy autós felület, illetve hogy Ön az Apple Music vagy az Apple Music Classical melyik részén, mikor és mennyi ideig játszotta le a zenéket. Ezeknek az információknak a segítségével az Ön ízléséhez igazítjuk az Ön felhasználói élményét, e-maileket és értesítéseket küldünk Önnek, és így jobban megismerjük az Apple Music és az Apple Music Classical használati módjait, ami elősegíti a szolgáltatásaink továbbfejlesztését. Például ezek az információk segítenek számunkra az Apple Music és az Apple Music Classical szolgáltatásokban az Ön számára megjelenített zenék, videók és előadói tartalmak kiválasztásában. Ezenkívül lehetővé teszik számunkra, hogy további olyan tartalmakat ajánljunk Önnek, amelyek az Ön ízlését tükrözik, létrehozzunk városi toplistákat, hogy megjeleníthessük az Ön számára az egyes városokban népszerű zeneszámokat, valamint személyre szabott Apple Music-keresési eredményeket jelenítsünk meg Önnek különböző információk, például a lejátszási előzményei és a kedvenc zenei stílusai alapján. Szintén ezeket az információkat használjuk fel a jogdíjak kifizetéséhez, valamint hogy megelőzzük, illetve megszüntessük azokat a tevékenységeket, amelyek sértik vagy sérthetik az Apple Médiaszolgáltatások szerződési feltételeit és a vonatkozó jogszabályokat.
+
+Ha a SharePlayen keresztül más felhasználókkal együtt hallgat tartalmakat az Apple Musicon, akkor az Apple Zene app információkat gyűjthet arról, hogy Ön milyen tartalmakat hallgatott egy SharePlay-munkamenet során, ezenkívül az adott munkamenet résztvevőinek hozzávetőleges számát is begyűjti, azonban nem őriz meg olyan információkat, amelyek a SharePlay-munkamenetek résztvevőit azonosíthatják.
+
+Az Apple Music keresési adatait továbbá arra is felhasználjuk, hogy fejlesszük az Apple Musicot működtető modelleket. Például az Apple Music összesített keresési lekérdezéseit arra használjuk fel, hogy finomhangoljuk az Apple Music keresési modelljének működését.
+
+Az Önnel folytatott kommunikáció
+
+Az Apple felhasználhatja az Ön fiókjával kapcsolatos információkat (például az Ön tulajdonában lévő Apple-termékek, az Ön által letöltött Apple-appok és az Ön Apple-szolgáltatásokra való előfizetései), hogy tájékoztatást küldjön az Apple Music szolgáltatásról, valamint az Önt esetleg érdeklő Apple-termékekről, -szolgáltatásokról és -ajánlatokról, beleértve az Apple Music Classical és az Apple One szolgáltatást is. Előfordulhat, hogy az eszközének sorozatszáma és az egyéb hardverazonosítók, vagy az Ön releváns App Store-előfizetéseivel kapcsolatos információk az Apple-szolgáltatásajánlatokra való jogosultságának ellenőrzéséhez lesznek használva. Ha Ön egy Családi megosztás-csoporthoz tartozik, akkor előfordulhat, hogy az Apple információkat küld Önnek a Családi megosztás funkción keresztül elérhető termékekről, szolgáltatásokról és ajánlatokról. Ha Apple One-előfizetést vásárol, akkor előfordulhat, hogy e‑maileket és push értesítéseket küldünk Önnek minden Ön által előfizetett szolgáltatás funkcióiról. Az Apple felhasználhatja az Ön Apple Music és Apple Music Classical szolgáltatással, valamint az elérhető kedvezményes Apple Music-előfizetésekre (például a diákoknak szóló Apple Music-előfizetésre) való jogosultságának igazolásához használt szolgáltatásokkal végzett tevékenységeit ahhoz is, hogy e‑maileket és push értesítéseket küldjön Önnek az Apple Musicban és az Apple Music Classicalban elérhető új funkciókról, tartalmakról, eseményekről és ajánlatokról. Bizonyos kommunikációk esetén egy hardverazonosító felhasználásával történik az Ön által kapott értesítések szűrése. Az account.apple.com/hu címen módosíthatja az e-mailekkel kapcsolatos beállításokat, valamint leiratkozhat ezekről az e-mailekről. Az értesítési beállítások frissítéséhez iOS-, iPad"</item>
+        <item>"OS- vagy visionOS-eszközön válassza a Beállítások > Értesítések > Zene (visionOS‑en: Settings > Notifications > Music) menüpontot. Macen nyissa meg az Apple Zene appot, és válassza a Beállítások > Általános > Értesítések menüpontot. Az Apple felhasználja az Ön az általunk küldött kommunikációval, többek között az értesítésekkel végzett műveleteivel kapcsolatos adatokat a szolgáltatásaink továbbfejlesztéséhez.
+
+Csalás és más rosszindulatú tevékenységek megakadályozása
+
+Amikor megpróbál vásárolni, egy eszközmegbízhatósági pontszámot számítunk ki az eszközhasználattal kapcsolatos információi alapján, amelyek azt is tartalmazzák, hogy hozzávetőlegesen hány telefonhívást intézett, és hány e-mail-üzenetet küldött és kapott. Az információk beküldése úgy lett megtervezve, hogy az Apple ne tudja megállapítani a mögöttes értékeket az Ön eszközén. A pontszámot meghatározott ideig tároljuk a szervereinken. Ezenkívül az Apple felhasználhatja az Ön Apple-lel való üzleti kapcsolatának előzményeit az Apple Music-előfizetések megújításának feldolgozásához, valamint annak meghatározásához, hogy biztosítson‑e folyamatos hozzáférést az előfizetéséhez a fizetési partner jóváhagyása előtt.
+
+Információk átadása harmadik feleknek
+
+Rádióállomások
+Amikor az Apple Musicot használja rádióállomások hallgatásához, akkor az eszköze közvetlenül a rádióállomáshoz csatlakozik a kért tartalom biztosításához. Amikor csatlakozik, az eszköz IP-címe látható lesz a rádióállomás számára. Az Ön IP-címének rádióállomás által történő kezelésére a rádióállomás vagy annak szolgáltatójának adatvédelmi szabályzata vonatkozik.
+
+Lemezkiadók, előadók és toplisták összeállítói
+Kötelesek vagyunk biztosítani bizonyos, nem személyes jellegű összesített adatokat az Apple Music és az Apple Music Classical szolgáltatás használatáról, továbbá összesített felhasználói demográfiai adatokat, például a korcsoportot és a nemet (amelyek az Apple-fiókjában lévő információk, például a név és a megszólítás alapján megállapíthatók) a lemezvállalatoknak, a kiadóknak és az előadóknak annak érdekében, hogy fel tudják mérni alkotói tevékenységük eredményességét, illetve meg tudjanak felelni a jogdíjakkal és a könyveléssel kapcsolatos követelményeknek. Ezenkívül a zenehallgatási tevékenységekről is megosztunk összesített információkat a világ különböző részein lévő zenei toplisták összeállítóival, a kiadókkal és előadókkal a velük kapcsolatos – többek között valós idejű – érdeklődés mérése érdekében, továbbá olyan marketingplatformokkal, amelyeken keresztül a kiadók és az előadók elérhetik a célközönségüket. Ha Ön egy harmadik félnek minősülő partneren, például mobilhálózati szolgáltatón keresztül fizet elő az Apple Musicra, akkor korlátozott, személyazonosításra alkalmas információkat oszthatunk meg az adott partnerrel annak érdekében, hogy meg lehessen határozni az Ön előfizetésre való jogosultságát, illetve el lehessen végezni a vásárlást.
+
+Az Apple Music összekapcsolása más appokkal
+
+Előfordulhat, hogy iOS-, iPadOS- és visionOS-appok, valamint nem Apple-platformokon található appok hozzáférést kérnek az Apple Musichoz és az Ön felhőkönyvtárához. Ha ilyen engedélyt ad egy appnak, akkor az hozzáférhet az olyan információkhoz, mint az Ön eszközön lévő felhőkönyvtára, az az információ, hogy Ön Apple Music-előfizető-e, az Ön zene- és videólejátszási tevékenységei, valamint az Ön számára az Apple Musicban megjelenített ajánlások. Egy engedélyezett app módosíthatja az Ön fiókjához rendelt adatokat is, például azt, hogy milyen dalok szerepelnek az Ön könyvtárában és lejátszási listáiban. Ha engedélyt ad a Fotók appnak az Apple Musichoz való hozzáférésre, akkor a Fotók az Apple Musicból származó dalokat fog lejátszani az emlékfilmekkel. Amikor egyéni emlékfilmet hoz létre a Fotókban, előfordulhat, hogy az Ön által az emlék létrehozásához beírt kérés a filmmel lejátszott zene kiválasztása céljából el lesz küldve az Apple Musicnak. A támogatott tartalommal rendelkező Apple-appok (például a Távirányító) szintén automatikusan összekapcsolódnak az Apple Zene app és a támogatott tartalmak használatának megkezdésekor. Letilthatja egy app hozzáférését az iOS-, iPadOS- vagy visionOS-eszközének Beállítások > Adatvédelem és biztonság > Média és Apple Music (visionOS‑en: Settings > Privacy &amp; Security > Media &amp; Apple Music) menüpontjában. Macen válassza a Rendszerbeállítások > Adatvédelem és biztonság > Adatvédelem > Média és Apple Music menüpontot. Ha eltávolította az appot, vagy egy app számára egy iOS 11 vagy iPadOS előtti iOS rendszerrel adott hozzáférést, akkor az app hozzáférését az Apple Music-fiókjának beállításaiban tilthatja le.
+
+Apple Music-előfizetések az Apple partnerein keresztül
+
+Ha a mobilhálózati szolgáltatója Apple Music-előfizetéseket és ingyenes próbaidőszakokat kínál, az Apple ellenőrizheti az Ön telefonszámát annak megállapítása céljából, hogy Ön jogosult-e ezekre egy mobilhálózati szolgáltatón keresztül. Ha a mobilhálózati szolgáltatóján vagy egy másik Apple-partneren keresztül regisztrál egy Apple Music-előfizetésre vagy ingyenes próbaidőszakra, akkor az Apple a telefonszáma vagy a partner által megosztott egyedi fiókazonosító segítségével azonosítja be az Ön fiókját, és értesíti a mobilhálózati szolgáltatót vagy a másik partnert, hogy Ön aktiválta az előfizetését. Az előfizetéséhez társított telefonszámát vagy az egyedi azonosítóját arra használjuk fel, hogy ellenőrizzük a fiókját a bejelentkezés során, és hogy az Apple Music szolgáltatásban végzett tevékenységeit a fiókjához rendeljük. A telefonszámát arra is felhasználjuk, hogy az Ön kérése alapján az előfizetése lemondását kérjük a mobilhálózati szolgáltatójánál.
+
+Megőrzés
+
+Az Apple Music és az Apple Music Classical app használatával és az ezekben az appokban végzett műveletekkel kapcsolatos személyes adatokat különböző ideig őrizzük meg az üzleti érdekektől, a szerződéses kötelezettségektől és a jogi követelményektől függően.
+
+A zenehallgatási tevékenységével, a könyvtárában lévő tartalmakkal, a lejátszási listáival és a kereséseivel kapcsolatos információkat az Ön előfizetésének aktív állapota idejére és a fiókja törlését követően legfeljebb két évig őrizzük meg annak érdekében, hogy támogatni tudjuk az előfizetés újraaktiválását, és információkat küldhessünk Önnek az Önt esetlegesen érdeklő zenékről, valamint az olyan ajánlatokról, amelyekre jogosult lehet. Ezeket az információkat akkor is megőrizhetjük, amikor ez szükséges ahhoz, hogy megfeleljünk a pénzügyi beszámolásra vonatkozó kötelezettségeinknek a hatályos törvényekben meghatározott időszakok alatt, amelyek többnyire legalább 10 éves megőrzési időszakot írnak elő, ez azonban egyes jogi szabályozások alá tartozó területeken, például Kínában akár 30 év is lehet.
+
+Ha az előfizetése lejár, az Apple Music egy bizonyos türelmi idő elteltéig megőrizheti azokat a zeneszámokat és lejátszási listákat, amelyeket Ön hozzáadott az Apple Music katalógusából, vagy amelyeket a katalógusból hozott létre, hogy a tartalmak elvesztése nélkül lehessen újraaktiválni az előfizetést. Miután ez az időszak letelt, előfordulhat, hogy az Apple Music katalógusából származó tartalmak elérhetetlenné válnak.
+
+Ha törli az Apple‑fiókját, elképzelhető, hogy bizonyos adatok meg lesznek őrizve, ahol ezt törvény írja elő, továbbá abból a célból, hogy védelmet lehessen biztosítani a csalások ellen, érvényesíteni lehessen az Apple Médiaszolgáltatások használati feltételeit, és gondoskodni lehessen az Apple-szolgáltatások folyamatos biztonságáról.
+
+A személyes adatok feldolgozásának hatályos jogalapja
+
+Az Ön személyes adatait az Apple Musicban az Ön Apple-lel kötött szerződésének végrehajtása érdekében dolgozzuk fel, a szolgáltatás biztosításához és a jogi előírásoknak való megfeleléshez szükséges módon. Ahol a hatályos jogalap a hozzájárulás, ott hozzájárulást kérünk a vonatkozó helyi jogszabályoknak megfelelően.
+
+Ahol a helyi jogszabályok lehetővé teszik, a személyes adatokat feldolgozzuk a saját jogos érdekünkkel vagy harmadik felek jogos érdekeivel kapcsolatos célokra annak érdekében, hogy:
+
+• hozzáférést biztosítsunk Önnek az Apple Music és az Apple Music Classical olyan tartalmaihoz, amelyeket meghallgat, hozzáad a könyvtár"</item>
+        <item>"ához vagy letölt;
+• személyre szabjuk az Ön felhasználói élményét az Apple Music és Apple Music Classical szolgáltatásokban;
+• beazonosíthassuk és elérhetővé tehessük az Ön zeneszámai közül azokat, amelyek az Apple Musicban is rendelkezésre állnak;
+• megállapíthassuk, hogy a tartalom az Ön régiójában elérhető‑e, valamint hogy jogosult‑e Ön ajánlatokra és előfizetésekre;
+• fejleszthessük és optimalizálhassuk az Apple Musicot és az Apple Music Classicalt Ön és mások számára, valamint információkat adjunk át Önnek az Apple Music és az Apple Music Classical appal és más olyan Apple-termékekkel, -szolgáltatásokkal és -ajánlatokkal kapcsolatban, amelyek érdekelhetik Önt;
+• létrehozzuk és kezeljük az Ön Apple Music-profilját és -lejátszási listáit;
+• kifizethessük a jogdíjakat, valamint jelentéseket biztosítsunk a kiadóknak, lemezkiadóknak, előadóknak és a toplisták összeállítóinak;
+• megakadályozzuk a csalásokat és más rosszindulatú tevékenységeket.
+
+A felhasznált adatok a következőket tartalmazzák:
+
+• Az Ön Apple Music és Apple Music Classical appok használatával kapcsolatos információi, beleértve a funkciókkal, az appon belüli értesítésekkel és üzenetekkel végzett műveleteit, valamint az Apple Music és az Apple Music Classical szolgáltatásban Ön által hallgatott, keresett, megtekintett, saját könyvtárához hozzáadott és letöltött tartalmakat;
+• Az Ön eszközére és fiókjára vonatkozó részletek;
+• Az Ön IP-címe;
+• Az Ön Apple Music-profilja és -lejátszási listái;
+• Az eszköz megbízhatósági pontszáma.
+
+Nem személyes adatok
+
+Bármilyen céllal gyűjthetünk, felhasználhatunk, átadhatunk és nyilvánosságra hozhatunk nem személyes adatokat. Például összesített módon felhasználhatjuk az Önnel és az Apple Music többi felhasználójával kapcsolatos nem személyes jellegű adatokat a szolgáltatás továbbfejlesztése céljából. Ezenkívül teljesítménnyel kapcsolatos mérőszámokat is begyűjthetünk az Ön eszközéről, amikor Ön az Apple Music szolgáltatást használja, többek között a rádiófrekvencia erősségét, az országkódot, a hálózatkódot, illetve a mobilhálózaton keresztüli rádióhasználatot lehetővé tévő technológiát.
+
+Bővebben az Apple Musicról
+
+Részletes információkért, beleértve a funkciókat és árakat, látogasson el a www.apple.com/hu/apple-music weboldalra.
+
+Az Apple Music webes lejátszójára és az adatvédelemre vonatkozó bővebb tudnivalókért látogasson el a www.apple.com/legal/privacy/data/hu/apple-music-web weboldalra.
+
+Az Apple által gyűjtött információk mindig az Apple adatvédelmi szabályzata szerint lesznek kezelve, amely megtalálható a www.apple.com/hu/privacy weboldalon."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Néhány zene</item>
+        <item>Valami</item>
+        <item>Zene</item>
+        <item>Saját állomás</item>
+        <item>Saját rádióállomás</item>
+        <item>Néhány dallam</item>
+        <item>Néhány dal</item>
+        <item>Néhány zeneszám, amelyeket szeretek</item>
+        <item>Néhány klassz dal</item>
+        <item>Zeneszámok, amelyeket kedvelek</item>
+    </string-array>
+</resources>
