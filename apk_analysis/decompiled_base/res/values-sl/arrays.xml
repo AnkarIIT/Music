@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>tis</item>
+        <item>mio</item>
+        <item>mrd</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Svetlo</item>
+        <item>Temno</item>
+        <item>Privzeto sistemsko</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Shramba naprave</item>
+        <item>Kartica SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25-kratna</item>
+        <item>0,5-kratna</item>
+        <item>0,75-kratna</item>
+        <item>Običajna</item>
+        <item>1,25-kratna</item>
+        <item>1,5-kratna</item>
+        <item>2-kratna</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple zbira podatke o vaši aktivnosti v storitvah Apple Music in Apple Music Classical, na primer, katere skladbe predvajate in kako dolgo jih predvajate, ter na podlagi tega prilagaja storitve, ko se naročite, vam pošilja obvestila in poravnava obveznosti do partnerjev.</item>
+        <item>Vaša knjižnica v oblaku Apple družbi Apple pošilja podatke iz knjižnice glasbe v vaši napravi, kot so imena skladb in izvajalcev, da identificira in odklene kopije katerihkoli vaših skladb, ki so prav tako na voljo v storitvi Apple Music.</item>
+        <item>Podatke o vaši knjižnici v oblaku povezujemo z vami, dokler je vaša naročnina aktivna in kratek čas po tem. Zapise skladb, ki jih predvajate, hranimo za obdobja, ki jih določajo veljavni zakoni v zvezi s finančnim poročanjem.</item>
+        <item>Za pomoč pri prepoznavanju in preprečevanju goljufij se bodo informacije o tem, kako uporabljate napravo, vključno s približnim številom telefonskih klicev ali e‑poštnih sporočil, ki jih pošljete in prejmete, uporabile za izračun ocene zaupanja za napravo, ko poskusite opraviti nakup. Poslane informacije so oblikovane tako, da Apple ne more izvedeti resničnih vrednosti v vaši napravi. Rezultati se v naših strežnikih hranijo določen čas.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Varovanje zasebnosti in zaščita vaših podatkov je prednostna naloga vseh zaposlenih pri družbi Apple. Prizadevamo si zbirati le podatke, ki so nujni za zagotavljanje kakovostnih storitev. Poleg tega menimo, da je pomembno, da veste, katere podatke zbiramo in zakaj jih potrebujemo, da lahko sprejmete premišljene odločitve. Storitvi Apple Music in Apple Music Classical sta kot vsi drugi izdelki in storitve Apple zasnovani na podlagi teh načel.
+
+Vaše osebne podatke uporabljamo za zagotavljanje storitev in funkcij v storitvi Apple Music. Ti podatki vključujejo vaše ime in fotografijo računa Apple, če ste jo nastavili. Do njih lahko dostopate in jih spreminjate v Nastavitvah aplikacije Glasba za uporabo s funkcijami deljenja v storitvi Apple Music. Podatki prav tako vključujejo informacije o računu, stanju naročnin Apple in plačilu, do katerih imate dostop in jih lahko spreminjate v Nastavitvah ali Nastavitvah sistema.
+
+Ko se naročite na Apple Music, vaša naročnina vključuje poln dostop do aplikacij Glasba in Apple Music Classical. Apple zbira informacije o vaši uporabi storitev Apple Music in Apple Music Classical, da funkcije prilagodi vašemu glasbenemu okusu. Te funkcije vključujejo osebna priporočila, kot so za vas izbrani albumi in seznami predvajanja ter Radio, ki predvaja izbore vaših najljubših izvajalcev in zvrsti. Te informacije uporabljamo tudi zato, da vas lahko prek e‑pošte in potisnih obvestil obvestimo o prihajajočih izdajah, novih izvajalcih in drugih dogodkih v aplikacijah Glasba in Apple Music Classical, ki bi vam morda bili všeč.
+
+Nekatere funkcije Apple Music, kot so določene radijske postaje, morda niso na voljo v vaši regiji. Apple lahko uporabi naslov IP vaše internetne povezave za približno določitev vaše lokacije in razpoložljivosti.
+
+Apple Music Classical
+
+Naročniki na Apple Music imajo dostop do Apple Music Classical, aplikacije za klasično glasbo, ki je zasnovana tako, da vam omogoča odkrivanje klasičnih skladb in albumov ter shranjevanje priljubljenih klasičnih posnetkov na enem osrednjem mestu. Po katalogu storitve Apple Music Classical lahko brskate brez naročnine, za dostop do vseh njenih funkcij pa potrebujete naročnino na storitev Apple Music. Če nimate aktivne naročnine na storitev Apple Music, boste imeli možnost, da se naročite na storitev Apple Music in tako dobite poln dostop do storitve Apple Music Classical.
+
+Knjižnica v oblaku
+
+Vaša knjižnica v oblaku Apple, ki je prednost naročnine na Apple Music, vam omogoča dostop do skladb in seznamov predvajanja v vaši knjižnici iz katerekoli vaše naprave. Ta funkcija družbi Apple pošilja podatke iz knjižnice v vaši napravi, kot so imena skladb in izvajalcev, da identificira in odklene kopije katerihkoli vaših skladb, ki so prav tako na voljo v storitvah Apple Music in Apple Music Classical. Vse skladbe, ki jih ni mogoče najti v storitvi Apple Music, se naložijo v vašo osebno knjižnico v oblaku, tako da lahko v storitvi Apple Music iz katerekoli naprave dostopate do celotne zbirke. Če ne želite več sinhronizirati knjižnice v oblaku v napravi s sistemom iOS, iPadOS ali visionOS, odprite Nastavitve > Aplikacije > Glasba in tapnite za izklop možnosti Sinhroniziraj knjižnico. V Macu odprite aplikacijo Glasba in pojdite v Nastavitve > Splošno ter nato prekličite izbiro možnosti Sinhroniziraj knjižnico.
+
+Profil Apple Music
+
+Če se želite povezati ali deliti vsebine z drugimi osebami, ki uporabljajo storitev Apple Music, lahko s posredovanjem identifikacijskega elementa uporabnika (na primer @janezhorvat), prikaznega imena in po želji slike profila ter drugih informacij ustvarite osebni profil. Apple shrani te informacije z vašim računom, da lahko do njih dostopate iz katerekoli svoje naprave. Vaš identifikacijski element uporabnika, prikazno ime in slika profila se lahko pojavijo ob vsebini, ki jo objavite, in aktivnosti, ki jo delite v storitvi Apple Music. Deljenje in objavljanje vsebin trenutno ni namenjeno računom Apple za otroke oziroma jim ni na voljo.
+
+Z informacijami, ki ste jih posredovali, lahko druge osebe najdejo vaš profil Apple Music.
+
+Izberete lahko, da bo vsebina vašega profila, kot so vaša aktivnost poslušanja in seznami predvajanja, na voljo samo izbranim osebam. Kljub temu so podatki o vašem profilu, kot so identifikacijski element, prikazno ime, slika, osebe, ki vas spremljajo, in navedba, koga vi spremljate, privzeto vidni vsem. Če želite določenemu uporabniku preprečiti ogledovanje vašega profila, odprite njegov profil, tapnite Več in nato možnost Blokiraj. Ljudem, ki ste jih blokirali, vaša glasba in profil v storitvi Apple Music ne bosta vidna.
+
+Ko ustvarite profil v storitvi Apple Music, vam bomo priporočali druge naročnike na storitev Apple Music, s katerimi bi se morda želeli povezati kot prijatelj. Apple med iskanjem prijateljev za priporočila ne dobi ali hrani informacij vaših stikov. Družbi Apple se pošljejo le skrajšane in šifrirane preslikovalne vrednosti telefonskih številk in e‑poštnih naslovov vaših stikov, ustrezni naročniki na storitev Apple Music za priporočila pa se nato določijo lokalno v vaši napravi. V prihodnje lahko storitev Apple Music občasno preverja vaše stike za priporočanje novih prijateljev; to lahko upravljate tako, da odprete Nastavitve računa > Zasebnost in dostop > Stiki v storitvi Apple Music. Če ne želite, da vas druge osebe lahko najdejo na podlagi podatkov za stik računa Apple, ki jih morda imajo o vas v svojih stikih, lahko to spremenite tako, da odprete Nastavitve računa > Zasebnost in dostop > Dovoli iskanje po računu Apple.
+
+Informacije, ki jih posredujete v svoj profil, lahko kadarkoli posodobite ali odstranite. Dobro premislite, katere vsebine želite javno deliti v spletu. Za vsebine iz storitve Apple Music, ki jih delite z drugimi spletnimi mesti ali na družbenih omrežjih, veljajo pravilniki o zasebnosti teh drugih storitev.
+
+SharePlay
+
+Ko se naročite na Apple Music, lahko gostite seje SharePlay in sodelujete v njih, ko imate vzpostavljeno povezavo z Apple TV‑jem, zvočnikom HomePod, funkcijo CarPlay ali ko uporabljate Bluetooth. Funkcija SharePlay omogoča, da se vam drugi naročniki storitve Apple Music pridružijo v seji SharePlay in upravljajo glasbo, ki se predvaja prek storitve Apple Music. Funkcija SharePlay tudi uporabnikom, ki niso naročeni na storitev Apple Music, omogoča, da se lahko pridružijo vaši seji SharePlay. Apple uporablja Bluetooth, če je omogočen v vaši napravi, da stikom v bližini omogoči odkrivanje vaše seje Apple Music in zahtevanje pridružitve seji. Če ne želite, da lahko stiki odkrijejo vašo napravo ali zahtevajo pridružitev vaši seji Apple Music, lahko izklopite možnost odkrivanja za stike v bližini v nastavitvah aplikacije Glasba. Tako stiki kot drugi udeleženci se lahko pridružijo seji s skeniranjem kode QR, ki je prikazana v nastavitvah aplikacije Glasba, ali v vmesniku vozila, če se udeležujejo seje SharePlay v avtomobilu.
+
+Ime in slika profila udeležencev v seji bosta vidna vsem v seji. Prispevki v seji SharePlay so pripisani osebi, ki jih je ustvarila. Povezani so z imenom in sliko profila tega uporabnika (če je na voljo), ki ju lahko kadarkoli spremenite v nastavitvah aplikacije Glasba. Če želite odstraniti udeležence iz seje SharePlay, v aplikaciji Glasba tapnite ikono SharePlay in nato izberite udeleženca, ki ga želite odstraniti. Če želite zapustiti sejo SharePlay, v aplikaciji Glasba tapnite ikono SharePlay in nato možnost Zapusti. Če želite končati sejo SharePlay, ki jo gostite, tapnite Končaj v aplikaciji Glasba. Apple po koncu seje ne zadržuje informacij o stikih ali drugih udeležencih, ki so se pridružili seji SharePlay.
+
+Seje SharePlay lahko omogočite tudi v Sporočilih ali med klicem FaceTime, da sinhronizirano delite glasbo z drugimi. Za začetek seje izberite glasbo, ki jo želite poslušati, nato tapnite SharePlay v možnostih glasbe, vnesite stike, s katerimi želite deliti, ter nato tapnite »Sporočila« ali »FaceTime« in Začni.
+
+Ustvarjanje in sodelovanje pri seznamih predvajanja
+
+Naročniki na storitev Apple Music lahko ustvarjajo lastne sezname predvajanja ali uporabijo funkcijo Playground za seznam predvajanja, kjer je na voljo, da ustvarijo seznam predvajanja z um"</item>
+        <item>"etno inteligenco. Ko uporabljate funkcijo Playground za seznam predvajanja, boste opisali, kaj želite slišati, kar bo obdelano za razumevanje razpoloženja, zvrsti ali teme. Ti podatki bodo združeni z vašo zgodovino poslušanja in drugimi podatki o uporabi, da se lahko oblikuje prilagojen seznam predvajanja. Seznam predvajanja lahko pred shranjevanjem dodelate, ustvarjeni seznam predvajanja pa lahko kadarkoli izbrišete ali spremenite.
+
+Pri urejanju seznamov predvajanja lahko sodelujete z drugimi naročniki na Apple Music. Če ste ustvarjalec seznama predvajanja, lahko izberete, da odobrite vsako osebo, ki se pridruži seznamu predvajanja, ali pa omogočite samodejni dostop vsem osebam, ki imajo povezavo do seznama predvajanja. Vsi udeleženci lahko dodajajo in odstranjujejo skladbe s seznama predvajanja ter dodajajo emojije z odzivi. Prispevki so dodeljeni posamezniku, ki jih je vnesel, ter so povezani z imenom in sliko profila tega uporabnika, če je na voljo. Ime in sliko profila je mogoče kadarkoli urediti v nastavitvah aplikacije Glasba. Vsi udeleženci seznama predvajanja in vsi z dostopom do seznama predvajanja lahko vidijo ter si ogledujejo imena in slike drugih udeležencev. Udeleženci seznama predvajanja lahko vidijo vse skladbe in odzive, ki so jih dodali drugi udeleženci. Če želite prekiniti sodelovanje, se odstranite s seznama predvajanja v nastavitvah seznama predvajanja, ali če ste ustvarjalec, prekinite sodelovanje v nastavitvah za upravljanje sodelovanja v seznamu predvajanja. Če ustvarjalec seznama predvajanja konča sodelovanje, seznam predvajanja postane deljen seznam predvajanja, do katerega bodo imeli udeleženci dostop v svoji knjižnici v storitvi Apple Music.
+
+Koncerti
+
+Če storitvi Apple Music dovolite dostop do svoje lokacije, se lahko vaša približna lokacija uporabi za shranjevanje želenega mesta, ki vas zanima, za zagotavljanje lokalno relevantnih informacij, kot so koncerti v bližini. Če se odločite, da storitvi Apple Music ne boste dovolili dostopa do vaše lokacije, lahko ročno vnesete mesto, ki vas zanima, da poiščete koncerte v tem mestu. Če je sinhroniziranje omogočeno, se bo mesto, ki vas zanima, sinhroniziralo v vseh napravah. Nastavitve na podlagi lokacije lahko v napravi s sistemom iOS ali iPadOS kadarkoli spremenite tako, da odprete Nastavitve > Zasebnost in varnost > Lokacijske storitve > Glasba.
+
+Prilagajanje in izboljšava storitev Apple Music in Apple Music Classical
+
+Ko uporabljate naročnino na Apple Music ali predvajate brezplačno vsebino izven svoje knjižnice, lahko zbiramo informacije o skladbah in videih (kjer je primerno), ki jih predvajate ali dodajate v knjižnico glasbe ali na sezname predvajanja, ter vaših priljubljenih izvajalcih in vsebini, ki vam je pri srcu ali jo delite. Informacije, kot so račun, naslov IP in naprava, aplikacija ali avtomobilski vmesnik, ki ste ga uporabili za predvajanje, kje ste bili v storitvi Apple Music ali Apple Music Classical, ko ste predvajali glasbo, ter čas in trajanje predvajanja, se zabeležijo in pošljejo družbi Apple. Te informacije uporabljamo za prilagajanje vaše izkušnje, pošiljanje e‑poštnih sporočil in obvestil ter pomoč pri razumevanju načina uporabe storitev Apple Music in Apple Music Classical, da lahko izboljšamo svoje storitve. Te informacije nam lahko na primer pomagajo pri izbiri glasbe, videoposnetkov in vsebin o izvajalcih, ki vam jih prikazujemo v storitvah Apple Music in Apple Music Classical. Prav tako nam omogočajo, da pripravimo druga priporočila, ki odražajo vaš okus, ustvarimo lestvice glede na mesto, ki prikazujejo popularno glasbo po mestih, in zagotovimo prilagojene rezultate iskanja storitve Apple Music z uporabo več informacij, kot so vaša zgodovina poslušanja in vaše najljubše zvrsti. Te informacije uporabljamo tudi za plačilo licenčnin in preprečevanje ali ukrepanje proti aktivnostim, ki so ali bi lahko bile v nasprotju s pogoji in določili Storitev predstavnostnih vsebin Apple ali veljavno zakonodajo.
+
+Če uporabljate funkcijo SharePlay za poslušanje vsebin z drugimi uporabniki storitve Apple Music, bo aplikacija Glasba zbirala informacije o vsebini, ki ste jo poslušali v času seje SharePlay, in približno število udeležencev v seji, ne hrani pa informacij o identiteti udeležencev seje SharePlay.
+
+Uporabljamo tudi podatke o iskanju v storitvi Apple Music, da bi izboljšali modele, na podlagi katerih deluje storitev Apple Music. Združene iskalne poizvedbe v storitvi Apple Music se na primer uporabljajo za natančno nastavljanje iskalnega modela storitve Apple Music.
+
+Komunikacija z vami
+
+Apple lahko uporablja informacije o vašem računu, kot so izdelki Apple, ki jih imate v lasti, aplikacije Apple, ki jih prenašate, in vaše naročnine na storitve Apple, za pošiljanje sporočil o storitvi Apple Music ter drugih izdelkih, storitvah in ponudbah družbe Apple, ki bi vas morda zanimale, vključno z Apple Music Classical in Apple One. Serijska številka in drugi identifikatorji strojne opreme naprave ali podatki o pomembnih naročninah v trgovini App Store se lahko uporabijo za preverjanje upravičenosti do ponudb za storitve Apple. Če ste v skupini Deljenje v družini, vam lahko Apple pošilja sporočila o izdelkih, storitvah in ponudbah, ki so vam na voljo prek Deljenja v družini. Če kupite naročnino Apple One, vam lahko pošiljamo e‑poštna sporočila in potisna obvestila o funkcijah posameznih storitev, na katere ste se naročili. Apple lahko informacije o vaši aktivnosti v storitvah Apple Music in Apple Music Classical ter vaši interakciji s storitvami, ki se uporabljajo za preverjanje upravičenosti za razpoložljive znižane naročnine na storitev Apple Music (na primer Apple Music Student), uporablja tudi za to, da vam lahko pošilja e‑poštna sporočila in potisna obvestila o novih funkcijah, vsebinah, dogodkih ter ponudbah, ki so na voljo v storitvah Apple Music in Apple Music Classical. Pri nekaterih komunikacijah se za filtriranje obvestil, ki jih boste prejeli, uporablja identifikator strojne opreme. Na strani account.apple.com lahko spremenite svoje nastavitve e‑pošte ali pa se odjavite od prejemanja teh e‑poštnih sporočil. Če želite posodobiti nastavitve za obvestila v napravi s sistemom iOS, iPadOS ali visionOS, odprite Nastavitve > Obvestila > Glasba. V Macu odprite aplikacijo Glasba in odprite Nastavitve > Splošno > Obvestila. Apple informacije o vaših interakcijah uporablja za svoje komunikacijske kanale, vključno z obvestili, za namene izboljšanja svojih storitev.
+
+Preprečevanje goljufij in drugih zlonamernih aktivnosti
+
+Ko poskusite opraviti nakup, izračunamo oceno zaupanja za napravo, pri čemer uporabljamo informacije o tem, kako uporabljate napravo, vključno s približnim številom telefonskih klicev ali e‑poštnih sporočil, ki jih pošljete in prejmete. Poslane informacije so oblikovane tako, da Apple ne more prepoznati temeljnih vrednosti v vaši napravi. Rezultat se v naših strežnikih hrani določen čas. Apple lahko uporablja tudi informacije o zgodovini vašega poslovnega odnosa z družbo Apple, da obdela podaljšanje naročnine na storitev Apple Music in določi, ali zagotoviti neprekinjen dostop do vaše naročnine pred pooblastilom partnerja za plačila.
+
+Razkrivanje tretjim osebam
+
+Radijske postaje
+Ko uporabljate storitev Apple Music za poslušanje radia, se vaša naprava poveže neposredno z radijsko postajo, da vam zagotovi zahtevano vsebino. Ko se poveže, bo naslov IP vaše naprave viden radijski postaji. To, kako radijska postaja uporablja vaš naslov IP, urejajo pravilniki o zasebnosti radijske postaje ali njenega ponudnika.
+
+Založbe, izvajalci in ustvarjalci lestvic
+Nekatere združene neosebne podatke o uporabi storitev Apple Music in Apple Music Classical, kot tudi združene demografske podatke uporabnikov, kot sta starostna skupina in spol (ki lahko izhajajo iz podatkov, kot sta vaše ime in pozdrav v vašem računu Apple), smo zavezani posredovati založbam, založnikom in izvajalcem, da lahko merijo učinkovitost svojega ustvarjalnega dela ter izpolnjujejo zahteve glede licenčnin in računovodstva. Poleg tega delimo združene podatke o aktivnosti poslušanja z ustvarjalci glasbenih lestvic z vsega sveta, založbami in izvajalci za ugotavljanje priljubljenosti"</item>
+        <item>" med poslušalci, vključno s tisto v realnem času, in platformami za trženje glasbe, ki pomagajo založbam in izvajalcem doseči poslušalce. Za določitev vaše upravičenosti do naročnine, če se naročite na Apple Music prek zunanjega partnerja, kot je ponudnik mobilnega omrežja, ali za dokončanje nakupa bomo s tem partnerjem delili omejene podatke, ki vas lahko identificirajo.
+
+Povezovanje storitve Apple Music z drugimi aplikacijami
+
+Aplikacije v napravi s sistemom iOS, iPadOS in visionOS ter aplikacije na platformah drugih ponudnikov lahko zahtevajo dostop do storitve Apple Music in vaše knjižnice v oblaku. Če podate to dovoljenje aplikaciji, lahko ta dostopa do informacij, kot so vaša knjižnica v oblaku v napravi, ali ste naročnik na storitev Apple Music, aktivnost predvajanja glasbe in videov ter priporočila v storitvi Apple Music. Aplikacija, ki ste ji podali dovoljenje, lahko med drugim spreminja podatke, povezane z vašim računom, na primer, katere skladbe so v vaši knjižnici in na seznamih predvajanja. Če aplikaciji Fotografije dovolite dostop do storitve Apple Music, bo aplikacija Fotografije uporabljala skladbe iz storitve Apple Music za predvajanje ob kolažih spominov. Ko v aplikaciji Fotografije ustvarite prilagojen kolaž spominov, se lahko podatki o pozivu, ki ga vnesete za ustvarjanje spominov, pošljejo storitvi Apple Music za namene izbire glasbe, ki se bo predvajala ob kolažu. Tudi aplikacije Apple s podprto vsebino, kot je Daljinec, bodo samodejno povezane, ko začnete uporabljati aplikacijo Glasba in podprto vsebino. Dostop aplikacije v napravi s sistemom iOS, iPadOS ali visionOS lahko onemogočite tako, da odprete Nastavitve > Zasebnost in varnost > Predstavnostne vsebine in Apple Music. V Macu odprite Nastavitve sistema > Zasebnost in varnost > Zasebnost > Predstavnostne vsebine in Apple Music. Če ste odstranili aplikacijo ali aplikaciji dovolili dostop v različici sistema iOS, ki je starejša od iOS 11, ali sistemu iPadOS, lahko njen dostop prekličete v nastavitvah računa Apple Music.
+
+Naročnine na storitev Apple Music prek partnerjev družbe Apple
+
+Če vaš ponudnik mobilnega omrežja ponuja naročnine za storitev Apple Music in brezplačne preizkuse, lahko Apple prek ponudnika mobilnega omrežja preveri vašo telefonsko številko in določi vašo upravičenost. Če sklenete naročnino za storitev Apple Music ali pridobite brezplačni preizkus prek ponudnika mobilnega omrežja ali drugega partnerja družbe Apple, bo družba Apple vašo telefonsko številko ali enolični identifikator računa, ki ga deli zadevni partner, uporabila za identifikacijo vašega računa in obveščanje ponudnika mobilnega omrežja ali drugega partnerja o aktivaciji vaše naročnine. Telefonsko številko ali enolični identifikator, povezan z vašo naročnino, bomo uporabili za preverjanje računa med vpisom in povezovanje vaše aktivnosti v storitvi Apple Music z vašim računom. Vašo telefonsko številko uporabljamo tudi za zahtevo za preklic naročnine s ponudnikom mobilnega omrežja na vašo zahtevo.
+
+Hramba
+
+Osebne podatke, povezane z vašo uporabo storitev Apple Music in Apple Music Classical ter interakcijo z njima, hranimo različno dolgo, odvisno od poslovnih potreb, pogodbenih obveznosti in pravnih zahtev.
+
+Informacije o vaši aktivnosti poslušanja, vsebini knjižnice, seznamih predvajanja in iskanjih se hranijo, dokler je aktivna vaša naročnina in do dve leti po preklicu računa, da so lahko v pomoč pri ponovni aktivaciji in da vam pošiljamo sporočila o glasbi, ki bi vas morda zanimala, in ponudbah, do katerih ste morda upravičeni. Kjer je potrebno, te informacije lahko hranimo tudi za skladnost z zahtevami glede finančnega poročanja za obdobja, ki jih določajo veljavni zakoni, ki pogosto zahtevajo vsaj 10-letno obdobje hrambe, v pravnih sistemih, kot je Kitajska, pa lahko to obdobje traja do 30 let.
+
+Če se vaša naročnina konča, lahko storitev Apple Music za obdobje odloga hrani glasbo in sezname predvajanja, ki ste jih dodali ali ustvarili iz kataloga storitve Apple Music, da bi omogočila ponovno aktivacijo brez izgube vsebine. Po tem obdobju lahko vsebina iz kataloga storitve Apple Music postane nedostopna.
+
+Če izbrišete račun Apple, se lahko nekateri podatki hranijo, kjer to zahteva zakon, ali za zaščito pred goljufijami, uveljavitev pogojev in določil storitev predstavnostnih vsebin Apple ali za ohranjanje varnosti storitev Apple.
+
+Veljavna pravna podlaga za obdelavo osebnih podatkov
+
+Vaše osebne podatke v storitvi Apple Music v splošnem obdelujemo za namene izvajanja vaše pogodbe z družbo Apple, kot je potrebno za zagotavljanje storitve in izpolnjevanje naših zakonskih obveznosti. Kjer je soglasje ustrezna pravna podlaga, ga zahtevamo v skladu z veljavno lokalno zakonodajo.
+
+Kjer veljavna lokalna zakonodaja dovoljuje, po potrebi obdelujemo osebne podatke za namene naših zakonitih interesov ali interesov tretjih strank za:
+
+• zagotavljanje dostopa do vsebine v storitvah Apple Music in Apple Music Classical, ki jo poslušate, dodajate v knjižnico ali prenašate,
+• prilagajanje vaše uporabniške izkušnje v aplikacijah Glasba in Apple Music Classical,
+• identifikacijo in odklepanje kopij vaših skladb, ki so prav tako na voljo prek storitve Apple Music,
+• določanje razpoložljivosti vsebine v vaši regiji ter vaše upravičenosti do ponudb in naročnin,
+• izboljšanje in optimizacijo storitev Apple Music in Apple Music Classical za vas in druge ter za pošiljanje sporočil o aplikacijah Glasba in Apple Music Classical ter drugih izdelkih, storitvah in ponudbah družbe Apple, ki bi vas morda zanimale,
+• ustvarjanje in ohranjanje vašega profila Apple Music in seznamov predvajanja,
+• plačevanje licenčnin in poročanje založnikom, založbam, izvajalcem in ustvarjalcem lestvic,
+• preprečevanje goljufij in drugih zlonamernih aktivnosti.
+
+Uporabljeni podatki vključujejo:
+
+• vašo uporabo aplikacij Glasba in Apple Music Classical, vključno z vašimi interakcijami s funkcijami, obvestili in sporočili v aplikaciji ter vsebino, ki jo poslušate, iščete, si jo ogledujete, dodajate v svojo knjižnico in prenašate v storitvah Apple Music in Apple Music Classical,
+• podrobnosti o vaši napravi in računu,
+• vaš naslov IP,
+• vaš profil Apple Music in sezname predvajanja,
+• oceno zaupanja za napravo.
+
+Neosebni podatki
+
+Neosebne podatke lahko zbiramo, uporabljamo, prenašamo in razkrivamo za poljubne namene. Vaše neosebne podatke lahko na primer združimo s podatki drugih uporabnikov storitve Apple Music za namene izboljšanja storitve. Prav tako lahko zbiramo določene meritve delovanja vaše naprave, ko uporabljate storitev Apple Music, vključno z močjo radijske frekvence, kodo države, kodo omrežja in tehnologijo mobilnega radijskega dostopa.
+
+Več o storitvi Apple Music
+
+Za več podrobnih informacij, vključno s funkcijami in cenami, obiščite www.apple.com/apple-music.
+
+Za več informacij o spletnem predvajalniku Apple Music in zasebnosti obiščite www.apple.com/legal/privacy/data/en/apple-music-web.
+
+Podatki, ki jih zbira družba Apple, bodo vedno obravnavani v skladu s pravilnikom o zasebnosti družbe Apple, ki je na voljo na naslovu www.apple.com/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Nekaj glasbe</item>
+        <item>Nekaj</item>
+        <item>Glasba</item>
+        <item>Moja postaja</item>
+        <item>Moja radijska postaja</item>
+        <item>Nekaj melodij</item>
+        <item>Nekaj skladb</item>
+        <item>Nekaj glasbe, ki mi je pri srcu</item>
+        <item>Nekaj dobrih skladb</item>
+        <item>Glasba, ki mi je všeč</item>
+    </string-array>
+</resources>
