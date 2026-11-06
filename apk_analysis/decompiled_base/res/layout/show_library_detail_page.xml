@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/show_library_detail_page_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/library_progress_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="3.0dip" android:max="100" android:progress="0" android:indeterminate="false" style="@android:style/Widget.ProgressBar.Horizontal" />
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/coordinator_layout" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/library_refresh_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/offline_indication_bar">
+            <com.apple.android.music.common.recyclerview.SafeRecyclerView android:id="@id/library_details_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+        <com.apple.android.music.library.FastScroller android:gravity="end" android:id="@id/fastscroller" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <include android:id="@id/error_layout" android:visibility="gone" layout="@layout/library_error_page" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>
