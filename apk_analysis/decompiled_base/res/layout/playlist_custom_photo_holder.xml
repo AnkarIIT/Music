@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/playlist_custom_photo_holder_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:tag="binding_1" android:background="@color/tertiary_fill_color" android:layout_width="@dimen/imageview_container_size" android:layout_height="@dimen/artwork_container_size" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:roundedBackground="true" app:roundedCornerRadius="@dimen/smaller_margin_10" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
