@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="29.0dip" android:width="29.0dip" android:viewportWidth="29.0" android:viewportHeight="29.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$songcredits_dolby__0" android:pathData="M14.5,14.5m-14.5,0a14.5,14.5 0,1 1,29 0a14.5,14.5 0,1 1,-29 0" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M9.056,9.539C11.716,9.539 13.884,11.767 13.884,14.5C13.884,17.233 11.716,19.461 9.056,19.461L7.632,19.461L7.632,9.539L9.056,9.539ZM21.368,9.539L21.368,19.461L19.944,19.461C17.284,19.461 15.116,17.233 15.116,14.5C15.116,11.767 17.284,9.539 19.944,9.539L21.368,9.539Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>
