@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/content_layout_library_section_0" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/library_refresh_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <com.apple.android.music.common.recyclerview.SafeRecyclerView android:orientation="vertical" android:id="@id/library_details_list" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <com.apple.android.music.library.FastScroller android:gravity="end" android:id="@id/fastscroller" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/error_loader_container" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/artist_with_no_content_container" android:visibility="gone" layout="@layout/library_artist_details_with_no_content" />
+        <com.apple.android.music.common.views.Loader android:layout_gravity="center" android:id="@id/progress_loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:horizontal="true" />
+        <include android:id="@id/error_layout" android:visibility="gone" layout="@layout/library_error_page" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
