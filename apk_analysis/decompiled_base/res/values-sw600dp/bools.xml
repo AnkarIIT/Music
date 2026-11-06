@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_tablet">true</bool>
+    <bool name="listen_now_is_super_hero_tall">false</bool>
+    <bool name="listen_now_show_friends_upsell_subtitle">true</bool>
+    <bool name="listen_now_show_user_profile_badge">false</bool>
+    <bool name="share_lyrics_animate_launch">false</bool>
+</resources>
