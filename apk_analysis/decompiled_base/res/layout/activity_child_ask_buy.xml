@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/main_container" android:tag="layout/activity_child_ask_buy_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.apple.android.music.common.views.CustomTextView android:id="@id/child_account_ask_buy_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" style="@style/DefaultFont" />
+                <RadioGroup android:orientation="vertical" android:id="@id/child_account_ask_to_buy_rg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkedButton="@id/child_account_ask_buy_option_on">
+                    <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/child_account_ask_buy_option_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" android:text="@string/add_member_asktobuy_turn_on" style="@style/FormRadioButton" />
+                    <androidx.appcompat.widget.AppCompatRadioButton android:id="@id/child_account_ask_buy_option_off" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_member_asktobuy_turn_off" style="@style/FormRadioButton" />
+                </RadioGroup>
+            </LinearLayout>
+        </ScrollView>
+        <com.apple.android.music.common.views.ButtonsBottomBar android:id="@id/buttons_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
