@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/large_list_d_artist_multiroom_0" android:paddingTop="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:id="@id/list_profile_icon" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/list_profile_text_container" android:paddingBottom="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" android:layout_below="@id/list_profile_icon" android:layout_alignStart="@id/list_profile_icon" android:layout_alignEnd="@id/list_profile_icon">
+        <com.apple.android.music.common.views.CustomTextView android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" style="@style/MediumListTitleStyle" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="3" style="@style/MediumListTitleStyle" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:tag="binding_4" android:paddingTop="6.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Footnote" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:tag="binding_5" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" style="@style/Subhead" />
+    </LinearLayout>
+</RelativeLayout>
