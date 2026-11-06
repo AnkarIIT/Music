@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/header_page_uber_container" android:tag="layout/header_page_uber_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:id="@id/header_page_b_top_imageview" android:tag="binding_1" android:background="#00ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="@dimen/header_page_uber_ratio" app:roundedBackground="false" />
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/default_padding" />
+</LinearLayout>
