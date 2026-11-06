@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/main_container" android:tag="layout/fragment_landing_search_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <eightbitlab.com.blurview.BlurTarget android:id="@id/blur_target" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.recyclerview.ExclusiveViewPoolEpoxyRecyclerView android:orientation="vertical" android:id="@id/landing_search_recycler" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </eightbitlab.com.blurview.BlurTarget>
+    <androidx.compose.ui.platform.ComposeView android:id="@id/floating_app_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <Space android:id="@id/status_bar_spacer" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="parent" />
+    <include android:id="@id/title_header_spacer" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/status_bar_spacer" layout="@layout/listen_now_page_header_c2_profile" />
+    <eightbitlab.com.blurview.BlurView android:id="@id/floating_search_bar_blur" android:tag="binding_2" android:background="@drawable/bg_corner_radius_l" android:layout_width="0.0dip" android:layout_height="@dimen/search_view_background_height" android:outlineProvider="background" app:layout_constraintBottom_toBottomOf="@id/floating_search_bar" app:layout_constraintEnd_toEndOf="@id/floating_search_bar" app:layout_constraintStart_toStartOf="@id/floating_search_bar" app:layout_constraintTop_toTopOf="@id/floating_search_bar" />
+    <include android:id="@id/floating_search_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/title_header_spacer" layout="@layout/search_layout" />
+    <include android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/search_layout_container" layout="@layout/view_loader_include" />
+    <include android:id="@id/search_layout_container" android:visibility="gone" layout="@layout/search_offline_layout" />
+</androidx.constraintlayout.widget.ConstraintLayout>
