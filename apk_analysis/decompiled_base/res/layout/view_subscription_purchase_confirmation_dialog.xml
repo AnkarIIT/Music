@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/subscription_purchase_confirmation_dialog_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DialogTitle" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/subscription_purchase_confirmation_dialog_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin" style="@style/DialogDescription" />
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="end" android:orientation="horizontal" android:paddingTop="@dimen/smaller_margin_10" android:paddingBottom="@dimen/smaller_margin_10" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="start" android:id="@id/cancel_button" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DialogButton" />
+        <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="end" android:id="@id/confirm_button" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DialogButton" />
+    </LinearLayout>
+</LinearLayout>
