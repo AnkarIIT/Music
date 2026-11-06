@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root_view" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/content_root_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/toolbar_actionbar" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding">
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/amf_profile_privacy_find_by_apple_id_title" style="@style/SmallListATitleStyle" />
+                <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:id="@id/profile_privacy_sub_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Footnote" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center" android:id="@id/toggle_switch_discoverable" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/connect_item_view_padding" />
+        </LinearLayout>
+        <View android:background="@drawable/divider_line" android:layout_width="fill_parent" android:layout_height="@dimen/line_divider_stroke" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding">
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <com.apple.android.music.common.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/amf_profile_privacy_friend_recommendation_from_contact_title" style="@style/SmallListATitleStyle" />
+                <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amf_profile_privacy_friend_recommendation_from_contact_subtitle" style="@style/Footnote" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center" android:id="@id/toggle_switch_contact_check" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/connect_item_view_padding" />
+        </LinearLayout>
+        <View android:background="@drawable/divider_line" android:layout_width="fill_parent" android:layout_height="@dimen/line_divider_stroke" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/about_account_privacy" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/default_padding">
+            <com.apple.android.music.common.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_and_privacy" style="@style/SmallListATitleStyle" />
+        </LinearLayout>
+        <View android:background="@drawable/divider_line" android:layout_width="fill_parent" android:layout_height="@dimen/line_divider_stroke" />
+    </LinearLayout>
+</FrameLayout>
