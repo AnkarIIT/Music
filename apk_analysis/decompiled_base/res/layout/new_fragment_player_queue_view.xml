@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/container" android:tag="layout/new_fragment_player_queue_view_0" android:background="@android:color/transparent" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/queue_current_player_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/current_player_item" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_padding" app:layout_constraintBottom_toTopOf="@id/player_action_buttons" app:layout_constraintTop_toTopOf="parent" layout="@layout/layout_currently_playing_header" />
+    <include android:id="@id/player_action_buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/sticky_header_clip_container" app:layout_constraintTop_toBottomOf="@id/current_player_item" layout="@layout/layout_player_buttons" />
+    <FrameLayout android:id="@id/sticky_header_clip_container" android:background="@android:color/transparent" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/recycler_view_gradients" app:layout_constraintTop_toBottomOf="@id/player_action_buttons">
+        <FrameLayout android:id="@id/sticky_header_container" android:background="@android:color/transparent" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <com.apple.android.music.common.views.AlphaGradientFrameLayout android:id="@id/recycler_view_gradients" android:layout_width="0.0dip" android:layout_height="0.0dip" app:gradient_edge="bottom" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/sticky_header_clip_container">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/queue_main_content" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.apple.android.music.common.views.AlphaGradientFrameLayout>
+    <FrameLayout android:id="@id/controls" android:tag="binding_1" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintHeight_default="percent" app:layout_constraintHeight_percent="@integer/player_controls_height_percent">
+        <include android:id="@id/player_controls" layout="@layout/constraint_player_media_controls" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
