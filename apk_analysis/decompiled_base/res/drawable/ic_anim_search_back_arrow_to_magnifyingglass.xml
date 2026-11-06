@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_2_G" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__1" />
+    <target android:name="_R_G_L_2_G" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__16" />
+    <target android:name="_R_G_L_2_G" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__17" />
+    <target android:name="_R_G_L_1_G_D_0_P_0" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__18" />
+    <target android:name="_R_G_L_1_G_T_1" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__49" />
+    <target android:name="_R_G_L_1_G_T_1" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__80" />
+    <target android:name="_R_G_L_1_G_T_1" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__141" />
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__172" />
+    <target android:name="_R_G_L_0_G_T_1" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__203" />
+    <target android:name="_R_G_L_0_G_T_1" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__234" />
+    <target android:name="time_group" android:animation="@drawable/$ic_anim_search_back_arrow_to_magnifyingglass__295" />
+</animated-vector>
