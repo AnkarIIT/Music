@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="large_list_d2_column">1.5</item>
+    <dimen name="middleMargin">20.0dip</dimen>
+</resources>
