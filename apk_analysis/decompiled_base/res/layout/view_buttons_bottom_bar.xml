@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="end|center" android:orientation="horizontal" android:id="@id/bottom_bar" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="45.0dip" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding" />
+    <View style="@style/Divider" />
+</FrameLayout>
