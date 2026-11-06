@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/header_container" android:tag="layout/header_page_d_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/header_main_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.CustomImageView android:id="@id/header_top_imageview" android:tag="binding_1" android:background="#00ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="1.562" app:roundedBackground="false" />
+        <ImageView android:layout_gravity="center" android:id="@id/header_play_button" android:tag="binding_2" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/play_button" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/white" android:layout_gravity="end|bottom|center" android:id="@id/duration" android:paddingBottom="@dimen/default_padding" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/default_padding" style="@style/Subhead" />
+    </FrameLayout>
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/header_main_layout" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/default_padding">
+        <LinearLayout android:orientation="vertical" android:id="@id/meta_data_container" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/header_page_d_main_title1_textview" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/SystemFont32dp" />
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/header_page_d_title2_textview" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Title2Pink" />
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/header_page_d_title3_textview" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/large_list_playlist_swiping_padding" android:maxLines="2" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/SubheadSecondary" />
+            <FrameLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginBottom="@dimen/default_padding">
+                <com.apple.android.music.common.PageHeaderActionButton android:layout_gravity="start|center" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <com.apple.android.music.common.views.TintableImageView android:layout_gravity="end|center" android:tag="binding_7" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/more_button" />
+            </FrameLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
