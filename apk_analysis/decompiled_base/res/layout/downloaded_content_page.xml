@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/coordinator_layout" android:tag="layout/downloaded_content_page_0" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/toolbar_actionbar" />
+    <FrameLayout android:id="@id/fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/player_scrolling_view_behavior" />
+    <include layout="@layout/view_loader_include" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
