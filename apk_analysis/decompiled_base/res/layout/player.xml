@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/player_sheet_container" android:tag="layout/player_0" android:focusable="false" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" android:elevation="@dimen/player_container_elevation" app:behavior_peekHeight="@dimen/player_peek_height" app:layout_behavior="com.apple.android.music.player.PlayerBottomSheetBehavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
