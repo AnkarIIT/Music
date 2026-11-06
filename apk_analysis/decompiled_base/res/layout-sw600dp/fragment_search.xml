@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/main_layout" android:tag="layout-sw600dp/fragment_search_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/search_results_recyclerview" android:tag="binding_1" android:paddingBottom="10.0dip" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    <include layout="@layout/view_loader_include" />
+    <FrameLayout android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/search_no_results" />
+    </FrameLayout>
+    <include layout="@layout/search_error" />
+</RelativeLayout>
