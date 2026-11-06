@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/activity_child_account_birthday_0" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="@dimen/default_padding" android:layout_weight="1.0">
+        <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" android:text="@string/create_id_get_birthday_description" style="@style/DefaultFont" />
+        <com.apple.android.music.common.views.TextViewPicker android:id="@id/birthday_picker_button" android:layout_width="wrap_content" android:layout_height="wrap_content" app:textviewPickerDrawablePadding="40.0dip" app:textviewPickerHint="@string/add_child_birthday_edit_hint" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.ButtonsBottomBar android:id="@id/buttons_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>
