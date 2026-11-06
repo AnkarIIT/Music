@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/fuse_progress_indicator" android:tag="layout/view_loader_include_0" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
