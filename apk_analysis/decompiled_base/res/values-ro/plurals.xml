@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="two">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d sec.</item>
+        <item quantity="one">%d sec.</item>
+        <item quantity="two">%d sec.</item>
+        <item quantity="few">%d sec.</item>
+        <item quantity="many">%d sec.</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d de aplicații conectate</item>
+        <item quantity="one">%d aplicație conectată</item>
+        <item quantity="two">%d aplicații conectate</item>
+        <item quantity="few">%d aplicații conectate</item>
+        <item quantity="many">%d de aplicații conectate</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d de albume</item>
+        <item quantity="one">%d album</item>
+        <item quantity="two">%d albume</item>
+        <item quantity="few">%d albume</item>
+        <item quantity="many">%d de albume</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">acum %d z</item>
+        <item quantity="one">acum %d z</item>
+        <item quantity="two">acum %d z</item>
+        <item quantity="few">acum %d z</item>
+        <item quantity="many">acum %d z</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">acum %d h</item>
+        <item quantity="one">acum %d h</item>
+        <item quantity="two">acum %d h</item>
+        <item quantity="few">acum %d h</item>
+        <item quantity="many">acum %d h</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">acum %d săpt.</item>
+        <item quantity="one">acum %d săpt.</item>
+        <item quantity="two">acum %d săpt.</item>
+        <item quantity="few">acum %d săpt.</item>
+        <item quantity="many">acum %d săpt.</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d de ore</item>
+        <item quantity="zero">%d ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d ore</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="many">%d ore</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d de minute</item>
+        <item quantity="zero">%d minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minute</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">%d minute</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="zero">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="two">%d secunde</item>
+        <item quantity="few">%d secunde</item>
+        <item quantity="many">%d secunde</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Anulați %d de articole</item>
+        <item quantity="one">Anulați %d articol</item>
+        <item quantity="two">Anulați %d articole</item>
+        <item quantity="few">Anulați %d articole</item>
+        <item quantity="many">Anulați %d articole</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Linkul expiră peste %1$d de zile.</item>
+        <item quantity="zero">Linkul a expirat.</item>
+        <item quantity="one">Linkul expiră astăzi.</item>
+        <item quantity="two">Linkul expiră peste %1$d zile.</item>
+        <item quantity="few">Linkul expiră peste %1$d zile.</item>
+        <item quantity="many">Linkul expiră peste %1$d zile.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d de concerte</item>
+        <item quantity="one">%d concert</item>
+        <item quantity="two">%d concerte</item>
+        <item quantity="few">%d concerte</item>
+        <item quantity="many">%d concerte</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d de zile</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="two">%d zile</item>
+        <item quantity="few">%d zile</item>
+        <item quantity="many">%d zile</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d ore</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="many">%d ore</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="zero">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="two">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d de articole</item>
+        <item quantity="one">%d articol</item>
+        <item quantity="two">%d articole</item>
+        <item quantity="few">%d articole</item>
+        <item quantity="many">%d de articole</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d ore</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="many">%d de ore</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minute</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">%d de minute</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d de minute</item>
+        <item quantity="one">%,d minut</item>
+        <item quantity="two">%,d minute</item>
+        <item quantity="few">%,d minute</item>
+        <item quantity="many">%,d minute</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Derulează rapid înainte cu %d de secunde</item>
+        <item quantity="one">Derulează rapid înainte cu %d secundă</item>
+        <item quantity="few">Derulează rapid înainte cu %d secunde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Derulează înapoi cu %d de secunde</item>
+        <item quantity="one">Derulează înapoi cu %d secundă</item>
+        <item quantity="few">Derulează înapoi cu %d secunde</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d ore</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="many">%d de ore</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">de ore</item>
+        <item quantity="one">oră</item>
+        <item quantity="two">ore</item>
+        <item quantity="few">ore</item>
+        <item quantity="many">ore</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d de melodii noi</item>
+        <item quantity="one">%d melodie nouă</item>
+        <item quantity="two">%d melodii noi</item>
+        <item quantity="few">%d melodii noi</item>
+        <item quantity="many">%d melodii noi</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minute</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">%d de minute</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">de minute</item>
+        <item quantity="one">minut</item>
+        <item quantity="two">minute</item>
+        <item quantity="few">minute</item>
+        <item quantity="many">minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d de clipuri muzicale</item>
+        <item quantity="one">%d clip muzical</item>
+        <item quantity="two">%d clipuri muzicale</item>
+        <item quantity="few">%d clipuri muzicale</item>
+        <item quantity="many">%d de clipuri muzicale</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">încă %d de melodii</item>
+        <item quantity="zero">încă %d melodii</item>
+        <item quantity="one">încă %d melodie</item>
+        <item quantity="two">încă %d melodii</item>
+        <item quantity="few">încă %d melodii</item>
+        <item quantity="many">încă %d melodii</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d de redări</item>
+        <item quantity="one">%d redare</item>
+        <item quantity="two">%d redări</item>
+        <item quantity="few">%d redări</item>
+        <item quantity="many">%d redări</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d de melodii adăugate la \"%2$s\"</item>
+        <item quantity="one">%1$d melodie adăugată la \"%2$s\"</item>
+        <item quantity="two">%1$d melodii adăugate la „%2$s”</item>
+        <item quantity="few">%1$d melodii adăugate la \"%2$s\"</item>
+        <item quantity="many">%1$d melodii adăugate la \"%2$s\"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d de melodii adăugate într‑o listă de redare nouă</item>
+        <item quantity="one">%1$d melodie adăugată într‑o listă de redare nouă</item>
+        <item quantity="two">%1$d melodii adăugate într‑o listă de redare nouă</item>
+        <item quantity="few">%1$d melodii adăugate într‑o listă de redare nouă</item>
+        <item quantity="many">%1$d melodii adăugate într‑o listă de redare nouă</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s și încă %2$d</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s și încă %2$d</item>
+        <item quantity="two">%1$s și încă %2$d</item>
+        <item quantity="few">%1$s și încă %2$d</item>
+        <item quantity="many">%1$s și încă %2$d</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d de melodii selectate</item>
+        <item quantity="one">%1$d melodie selectată</item>
+        <item quantity="two">%1$d melodii selectate</item>
+        <item quantity="few">%1$d melodii selectate</item>
+        <item quantity="many">%1$d de melodii selectate</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">CASE DE DISCURI</item>
+        <item quantity="one">CASĂ DE DISCURI</item>
+        <item quantity="many">CASE DE DISCURI</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Eliminați %1$d de melodii?</item>
+        <item quantity="one">Eliminați %1$d melodie?</item>
+        <item quantity="two">Eliminați %1$d melodii?</item>
+        <item quantity="few">Eliminați %1$d melodii?</item>
+        <item quantity="many">Eliminați %1$d melodii?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d de aplicații</item>
+        <item quantity="one">%d aplicație</item>
+        <item quantity="two">%d aplicații</item>
+        <item quantity="few">%d aplicații</item>
+        <item quantity="many">%d de aplicații</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="zero">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="two">%d secunde</item>
+        <item quantity="few">%d secunde</item>
+        <item quantity="many">%d de secunde</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">de secunde</item>
+        <item quantity="zero">secunde</item>
+        <item quantity="one">secundă</item>
+        <item quantity="two">secunde</item>
+        <item quantity="few">secunde</item>
+        <item quantity="many">secunde</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Puteți adăuga încă %s de persoane în familia dvs.</item>
+        <item quantity="one">Puteți adăuga încă o persoană în familia dvs.</item>
+        <item quantity="two">Puteți adăuga încă %s persoane în familia dvs.</item>
+        <item quantity="few">Puteți adăuga încă %s persoane în familia dvs.</item>
+        <item quantity="many">Puteți adăuga încă %s persoane în familia dvs.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d de rânduri selectate</item>
+        <item quantity="zero">Niciun rând selectat</item>
+        <item quantity="one">%d rând selectat</item>
+        <item quantity="two">%d de rânduri selectate</item>
+        <item quantity="few">%d de rânduri selectate</item>
+        <item quantity="many">%d de rânduri selectate</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d de persoane active</item>
+        <item quantity="one">%d persoană activă</item>
+        <item quantity="two">%d persoane active</item>
+        <item quantity="few">%d persoane active</item>
+        <item quantity="many">%d persoane active</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d de episoade</item>
+        <item quantity="one">%d episod</item>
+        <item quantity="two">%d episoade</item>
+        <item quantity="few">%d episoade</item>
+        <item quantity="many">%d de episoade</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d de melodii rămase</item>
+        <item quantity="one">%1$d melodie rămasă</item>
+        <item quantity="two">%1$d melodii rămase</item>
+        <item quantity="few">%1$d melodii rămase</item>
+        <item quantity="many">%1$d de melodii rămase</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d de melodii adăugate la \"%2$s\"</item>
+        <item quantity="one">%1$d melodie adăugată la \"%2$s\"</item>
+        <item quantity="two">%1$d melodii adăugate la \"%2$s\"</item>
+        <item quantity="few">%1$d melodii adăugate la \"%2$s\"</item>
+        <item quantity="many">%1$d de melodii adăugate la \"%2$s\"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d de articole eliminate</item>
+        <item quantity="one">%d articol eliminat</item>
+        <item quantity="two">%d articole eliminate</item>
+        <item quantity="few">%d articole eliminate</item>
+        <item quantity="many">%d de articole eliminate</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d de melodii</item>
+        <item quantity="one">%d melodie</item>
+        <item quantity="two">%d melodii</item>
+        <item quantity="few">%d melodii</item>
+        <item quantity="many">%d de melodii</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d de melodii disponibile</item>
+        <item quantity="one">%d melodie disponibilă</item>
+        <item quantity="two">%d melodii disponibile</item>
+        <item quantity="few">%d melodii disponibile</item>
+        <item quantity="many">%d melodii disponibile</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d DE MELODII</item>
+        <item quantity="one">%d MELODIE</item>
+        <item quantity="two">%d MELODII</item>
+        <item quantity="few">%d MELODII</item>
+        <item quantity="many">%d MELODII</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d de zile rămase pentru verificarea statutului dvs. de student.</item>
+        <item quantity="one">%1$d zi rămasă pentru verificarea statutului dvs. de student.</item>
+        <item quantity="two">%1$d zile rămase pentru verificarea statutului dvs. de student.</item>
+        <item quantity="few">%1$d zile rămase pentru verificarea statutului dvs. de student.</item>
+        <item quantity="many">%1$d zile rămase pentru verificarea statutului dvs. de student.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d de colaboratori</item>
+        <item quantity="zero">%1$d colaboratori</item>
+        <item quantity="one">%1$d colaborator</item>
+        <item quantity="two">%1$d colaboratori</item>
+        <item quantity="few">%1$d colaboratori</item>
+        <item quantity="many">%1$d colaboratori</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d z</item>
+        <item quantity="one">%d z</item>
+        <item quantity="two">%d z</item>
+        <item quantity="few">%d z</item>
+        <item quantity="many">%d z</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+        <item quantity="two">%d m</item>
+        <item quantity="few">%d m</item>
+        <item quantity="many">%d m</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d l</item>
+        <item quantity="one">%d l</item>
+        <item quantity="two">%d l</item>
+        <item quantity="few">%d l</item>
+        <item quantity="many">%d l</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="two">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d de săpt.</item>
+        <item quantity="one">%d săpt.</item>
+        <item quantity="two">%d săpt.</item>
+        <item quantity="few">%d săpt.</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d a</item>
+        <item quantity="one">%d a</item>
+        <item quantity="two">%d a</item>
+        <item quantity="few">%d a</item>
+        <item quantity="many">%d a</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">acum %d z</item>
+        <item quantity="one">acum %d z</item>
+        <item quantity="two">acum %d z</item>
+        <item quantity="few">acum %d z</item>
+        <item quantity="many">acum %d z</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">acum %d h</item>
+        <item quantity="one">acum %d h</item>
+        <item quantity="two">acum %d h</item>
+        <item quantity="few">acum %d h</item>
+        <item quantity="many">acum %d h</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">acum %d min.</item>
+        <item quantity="one">acum %d min.</item>
+        <item quantity="two">acum %d min.</item>
+        <item quantity="few">acum %d min.</item>
+        <item quantity="many">acum %d min.</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">După redarea acestei melodii, doriți să continuați redarea sau să degajați cele %d de melodii adăugate anterior la rând?</item>
+        <item quantity="one">După redarea acestei melodii, doriți să continuați redarea sau să degajați %d melodie adăugată anterior la rând?</item>
+        <item quantity="two">După redarea acestei melodii, doriți să continuați redarea sau să degajați cele %d melodii adăugate anterior la rând?</item>
+        <item quantity="few">După redarea acestei melodii, doriți să continuați redarea sau să degajați cele %d melodii adăugate anterior la rând?</item>
+        <item quantity="many">După redarea acestei melodii, doriți să continuați redarea sau să degajați cele %d melodii adăugate anterior la rând?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Actualizare: acum %d z</item>
+        <item quantity="zero">Actualizare: acum %d z</item>
+        <item quantity="one">Actualizare: acum %d z</item>
+        <item quantity="two">Actualizare: acum %d z</item>
+        <item quantity="few">Actualizare: acum %d z</item>
+        <item quantity="many">Actualizare: acum %d z</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Actualizare: acum %d h</item>
+        <item quantity="one">Actualizare: acum %d h</item>
+        <item quantity="two">Actualizare: acum %d h</item>
+        <item quantity="few">Actualizare: acum %d h</item>
+        <item quantity="many">Actualizare: acum %d h</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Actualizare: acum %d m</item>
+        <item quantity="one">Actualizare: acum %d m</item>
+        <item quantity="two">Actualizare: acum %d m</item>
+        <item quantity="few">Actualizare: acum %d m</item>
+        <item quantity="many">Actualizare: acum %d m</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Actualizare: acum %d săpt.</item>
+        <item quantity="one">Actualizare: acum %d săpt.</item>
+        <item quantity="two">Actualizare: acum %d săpt.</item>
+        <item quantity="few">Actualizare: acum %d săpt.</item>
+        <item quantity="many">Actualizare: acum %d săpt.</item>
+    </plurals>
+</resources>
