@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/stacked_grid_f4_container" android:tag="layout/stacked_grid_f4_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/divider" android:tag="binding_1" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/default_padding" style="@style/Divider" />
+    <FrameLayout android:id="@id/header_main_layout" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="11.0dip">
+        <com.apple.android.music.common.CustomImageView android:id="@id/header_top_imageview" android:tag="binding_3" android:background="#00ffffff" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" app:aspectRatio="1.562" />
+        <ImageView android:layout_gravity="center" android:id="@id/header_play_button" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@string/play_button" />
+        <include layout="@layout/shows_bookmark_bar" />
+    </FrameLayout>
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_title" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:textAllCaps="true" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Caption2EmphasizedGray" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_subtitle" android:tag="binding_6" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Body" />
+        <ImageView android:layout_gravity="end" android:id="@id/brick_chevron" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chevron_right" android:tint="@color/system_gray" android:rotationY="@integer/rotation_icon" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/episode_item_secondary_subtitle" android:tag="binding_7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:maxLines="3" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/SubheadSecondary" />
+</LinearLayout>
