@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.CustomTextView android:id="@id/writers_credits_line" android:tag="layout/lyrics_line_static_writers_credits_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/lyrics_line_padding_horiz" android:layout_marginEnd="@dimen/lyrics_line_padding_horiz" style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
