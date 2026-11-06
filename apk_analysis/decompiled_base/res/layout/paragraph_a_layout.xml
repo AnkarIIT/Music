@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/paragraph_a_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:layout_gravity="top" android:id="@id/divider" android:tag="binding_1" android:layout_marginStart="@dimen/endMargin" style="@style/Divider" />
+    <FrameLayout android:id="@id/paragraph_a_layout" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.apple.android.music.common.views.CustomEditText android:tag="binding_3" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginBottom="@dimen/default_padding" android:hint="@string/playlist_description_hint" android:imeOptions="flagNoExtractUi" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/Subhead" />
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:id="@id/paragraph_a_text" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginBottom="@dimen/default_padding" android:textDirection="anyRtl" android:textAlignment="viewStart" app:maxCollapseLines="3" style="@style/Subhead" />
+    </FrameLayout>
+</FrameLayout>
