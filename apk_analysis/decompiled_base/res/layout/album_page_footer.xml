@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/album_footer_container" android:tag="layout/album_page_footer_0" android:paddingTop="@dimen/collection_footer_top_padding" android:paddingBottom="@dimen/collection_footer_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/common_footer" layout="@layout/epoxy_layout_collection_page_footer" />
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/collection_record_label" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:textAlignment="viewStart" style="@style/Caption2Emphasized" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/record_labels_list" android:tag="binding_2" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_2" />
+</LinearLayout>
