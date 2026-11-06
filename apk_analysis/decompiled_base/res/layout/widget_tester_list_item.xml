@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:background="@color/color_primary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="6.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/appwidget_list_item_imageview" android:background="@color/black" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_margin="6.0dip" android:layout_alignParentStart="true" android:elevation="5.0dip" android:clipToOutline="true" />
+    <LinearLayout android:layout_centerVertical="true" style="@style/AppWidgetListItemContentMetadata">
+        <TextView android:ellipsize="end" android:id="@id/appwidget_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/AppWidgetSubheadMedium" />
+        <TextView android:ellipsize="end" android:id="@id/appwidget_item_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/AppWidgetSubhead" />
+    </LinearLayout>
+    <include layout="@layout/appwidget_list_item_play_button" />
+</RelativeLayout>
