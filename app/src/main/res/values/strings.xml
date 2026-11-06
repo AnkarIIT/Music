@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search_hint">Search songs, artists, albums</string>
+    <string name="no_results">No results found</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="error_loading">Error loading content</string>
+    <string name="album_art">Album art</string>
+    <string name="notification_channel_name">Music Playback</string>
+    <string name="notification_channel_description">Ongoing music playback controls</string>
+</resources>
