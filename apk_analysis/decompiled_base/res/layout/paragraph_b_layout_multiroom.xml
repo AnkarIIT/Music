@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/paragraph_b_layout_multiroom_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/endMargin" android:paddingEnd="@dimen/endMargin" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:tag="binding_1" style="@style/Divider" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_8">
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:ellipsize="end" android:id="@id/paragraph_b_body" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" app:maxCollapseLines="6" app:moreColor="@color/color_primary" style="@style/Subhead" />
+        <com.apple.android.music.common.views.ExpandCollapseTextView android:ellipsize="end" android:id="@id/paragraph_b_body_compact" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:textDirection="anyRtl" android:textAlignment="viewStart" app:maxCollapseLines="4" app:moreColor="@color/label_color" style="@style/Caption1" />
+    </LinearLayout>
+</LinearLayout>
