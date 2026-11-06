@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="two">%d秒</item>
+        <item quantity="few">%d秒</item>
+        <item quantity="many">%d秒</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d個のアプリが接続</item>
+        <item quantity="one">%d個のアプリが接続</item>
+        <item quantity="two">%d個のアプリが接続</item>
+        <item quantity="few">%d個のアプリが接続</item>
+        <item quantity="many">%d個のアプリが接続</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d枚のアルバム</item>
+        <item quantity="one">%d枚のアルバム</item>
+        <item quantity="two">%d枚のアルバム</item>
+        <item quantity="few">%d枚のアルバム</item>
+        <item quantity="many">%d枚のアルバム</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d日前</item>
+        <item quantity="one">%d日前</item>
+        <item quantity="two">%d日前</item>
+        <item quantity="few">%d日前</item>
+        <item quantity="many">%d日前</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d時間前</item>
+        <item quantity="one">%d時間前</item>
+        <item quantity="two">%d時間前</item>
+        <item quantity="few">%d時間前</item>
+        <item quantity="many">%d時間前</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d週間前</item>
+        <item quantity="one">%d週間前</item>
+        <item quantity="two">%d週間前</item>
+        <item quantity="few">%d週間前</item>
+        <item quantity="many">%d週間前</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="zero">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="zero">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d秒</item>
+        <item quantity="zero">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="two">%d秒</item>
+        <item quantity="few">%d秒</item>
+        <item quantity="many">%d秒</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">%d項目をキャンセル</item>
+        <item quantity="one">%d項目をキャンセル</item>
+        <item quantity="two">%d項目をキャンセル</item>
+        <item quantity="few">%d項目をキャンセル</item>
+        <item quantity="many">%d項目をキャンセル</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">リンクの有効期限はあと%1$d日で切れます。</item>
+        <item quantity="zero">リンクの有効期限が切れました。</item>
+        <item quantity="one">リンクの有効期限は今日で切れます。</item>
+        <item quantity="two">リンクの有効期限はあと%1$d日で切れます。</item>
+        <item quantity="few">リンクの有効期限はあと%1$d日で切れます。</item>
+        <item quantity="many">リンクの有効期限はあと%1$d日で切れます。</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d件のコンサート</item>
+        <item quantity="one">%d件のコンサート</item>
+        <item quantity="two">%d件のコンサート</item>
+        <item quantity="few">%d件のコンサート</item>
+        <item quantity="many">%d件のコンサート</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d日間</item>
+        <item quantity="one">%d日</item>
+        <item quantity="two">%d日間</item>
+        <item quantity="few">%d日間</item>
+        <item quantity="many">%d日間</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d秒</item>
+        <item quantity="zero">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="two">%d秒</item>
+        <item quantity="few">%d秒</item>
+        <item quantity="many">%d秒</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d項目</item>
+        <item quantity="one">%d項目</item>
+        <item quantity="two">%d項目</item>
+        <item quantity="few">%d項目</item>
+        <item quantity="many">%d項目</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d分</item>
+        <item quantity="one">%,d分</item>
+        <item quantity="two">%,d分</item>
+        <item quantity="few">%,d分</item>
+        <item quantity="many">%,d分</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d 秒早送り</item>
+        <item quantity="one">%d 秒早送り</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d 秒巻き戻し</item>
+        <item quantity="one">%d 秒巻き戻し</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">時間</item>
+        <item quantity="one">時間</item>
+        <item quantity="two">時間</item>
+        <item quantity="few">時間</item>
+        <item quantity="many">時間</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">新曲%d曲</item>
+        <item quantity="one">新曲%d曲</item>
+        <item quantity="two">新曲%d曲</item>
+        <item quantity="few">新曲%d曲</item>
+        <item quantity="many">新曲%d曲</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">分</item>
+        <item quantity="one">分</item>
+        <item quantity="two">分</item>
+        <item quantity="few">分</item>
+        <item quantity="many">分</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d本のミュージックビデオ</item>
+        <item quantity="one">%d本のミュージックビデオ</item>
+        <item quantity="two">%d本のミュージックビデオ</item>
+        <item quantity="few">%d本のミュージックビデオ</item>
+        <item quantity="many">%d本のミュージックビデオ</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">その他%d曲</item>
+        <item quantity="zero">その他%d曲</item>
+        <item quantity="one">その他%d曲</item>
+        <item quantity="two">その他%d曲</item>
+        <item quantity="few">その他%d曲</item>
+        <item quantity="many">その他%d曲</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d回再生</item>
+        <item quantity="one">%d回再生</item>
+        <item quantity="two">%d回再生</item>
+        <item quantity="few">%d回再生</item>
+        <item quantity="many">%d回再生</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="one">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="two">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="few">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="many">%1$d曲が“%2$s”に追加されました</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d曲が新規プレイリストに追加されました</item>
+        <item quantity="one">%1$d曲が新規プレイリストに追加されました</item>
+        <item quantity="two">%1$d曲が新規プレイリストに追加されました</item>
+        <item quantity="few">%1$d曲が新規プレイリストに追加されました</item>
+        <item quantity="many">%1$d曲が新規プレイリストに追加されました</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$sさんとその他%2$d人</item>
+        <item quantity="zero">%1$sさん</item>
+        <item quantity="one">%1$sさんとその他%2$d人</item>
+        <item quantity="two">%1$sさんとその他%2$d人</item>
+        <item quantity="few">%1$sさんとその他%2$d人</item>
+        <item quantity="many">%1$sさんとその他%2$d人</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d曲を選択</item>
+        <item quantity="one">%1$d曲を選択</item>
+        <item quantity="two">%1$d曲を選択</item>
+        <item quantity="few">%1$d曲を選択</item>
+        <item quantity="many">%1$d曲を選択</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">レコードレーベル</item>
+        <item quantity="one">レコードレーベル</item>
+        <item quantity="many">レコードレーベル</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">%1$d曲を削除しますか?</item>
+        <item quantity="one">%1$d曲を削除しますか?</item>
+        <item quantity="two">%1$d曲を削除しますか?</item>
+        <item quantity="few">%1$d曲を削除しますか?</item>
+        <item quantity="many">%1$d曲を削除しますか?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d個のアプリ</item>
+        <item quantity="one">%d個のアプリ</item>
+        <item quantity="two">%d個のアプリ</item>
+        <item quantity="few">%d個のアプリ</item>
+        <item quantity="many">%d個のアプリ</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d秒</item>
+        <item quantity="zero">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="two">%d秒</item>
+        <item quantity="few">%d秒</item>
+        <item quantity="many">%d秒</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">秒</item>
+        <item quantity="zero">秒</item>
+        <item quantity="one">秒</item>
+        <item quantity="two">秒</item>
+        <item quantity="few">秒</item>
+        <item quantity="many">秒</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">ファミリーにあと%s人追加できます。</item>
+        <item quantity="one">ファミリーにあと1人追加できます。</item>
+        <item quantity="two">ファミリーにあと%s人追加できます。</item>
+        <item quantity="few">ファミリーにあと%s人追加できます。</item>
+        <item quantity="many">ファミリーにあと%s人追加できます。</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d行を選択</item>
+        <item quantity="zero">行の選択なし</item>
+        <item quantity="one">%d行を選択</item>
+        <item quantity="two">%d行を選択</item>
+        <item quantity="few">%d行を選択</item>
+        <item quantity="many">%d行を選択</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d人が参加中</item>
+        <item quantity="one">%d人が参加中</item>
+        <item quantity="two">%d人が参加中</item>
+        <item quantity="few">%d人が参加中</item>
+        <item quantity="many">%d人が参加中</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d話のエピソード</item>
+        <item quantity="one">%d話のエピソード</item>
+        <item quantity="two">%d話のエピソード</item>
+        <item quantity="few">%d話のエピソード</item>
+        <item quantity="many">%d話のエピソード</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">残り%1$d曲</item>
+        <item quantity="one">残り%1$d曲</item>
+        <item quantity="two">残り%1$d曲</item>
+        <item quantity="few">残り%1$d曲</item>
+        <item quantity="many">残り%1$d曲</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="one">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="two">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="few">%1$d曲が“%2$s”に追加されました</item>
+        <item quantity="many">%1$d曲が“%2$s”に追加されました</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d項目が削除されました</item>
+        <item quantity="one">%d項目が削除されました</item>
+        <item quantity="two">%d項目が削除されました</item>
+        <item quantity="few">%d項目が削除されました</item>
+        <item quantity="many">%d項目が削除されました</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d曲</item>
+        <item quantity="one">%d曲</item>
+        <item quantity="two">%d曲</item>
+        <item quantity="few">%d曲</item>
+        <item quantity="many">%d曲</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d曲使用可能</item>
+        <item quantity="one">%d曲使用可能</item>
+        <item quantity="two">%d曲使用可能</item>
+        <item quantity="few">%d曲使用可能</item>
+        <item quantity="many">%d曲使用可能</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d曲</item>
+        <item quantity="one">%d曲</item>
+        <item quantity="two">%d曲</item>
+        <item quantity="few">%d曲</item>
+        <item quantity="many">%d曲</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">在学状況の確認まであと%1$d日です。</item>
+        <item quantity="one">在学状況の確認まであと%1$d日です。</item>
+        <item quantity="two">在学状況の確認まであと%1$d日です。</item>
+        <item quantity="few">在学状況の確認まであと%1$d日です。</item>
+        <item quantity="many">在学状況の確認まであと%1$d日です。</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d人の共同作業者</item>
+        <item quantity="zero">%1$d人の共同作業者</item>
+        <item quantity="one">%1$d人の共同作業者</item>
+        <item quantity="two">%1$d人の共同作業者</item>
+        <item quantity="few">%1$d人の共同作業者</item>
+        <item quantity="many">%1$d人の共同作業者</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+        <item quantity="two">%d日</item>
+        <item quantity="few">%d日</item>
+        <item quantity="many">%d日</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%dか月</item>
+        <item quantity="one">%dか月</item>
+        <item quantity="two">%dか月</item>
+        <item quantity="few">%dか月</item>
+        <item quantity="many">%dか月</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="two">%d秒</item>
+        <item quantity="few">%d秒</item>
+        <item quantity="many">%d秒</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d週</item>
+        <item quantity="one">%d週</item>
+        <item quantity="two">%d週</item>
+        <item quantity="few">%d週</item>
+        <item quantity="many">%d週</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d年</item>
+        <item quantity="one">%d年</item>
+        <item quantity="two">%d年</item>
+        <item quantity="few">%d年</item>
+        <item quantity="many">%d年</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d日前</item>
+        <item quantity="one">%d日前</item>
+        <item quantity="two">%d日前</item>
+        <item quantity="few">%d日前</item>
+        <item quantity="many">%d日前</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d時間前</item>
+        <item quantity="one">%d時間前</item>
+        <item quantity="two">%d時間前</item>
+        <item quantity="few">%d時間前</item>
+        <item quantity="many">%d時間前</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d分前</item>
+        <item quantity="one">%d分前</item>
+        <item quantity="two">%d分前</item>
+        <item quantity="few">%d分前</item>
+        <item quantity="many">%d分前</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">この曲を再生したあと、再生を続けますか、それとも以前にキューに追加した%d曲をキューから消去しますか?</item>
+        <item quantity="one">この曲を再生したあと、再生を続けますか、それとも以前にキューに追加した%d曲をキューから消去しますか?</item>
+        <item quantity="two">この曲を再生したあと、再生を続けますか、それとも以前にキューに追加した%d曲をキューから消去しますか?</item>
+        <item quantity="few">この曲を再生したあと、再生を続けますか、それとも以前にキューに追加した%d曲をキューから消去しますか?</item>
+        <item quantity="many">この曲を再生したあと、再生を続けますか、それとも以前にキューに追加した%d曲をキューから消去しますか?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">アップデート: %d日前</item>
+        <item quantity="zero">アップデート: %d日前</item>
+        <item quantity="one">アップデート: %d日前</item>
+        <item quantity="two">アップデート: %d日前</item>
+        <item quantity="few">アップデート: %d日前</item>
+        <item quantity="many">アップデート: %d日前</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">アップデート: %d時間前</item>
+        <item quantity="one">アップデート: %d時間前</item>
+        <item quantity="two">アップデート: %d時間前</item>
+        <item quantity="few">アップデート: %d時間前</item>
+        <item quantity="many">アップデート: %d時間前</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">アップデート: %d分前</item>
+        <item quantity="one">アップデート: %d分前</item>
+        <item quantity="two">アップデート: %d分前</item>
+        <item quantity="few">アップデート: %d分前</item>
+        <item quantity="many">アップデート: %d分前</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">アップデート: %d週間前</item>
+        <item quantity="one">アップデート: %d週間前</item>
+        <item quantity="two">アップデート: %d週間前</item>
+        <item quantity="few">アップデート: %d週間前</item>
+        <item quantity="many">アップデート: %d週間前</item>
+    </plurals>
+</resources>
