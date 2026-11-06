@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.apple.android.music.common.views.TintableImageView android:layout_gravity="center" android:id="@id/default_waiting_ring" android:tag="layout/view_waiting_ring_0" android:layout_width="@dimen/playerbutton" android:layout_height="fill_parent" android:src="@drawable/ic_actionitem_waiting_ring" android:tint="@color/secondary_label_color"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
