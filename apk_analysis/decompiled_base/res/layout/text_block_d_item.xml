@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="layout/text_block_d_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_4" android:layout_marginStart="@dimen/endMargin" android:layout_marginEnd="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="end" android:layout_width="80.0dip" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/default_padding">
+        <com.apple.android.music.common.views.AutosizeTextView android:gravity="end" android:id="@id/text_block_d_studio" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" app:as_maxTextSize="15.0sp" app:as_minTextSize="10.0sp" style="@style/SubheadEmphasized" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.CustomTextView android:id="@id/text_block_d_studio_description" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SubheadSecondary" />
+</LinearLayout>
