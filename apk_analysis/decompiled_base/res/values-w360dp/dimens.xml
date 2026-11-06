@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dynamic_grid_item_spacing_gutter">12.0dip</dimen>
+    <dimen name="endMargin">20.0dip</dimen>
+    <dimen name="power_swoosh_footnote_text_size">12.0sp</dimen>
+    <item type="dimen" name="power_swoosh_peek_item_spacings">0.5</item>
+    <item type="dimen" name="power_swoosh_peek_standard_items">0.5</item>
+    <dimen name="power_swoosh_subhead_text_size">14.0sp</dimen>
+</resources>
