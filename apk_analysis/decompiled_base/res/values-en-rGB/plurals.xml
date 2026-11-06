@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d hr</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hr</item>
+        <item quantity="few">%d hr</item>
+        <item quantity="many">%d hr</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d sec</item>
+        <item quantity="one">%d sec</item>
+        <item quantity="two">%d sec</item>
+        <item quantity="few">%d sec</item>
+        <item quantity="many">%d sec</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">%d apps connected</item>
+        <item quantity="one">%d app connected</item>
+        <item quantity="two">%d apps connected</item>
+        <item quantity="few">%d apps connected</item>
+        <item quantity="many">%d apps connected</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d Albums</item>
+        <item quantity="one">%d Album</item>
+        <item quantity="two">%d Albums</item>
+        <item quantity="few">%d Albums</item>
+        <item quantity="many">%d Albums</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%dd ago</item>
+        <item quantity="one">%dd ago</item>
+        <item quantity="two">%dd ago</item>
+        <item quantity="few">%dd ago</item>
+        <item quantity="many">%dd ago</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%dhr ago</item>
+        <item quantity="one">%dhr ago</item>
+        <item quantity="two">%dhr ago</item>
+        <item quantity="few">%dhr ago</item>
+        <item quantity="many">%dhr ago</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%dw ago</item>
+        <item quantity="one">%dw ago</item>
+        <item quantity="two">%dw ago</item>
+        <item quantity="few">%dw ago</item>
+        <item quantity="many">%dw ago</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="zero">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="zero">%d minutes</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="two">%d minutes</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="zero">%d seconds</item>
+        <item quantity="one">%d second</item>
+        <item quantity="two">%d seconds</item>
+        <item quantity="few">%d seconds</item>
+        <item quantity="many">%d seconds</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Cancel %d Items</item>
+        <item quantity="one">Cancel %d Item</item>
+        <item quantity="two">Cancel %d Items</item>
+        <item quantity="few">Cancel %d Items</item>
+        <item quantity="many">Cancel %d Items</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Link expires in %1$d days.</item>
+        <item quantity="zero">Link expired.</item>
+        <item quantity="one">Link expires today.</item>
+        <item quantity="two">Link expires in %1$d days.</item>
+        <item quantity="few">Link expires in %1$d days.</item>
+        <item quantity="many">Link expires in %1$d days.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d concerts</item>
+        <item quantity="one">%d concert</item>
+        <item quantity="two">%d concerts</item>
+        <item quantity="few">%d concerts</item>
+        <item quantity="many">%d concerts</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+        <item quantity="two">%d days</item>
+        <item quantity="few">%d days</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hrs</item>
+        <item quantity="few">%d hrs</item>
+        <item quantity="many">%d hrs</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="zero">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="two">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d Items</item>
+        <item quantity="one">%d Item</item>
+        <item quantity="two">%d Items</item>
+        <item quantity="few">%d Items</item>
+        <item quantity="many">%d Items</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="two">%d minutes</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d minutes</item>
+        <item quantity="one">%,d minute</item>
+        <item quantity="two">%,d minutes</item>
+        <item quantity="few">%,d minutes</item>
+        <item quantity="many">%,d minutes</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Fast-forward %d seconds</item>
+        <item quantity="one">Fast-forward %d second</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rewind %d seconds</item>
+        <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d Hours</item>
+        <item quantity="one">%d Hour</item>
+        <item quantity="two">%d Hours</item>
+        <item quantity="few">%d Hours</item>
+        <item quantity="many">%d Hours</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">Hours</item>
+        <item quantity="one">Hour</item>
+        <item quantity="two">Hours</item>
+        <item quantity="few">Hours</item>
+        <item quantity="many">Hours</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d New Songs</item>
+        <item quantity="one">%d New Song</item>
+        <item quantity="two">%d New Songs</item>
+        <item quantity="few">%d New Songs</item>
+        <item quantity="many">%d New Songs</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d Minutes</item>
+        <item quantity="one">%d Minute</item>
+        <item quantity="two">%d Minutes</item>
+        <item quantity="few">%d Minutes</item>
+        <item quantity="many">%d Minutes</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">Minutes</item>
+        <item quantity="one">Minute</item>
+        <item quantity="two">Minutes</item>
+        <item quantity="few">Minutes</item>
+        <item quantity="many">Minutes</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d Music Videos</item>
+        <item quantity="one">%d Music Video</item>
+        <item quantity="two">%d Music Videos</item>
+        <item quantity="few">%d Music Videos</item>
+        <item quantity="many">%d Music Videos</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d More Songs</item>
+        <item quantity="zero">%d More Songs</item>
+        <item quantity="one">%d More Song</item>
+        <item quantity="two">%d More Songs</item>
+        <item quantity="few">%d More Songs</item>
+        <item quantity="many">%d More Songs</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d Plays</item>
+        <item quantity="one">%d Play</item>
+        <item quantity="two">%d Plays</item>
+        <item quantity="few">%d Plays</item>
+        <item quantity="many">%d Plays</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d songs added to \"%2$s\"</item>
+        <item quantity="one">%1$d song added to \"%2$s\"</item>
+        <item quantity="two">%1$d songs added to \"%2$s\"</item>
+        <item quantity="few">%1$d songs added to \"%2$s\"</item>
+        <item quantity="many">%1$d songs added to \"%2$s\"</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d songs added to New Playlist</item>
+        <item quantity="one">%1$d song added to New Playlist</item>
+        <item quantity="two">%1$d songs added to New Playlist</item>
+        <item quantity="few">%1$d songs added to New Playlist</item>
+        <item quantity="many">%1$d songs added to New Playlist</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s &amp; %2$d Others</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s &amp; %2$d Other</item>
+        <item quantity="two">%1$s &amp; %2$d Other</item>
+        <item quantity="few">%1$s &amp; %2$d Others</item>
+        <item quantity="many">%1$s &amp; %2$d Others</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">%1$d songs selected</item>
+        <item quantity="one">%1$d song selected</item>
+        <item quantity="two">%1$d songs selected</item>
+        <item quantity="few">%1$d songs selected</item>
+        <item quantity="many">%1$d songs selected</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">RECORD LABELS</item>
+        <item quantity="one">RECORD LABEL</item>
+        <item quantity="many">RECORD LABELS</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Remove %1$d Songs?</item>
+        <item quantity="one">Remove %1$d Song?</item>
+        <item quantity="two">Remove %1$d Songs?</item>
+        <item quantity="few">Remove %1$d Songs?</item>
+        <item quantity="many">Remove %1$d Songs?</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d Apps</item>
+        <item quantity="one">%d App</item>
+        <item quantity="two">%d Apps</item>
+        <item quantity="few">%d Apps</item>
+        <item quantity="many">%d Apps</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d Seconds</item>
+        <item quantity="zero">%d Seconds</item>
+        <item quantity="one">%d Second</item>
+        <item quantity="two">%d Seconds</item>
+        <item quantity="few">%d Seconds</item>
+        <item quantity="many">%d Seconds</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">Seconds</item>
+        <item quantity="zero">Seconds</item>
+        <item quantity="one">Second</item>
+        <item quantity="two">Seconds</item>
+        <item quantity="few">Seconds</item>
+        <item quantity="many">Seconds</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">You can add up to %s more people to your family.</item>
+        <item quantity="one">You can add one more person to your family.</item>
+        <item quantity="two">You can add up to %s more people to your family.</item>
+        <item quantity="few">You can add up to %s more people to your family.</item>
+        <item quantity="many">You can add up to %s more people to your family.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d Lines Selected</item>
+        <item quantity="zero">No Lines Selected</item>
+        <item quantity="one">%d Line Selected</item>
+        <item quantity="two">%d Lines Selected</item>
+        <item quantity="few">%d Lines Selected</item>
+        <item quantity="many">%d Lines Selected</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d People Active</item>
+        <item quantity="one">%d Person Active</item>
+        <item quantity="two">%d People Active</item>
+        <item quantity="few">%d People Active</item>
+        <item quantity="many">%d People Active</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d Episodes</item>
+        <item quantity="one">%d Episode</item>
+        <item quantity="two">%d Episodes</item>
+        <item quantity="few">%d Episodes</item>
+        <item quantity="many">%d Episodes</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d Songs Left</item>
+        <item quantity="one">%1$d Song Left</item>
+        <item quantity="two">%1$d Songs Left</item>
+        <item quantity="few">%1$d Songs Left</item>
+        <item quantity="many">%1$d Songs Left</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d songs added to \"%2$s\"</item>
+        <item quantity="one">%1$d song added to \"%2$s\"</item>
+        <item quantity="two">%1$d songs added to \"%2$s\"</item>
+        <item quantity="few">%1$d songs added to \"%2$s\"</item>
+        <item quantity="many">%1$d songs added to \"%2$s\"</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">%d Items Removed</item>
+        <item quantity="one">%d Item Removed</item>
+        <item quantity="two">%d Items Removed</item>
+        <item quantity="few">%d Items Removed</item>
+        <item quantity="many">%d Items Removed</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+        <item quantity="two">%d songs</item>
+        <item quantity="few">%d songs</item>
+        <item quantity="many">%d songs</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d Songs Available</item>
+        <item quantity="one">%d Song Available</item>
+        <item quantity="two">%d Songs Available</item>
+        <item quantity="few">%d Songs Available</item>
+        <item quantity="many">%d Songs Available</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d SONGS</item>
+        <item quantity="one">%d SONG</item>
+        <item quantity="two">%d SONGS</item>
+        <item quantity="few">%d SONGS</item>
+        <item quantity="many">%d SONGS</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d days to verify your student status.</item>
+        <item quantity="one">%1$d day to verify your student status.</item>
+        <item quantity="two">%1$d days to verify your student status.</item>
+        <item quantity="few">%1$d days to verify your student status.</item>
+        <item quantity="many">%1$d days to verify your student status.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d Collaborators</item>
+        <item quantity="zero">%1$d Collaborators</item>
+        <item quantity="one">%1$d Collaborator</item>
+        <item quantity="two">%1$d Collaborators</item>
+        <item quantity="few">%1$d Collaborators</item>
+        <item quantity="many">%1$d Collaborators</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+        <item quantity="two">%dd</item>
+        <item quantity="few">%dd</item>
+        <item quantity="many">%dd</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="two">%dh</item>
+        <item quantity="few">%dh</item>
+        <item quantity="many">%dh</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+        <item quantity="two">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%dmo</item>
+        <item quantity="one">%dmo</item>
+        <item quantity="two">%dmo</item>
+        <item quantity="few">%dmo</item>
+        <item quantity="many">%dmo</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="two">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%dw</item>
+        <item quantity="one">%dw</item>
+        <item quantity="two">%dw</item>
+        <item quantity="few">%dw</item>
+        <item quantity="many">%dw</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%dy</item>
+        <item quantity="one">%dy</item>
+        <item quantity="two">%dy</item>
+        <item quantity="few">%dy</item>
+        <item quantity="many">%dy</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%dd ago</item>
+        <item quantity="one">%dd ago</item>
+        <item quantity="two">%dd ago</item>
+        <item quantity="few">%dd ago</item>
+        <item quantity="many">%dd ago</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%dhr ago</item>
+        <item quantity="one">%dhr ago</item>
+        <item quantity="two">%dhr ago</item>
+        <item quantity="few">%dhr ago</item>
+        <item quantity="many">%dhr ago</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%dm ago</item>
+        <item quantity="one">%dm ago</item>
+        <item quantity="two">%dm ago</item>
+        <item quantity="few">%dm ago</item>
+        <item quantity="many">%dm ago</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">After this plays, do you want to keep playing or clear the %d songs you previously queued?</item>
+        <item quantity="one">After this plays, do you want to keep playing or clear the %d song you previously queued?</item>
+        <item quantity="two">After this plays, do you want to keep playing or clear the %d songs you previously queued?</item>
+        <item quantity="few">After this plays, do you want to keep playing or clear the %d songs you previously queued?</item>
+        <item quantity="many">After this plays, do you want to keep playing or clear the %d songs you previously queued?</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Updated %dd ago</item>
+        <item quantity="zero">Updated %dd ago</item>
+        <item quantity="one">Updated %dd ago</item>
+        <item quantity="two">Updated %dd ago</item>
+        <item quantity="few">Updated %dd ago</item>
+        <item quantity="many">Updated %dd ago</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Updated %dhr ago</item>
+        <item quantity="one">Updated %dhr ago</item>
+        <item quantity="two">Updated %dhr ago</item>
+        <item quantity="few">Updated %dhr ago</item>
+        <item quantity="many">Updated %dhr ago</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Updated %dm ago</item>
+        <item quantity="one">Updated %dm ago</item>
+        <item quantity="two">Updated %dm ago</item>
+        <item quantity="few">Updated %dm ago</item>
+        <item quantity="many">Updated %dm ago</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Updated %dw ago</item>
+        <item quantity="one">Updated %dw ago</item>
+        <item quantity="two">Updated %dw ago</item>
+        <item quantity="few">Updated %dw ago</item>
+        <item quantity="many">Updated %dw ago</item>
+    </plurals>
+</resources>
