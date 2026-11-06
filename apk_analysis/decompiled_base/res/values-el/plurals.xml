@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abreviated_duration_hr">
+        <item quantity="other">%d ώ.</item>
+        <item quantity="one">%d ώ.</item>
+        <item quantity="two">%d ώ.</item>
+        <item quantity="few">%d ώ.</item>
+        <item quantity="many">%d ώ.</item>
+    </plurals>
+    <plurals name="abreviated_duration_min">
+        <item quantity="other">%d λ.</item>
+        <item quantity="one">%d λ.</item>
+        <item quantity="two">%d λ.</item>
+        <item quantity="few">%d λ.</item>
+        <item quantity="many">%d λ.</item>
+    </plurals>
+    <plurals name="abreviated_duration_sec">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+        <item quantity="two">%d δευτ.</item>
+        <item quantity="few">%d δευτ.</item>
+        <item quantity="many">%d δευτ.</item>
+    </plurals>
+    <plurals name="account_settings_sdk_apps_summary">
+        <item quantity="other">Συνδέθηκαν %d εφαρμογές</item>
+        <item quantity="one">Συνδέθηκε %d εφαρμογή</item>
+        <item quantity="two">Συνδέθηκαν %d εφαρμογές</item>
+        <item quantity="few">Συνδέθηκαν %d εφαρμογές</item>
+        <item quantity="many">Συνδέθηκαν %d εφαρμογές</item>
+    </plurals>
+    <plurals name="album_number">
+        <item quantity="other">%d άλμπουμ</item>
+        <item quantity="one">%d άλμπουμ</item>
+        <item quantity="two">%d άλμπουμ</item>
+        <item quantity="few">%d άλμπουμ</item>
+        <item quantity="many">%d άλμπουμ</item>
+    </plurals>
+    <plurals name="appwidget_released_days_ago">
+        <item quantity="other">%d ημ. πριν</item>
+        <item quantity="one">%d ημ. πριν</item>
+        <item quantity="two">%d ημ. πριν</item>
+        <item quantity="few">%d η. πριν</item>
+        <item quantity="many">%d ημ. πριν</item>
+    </plurals>
+    <plurals name="appwidget_released_hours_ago">
+        <item quantity="other">%d ώ. πριν</item>
+        <item quantity="one">%d ώ. πριν</item>
+        <item quantity="two">%d ώ. πριν</item>
+        <item quantity="few">%d ώ. πριν</item>
+        <item quantity="many">%d ώ. πριν</item>
+    </plurals>
+    <plurals name="appwidget_released_weeks_ago">
+        <item quantity="other">%d εβδ. πριν</item>
+        <item quantity="one">%d εβδ. πριν</item>
+        <item quantity="two">%d εβδ. πριν</item>
+        <item quantity="few">%d εβδ. πριν</item>
+        <item quantity="many">%d εβδ. πριν</item>
+    </plurals>
+    <plurals name="ax_song_duration_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="zero">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d ώρες</item>
+        <item quantity="few">%d ώρες</item>
+        <item quantity="many">%d ώρες</item>
+    </plurals>
+    <plurals name="ax_song_duration_minutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="zero">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="two">%d λεπτά</item>
+        <item quantity="few">%d λεπτά</item>
+        <item quantity="many">%d λεπτά</item>
+    </plurals>
+    <plurals name="ax_song_duration_seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="zero">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+        <item quantity="two">%d δευτερόλεπτα</item>
+        <item quantity="few">%d δευτερόλεπτα</item>
+        <item quantity="many">%d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="cancel_downloads">
+        <item quantity="other">Ακύρωση %d στοιχείων</item>
+        <item quantity="one">Ακύρωση %d στοιχείου</item>
+        <item quantity="two">Ακύρωση %d στοιχείων</item>
+        <item quantity="few">Ακύρωση %d στοιχείων</item>
+        <item quantity="many">Ακύρωση %d στοιχείων</item>
+    </plurals>
+    <plurals name="collab_link_expiry">
+        <item quantity="other">Ο σύνδεσμος λήγει σε %1$d ημέρες.</item>
+        <item quantity="zero">Ο σύνδεσμος έληξε.</item>
+        <item quantity="one">Ο σύνδεσμος λήγει σήμερα.</item>
+        <item quantity="two">Ο σύνδεσμος λήγει σε %1$d ημέρες.</item>
+        <item quantity="few">Ο σύνδεσμος λήγει σε %1$d ημέρες.</item>
+        <item quantity="many">Ο σύνδεσμος λήγει σε %1$d ημέρες.</item>
+    </plurals>
+    <plurals name="concerts">
+        <item quantity="other">%d συναυλίες</item>
+        <item quantity="one">%d συναυλία</item>
+        <item quantity="two">%d συναυλίες</item>
+        <item quantity="few">%d συναυλίες</item>
+        <item quantity="many">%d συναυλίες</item>
+    </plurals>
+    <plurals name="countdown_days">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+        <item quantity="two">%d ημέρες</item>
+        <item quantity="few">%d ημέρες</item>
+        <item quantity="many">%d ημέρες</item>
+    </plurals>
+    <plurals name="countdown_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d ώρες</item>
+        <item quantity="few">%d ώρες</item>
+        <item quantity="many">%d ώρες</item>
+    </plurals>
+    <plurals name="crossfade_seconds">
+        <item quantity="other">%d δ.</item>
+        <item quantity="zero">%d δ.</item>
+        <item quantity="one">%d δ.</item>
+        <item quantity="two">%d δ.</item>
+        <item quantity="few">%d δ.</item>
+        <item quantity="many">%d δ.</item>
+    </plurals>
+    <plurals name="download_notification_desc_progress">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+        <item quantity="two">%d στοιχεία</item>
+        <item quantity="few">%d στοιχεία</item>
+        <item quantity="many">%d στοιχεία</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d ώρες</item>
+        <item quantity="few">%d ώρες</item>
+        <item quantity="many">%d ώρες</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="two">%d λεπτά</item>
+        <item quantity="few">%d λεπτά</item>
+        <item quantity="many">%d λεπτά</item>
+    </plurals>
+    <plurals name="duration_in_minutes_with_comma">
+        <item quantity="other">%,d λεπτά</item>
+        <item quantity="one">%,d λεπτό</item>
+        <item quantity="two">%,d λεπτά</item>
+        <item quantity="few">%,d λεπτά</item>
+        <item quantity="many">%,d λεπτά</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d ώρες</item>
+        <item quantity="few">%d ώρες</item>
+        <item quantity="many">%d ώρες</item>
+    </plurals>
+    <plurals name="hour_string">
+        <item quantity="other">ώρες</item>
+        <item quantity="one">ώρα</item>
+        <item quantity="two">ώρες</item>
+        <item quantity="few">ώρες</item>
+        <item quantity="many">ώρες</item>
+    </plurals>
+    <plurals name="library_new_songs">
+        <item quantity="other">%d νέα τραγούδια</item>
+        <item quantity="one">%d νέο τραγούδι</item>
+        <item quantity="two">%d νέα τραγούδια</item>
+        <item quantity="few">%d νέα τραγούδια</item>
+        <item quantity="many">%d νέα τραγούδια</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="two">%d λεπτά</item>
+        <item quantity="few">%d λεπτά</item>
+        <item quantity="many">%d λεπτά</item>
+    </plurals>
+    <plurals name="minute_string">
+        <item quantity="other">λεπτά</item>
+        <item quantity="one">λεπτό</item>
+        <item quantity="two">λεπτά</item>
+        <item quantity="few">λεπτά</item>
+        <item quantity="many">λεπτά</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="music_video_number">
+        <item quantity="other">%d μουσικά βίντεο</item>
+        <item quantity="one">%d μουσικό βίντεο</item>
+        <item quantity="two">%d μουσικά βίντεο</item>
+        <item quantity="few">%d μουσικά βίντεο</item>
+        <item quantity="many">%d μουσικά βίντεο</item>
+    </plurals>
+    <plurals name="number_of_more_songs">
+        <item quantity="other">%d τραγούδια ακόμη</item>
+        <item quantity="zero">%d τραγούδια ακόμη</item>
+        <item quantity="one">%d τραγούδι ακόμη</item>
+        <item quantity="two">%d τραγούδια ακόμη</item>
+        <item quantity="few">%d τραγούδια ακόμη</item>
+        <item quantity="many">%d τραγούδια ακόμη</item>
+    </plurals>
+    <plurals name="play_count">
+        <item quantity="other">%d αναπαραγωγές</item>
+        <item quantity="one">%d αναπαραγωγή</item>
+        <item quantity="two">%d αναπαραγωγές</item>
+        <item quantity="few">%d αναπαραγωγές</item>
+        <item quantity="many">%d αναπαραγωγές</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback">
+        <item quantity="other">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="one">%1$d τραγούδι προστέθηκε στη λίστα «%2$s»</item>
+        <item quantity="two">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="few">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="many">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+    </plurals>
+    <plurals name="playlist_edit_add_music_feedback_newplaylist">
+        <item quantity="other">%1$d τραγούδια προστέθηκαν σε νέα λίστα αναπαραγωγής</item>
+        <item quantity="one">%1$d τραγούδι προστέθηκε σε νέα λίστα αναπαραγωγής</item>
+        <item quantity="two">%1$d τραγούδια προστέθηκαν σε νέα λίστα αναπαραγωγής</item>
+        <item quantity="few">%1$d τραγούδια προστέθηκαν σε νέα λίστα αναπαραγωγής</item>
+        <item quantity="many">%1$d τραγούδια προστέθηκαν σε νέα λίστα αναπαραγωγής</item>
+    </plurals>
+    <plurals name="playlist_header_collab_details">
+        <item quantity="other">%1$s και %2$d ακόμη</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s και %2$d ακόμη</item>
+        <item quantity="two">%1$s και %2$d ακόμη</item>
+        <item quantity="few">%1$s και %2$d ακόμη</item>
+        <item quantity="many">%1$s και %2$d ακόμη</item>
+    </plurals>
+    <plurals name="playlist_selected_song_feedback">
+        <item quantity="other">Επιλέχθηκαν %1$d τραγούδια</item>
+        <item quantity="one">Επιλέχθηκε %1$d τραγούδι</item>
+        <item quantity="two">Επιλέχθηκαν %1$d τραγούδια</item>
+        <item quantity="few">Επιλέχθηκαν %1$d τραγούδια</item>
+        <item quantity="many">Επιλέχθηκαν %1$d τραγούδια</item>
+    </plurals>
+    <plurals name="recordlabel">
+        <item quantity="other">ΔΙΣΚΟΓΡΑΦΙΚΕΣ ΕΤΑΙΡΕΙΕΣ</item>
+        <item quantity="one">ΔΙΣΚΟΓΡΑΦΙΚΗ ΕΤΑΙΡΕΙΑ</item>
+        <item quantity="many">ΔΙΣΚΟΓΡΑΦΙΚΕΣ ΕΤΑΙΡΕΙΕΣ</item>
+    </plurals>
+    <plurals name="remove_songs_confirmation_title">
+        <item quantity="other">Αφαίρεση %1$d τραγουδιών;</item>
+        <item quantity="one">Αφαίρεση %1$d τραγουδιού;</item>
+        <item quantity="two">Αφαίρεση %1$d τραγουδιών;</item>
+        <item quantity="few">Αφαίρεση %1$d τραγουδιών;</item>
+        <item quantity="many">Αφαίρεση %1$d τραγουδιών;</item>
+    </plurals>
+    <plurals name="revoke_permissions_selected_apps_feedback">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+        <item quantity="two">%d εφαρμογές</item>
+        <item quantity="few">%d εφαρμογές</item>
+        <item quantity="many">%d εφαρμογές</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="zero">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+        <item quantity="two">%d δευτερόλεπτα</item>
+        <item quantity="few">%d δευτερόλεπτα</item>
+        <item quantity="many">%d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="second_string">
+        <item quantity="other">δευτερόλεπτα</item>
+        <item quantity="zero">δευτερόλεπτα</item>
+        <item quantity="one">δευτερόλεπτο</item>
+        <item quantity="two">δευτερόλεπτα</item>
+        <item quantity="few">δευτερόλεπτα</item>
+        <item quantity="many">δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="settings_family_add_members_subtitle_count">
+        <item quantity="other">Μπορείτε να προσθέσετε έως %s άτομα ακόμη στην οικογένειά σας.</item>
+        <item quantity="one">Μπορείτε να προσθέσετε ένα άτομο ακόμη στην οικογένειά σας.</item>
+        <item quantity="two">Μπορείτε να προσθέσετε έως %s άτομα ακόμη στην οικογένειά σας.</item>
+        <item quantity="few">Μπορείτε να προσθέσετε έως %s άτομα ακόμη στην οικογένειά σας.</item>
+        <item quantity="many">Μπορείτε να προσθέσετε έως %s άτομα ακόμη στην οικογένειά σας.</item>
+    </plurals>
+    <plurals name="share_lyrics_lines_selected">
+        <item quantity="other">%d γραμμές επιλέχθηκαν</item>
+        <item quantity="zero">Δεν έχουν επιλεγεί γραμμές</item>
+        <item quantity="one">%d γραμμή επιλέχθηκε</item>
+        <item quantity="two">%d γραμμές επιλέχθηκαν</item>
+        <item quantity="few">%d γραμμές επιλέχθηκαν</item>
+        <item quantity="many">%d γραμμές επιλέχθηκαν</item>
+    </plurals>
+    <plurals name="shareplay_active_number">
+        <item quantity="other">%d ενεργά άτομα</item>
+        <item quantity="one">%d ενεργό άτομο</item>
+        <item quantity="two">%d ενεργά άτομα</item>
+        <item quantity="few">%d ενεργά άτομα</item>
+        <item quantity="many">%d ενεργά άτομα</item>
+    </plurals>
+    <plurals name="show_episodes">
+        <item quantity="other">%d επεισόδια</item>
+        <item quantity="one">%d επεισόδιο</item>
+        <item quantity="two">%d επεισόδια</item>
+        <item quantity="few">%d επεισόδια</item>
+        <item quantity="many">%d επεισόδια</item>
+    </plurals>
+    <plurals name="sleep_timer_turn_off_tracks">
+        <item quantity="other">%1$d τραγούδια ακόμη</item>
+        <item quantity="one">%1$d τραγούδι ακόμη</item>
+        <item quantity="two">%1$d τραγούδια ακόμη</item>
+        <item quantity="few">%1$d τραγούδια ακόμη</item>
+        <item quantity="many">%1$d τραγούδια ακόμη</item>
+    </plurals>
+    <plurals name="snackbar_added_to_playlist">
+        <item quantity="other">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="one">%1$d τραγούδι προστέθηκε στη λίστα «%2$s»</item>
+        <item quantity="two">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="few">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+        <item quantity="many">%1$d τραγούδια προστέθηκαν στη λίστα «%2$s»</item>
+    </plurals>
+    <plurals name="snackbar_removed_from_device_plural">
+        <item quantity="other">Αφαιρέθηκαν %d στοιχεία</item>
+        <item quantity="one">Αφαιρέθηκε %d στοιχείο</item>
+        <item quantity="two">Αφαιρέθηκαν %d στοιχεία</item>
+        <item quantity="few">Αφαιρέθηκαν %d στοιχεία</item>
+        <item quantity="many">Αφαιρέθηκαν %d στοιχεία</item>
+    </plurals>
+    <plurals name="song_number">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+        <item quantity="two">%d τραγούδια</item>
+        <item quantity="few">%d τραγούδια</item>
+        <item quantity="many">%d τραγούδια</item>
+    </plurals>
+    <plurals name="song_number_available">
+        <item quantity="other">%d διαθέσιμα τραγούδια</item>
+        <item quantity="one">%d διαθέσιμο τραγούδι</item>
+        <item quantity="two">%d διαθέσιμα τραγούδια</item>
+        <item quantity="few">%d διαθέσιμα τραγούδια</item>
+        <item quantity="many">%d διαθέσιμα τραγούδια</item>
+    </plurals>
+    <plurals name="song_number_header_capitalized">
+        <item quantity="other">%d ΤΡΑΓΟΥΔΙΑ</item>
+        <item quantity="one">%d ΤΡΑΓΟΥΔΙ</item>
+        <item quantity="two">%d ΤΡΑΓΟΥΔΙΑ</item>
+        <item quantity="few">%d ΤΡΑΓΟΥΔΙΑ</item>
+        <item quantity="many">%d ΤΡΑΓΟΥΔΙΑ</item>
+    </plurals>
+    <plurals name="student_reverification_title">
+        <item quantity="other">%1$d ημέρες για επαλήθευση της φοιτητικής σας κατάστασης.</item>
+        <item quantity="one">%1$d ημέρα για επαλήθευση της φοιτητικής σας κατάστασης.</item>
+        <item quantity="two">%1$d ημέρες για επαλήθευση της φοιτητικής σας κατάστασης.</item>
+        <item quantity="few">%1$d ημέρες για επαλήθευση της φοιτητικής σας κατάστασης.</item>
+        <item quantity="many">%1$d ημέρες για επαλήθευση της φοιτητικής σας κατάστασης.</item>
+    </plurals>
+    <plurals name="subtext_pending_invitee">
+        <item quantity="other">%1$d συνεργάτες</item>
+        <item quantity="zero">%1$d συνεργάτες</item>
+        <item quantity="one">%1$d συνεργάτης</item>
+        <item quantity="two">%1$d συνεργάτες</item>
+        <item quantity="few">%1$d συνεργάτες</item>
+        <item quantity="many">%1$d συνεργάτες</item>
+    </plurals>
+    <plurals name="time_since_days">
+        <item quantity="other">%d η.</item>
+        <item quantity="one">%d η.</item>
+        <item quantity="two">%d η.</item>
+        <item quantity="few">%d η.</item>
+        <item quantity="many">%d η.</item>
+    </plurals>
+    <plurals name="time_since_hours">
+        <item quantity="other">%d ώ.</item>
+        <item quantity="one">%d ώ.</item>
+        <item quantity="two">%d ώ.</item>
+        <item quantity="few">%d ώ.</item>
+        <item quantity="many">%d ώ.</item>
+    </plurals>
+    <plurals name="time_since_minutes">
+        <item quantity="other">%d λ.</item>
+        <item quantity="one">%d λ.</item>
+        <item quantity="two">%d λ.</item>
+        <item quantity="few">%d λ.</item>
+        <item quantity="many">%d λ.</item>
+    </plurals>
+    <plurals name="time_since_months">
+        <item quantity="other">%d μ.</item>
+        <item quantity="one">%d μ.</item>
+        <item quantity="two">%d μ.</item>
+        <item quantity="few">%d μ.</item>
+        <item quantity="many">%d μ.</item>
+    </plurals>
+    <plurals name="time_since_seconds">
+        <item quantity="other">%d δ.</item>
+        <item quantity="one">%d δ.</item>
+        <item quantity="two">%d δ.</item>
+        <item quantity="few">%d δ.</item>
+        <item quantity="many">%d δ.</item>
+    </plurals>
+    <plurals name="time_since_weeks">
+        <item quantity="other">%d εβδ.</item>
+        <item quantity="one">%d εβδ.</item>
+        <item quantity="two">%d εβδ.</item>
+        <item quantity="few">%d εβδ.</item>
+        <item quantity="many">%d εβδ.</item>
+    </plurals>
+    <plurals name="time_since_years">
+        <item quantity="other">%d έτη</item>
+        <item quantity="one">%d έτος</item>
+        <item quantity="two">%d έτη</item>
+        <item quantity="few">%d έτη</item>
+        <item quantity="many">%d έτη</item>
+    </plurals>
+    <plurals name="track_added_days_ago">
+        <item quantity="other">%d ημ. πριν</item>
+        <item quantity="one">%d ημ. πριν</item>
+        <item quantity="two">%d ημ. πριν</item>
+        <item quantity="few">%d ημ. πριν</item>
+        <item quantity="many">%d ημ. πριν</item>
+    </plurals>
+    <plurals name="track_added_hours_ago">
+        <item quantity="other">%d ώ. πριν</item>
+        <item quantity="one">%d ώ. πριν</item>
+        <item quantity="two">%d ώ. πριν</item>
+        <item quantity="few">%d ώ. πριν</item>
+        <item quantity="many">%d ώ. πριν</item>
+    </plurals>
+    <plurals name="track_added_minutes_ago">
+        <item quantity="other">%d λ. πριν</item>
+        <item quantity="one">%d λ. πριν</item>
+        <item quantity="two">%d λ. πριν</item>
+        <item quantity="few">%d λ. πριν</item>
+        <item quantity="many">%d λ. πριν</item>
+    </plurals>
+    <plurals name="up_next_clear_dialog_message">
+        <item quantity="other">Όταν αναπαραχθεί αυτό το στοιχείο, θέλετε να συνεχιστεί η αναπαραγωγή ή να γίνει εκκαθάριση των %d τραγουδιών που είχατε προσθέσει στην ουρά;</item>
+        <item quantity="one">Όταν αναπαραχθεί αυτό το στοιχείο, θέλετε να συνεχιστεί η αναπαραγωγή ή να γίνει εκκαθάριση του %d τραγουδιού που είχατε προσθέσει στην ουρά;</item>
+        <item quantity="two">Όταν αναπαραχθεί αυτό το στοιχείο, θέλετε να συνεχιστεί η αναπαραγωγή ή να γίνει εκκαθάριση των %d τραγουδιών που είχατε προσθέσει στην ουρά;</item>
+        <item quantity="few">Όταν αναπαραχθεί αυτό το στοιχείο, θέλετε να συνεχιστεί η αναπαραγωγή ή να γίνει εκκαθάριση των %d τραγουδιών που είχατε προσθέσει στην ουρά;</item>
+        <item quantity="many">Όταν αναπαραχθεί αυτό το στοιχείο, θέλετε να συνεχιστεί η αναπαραγωγή ή να γίνει εκκαθάριση των %d τραγουδιών που είχατε προσθέσει στην ουρά;</item>
+    </plurals>
+    <plurals name="updated_days_ago">
+        <item quantity="other">Ενημερώθηκε %d ημέρες πριν</item>
+        <item quantity="zero">Ενημερώθηκε %d ημέρες πριν</item>
+        <item quantity="one">Ενημερώθηκε %d ημέρα πριν</item>
+        <item quantity="two">Ενημερώθηκε %d ημέρες πριν</item>
+        <item quantity="few">Ενημερώθηκε %d ημέρες πριν</item>
+        <item quantity="many">Ενημερώθηκε %d ημέρες πριν</item>
+    </plurals>
+    <plurals name="updated_hours_ago">
+        <item quantity="other">Ενημερώθηκε %d ώρες πριν</item>
+        <item quantity="one">Ενημερώθηκε %d ώρα πριν</item>
+        <item quantity="two">Ενημερώθηκε %d ώρες πριν</item>
+        <item quantity="few">Ενημερώθηκε %d ώρες πριν</item>
+        <item quantity="many">Ενημερώθηκε %d ώρες πριν</item>
+    </plurals>
+    <plurals name="updated_minutes_ago">
+        <item quantity="other">Ενημερώθηκε %d λεπτά πριν</item>
+        <item quantity="one">Ενημερώθηκε %d λεπτό πριν</item>
+        <item quantity="two">Ενημερώθηκε %d λεπτά πριν</item>
+        <item quantity="few">Ενημερώθηκε %d λεπτά πριν</item>
+        <item quantity="many">Ενημερώθηκε %d λεπτά πριν</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="other">Ενημερώθηκε %d εβδομ. πριν</item>
+        <item quantity="one">Ενημερώθηκε %d εβδομ. πριν</item>
+        <item quantity="two">Ενημερώθηκε %d εβδομ. πριν</item>
+        <item quantity="few">Ενημερώθηκε %d εβδομ. πριν</item>
+        <item quantity="many">Ενημερώθηκε %d εβδομ. πριν</item>
+    </plurals>
+</resources>
