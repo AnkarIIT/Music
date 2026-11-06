@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/action_sheet_coordinator" android:tag="layout/replay_page_layout_0" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/action_sheet_outside" android:layout_width="fill_parent" android:layout_height="fill_parent" android:soundEffectsEnabled="false" android:importantForAccessibility="no" />
+    <FrameLayout android:id="@id/action_sheet_list" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/bottom_sheet_behavior">
+        <FrameLayout android:id="@id/replay_webview_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scrollbarFadeDuration="6000" android:verticalScrollbarPosition="right" />
+        <FrameLayout android:id="@id/bottom_sheet_handler_container" android:background="@drawable/shadow_black_gradient" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/content_description_close_page">
+            <ImageView android:layout_gravity="center" android:id="@id/bottom_sheet_grapple" android:paddingTop="@dimen/smaller_margin" android:paddingBottom="@dimen/smaller_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/ic_bottom_sheet_grapple" />
+        </FrameLayout>
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
