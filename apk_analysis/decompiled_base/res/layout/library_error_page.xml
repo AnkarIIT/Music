@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/default_padding" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" />
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/error_page_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/empty_library_empty_title" style="@style/MusicTitle2" />
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/error_page_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_bottom_padding_small" android:text="@string/empty_library_empty_desc" android:layout_marginStart="@dimen/larger_margin" android:layout_marginEnd="@dimen/larger_margin" style="@style/Subhead" />
+    <com.apple.android.music.common.views.CustomTextButton android:layout_gravity="center" android:orientation="vertical" android:id="@id/error_page_btn" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="@dimen/network_error_page_margin" android:layout_marginStart="@dimen/default_padding" android:layout_marginEnd="@dimen/default_padding" style="@style/ButtonAStyle" />
+</LinearLayout>
