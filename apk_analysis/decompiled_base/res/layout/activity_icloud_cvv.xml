@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/main_container" android:tag="layout/activity_icloud_cvv_0" android:background="@color/background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="@dimen/default_padding" android:layout_weight="1.0">
+            <com.apple.android.music.common.views.CustomTextView android:id="@id/cvv_description_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/larger_margin" style="@style/DefaultFont" />
+            <com.apple.android.music.common.views.CustomEditText android:id="@id/cvv_edittext" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="150.0dip" android:inputType="number" android:imeOptions="flagNoExtractUi" style="@style/FormEditText" />
+        </LinearLayout>
+        <com.apple.android.music.common.views.ButtonsBottomBar android:id="@id/buttons_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <include layout="@layout/view_loader_include" />
+</FrameLayout>
