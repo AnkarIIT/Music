@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout android:tag="layout/connect_header_0" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" app:alignContent="flex_start" app:alignItems="flex_start" app:flexDirection="row" app:flexWrap="nowrap"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:tag="binding_1" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" android:contentDescription="@string/profile_picture" app:circularImage="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/connect_item_view_padding" android:layout_marginEnd="@dimen/connect_item_view_padding" app:layout_alignSelf="center" app:layout_flexGrow="1.0">
+        <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" style="@style/Body" />
+        <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:paddingTop="@dimen/connect_item_text_spacing_small" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" style="@style/Body" />
+    </LinearLayout>
+    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/system_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" app:layout_alignSelf="center" app:layout_flexShrink="1.0" style="@style/Body" />
+</com.google.android.flexbox.FlexboxLayout>
