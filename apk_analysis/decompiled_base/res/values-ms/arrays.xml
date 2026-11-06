@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="connect_post_count_rounding">
+        <item>R</item>
+        <item>J</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="dark_mode_theme_entries">
+        <item>Cerah</item>
+        <item>Gelap</item>
+        <item>Lalai Sistem</item>
+    </string-array>
+    <string-array name="download_locations">
+        <item>Storan Peranti</item>
+        <item>Kad SD</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Biasa</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="music_bullet">
+        <item>Apple mengumpulkan maklumat tentang aktiviti Apple Music dan Apple Music Classical anda, seperti lagu yang anda mainkan dan tempoh masa anda memainkannya, untuk memperibadikan perkhidmatan apabila anda melanggan, menghantar pemberitahuan kepada anda dan membayar rakan kongsi kami.</item>
+        <item>Pustaka awan Apple anda menghantar maklumat daripada pustaka muzik anda pada peranti anda kepada Apple, seperti nama lagu dan artis, untuk mengenal pasti dan membuka kunci salinan sebarang lagu anda yang turut tersedia dalam Apple Music.</item>
+        <item>Kami mengaitkan maklumat pustaka awan anda dengan anda selagi anda kekal melanggan dan untuk tempoh masa singkat selepas itu. Kami mengekalkan rekod lagu yang anda mainkan untuk tempoh yang ditentukan oleh undang-undang berkenaan yang berkaitan dengan pelaporan kewangan.</item>
+        <item>Untuk membantu mengecam dan mencegah penipuan, maklumat tentang cara anda menggunakan peranti anda, termasuk bilangan anggaran panggilan telefon atau e-mel yang anda hantar dan terima, akan digunakan untuk mengira skor kepercayaan peranti apabila anda cuba membeli. Penghantaran direka bentuk supaya Apple tidak boleh mengetahui nilai sebenar pada peranti anda. Skor disimpan untuk masa yang ditetapkan pada pelayan kami.</item>
+    </string-array>
+    <string-array name="music_footer_text">
+        <item>"Melindungi privasi dan keselamatan maklumat anda ialah keutamaan semua orang di Apple. Kami berusaha keras untuk hanya mengumpulkan data yang kami perlukan untuk menjadikan pengalaman anda lebih baik. Apabila kami mengumpulkan data, kami percaya penting untuk anda mengetahui perkara yang kami kumpulkan dan sebab kami memerlukannya, supaya anda boleh membuat pilihan termaklum. Apple Music dan Apple Music Classical, seperti setiap produk dan perkhidmatan Apple, direka bentuk berpandukan prinsip ini.
+
+Kami menggunakan data peribadi anda untuk menyediakan perkhidmatan dan ciri dalam Apple Music. Maklumat ini termasuk nama dan foto Akaun Apple anda jika anda telah mengesetkannya, yang boleh anda akses dan tukar dalam seting app Apple Music untuk digunakan dengan ciri perkongsian dalam Apple Music, serta akaun anda, status langganan Apple dan maklumat bayaran, yang boleh anda akses serta tukar dalam Seting atau Seting Sistem.
+
+Apabila anda melanggan Apple Music, langganan anda termasuk akses penuh kepada Apple Music dan Apple Music Classical. Apple mengumpulkan maklumat tentang cara anda menggunakan Apple Music dan Apple Music Classical untuk menyesuaikan ciri mengikut cita rasa muzik anda. Ciri ini termasuk pengesyoran diperibadikan seperti album dan senarai main yang dipilih untuk anda, serta Radio, yang memainkan pilihan daripada artis dan genre kegemaran anda. Kami juga menggunakan maklumat ini supaya kami boleh menghubungi anda melalui e-mel dan pemberitahuan push tentang keluaran akan datang, artis baharu dan peristiwa lain pada Apple Music dan Apple Music Classical yang mungkin anda suka.
+
+Sesetengah ciri Apple Music, seperti stesen radio siaran tertentu, mungkin tidak tersedia di rantau anda. Apple mungkin menggunakan alamat IP sambungan internet anda untuk menganggarkan lokasi anda dan menentukan ketersediaan.
+
+Apple Music Classical
+
+Pelanggan Apple Music mempunyai akses kepada Apple Music Classical, aplikasi muzik klasik yang direka bentuk untuk membolehkan anda menemui trek dan album klasik serta menyimpan trek klasik kegemaran anda di satu tempat pusat. Anda boleh melayari katalog Apple Music Classical tanpa langganan, tetapi anda mesti mempunyai langganan Apple Music untuk mengakses semua ciri Apple Music Classical. Jika anda tidak mempunyai langganan Apple Music aktif, anda akan diberikan pilihan untuk melanggan Apple Music untuk mendapatkan akses penuh kepada Apple Music Classical.
+
+Pustaka Awan
+
+Pustaka awan Apple anda, yang merupakan faedah daripada langganan Apple Music anda, membenarkan anda mempunyai akses kepada lagu dan senarai main dalam pustaka anda daripada sebarang peranti anda. Ciri ini menghantar maklumat daripada pustaka anda pada peranti anda kepada Apple, seperti nama lagu dan artis, untuk mengenal pasti dan membuka kunci salinan sebarang lagu anda yang turut tersedia dalam Apple Music dan Apple Music Classical. Sebarang lagu yang tidak ditemui dalam Apple Music dimuat naik ke pustaka awan peribadi anda, supaya anda boleh mengakses koleksi lengkap anda daripada mana-mana peranti anda menerusi Apple Music. Untuk berhenti menyelaraskan pustaka awan anda pada peranti iOS, iPadOS atau visionOS anda, pergi ke Seting > App > Muzik dan ketik untuk menyahaktifkan Selaraskan Pustaka. Pada Mac, buka Apple Music dan pergi ke Seting > Umum, kemudian nyahpilih Selaraskan Pustaka.
+
+Profil Apple Music
+
+Jika anda mahu berhubung atau berkongsi dengan orang lain menggunakan Apple Music, anda boleh mencipta profil peribadi dengan memberikan nama pengguna (contohnya, @johnappleseed), nama paparan dan jika diperlukan, foto profil serta maklumat lain. Apple menyimpan maklumat ini dengan akaun anda supaya anda boleh mengaksesnya daripada mana-mana peranti anda. Nama pengguna, nama paparan dan foto profil anda boleh kelihatan bersama-sama sebarang kandungan yang anda siarkan serta aktiviti yang anda kongsi pada Apple Music. Perkongsian dan siaran kandungan tidak ditujukan atau tersedia untuk Akaun Apple kanak-kanak pada masa ini.
+
+Orang lain juga mungkin dapat mencari profil Apple Music anda menggunakan maklumat yang anda berikan.
+
+Anda boleh menjadikan kandungan profil anda, seperti aktiviti pendengaran dan senarai main, hanya tersedia kepada orang yang anda pilih. Walau bagaimanapun, maklumat profil anda, seperti nama pengguna, nama paparan, foto, pengikut anda dan orang yang anda ikuti, kelihatan kepada semua orang secara lalai. Untuk menyekat pengguna daripada melihat profil anda, pergi ke profil pengguna, ketik Lagi, kemudian ketik Sekat. Orang yang anda sekat tidak akan dapat melihat muzik anda atau mencari profil anda dalam Apple Music.
+
+Apabila anda mencipta profil di Apple Music, kami akan mengesyorkan pelanggan Apple Music lain yang mungkin anda mahu berhubung sebagai rakan. Apple tidak mengetahui atau menyimpan maklumat daripada kenalan anda apabila menyemak rakan untuk disyorkan. Hanya cincangan yang dipendekkan dan disulitkan daripada nombor telefon serta alamat e‑mel dalam kenalan anda dihantar kepada Apple, kemudian pelanggan Apple Music sepadan yang ingin disyorkan akan ditentukan pada peranti anda secara setempat. Apple Music boleh menyemak kenalan anda secara berkala untuk mengesyorkan rakan baharu pada masa depan; anda boleh mengawal ini dengan pergi ke Seting Akaun > Privasi &amp; Akses > Kenalan pada Apple Music. Jika anda tidak mahu ditemui oleh orang lain berdasarkan maklumat hubungan Akaun Apple yang mungkin mereka miliki tentang anda dalam kenalan mereka, anda boleh menukarnya dengan pergi ke Seting Akaun > Privasi &amp; Akses > Benarkan Carian dengan Akaun Apple.
+
+Maklumat yang anda berikan dalam profil anda boleh dikemas kini atau dikeluarkan oleh anda pada bila-bila masa. Pada bila-bila masa anda berkongsi dalam talian, anda patut berfikir dengan cermat tentang perkara yang anda siarkan kepada orang awam. Apabila anda berkongsi daripada Apple Music ke tapak web atau rangkaian sosial lain, sebarang perkara yang anda kongsi ditadbir oleh dasar privasi perkhidmatan lain tersebut.
+
+SharePlay
+
+Apabila anda melanggan Apple Music, anda boleh mengehoskan sesi SharePlay apabila disambungkan ke Apple TV, HomePod, CarPlay, atau apabila menggunakan Bluetooth. Dengan SharePlay, pelanggan Apple Music lain boleh menyertai sesi SharePlay anda dan boleh mengawal muzik yang dimainkan menerusi Apple Music. SharePlay juga membenarkan pengguna tanpa langganan Apple Music untuk menyertai sesi SharePlay anda. Apple menggunakan Bluetooth, jika didayakan pada peranti anda, untuk membolehkan kenalan berdekatan anda menemui sesi Apple Music anda dan meminta untuk menyertainya. Jika anda tidak mahu kenalan berupaya menemui peranti anda dan meminta untuk menyertai sesi Apple Music, anda boleh menyahaktifkan kebolehtemuan oleh kenalan berdekatan dalam seting app Apple Music. Kenalan, serta peserta lain, juga boleh menyertai sesi dengan mengimbas kod QR yang dipaparkan dalam seting app Apple Music atau antara muka kenderaan jika menyertai sesi SharePlay di dalam kereta.
+
+Nama dan foto profil peserta dalam sesi akan kelihatan kepada semua orang dalam sesi. Sumbangan kepada sesi SharePlay diatributkan kepada individu yang melakukannya dan dikaitkan dengan nama serta foto profil pengguna tersebut, jika diberikan, yang boleh diedit pada bila-bila masa dalam seting app Apple Music. Anda boleh mengeluarkan peserta daripada sesi SharePlay yang anda hoskan dengan mengetik ikon SharePlay dalam app Apple Music, kemudian memilih peserta untuk dikeluarkan. Untuk keluar daripada sesi SharePlay, ketik ikon SharePlay dalam app Apple Music, kemudian ketik Keluar. Untuk menamatkan sesi SharePlay yang anda anjurkan, ketik Tamat dalam app Apple Music. Apple tidak mengekalkan maklumat tentang kenalan anda atau peserta lain yang telah menyertai sesi SharePlay selepas sesi tamat.
+
+Anda juga boleh mendayakan sesi SharePlay dalam Mesej atau semasa panggilan FaceTime untuk berkongsi muzik serentak dengan orang lain. Untuk memulakan sesi, pilih muzik yang anda mahu dengar, kemudian ketik SharePlay dalam pilihan muzik, masukkan kenalan untuk dikongsi, kemudian ketik “Mesej” atau “FaceTime” dan Mula.
+
+Cipta dan Bekerjasama pada Senarai Main
+
+Pelanggan Apple Music boleh menc"</item>
+        <item>"ipta senarai main mereka sendiri atau menggunakan Playlist Playground, apabila tersedia, untuk menjana senarai main menggunakan kecerdasan buatan. Apabila anda menggunakan Playlist Playground, anda akan menerangkan perkara yang anda mahu dengar, yang akan diproses untuk memahami perasaan, genre atau tema. Maklumat ini akan digabungkan dengan sejarah pendengaran anda dan data penggunaan lain untuk mengurus senarai main tersuai. Anda boleh memperhalus senarai main sebelum menyimpan senarai main dan anda boleh memadam atau mengubah suai senarai main yang dijana pada bila-bila masa.
+
+Anda boleh bekerjasama pada senarai main dengan pelanggan Apple Music lain. Jika anda pencipta senarai main, anda boleh memilih untuk meluluskan setiap orang yang menyertai senarai main atau anda boleh membenarkan sesiapa dengan pautan ke senarai main untuk menyertai secara automatik. Semua peserta boleh menambahkan dan mengeluarkan lagu daripada senarai main serta menambah reaksi emoji. Sumbangan diatributkan kepada individu yang melakukannya dan dikaitkan dengan nama serta foto profil pengguna tersebut, jika diberikan, yang boleh diedit pada bila-bila masa dalam seting app Apple Music. Semua peserta dalam senarai main dan sesiapa dengan akses kepada senarai main, boleh nampak dan melihat nama serta foto peserta lain. Peserta senarai main boleh melihat semua lagu dan reaksi yang ditambah oleh peserta lain. Untuk berhenti bekerjasama, keluarkan diri anda daripada senarai main dalam seting senarai main, atau jika anda pencipta, hentikan kerjasama dalam seting urus kerjasama senarai main. Jika pencipta senarai main menamatkan kerjasama, senarai main menjadi senarai main dikongsi yang boleh diakses kolaborator dalam pustaka Apple Music mereka.
+
+Konsert
+
+Jika anda membenarkan Apple Music mengakses lokasi anda, lokasi anggaran anda mungkin digunakan untuk menyimpan bandar yang diminati pilihan anda bagi memberi anda maklumat yang berkaitan secara tempatan seperti konsert berdekatan. Jika anda memilih untuk tidak membenarkan Apple Music mengakses lokasi anda, anda boleh memasukkan bandar yang diminati secara manual untuk mencari konsert di bandar tersebut. Bandar yang diminati anda akan diselaraskan merentas peranti jika penyelarasan didayakan. Anda boleh menukar seting berdasarkan lokasi anda pada bila-bila masa pada peranti iOS atau iPadOS anda dengan pergi ke Seting > Privasi &amp; Keselamatan > Perkhidmatan Lokasi > Muzik.
+
+Memperibadikan dan Meningkatkan Apple Music dan Apple Music Classical
+
+Apabila anda menggunakan langganan Apple Music anda atau memainkan kandungan percuma di luar pustaka anda, kami mungkin mengumpulkan maklumat tentang lagu dan video (jika berkenaan) yang anda mainkan atau tambahkan ke pustaka muzik atau senarai main anda serta artis dan kandungan yang anda gemari atau kongsi. Maklumat seperti akaun, alamat IP dan peranti, app, atau antara muka kereta yang anda gunakan untuk bermain, tempat yang anda berada dalam Apple Music atau Apple Music Classical semasa memainkannya, masa serta tempoh anda memainkannya, direkodkan dan dihantar kepada Apple. Kami menggunakan maklumat ini untuk menyesuaikan pengalaman anda, untuk menghantar e-mel dan pemberitahuan kepada anda dan membantu kami memahami cara Apple Music dan Apple Music Classical digunakan supaya kami dapat meningkatkan perkhidmatan kami. Contohnya, maklumat ini boleh membantu kami memilih muzik, video dan kandungan artis yang kami tunjukkan kepada anda dalam Apple Music dan Apple Music Classical. Ia turut membolehkan kami membuat pengesyoran lain kepada anda, yang menggambarkan cita rasa anda, mencipta carta bandar untuk menunjukkan kepada anda muzik semakin popular mengikut bandar dan memberikan hasil carian Apple Music diperibadikan menggunakan campuran maklumat seperti sejarah pendengaran anda dan genre kegemaran anda. Kami turut menggunakan maklumat ini untuk membayar royalti dan menghalang atau mengambil tindakan terhadap aktiviti yang, atau mungkin, melanggar Terma dan Syarat Perkhidmatan Media Apple atau undang-undang berkenaan.
+
+Jika anda menggunakan SharePlay untuk mendengar kandungan bersama pengguna lain pada Apple Music, app Apple Music akan mengumpulkan maklumat tentang kandungan yang anda dengar semasa sesi SharePlay dan anggaran bilangan peserta dalam sesi, tetapi tidak mengekalkan sebarang maklumat untuk mengenal pasti peserta sesi SharePlay.
+
+Kami juga menggunakan data carian Apple Music untuk meningkatkan model yang menguasakan Apple Music. Sebagai contoh, pertanyaan carian Apple Music agregat digunakan untuk memperhalus model carian Apple Music.
+
+Berkomunikasi dengan Anda
+
+Apple mungkin menggunakan maklumat tentang akaun anda, seperti produk Apple yang anda miliki, app Apple yang anda muat turun dan langganan perkhidmatan Apple anda, untuk menghantar komunikasi kepada anda tentang Apple Music dan produk, perkhidmatan, serta tawaran Apple lain yang mungkin menarik minat anda, termasuk Apple Music Classical dan Apple One. Nombor siri peranti anda dan pengecam perkakasan lain atau butiran tentang langganan App Store anda yang berkaitan mungkin digunakan untuk menyemak kelayakan bagi tawaran perkhidmatan Apple. Jika anda berada dalam kumpulan Perkongsian Keluarga, Apple mungkin menghantar komunikasi kepada anda tentang produk, perkhidmatan dan tawaran yang tersedia kepada anda menerusi Perkongsian Keluarga. Jika anda membeli langganan Apple One, kami mungkin menghantar e‑mel dan pemberitahuan push kepada anda tentang ciri setiap perkhidmatan yang telah anda langgan. Apple juga mungkin menggunakan maklumat tentang aktiviti anda dalam Apple Music dan Apple Music Classical, serta interaksi anda dengan perkhidmatan yang digunakan untuk mengesahkan kelayakan bagi langganan Apple Music berdiskaun yang tersedia (seperti Apple Music Student) untuk menghantar e‑mel dan pemberitahuan push kepada anda tentang ciri, kandungan, peristiwa dan tawaran baharu yang tersedia dalam Apple Music serta Apple Music Classical. Untuk sesetengah komunikasi, pengecam perkakasan digunakan untuk menapis pemberitahuan yang akan anda terima. Anda boleh menukar keutamaan e‑mel anda dan menarik diri daripada menerima e‑mel ini dengan pergi ke account.apple.com. Untuk mengemas kini keutamaan pemberitahuan anda pada peranti iOS, iPadOS atau visionOS anda, pergi ke Seting > Pemberitahuan > Muzik. Pada Mac, buka Apple Music dan pergi ke Seting > Umum > Pemberitahuan. Apple menggunakan maklumat tentang interaksi anda dengan komunikasi kami, termasuk pemberitahuan, untuk meningkatkan perkhidmatan kami.
+
+Mencegah Penipuan dan Aktiviti Berniat Jahat Lain
+
+Kami mengira skor kepercayaan peranti pada peranti anda apabila anda cuba melakukan pembelian, menggunakan maklumat tentang cara anda menggunakan peranti anda, termasuk anggaran bilangan panggilan telefon atau e-mel yang anda hantar dan terima. Penghantaran direka bentuk supaya Apple tidak boleh mengetahui nilai mendasar pada peranti anda. Skor disimpan untuk masa yang ditetapkan pada pelayan kami. Apple juga mungkin menggunakan maklumat tentang sejarah hubungan perniagaan anda dengan Apple untuk memproses pembaharuan langganan Apple Music dan menentukan sama ada untuk menyediakan akses berterusan kepada langganan anda sebelum pengesahan oleh rakan kongsi bayaran.
+
+Pendedahan kepada Pihak Ketiga
+
+Stesen Radio
+Apabila anda menggunakan Apple Music untuk mendengar radio siaran, peranti anda bersambung terus ke stesen radio siaran untuk menyediakan anda kandungan yang diminta. Apabila ia bersambung, alamat IP peranti anda akan kelihatan kepada stesen radio siaran. Pengendalian alamat IP anda oleh stesen radio siaran ditadbir oleh dasar privasi stesen radio siaran atau penyedianya.
+
+Syarikat Muzik, Artis dan Pengkompil Carta
+Kami berkewajipan untuk memberikan sesetengah data bukan peribadi yang diagregatkan tentang penggunaan Apple Music dan Apple Music Classical, serta demografi pengguna diagregatkan seperti kumpulan umur dan jantina (yang mungkin ditentukan daripada maklumat seperti nama dan gelaran anda dalam Akaun Apple anda), kepada syarikat muzik, penerbit serta artis supaya mereka boleh mengukur prestasi karya kreatif mereka dan memenuhi keperluan royalti serta pera"</item>
+        <item>"kaunan. Selain itu, kami berkongsi aktiviti pendengaran diagregatkan dengan pengkompil carta untuk carta muzik di seluruh dunia, dengan syarikat muzik dan artis bagi mengukur penglibatan, termasuk dalam masa nyata dan dengan platform pemasaran muzik yang membantu syarikat muzik serta artis mencapai pendengar. Untuk menentukan kelayakan langganan anda jika anda melanggan Apple Music menerusi rakan kongsi pihak ketiga seperti penyedia rangkaian mudah alih atau untuk melengkapkan pembelian anda, kami berkongsi maklumat pengenalpastian peribadi yang terhad bersama rakan kongsi tersebut.
+
+Menyambungkan Apple Music dengan App Lain
+
+App iOS, iPadOS dan visionOS serta app pada platform bukan Apple mungkin meminta akses kepada Apple Music dan pustaka awan anda. Jika anda mengizinkan app sedemikian, ia boleh mengakses maklumat seperti pustaka awan anda pada peranti, sama ada anda pelanggan Apple Music, aktiviti main muzik dan video anda, serta pengesyoran anda dalam Apple Music. App yang dibenarkan juga boleh mengubah suai data yang dikaitkan dengan akaun anda, seperti lagu yang berada dalam pustaka dan senarai main anda. Jika anda memberikan keizinan kepada app Foto untuk mengakses Apple Music, Foto akan menggunakan lagu daripada Apple Music untuk dimainkan dengan filem memori. Apabila anda mencipta filem memori tersuai dalam Foto, maklumat tentang gesaan yang anda masukkan untuk mencipta memori mungkin dihantar ke Apple Music bagi memilih muzik untuk dimainkan dengan filem. App Apple dengan kandungan disokong, seperti Remote, juga akan disambungkan secara automatik apabila anda mula menggunakan app Apple Music dan kandungan disokong. Anda boleh menyahdayakan akses app pada peranti iOS, iPadOS atau visionOS anda dengan pergi ke Seting > Privasi &amp; Keselamatan > Media &amp; Apple Music. Pada Mac, pergi ke Seting Sistem > Privasi &amp; Keselamatan > Privasi > Media &amp; Apple Music. Jika anda telah mengeluarkan app atau memberikan akses kepada app menggunakan versi iOS yang lebih awal daripada iOS 11 atau iPadOS, anda boleh menyahdayakan aksesnya dalam seting akaun Apple Music anda.
+
+Langganan Apple Music Menerusi Rakan Kongsi Apple
+
+Jika penyedia rangkaian mudah alih anda menawarkan langganan dan percubaan percuma Apple Music, Apple mungkin menyemak nombor telefon anda untuk menentukan sama ada anda layak menerusi penyedia rangkaian mudah alih. Jika anda mendaftar untuk langganan atau percubaan percuma Apple Music menerusi penyedia rangkaian mudah alih anda atau rakan kongsi Apple lain, Apple akan menggunakan nombor telefon anda atau pengecam akaun unik yang dikongsi oleh rakan kongsi untuk mengenal pasti akaun anda dan memberitahu penyedia rangkaian mudah alih atau rakan kongsi lain bahawa anda telah mengaktifkan langganan anda. Kami akan menggunakan nombor telefon atau pengecam unik yang dikaitkan dengan langganan anda untuk mengesahkan akaun anda semasa daftar masuk dan untuk menghubungkan aktiviti Apple Music anda dengan akaun anda. Kami juga menggunakan nombor telefon anda untuk meminta pembatalan langganan anda dengan penyedia rangkaian mudah alih anda atas permintaan anda.
+
+Pengekalan
+
+Kami mengekalkan data peribadi yang dikaitkan dengan penggunaan dan interaksi anda dengan Apple Music dan Apple Music Classical untuk tempoh masa yang berbeza bergantung pada keperluan perniagaan, kewajipan kontrak dan keperluan undang-undang.
+
+Maklumat tentang aktiviti pendengaran, kandungan pustaka, senarai main anda dan carian anda dikekalkan selagi langganan anda aktif dan hingga dua tahun berikutan pembatalan akaun untuk menyokong pengaktifan semula serta untuk berkomunikasi dengan anda tentang muzik yang mungkin menarik minat anda dan tawaran yang mungkin anda layak dapatkan. Kami juga mungkin mengekalkan maklumat ini apabila perlu untuk mematuhi kewajipan pelaporan kewangan bagi tempoh yang ditentukan oleh undang-undang berkenaan, yang selalunya memerlukan tempoh pengekalan sekurang-kurangnya selama 10 tahun tetapi boleh dilanjutkan hingga 30 tahun dalam bidang kuasa seperti China.
+
+Jika langganan anda tamat, Apple Music mungkin mengekalkan muzik dan senarai main yang anda tambahkan atau cipta daripada katalog Apple Music selama tempoh ihsan bagi membenarkan pengaktifan semula tanpa kehilangan kandungan. Selepas tempoh ini, kandungan daripada katalog Apple Music mungkin menjadi tidak boleh diakses.
+
+Jika anda memadamkan Akaun Apple anda, data tertentu mungkin dikekalkan apabila diperlukan undang-undang atau untuk melindungi terhadap penipuan, menguatkuasakan Terma dan Syarat Perkhidmatan Media Apple atau mengekalkan keselamatan perkhidmatan Apple.
+
+Asas Undang-undang yang Berkenaan untuk Pemprosesan Data Peribadi
+
+Kami memproses data peribadi anda dalam Apple Music umumnya untuk pelaksanaan kontrak anda dengan Apple, seperti yang diperlukan untuk menyediakan perkhidmatan dan mematuhi kewajipan undang-undang kami. Jika keizinan ialah asas undang-undang yang bersesuaian, kami mendapatkannya berpandukan undang-undang tempatan yang berkenaan.
+
+Jika dibenarkan undang-undang tempatan yang berkenaan, kami memproses data peribadi mengikut keperluan untuk tujuan kepentingan sah kami atau pihak ketiga, untuk:
+
+• Memberi anda akses kepada kandungan dalam Apple Music dan Apple Music Classical yang anda dengar, tambahkan ke pustaka anda atau muat turun
+• Memperibadikan pengalaman anda dalam Apple Music dan Apple Music Classical
+• Mengenal pasti dan membuka kunci salinan lagu anda yang turut tersedia menerusi Apple Music
+• Menentukan ketersediaan kandungan di rantau anda dan kelayakan anda untuk tawaran serta langganan
+• Membantu meningkatkan dan mengoptimumkan Apple Music serta Apple Music Classical untuk anda dan orang lain, serta menghantar komunikasi kepada anda tentang app Apple Music dan Apple Music Classical, serta produk, perkhidmatan dan tawaran Apple lain yang mungkin menarik minat anda
+• Mencipta dan menyelenggarakan Profil serta senarai main Apple Music anda
+• Membayar royalti dan memberikan pelaporan untuk penerbit, syarikat muzik, artis dan pengkompil carta
+• Mencegah penipuan dan aktiviti berniat jahat lain
+
+Data yang digunakan termasuk:
+
+• Penggunaan app Apple Music dan Apple Music Classical anda termasuk interaksi anda dengan ciri, pemberitahuan dan mesej dalam app, serta kandungan yang anda dengar, cari, lihat, tambahkan pada pustaka anda dan muat turun pada Apple Music serta Apple Music Classical
+• Butiran tentang peranti dan akaun anda
+• Alamat IP anda
+• Profil dan senarai main Apple Music anda
+• Skor kepercayaan peranti
+
+Data Bukan Peribadi
+
+Kami mungkin mengumpulkan, menggunakan, memindahkan dan mendedahkan data bukan peribadi atas sebarang tujuan. Contohnya, kami mungkin mengagregatkan data bukan peribadi anda bersama-sama maklumat pengguna Apple Music lain untuk meningkatkan perkhidmatan. Kami juga boleh mengumpulkan metrik prestasi tertentu daripada peranti anda apabila anda menggunakan Apple Music, termasuk kekuatan frekuensi radio, kod negara, kod rangkaian dan teknologi akses radio selular.
+
+Ketahui Lebih Lanjut Tentang Apple Music
+
+Untuk mendapatkan maklumat yang lebih terperinci, termasuk ciri dan harga, lawati www.apple.com/my/apple-music.
+
+Untuk mendapatkan maklumat tentang Pemain Web Apple Music &amp; Privasi, lawati www.apple.com/legal/privacy/data/en/apple-music-web.
+
+Pada setiap masa, maklumat yang dikumpulkan oleh Apple akan dikendalikan berpandukan Dasar Privasi Apple yang boleh didapati di www.apple.com/my/privacy."</item>
+    </string-array>
+    <string-array name="streaming_cache_size">
+        <item>0 MB</item>
+        <item>200 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>5 GB</item>
+    </string-array>
+    <string-array name="voice_command_personal_radio">
+        <item>Muzik</item>
+        <item>Sesuatu</item>
+        <item>Muzik</item>
+        <item>Stesen Saya</item>
+        <item>Stesen radio saya</item>
+        <item>Beberapa nada</item>
+        <item>Beberapa lagu</item>
+        <item>Muzik saya gemari</item>
+        <item>Beberapa lagu hebat</item>
+        <item>Muzik saya sukai</item>
+    </string-array>
+</resources>
