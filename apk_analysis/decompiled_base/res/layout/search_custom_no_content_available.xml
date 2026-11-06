@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/emptyView" android:tag="layout/search_custom_no_content_available_0" android:background="@color/background_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/search_no_results_padding" android:src="@drawable/search_emptystate_magnifyingglass" android:tintMode="src_in" app:tint="@color/secondary_label_color" />
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center" android:layout_gravity="center" android:id="@id/search_no_content_available_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/search_no_results_padding" android:text="@string/search_no_result_title" style="@style/Title2Emphasized" />
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center" android:layout_gravity="center" android:id="@id/search_no_content_available_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_no_result_body" android:maxLines="5" style="@style/BodyShortGray" />
+</LinearLayout>
