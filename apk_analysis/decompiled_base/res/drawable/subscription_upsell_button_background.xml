@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_pressed="true" android:drawable="@drawable/subscription_upsell_button_background_pressed" />
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/corner_radius_l" />
+            <gradient android:startColor="#ff8569fd" android:endColor="#ff309cff" android:angle="0.0" />
+        </shape>
+    </item>
+</selector>
