@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/background_color_layer1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:paddingTop="?actionBarSize" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/margin_24" android:paddingEnd="@dimen/margin_24">
+        <include android:id="@id/btn_amf_profile_privacy_setup" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/button_a" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/btn_amf_profile_privacy_setup" android:layout_alignParentTop="true">
+            <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <com.apple.android.music.common.views.CustomTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" android:text="@string/amf_get_updates" style="@style/Title0Emphasized" />
+                    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <androidx.appcompat.widget.SwitchCompat android:id="@id/toggle_switch_friends" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/default_padding" android:layout_alignParentEnd="true" />
+                        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/friends_titlelayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="13.0dip" android:minHeight="@dimen/small_list_image_height" android:layout_toStartOf="@id/toggle_switch_friends" android:layout_alignParentStart="true">
+                            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/label_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/account_notifications_friends" style="@style/Body" />
+                            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/account_notifications_friends_description" style="@style/FootnoteEmphasized" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <View android:layout_alignParentTop="true" android:layout_alignStart="@id/friends_titlelayout" style="@style/Divider" />
+                    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <androidx.appcompat.widget.SwitchCompat android:id="@id/toggle_switch_artist_shows" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/default_padding" android:layout_alignParentEnd="true" />
+                        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/artist_shows_titlelayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="13.0dip" android:layout_marginBottom="13.0dip" android:minHeight="@dimen/small_list_image_height" android:layout_toStartOf="@id/toggle_switch_artist_shows" android:layout_alignParentStart="true">
+                            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/label_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/account_notifications_artists_shows" style="@style/Body" />
+                            <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/account_notifications_artists_shows_description" style="@style/FootnoteEmphasized" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <View android:layout_alignParentTop="true" android:layout_alignStart="@id/artist_shows_titlelayout" style="@style/Divider" />
+                    <com.apple.android.music.common.views.CustomTextView android:textColor="@color/secondary_label_color" android:gravity="bottom|center" android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smaller_margin_8" android:text="@string/amf_friends_notification_disclaimer" android:layout_weight="1.0" android:textDirection="anyRtl" style="@style/Caption1" />
+                </LinearLayout>
+            </ScrollView>
+            <include android:id="@id/error_view" android:visibility="gone" layout="@layout/social_onboarding_error_view" />
+        </FrameLayout>
+    </RelativeLayout>
+    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar_actionbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:theme="@style/ToolBarStyle" />
+    <com.apple.android.music.common.views.Loader android:gravity="center" android:id="@id/fuse_progress_indicator" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:backgroundColor="@color/translucent_dark_30"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</FrameLayout>
