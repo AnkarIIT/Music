@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:tag="layout/album_recordlabel_view_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.views.CustomTextView android:gravity="center" android:layout_gravity="center" android:id="@id/recordlabel_title" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="4.0dip" android:drawableEnd="@drawable/ic_asset_chevron" android:textDirection="anyRtl" style="@style/SubheadSystemPink" />
+</LinearLayout>
