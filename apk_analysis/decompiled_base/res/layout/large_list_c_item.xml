@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:tag="layout/large_list_c_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/endMargin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.apple.android.music.common.CustomImageView android:layout_gravity="center_vertical" android:tag="binding_1" android:layout_width="@dimen/small_list_image_height" android:layout_height="@dimen/small_list_image_height" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" app:circularImage="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/default_padding">
+        <View android:id="@id/divider" android:layout_width="wrap_content" style="@style/Divider" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingEnd="@dimen/endMargin">
+            <com.apple.android.music.common.views.CustomTextView android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="1.0" android:textDirection="anyRtl" android:textAlignment="viewStart" style="@style/SmallListATitleStyle" />
+            <com.apple.android.music.common.views.TintableImageView android:tag="binding_3" android:background="?selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="@color/color_primary" android:paddingStart="@dimen/default_padding" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
