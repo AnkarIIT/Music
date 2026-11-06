@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_library_base_layout" android:tag="layout/fragment_search2_view_pager_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/search_bar" layout="@layout/search_layout" />
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip">
+        <com.google.android.material.appbar.AppBarLayout android:id="@id/query_context_container" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip">
+            <LinearLayout android:orientation="vertical" android:id="@id/query_context_collapsing" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_scrollFlags="scroll|exitUntilCollapsed">
+                <include android:id="@id/query_summarization" app:layout_collapseMode="parallax" layout="@layout/query_summarization_search_layout" />
+            </LinearLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+        <include android:id="@id/results_container" layout="@layout/content_layout_search2_results" />
+        <include layout="@layout/view_loader_include" />
+        <include android:id="@id/search_custom_no_content_available" layout="@layout/search_custom_no_content_available" />
+        <include layout="@layout/search_error" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>
