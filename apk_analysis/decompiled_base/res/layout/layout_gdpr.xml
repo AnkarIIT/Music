@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:paddingTop="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/smaller_margin_4" android:src="@drawable/ic_welcome_privacy" />
+    <com.apple.android.music.common.views.CustomTextView android:textSize="10.0dip" android:textColor="@color/system_gray" android:gravity="center_horizontal" android:id="@id/gdpr_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gdpr_button_caption" style="@style/Footnote" />
+    <com.apple.android.music.common.views.CustomTextButton android:textSize="10.0dip" android:gravity="center_horizontal" android:id="@id/privacy_link" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gdpr_button_title" style="@style/FootnoteEmphasizedPink" />
+</LinearLayout>
