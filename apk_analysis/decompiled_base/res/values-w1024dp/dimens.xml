@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="header_page_h_aspect_ratio">2.3</item>
+    <item type="dimen" name="header_page_uber_ratio">3.2</item>
+    <dimen name="middleMargin">24.0dip</dimen>
+</resources>
