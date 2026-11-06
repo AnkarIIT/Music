@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root_layout" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/page_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.apple.android.music.common.views.VerticalGroupView android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_marginBottom="@dimen/default_padding" android:layout_marginStart="@dimen/endMargin">
+            <Spinner android:id="@id/presets_drop_down" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.apple.android.music.equalizer.EQView android:id="@id/equalizer_view" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/endMargin" />
+            <com.apple.android.music.settings.view.DividerView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/larger_margin" android:layout_marginBottom="@dimen/default_padding" android:layout_marginEnd="@dimen/endMargin" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/bass_boost_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="5.0">
+                <com.apple.android.music.common.views.CustomTextView android:textSize="19.0sp" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/bass_boost_txt" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/bass_boost" android:maxLines="2" android:layout_weight="1.5" style="@style/Title2" />
+                <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <com.apple.android.music.common.PlayerSeekBar android:id="@id/bass_boost" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.5" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/endMargin" app:barDrawable="@drawable/video_seekbar_progress" app:thumbColor="@color/color_primary" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/surround_sound_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="5.0">
+                <com.apple.android.music.common.views.CustomTextView android:textSize="19.0sp" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/surround_sound_txt" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/surround_sound" android:maxLines="2" android:layout_weight="1.5" style="@style/Title2" />
+                <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <com.apple.android.music.common.PlayerSeekBar android:id="@id/surround_sound" android:paddingTop="@dimen/default_padding" android:paddingBottom="@dimen/default_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.5" android:paddingStart="@dimen/default_padding" android:paddingEnd="@dimen/endMargin" app:barDrawable="@drawable/video_seekbar_progress" app:thumbColor="@color/color_primary" />
+            </LinearLayout>
+        </com.apple.android.music.common.views.VerticalGroupView>
+    </ScrollView>
+</FrameLayout>
