@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/content_layout" android:tag="layout/activity_room_new_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <eightbitlab.com.blurview.BlurTarget android:id="@id/blur_target" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/content_coordinator" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.android.material.appbar.AppBarLayout android:id="@id/app_bar_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip">
+                <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@id/collapsing_toolbar" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_scrollFlags="scroll">
+                    <include android:id="@id/page_title" app:layout_collapseMode="none" layout="@layout/simple_center_title" />
+                </com.google.android.material.appbar.CollapsingToolbarLayout>
+            </com.google.android.material.appbar.AppBarLayout>
+            <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="@id/foryou_recommendation_recyclerview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:isScrollContainer="true" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+            <include layout="@layout/view_loader_include" />
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    </eightbitlab.com.blurview.BlurTarget>
+    <androidx.compose.ui.platform.ComposeView android:layout_gravity="top" android:id="@id/floating_app_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>
